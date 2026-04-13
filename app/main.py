@@ -1,17 +1,17 @@
-from fastapi import FastAPI, Depends
-from pydantic import BaseModel
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.database.database import engine
 from app.database.models import Base
-from app.api import auth
-from app.api.auth import get_current_user
+
+from app.api import auth, chat
 
 app = FastAPI()
 
 Base.metadata.create_all(bind=engine)
 
 app.include_router(auth.router, prefix="/auth")
+app.include_router(chat.router, prefix="/ai")
 
 origins = [
     "http://localhost:5173",
@@ -24,21 +24,3 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-class ChatRequest(BaseModel):
-    message: str
-
-@app.get("/")
-def root():
-    return {"message": "Backend running"}
-
-#nomes el chat pot fer loggin
-@app.post("/chat")
-def chat(request: ChatRequest, user=Depends(get_current_user)):
-    user_message = request.message
-
-    reply = f"{user.username} diu: {user_message}"
-
-    return {
-        "reply": reply
-    }
