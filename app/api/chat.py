@@ -1,4 +1,4 @@
-from fastapi import APIRouter,
+from fastapi import APIRouter
 from pydantic import BaseModel
 
 from app.api.auth import get_current_user
