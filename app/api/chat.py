@@ -33,7 +33,6 @@ from app.services.retrieval_service import (
     build_document_response,
     find_top_document_chunks,
 )
-from app.services.translation_service import detect_input_language
 
 router = APIRouter()
 
@@ -98,11 +97,6 @@ def _send_message_to_chat(
     normalized_message = message_text.strip()
     if not normalized_message:
         raise HTTPException(status_code=400, detail="Message cannot be empty")
-    if detect_input_language(normalized_message) != "es":
-        raise HTTPException(
-            status_code=400,
-            detail="Only Spanish questions are supported right now",
-        )
 
     existing_count = count_chat_messages(db, chat.id)
     if existing_count == 0 and chat.title == DEFAULT_CHAT_TITLE:
@@ -113,7 +107,7 @@ def _send_message_to_chat(
     assistant_message = save_chat_message(db, chat, "assistant", reply)
 
     logging.info(
-        f"User={user.username} | Chat={chat.id} | Lang=es | Time={response_time:.3f}s | Question={normalized_message}"
+        f"User={user.username} | Chat={chat.id} | Time={response_time:.3f}s | Question={normalized_message}"
     )
 
     return ChatSendResponse(

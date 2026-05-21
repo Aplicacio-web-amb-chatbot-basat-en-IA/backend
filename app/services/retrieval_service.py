@@ -49,19 +49,6 @@ def detect_question_type(message: str) -> str:
         return "definition"
     if text.startswith(
         (
-            "por que ",
-            "por que mi ",
-            "por que una ",
-            "por que un ",
-            "como diagnosticar ",
-            "como depurar ",
-            "que errores son frecuentes en ",
-            "que errores son comunes en ",
-        )
-    ):
-        return "diagnostic"
-    if text.startswith(
-        (
             "que encantamientos puede tener ",
             "que encantamientos puede llevar ",
             "que encantamientos admite ",
@@ -108,29 +95,6 @@ def detect_question_type(message: str) -> str:
         )
     ):
         return "build"
-    if text.startswith(
-        (
-            "como funciona una granja ",
-            "como funciona un sistema ",
-            "como funciona una trading hall ",
-            "como funciona un trading hall ",
-            "como funciona un clasificador ",
-            "como funciona una puerta de redstone ",
-            "como funciona un super smelter ",
-            "como funciona una maquina ",
-        )
-    ):
-        return "build"
-    if text.startswith(
-        (
-            "como optimizar ",
-            "como mejorar ",
-            "como integrar ",
-            "como reducir el lag ",
-            "como ampliar ",
-        )
-    ):
-        return "optimization"
     if text.startswith(
         (
             "como se hace ",
@@ -305,22 +269,6 @@ def extract_focus_term(message: str, question_type: str) -> str:
             "como se construye ",
             "como se hace un portal ",
             "como se hace una puerta ",
-            "como funciona una granja de ",
-            "como funciona una granja ",
-            "como funciona un sistema de ",
-            "como funciona un sistema ",
-            "como funciona una trading hall de ",
-            "como funciona una trading hall ",
-            "como funciona un trading hall de ",
-            "como funciona un trading hall ",
-            "como funciona un clasificador de ",
-            "como funciona un clasificador ",
-            "como funciona una puerta de redstone ",
-            "como funciona una puerta ",
-            "como funciona un super smelter de ",
-            "como funciona un super smelter ",
-            "como funciona una maquina de ",
-            "como funciona una maquina ",
             "como hacer una granja de ",
             "como hacer una granja ",
             "como se hace una granja de ",
@@ -339,9 +287,6 @@ def extract_focus_term(message: str, question_type: str) -> str:
             "como puedo construir un ",
             "como puedo construir una ",
             "como puedo construir ",
-            "como optimizar una ",
-            "como optimizar un ",
-            "como optimizar ",
             "como disenar un ",
             "como disenar una ",
             "como disenar ",
@@ -429,31 +374,6 @@ def extract_focus_term(message: str, question_type: str) -> str:
             "como me preparo para ",
             "como prepararme para ",
             "como evito ",
-        ],
-        "diagnostic": [
-            "por que mi ",
-            "por que una ",
-            "por que un ",
-            "por que ",
-            "como diagnosticar ",
-            "como depurar ",
-            "que errores son frecuentes en ",
-            "que errores son comunes en ",
-        ],
-        "optimization": [
-            "como optimizar una ",
-            "como optimizar un ",
-            "como optimizar ",
-            "como mejorar una ",
-            "como mejorar un ",
-            "como mejorar ",
-            "como integrar una ",
-            "como integrar un ",
-            "como integrar ",
-            "como reducir el lag ",
-            "como ampliar una ",
-            "como ampliar un ",
-            "como ampliar ",
         ],
         "repair": [
             "como reparo ",
@@ -634,34 +554,6 @@ def extract_question_keywords(message: str) -> list[str]:
     return unique_keywords
 
 
-def extract_specific_focus_tokens(focus_tokens: list[str]) -> list[str]:
-    generic_tokens = {
-        "granja",
-        "granjas",
-        "farm",
-        "farming",
-        "automatica",
-        "automatico",
-        "automaticas",
-        "automaticos",
-        "sistema",
-        "sistemas",
-        "maquina",
-        "maquinas",
-        "mecanismo",
-        "mecanismos",
-        "estructura",
-        "estructuras",
-        "modulo",
-        "modulos",
-        "base",
-        "bases",
-        "item",
-        "items",
-    }
-    return [token for token in focus_tokens if token not in generic_tokens]
-
-
 def has_specific_focus_match(
     text: str,
     focus_tokens: list[str],
@@ -687,15 +579,12 @@ def find_keyword_candidates(
     limit: int = INITIAL_KEYWORD_LIMIT,
 ) -> list[tuple[DocumentChunk, float]]:
     scored_chunks = []
-    specific_focus_tokens = extract_specific_focus_tokens(focus_tokens)
 
     for chunk in chunks:
         content = normalize_text(chunk.content)
         title = normalize_text(chunk.title or "")
         source = normalize_text(chunk.source or "")
         combined_text = " ".join((content, title, source))
-        opening_text = " ".join(_split_sentences(chunk.content)[:1])
-        opening_text = normalize_text(opening_text)
         score = 0.0
 
         if focus and focus in content:
@@ -710,26 +599,6 @@ def find_keyword_candidates(
         score += count_focus_matches(source, focus_tokens) * 0.10
         score += count_focus_matches(content, question_keywords) * 0.06
         score += count_focus_matches(title, question_keywords) * 0.05
-
-        specific_content_matches = count_focus_matches(content, specific_focus_tokens)
-        specific_title_matches = count_focus_matches(title, specific_focus_tokens)
-        score += specific_content_matches * 0.16
-        score += specific_title_matches * 0.12
-
-        if (
-            question_type in {"build", "mechanic", "diagnostic", "optimization", "obtain", "requirements", "general"}
-            and specific_focus_tokens
-            and specific_content_matches == 0
-            and specific_title_matches == 0
-            and not has_specific_focus_match(source, specific_focus_tokens)
-        ):
-            score -= 0.40
-
-        if question_type in {"build", "mechanic"} and specific_focus_tokens:
-            if has_specific_focus_match(opening_text, specific_focus_tokens):
-                score += 0.18
-            else:
-                score -= 0.18
 
         if question_type == "recipe":
             is_potion_recipe = "pocion" in focus_tokens
@@ -820,10 +689,7 @@ def score_candidate(
     content = normalize_text(chunk.content)
     title = normalize_text(chunk.title or "")
     source = normalize_text(chunk.source or "")
-    opening_text = " ".join(_split_sentences(chunk.content)[:1])
-    opening_text = normalize_text(opening_text)
     score = similarity
-    specific_focus_tokens = extract_specific_focus_tokens(focus_tokens)
 
     if focus and focus in content:
         score += 0.35
@@ -835,27 +701,6 @@ def score_candidate(
 
     score += content_matches * 0.08
     score += title_matches * 0.06
-
-    specific_content_matches = count_focus_matches(content, specific_focus_tokens)
-    specific_title_matches = count_focus_matches(title, specific_focus_tokens)
-    score += specific_content_matches * 0.12
-    score += specific_title_matches * 0.09
-
-    if (
-        question_type in {"build", "mechanic", "diagnostic", "optimization", "obtain", "requirements", "general"}
-        and specific_focus_tokens
-        and specific_content_matches == 0
-        and specific_title_matches == 0
-        and not has_specific_focus_match(source, specific_focus_tokens)
-        and not (focus and focus in source)
-    ):
-        score -= 0.48
-
-    if question_type in {"build", "mechanic"} and specific_focus_tokens:
-        if has_specific_focus_match(opening_text, specific_focus_tokens):
-            score += 0.22
-        else:
-            score -= 0.22
 
     if question_type == "definition":
         if focus and focus in title:
@@ -958,19 +803,6 @@ def score_candidate(
         if any(token in ("enderman",) for token in focus_tokens):
             if any(phrase in content for phrase in ("se construye lejos", "controlar mejor el spawn", "caida", "camara de daño", "experiencia")):
                 score += 0.22
-        if any(
-            phrase in content
-            for phrase in (
-                "lo importante es",
-                "conviene",
-                "suele",
-                "detectar",
-                "sincronizar",
-                "almacenamiento",
-                "transporte",
-            )
-        ):
-            score += 0.16
 
     elif question_type == "repair":
         if any(
@@ -996,20 +828,6 @@ def score_candidate(
 
     elif question_type == "build":
         if any(phrase in content for phrase in ("se basa en", "necesita", "usa", "requiere", "tolvas", "agua", "aldeanos", "golems")):
-            score += 0.18
-        if any(
-            phrase in content
-            for phrase in (
-                "lo importante es",
-                "conviene",
-                "modulos",
-                "estabilidad",
-                "mantenimiento",
-                "almacenamiento",
-                "integrar",
-                "rendimiento",
-            )
-        ):
             score += 0.18
         if any(phrase in content for phrase in ("es un ", "sirve para", "sueltan")):
             score -= 0.08
@@ -1065,55 +883,6 @@ def score_candidate(
                 score += 0.28
             if any(phrase in content for phrase in ("ender dragon", "cristales")):
                 score -= 0.30
-
-    elif question_type == "diagnostic":
-        if any(
-            phrase in content
-            for phrase in (
-                "suele deberse",
-                "lo normal es",
-                "conviene revisar",
-                "errores comunes",
-                "errores son comunes",
-                "muchas veces",
-                "atasca",
-                "falla",
-                "entorno",
-                "punto de afk",
-                "zona prevista",
-                "spawn",
-                "almacenamiento",
-            )
-        ):
-            score += 0.30
-        if any(phrase in title for phrase in ("troubleshooting", "diagnostico", "optimizacion")):
-            score += 0.24
-        if any(phrase in source for phrase in ("troubleshooting", "diagnostico", "optimizacion")):
-            score += 0.18
-
-    elif question_type == "optimization":
-        if any(
-            phrase in content
-            for phrase in (
-                "conviene",
-                "priorizar",
-                "optimizar",
-                "mejorar",
-                "integrar",
-                "estabilidad",
-                "mantenimiento",
-                "rendimiento",
-                "almacenamiento",
-                "modulos",
-                "entorno",
-                "punto de afk",
-            )
-        ):
-            score += 0.28
-        if any(phrase in title for phrase in ("optimizacion", "diagnostico", "troubleshooting")):
-            score += 0.20
-        if any(phrase in source for phrase in ("optimizacion", "diagnostico", "troubleshooting")):
-            score += 0.14
 
     elif question_type == "purpose":
         if any(phrase in content for phrase in ("sirve para", "permite", "se usa para", "su funcion principal es", "se pueden fabricar", "imprescindible para fabricar")):
@@ -1265,9 +1034,6 @@ def score_candidate(
 
     if "mesa de crafteo" in content and question_type == "purpose":
         score += 0.12
-    if _is_question_heading_sentence(chunk.content):
-        score -= 0.38
-
     content_length = len(chunk.content)
 
     if question_type in {"definition", "recipe", "purpose", "tame", "requirements", "location", "timing", "possibility"}:
@@ -1276,7 +1042,7 @@ def score_candidate(
         elif content_length < 260:
             score += 0.04
 
-    if question_type in {"mechanic", "repair", "build", "strategy", "comparison", "combat", "best_choice", "obtain", "diagnostic", "optimization"}:
+    if question_type in {"mechanic", "repair", "build", "strategy", "comparison", "combat", "best_choice", "obtain"}:
         if content_length > 650:
             score -= 0.12
 
@@ -1296,7 +1062,6 @@ def rerank_candidates(
     analysis_message: str | None = None,
 ) -> list[tuple[DocumentChunk, float]]:
     analysis_text = analysis_message or message
-    normalized_query = normalize_text(analysis_text)
     question_type = detect_question_type(analysis_text)
     focus = extract_focus_term(analysis_text, question_type)
     focus_tokens = extract_focus_tokens(focus)
@@ -1310,38 +1075,6 @@ def rerank_candidates(
 
         score += count_focus_matches(content, question_keywords) * 0.04
         score += count_focus_matches(title, question_keywords) * 0.03
-
-        if normalized_query.startswith("como funciona "):
-            if content.startswith("como funciona "):
-                score += 0.60
-            elif content.startswith("como diagnosticar "):
-                score -= 0.22
-            elif content.startswith("que errores "):
-                score -= 0.18
-            elif content.startswith("como optimizar "):
-                score -= 0.16
-            elif content.startswith("como integrar "):
-                score -= 0.12
-            elif content.startswith("como explicar "):
-                score -= 0.08
-
-        if normalized_query.startswith("como diagnosticar "):
-            if content.startswith("como diagnosticar "):
-                score += 0.42
-            elif content.startswith("que errores "):
-                score += 0.06
-            elif content.startswith("por que "):
-                score -= 0.05
-            elif content.startswith("como optimizar "):
-                score -= 0.08
-
-        if normalized_query.startswith("como optimizar "):
-            if content.startswith("como optimizar "):
-                score += 0.40
-            elif content.startswith("como explicar "):
-                score -= 0.06
-            elif content.startswith("como diagnosticar "):
-                score -= 0.08
 
         reranked.append((chunk, score))
 
@@ -1359,32 +1092,6 @@ def select_final_chunks(
 ) -> list[tuple[DocumentChunk, float]]:
     analysis_text = analysis_message or message
     question_type = detect_question_type(analysis_text)
-    focus = extract_focus_term(analysis_text, question_type)
-    focus_tokens = extract_focus_tokens(focus)
-    specific_focus_tokens = extract_specific_focus_tokens(focus_tokens)
-
-    if specific_focus_tokens and question_type in {
-        "build",
-        "mechanic",
-        "diagnostic",
-        "optimization",
-        "obtain",
-        "requirements",
-        "general",
-    }:
-        focused_chunks = []
-        for chunk, score in reranked_chunks:
-            content = normalize_text(chunk.content)
-            title = normalize_text(chunk.title or "")
-            source = normalize_text(chunk.source or "")
-            if (
-                has_specific_focus_match(content, specific_focus_tokens)
-                or has_specific_focus_match(title, specific_focus_tokens)
-                or has_specific_focus_match(source, specific_focus_tokens)
-            ):
-                focused_chunks.append((chunk, score))
-        if focused_chunks:
-            reranked_chunks = focused_chunks
 
     if question_type == "definition":
         return reranked_chunks[:1]
@@ -1392,7 +1099,7 @@ def select_final_chunks(
     if question_type in {"recipe", "purpose", "tame", "location", "timing", "possibility", "best_choice"}:
         return reranked_chunks[:1]
 
-    if question_type in {"requirements", "mechanic", "repair", "obtain", "diagnostic", "optimization"}:
+    if question_type in {"requirements", "mechanic", "repair", "obtain"}:
         return reranked_chunks[:3]
 
     if question_type in {"build", "strategy", "combat", "general"}:
@@ -1414,7 +1121,6 @@ def find_top_document_chunks(
     chunks = db.query(DocumentChunk).filter(DocumentChunk.embedding.isnot(None)).all()
     scored_chunks = []
     analysis_text = analysis_message or message
-    normalized_analysis_text = normalize_text(analysis_text)
     question_type = detect_question_type(analysis_text)
     focus = extract_focus_term(analysis_text, question_type)
     focus_tokens = extract_focus_tokens(focus)
@@ -1440,75 +1146,6 @@ def find_top_document_chunks(
         question_type=question_type,
         limit=INITIAL_KEYWORD_LIMIT,
     )
-
-    exact_intent_candidates: list[tuple[DocumentChunk, float]] = []
-    specific_focus_tokens = extract_specific_focus_tokens(focus_tokens)
-
-    if normalized_analysis_text.startswith("como funciona ") and question_type in {"build", "mechanic"}:
-        for chunk in chunks:
-            content = normalize_text(chunk.content)
-            title = normalize_text(chunk.title or "")
-            source = normalize_text(chunk.source or "")
-            score = 0.0
-
-            if content.startswith("como funciona "):
-                score += 1.20
-            if focus and focus in content:
-                score += 0.95
-            if focus and focus in title:
-                score += 0.55
-            if specific_focus_tokens:
-                score += count_focus_matches(content, specific_focus_tokens) * 0.18
-                score += count_focus_matches(title, specific_focus_tokens) * 0.12
-            if any(content.startswith(prefix) for prefix in ("como diagnosticar ", "que errores ", "por que ", "como optimizar ")):
-                score -= 0.35
-            if score > 1.25:
-                exact_intent_candidates.append((chunk, score))
-
-    elif normalized_analysis_text.startswith("como diagnosticar ") and question_type == "diagnostic":
-        for chunk in chunks:
-            content = normalize_text(chunk.content)
-            title = normalize_text(chunk.title or "")
-            score = 0.0
-
-            if content.startswith("como diagnosticar "):
-                score += 1.10
-            if focus and focus in content:
-                score += 0.90
-            if focus and focus in title:
-                score += 0.50
-            if specific_focus_tokens:
-                score += count_focus_matches(content, specific_focus_tokens) * 0.18
-            if content.startswith("como optimizar "):
-                score -= 0.18
-            if score > 1.10:
-                exact_intent_candidates.append((chunk, score))
-
-    elif normalized_analysis_text.startswith("como optimizar ") and question_type == "optimization":
-        for chunk in chunks:
-            content = normalize_text(chunk.content)
-            title = normalize_text(chunk.title or "")
-            score = 0.0
-
-            if content.startswith("como optimizar "):
-                score += 1.10
-            if focus and focus in content:
-                score += 0.90
-            if focus and focus in title:
-                score += 0.50
-            if specific_focus_tokens:
-                score += count_focus_matches(content, specific_focus_tokens) * 0.18
-            if content.startswith("como diagnosticar "):
-                score -= 0.18
-            if score > 1.10:
-                exact_intent_candidates.append((chunk, score))
-
-    if exact_intent_candidates:
-        exact_intent_candidates.sort(key=lambda item: (item[1], -len(item[0].content)), reverse=True)
-        exact_ids = {chunk.id for chunk, _ in exact_intent_candidates[:8]}
-        keyword_candidates = exact_intent_candidates[:8] + [
-            item for item in keyword_candidates if item[0].id not in exact_ids
-        ][: max(0, INITIAL_KEYWORD_LIMIT - len(exact_ids))]
 
     if question_type == "recipe":
         exact_recipe_candidates = []
@@ -1614,8 +1251,6 @@ def _response_config(question_type: str) -> dict[str, int | bool]:
         return {"min_sentences": 2, "max_sentences": 3, "max_chars": 420, "numbered": False}
     if question_type == "tame":
         return {"min_sentences": 1, "max_sentences": 3, "max_chars": 380, "numbered": False}
-    if question_type in {"diagnostic", "optimization"}:
-        return {"min_sentences": 1, "max_sentences": 4, "max_chars": 560, "numbered": False}
     if question_type in {"requirements", "mechanic", "repair", "obtain"}:
         return {"min_sentences": 1, "max_sentences": 4, "max_chars": 520, "numbered": False}
     if question_type in {"best_choice", "comparison"}:
@@ -1626,25 +1261,10 @@ def _response_config(question_type: str) -> dict[str, int | bool]:
 
 
 def _is_question_heading_sentence(sentence: str) -> bool:
-    normalized = normalize_text(sentence).strip(" .")
-    if not normalized.startswith(QUESTION_HEADING_PREFIXES):
-        return False
-    token_count = len(re.findall(r"[a-z0-9]+", normalized))
-    return token_count <= 22
+    return False
 
 
 def _remove_question_echo_sentences(sentences: list[str], analysis_text: str) -> list[str]:
-    normalized_question = normalize_text(analysis_text).strip(" ?Â¿!.")
-    if not normalized_question:
-        return sentences
-
-    def is_echo(sentence: str) -> bool:
-        normalized_sentence = normalize_text(sentence).strip(" .")
-        return normalized_sentence == normalized_question
-
-    non_echo_sentences = [sentence for sentence in sentences if not is_echo(sentence)]
-    if non_echo_sentences:
-        return non_echo_sentences
     return sentences
 
 
@@ -1657,9 +1277,6 @@ def _score_sentence(sentence: str, question_type: str, focus_tokens: list[str]) 
 
     if question_type in {"definition", "recipe", "purpose", "obtain", "location", "build"} and focus_tokens and focus_match_count == 0:
         score -= 0.18
-    if _is_question_heading_sentence(sentence):
-        score -= 0.95
-
     if question_type == "definition":
         if any(phrase in normalized for phrase in ("es un", "es una", "es un mob", "criatura", "mob hostil", "mob neutral", "mob pasivo")):
             score += 0.45
@@ -1717,20 +1334,6 @@ def _score_sentence(sentence: str, question_type: str, focus_tokens: list[str]) 
             score += 0.34
         if any(phrase in normalized for phrase in ("para dormir", "necesitas una cama", "zona segura", "punto de respawn")):
             score += 0.18
-        if any(
-            phrase in normalized
-            for phrase in (
-                "lo importante",
-                "conviene",
-                "suele",
-                "revisar",
-                "detectar",
-                "sincronizar",
-                "almacenamiento",
-                "transporte",
-            )
-        ):
-            score += 0.18
     elif question_type == "repair":
         if any(
             phrase in normalized
@@ -1753,20 +1356,6 @@ def _score_sentence(sentence: str, question_type: str, focus_tokens: list[str]) 
     elif question_type == "build":
         if any(phrase in normalized for phrase in ("se basa en", "necesita", "usa", "tolvas", "aldeanos", "golems", "plataformas", "spawn")):
             score += 0.30
-        if any(
-            phrase in normalized
-            for phrase in (
-                "lo importante",
-                "conviene",
-                "estabilidad",
-                "mantenimiento",
-                "almacenamiento",
-                "modulos",
-                "integrar",
-                "rendimiento",
-            )
-        ):
-            score += 0.20
         if any(token in ("intercambio", "intercambios", "trade", "trades") for token in focus_tokens):
             if any(phrase in normalized for phrase in ("descuentos", "curar aldeanos zombie", "bibliotecarios", "bloque de trabajo", "primer intercambio", "ofertas")):
                 score += 0.40
@@ -1795,53 +1384,6 @@ def _score_sentence(sentence: str, question_type: str, focus_tokens: list[str]) 
                 score += 0.28
             if any(phrase in normalized for phrase in ("ender dragon", "cristales")):
                 score -= 0.30
-    elif question_type == "diagnostic":
-        if any(
-            phrase in normalized
-            for phrase in (
-                "suele deberse",
-                "lo normal es",
-                "conviene revisar",
-                "errores comunes",
-                "errores son comunes",
-                "muchas veces",
-                "porque",
-                "no basta",
-                "importa",
-                "no por falta",
-                "atasca",
-                "falla",
-                "punto de afk",
-                "spawn",
-                "almacenamiento",
-                "entorno",
-                "zona prevista",
-            )
-        ):
-            score += 0.46
-        if any(phrase in normalized for phrase in ("compensa", "lujo", "vistosa")):
-            score -= 0.12
-    elif question_type == "optimization":
-        if any(
-            phrase in normalized
-            for phrase in (
-                "conviene",
-                "priorizar",
-                "optimizar",
-                "mejorar",
-                "integrar",
-                "estabilidad",
-                "mantenimiento",
-                "rendimiento",
-                "almacenamiento",
-                "modulos",
-                "entorno",
-                "punto de afk",
-            )
-        ):
-            score += 0.42
-        if any(phrase in normalized for phrase in ("cuando compensa", "si se quiere", "si el objetivo")):
-            score += 0.18
     elif question_type == "best_choice":
         if any(phrase in normalized for phrase in ("mejor", "mejores", "depende", "opcion", "suele ser")):
             score += 0.30
@@ -1872,7 +1414,7 @@ def _is_redundant_sentence(candidate_sentence: str, selected_sentences: list[str
         if not selected_tokens:
             continue
         overlap = len(candidate_tokens & selected_tokens) / max(1, min(len(candidate_tokens), len(selected_tokens)))
-        if overlap >= 0.62:
+        if overlap >= 0.7:
             return True
 
     return False
@@ -1893,7 +1435,6 @@ def _select_response_sentences(
 
     for chunk_rank, (chunk, chunk_score) in enumerate(chunks):
         sentences = _split_sentences(chunk.content)
-        heading_first_sentence = bool(sentences and _is_question_heading_sentence(sentences[0]))
         for sentence_index, sentence in enumerate(sentences):
             normalized_sentence = normalize_text(sentence)
             if len(normalized_sentence) < 8:
@@ -1902,12 +1443,9 @@ def _select_response_sentences(
             sentence_score = _score_sentence(sentence, question_type, focus_tokens)
             sentence_score += chunk_score * 0.12
             sentence_score += max(0.0, 0.22 - chunk_rank * 0.08)
-            sentence_score -= sentence_index * 0.03
 
             if sentence_index == 0 and not _is_question_heading_sentence(sentence):
                 sentence_score += 0.12
-            if sentence_index == 1 and heading_first_sentence:
-                sentence_score += 0.30
 
             stored = seen_normalized.get(normalized_sentence)
             candidate = (sentence_score, chunk_rank, sentence_index, sentence, normalized_sentence)
@@ -1923,7 +1461,7 @@ def _select_response_sentences(
     total_chars = 0
     if question_type in {"strategy", "combat", "general"}:
         score_margin = 0.55
-    elif question_type in {"build", "obtain", "mechanic", "repair", "requirements", "diagnostic", "optimization"}:
+    elif question_type in {"build", "obtain", "mechanic", "repair", "requirements"}:
         score_margin = 0.35
     elif question_type in {"best_choice", "comparison"}:
         score_margin = 0.40
@@ -2022,23 +1560,6 @@ def _select_response_sentences(
     if question_type != "definition":
         selected.sort(key=lambda item: (item[0], item[1]))
     cleaned_sentences = [sentence for _, _, sentence in selected]
-    non_heading_sentences = [sentence for sentence in cleaned_sentences if not _is_question_heading_sentence(sentence)]
-    if non_heading_sentences:
-        cleaned_sentences = non_heading_sentences
-    else:
-        fallback_non_heading: list[str] = []
-        for _, _, _, sentence, normalized_sentence in candidates:
-            if _is_question_heading_sentence(sentence):
-                continue
-            if normalized_sentence in {normalize_text(existing_sentence) for existing_sentence in fallback_non_heading}:
-                continue
-            if _is_redundant_sentence(sentence, fallback_non_heading):
-                continue
-            fallback_non_heading.append(sentence)
-            if len(fallback_non_heading) >= min_sentences:
-                break
-        if fallback_non_heading:
-            cleaned_sentences = fallback_non_heading
     return cleaned_sentences
 
 
@@ -2060,14 +1581,11 @@ def build_document_response(
     best_chunk = chunks[0][0]
     response_sentences = _select_response_sentences(chunks, question_type, focus_tokens)
     config = _response_config(question_type)
-    response_sentences = _remove_question_echo_sentences(response_sentences, analysis_text)
 
-    if not response_sentences or all(_is_question_heading_sentence(sentence) for sentence in response_sentences):
+    if not response_sentences:
         fallback_sentences: list[str] = []
         for chunk, _ in chunks:
             for sentence in _split_sentences(chunk.content):
-                if _is_question_heading_sentence(sentence):
-                    continue
                 if _is_redundant_sentence(sentence, fallback_sentences):
                     continue
                 fallback_sentences.append(sentence)
