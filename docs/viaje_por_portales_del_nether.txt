@@ -1,0 +1,17 @@
+Un portal del Nether se construye normalmente con obsidiana en forma de marco vertical.
+
+El tamaño clasico del portal es de cuatro bloques de alto por cinco de ancho en el marco exterior.
+
+Se puede activar con mechero o con otra fuente de fuego adecuada.
+
+Viajar por el Nether permite recorrer grandes distancias de forma mucho mas eficiente que en el Overworld.
+
+Aproximadamente, un bloque recorrido en el Nether equivale a ocho bloques en el Overworld.
+
+Por ese motivo, muchos jugadores construyen redes de portales para conectar bases lejanas.
+
+El enlace entre portales puede fallar si las coordenadas no estan bien alineadas o si ya existe otro portal cercano.
+
+Construir plataformas seguras alrededor de los portales del Nether es importante para evitar lava, ghasts o caidas.
+
+Llevar bloques, un mechero de repuesto y algo de obsidiana extra puede evitar quedar atrapado en la dimension.

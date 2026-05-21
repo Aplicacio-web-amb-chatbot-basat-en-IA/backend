@@ -1,0 +1,11 @@
+La elytra permite planear y recorrer grandes distancias en juego tardio.
+
+Para mantener vuelo activo y ganar velocidad, suele combinarse con fuegos artificiales.
+
+Las membranas fantasma sirven para reparar la elytra si no se usa Mending.
+
+La elytra se obtiene normalmente en end ships dentro de end cities.
+
+Usarla bien requiere practica, altura adecuada y control de colisiones.
+
+Con elytra y cohetes, el transporte cambia radicalmente y se vuelve mucho mas rapido que caminando o usando caballos.

@@ -1,0 +1,3 @@
+Una granja de bambu suele usar observadores y pistones para romper el bambu cuando alcanza cierta altura.
+El bambu crece rapido y sirve como combustible, decoracion, andamios y apoyo para algunas cadenas de produccion automatica.
+Conviene plantar muchas cañas juntas si buscas rendimiento estable.

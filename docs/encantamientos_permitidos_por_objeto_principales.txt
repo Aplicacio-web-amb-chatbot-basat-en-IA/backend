@@ -1,0 +1,37 @@
+Una espada puede llevar encantamientos como Sharpness, Smite, Bane of Arthropods, Knockback, Fire Aspect, Looting, Sweeping Edge, Unbreaking, Mending y Curse of Vanishing. Segun el estilo de combate, unos tienen mas prioridad que otros.
+---
+Un pico puede llevar normalmente Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing. La decision mas importante suele ser elegir entre Silk Touch y Fortune porque no son la opcion habitual al mismo tiempo.
+---
+Un hacha puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing como herramienta, y ademas puede aceptar encantamientos ofensivos como Sharpness, Smite o Bane of Arthropods. Por eso el hacha puede servir tanto para recoleccion como para combate.
+---
+Una pala puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing. Es una herramienta simple, pero con encantamientos altos se vuelve muy comoda para tierra, grava, arena o nieve.
+---
+Una azada puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing. Aunque no siempre sea la primera herramienta en encantarse, puede ser util en granjas y recoleccion avanzada.
+---
+Un casco puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Respiration, Aqua Affinity, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing. Respiration y Aqua Affinity son sus dos encantamientos mas caracteristicos.
+---
+Una pechera puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing. Normalmente se prioriza Protection general o una especializacion concreta de dano.
+---
+Unos pantalones pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Swift Sneak, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing. Swift Sneak es uno de los rasgos mas distintivos de esta pieza.
+---
+Unas botas pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Feather Falling, Depth Strider, Frost Walker, Soul Speed, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing. En botas suele haber mas competencia entre encantamientos situacionales que en otras piezas.
+---
+Un arco puede llevar Power, Punch, Flame, Infinity, Unbreaking, Mending y Curse of Vanishing. Infinity y Mending no suelen ser la combinacion normal al mismo tiempo, por lo que hay que elegir segun la prioridad del jugador.
+---
+Una ballesta puede llevar Quick Charge, Multishot, Piercing, Unbreaking, Mending y Curse of Vanishing. Quick Charge suele ser de los mas prioritarios para que el arma resulte comoda.
+---
+Un tridente puede llevar Loyalty, Channeling, Riptide, Impaling, Unbreaking, Mending y Curse of Vanishing. Riptide no es la opcion normal junto con Loyalty o Channeling porque orienta el tridente hacia movilidad.
+---
+Una cana de pescar puede llevar Luck of the Sea, Lure, Unbreaking, Mending y Curse of Vanishing. Luck of the Sea y Lure son sus dos encantamientos mas representativos.
+---
+Una maza puede llevar Density, Breach, Wind Burst, Unbreaking, Mending y Curse of Vanishing. Es un arma muy especializada y sus encantamientos propios se centran en dano, penetracion y movilidad.
+---
+La Elytra puede llevar Unbreaking, Mending y Curse of Vanishing. Su combinacion mas valiosa casi siempre es Unbreaking mas Mending por el enorme impacto en durabilidad al volar.
+---
+Un escudo puede llevar Unbreaking, Mending y Curse of Vanishing. Aunque no tenga una gran lista de encantamientos, mejorar su durabilidad es muy util en combate repetido.
+---
+Las tijeras pueden llevar Efficiency, Unbreaking, Mending y Curse of Vanishing. Son herramientas sencillas, pero muy comodas con durabilidad mejorada si se usan para lana, hojas o colmenas.
+---
+El mechero o encendedor puede llevar Unbreaking, Mending y Curse of Vanishing. No necesita muchos encantamientos, pero los de durabilidad ayudan si se usa mucho en viajes, portales o granjas.
+---
+La armadura de caballo no suele tener una lista de encantamientos normal como la armadura del jugador. Por eso, cuando alguien pregunta que encantamientos puede tener una armadura de caballo, la respuesta habitual es que no se trata como una pieza de armadura encantable estandar.

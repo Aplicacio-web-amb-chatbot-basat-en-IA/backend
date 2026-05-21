@@ -1,0 +1,23 @@
+Los aldeanos pueden reproducirse si tienen suficientes camas válidas y voluntad para hacerlo.
+
+La voluntad suele depender de recibir suficiente comida o de ciertas condiciones de intercambio y vida de la aldea.
+
+Alimentos como pan, zanahorias, patatas o remolachas pueden ayudar a activar la reproducción.
+
+Debe existir al menos una cama libre accesible para el futuro bebé aldeano.
+
+Los aldeanos bebés tardan tiempo en crecer antes de poder trabajar o comerciar.
+
+La reproducción de aldeanos es importante para granjas de hierro, trading halls y expansión de aldeas.
+
+Un breeder de aldeanos suele centrarse en camas, comida y separación automática de adultos y bebés.
+
+Proteger el área de reproducción frente a zombies y mobs hostiles es esencial para mantener estable el sistema.
+
+Un breeder estable suele necesitar suministro continuo de comida y camas accesibles.
+
+Separar a los aldeanos adultos del area de destino de los bebes ayuda a controlar mejor trading halls y granjas de hierro.
+
+Sin camas libres suficientes, la reproduccion se detiene.
+
+Una mala proteccion frente a zombies puede arruinar rapidamente una granja de aldeanos.

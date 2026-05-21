@@ -1,0 +1,18 @@
+Los silverfish son enemigos pequeños y molestos que suelen relacionarse con strongholds, bloques infestados y ciertos biomas concretos.
+
+---
+
+Atacan rapido, ocupan poco espacio y pueden sorprender al jugador en exploracion subterranea si no identifica los bloques de riesgo.
+
+---
+
+En la sala del portal del End suele haber un spawner de silverfish, por lo que es buena idea controlarlo cuanto antes.
+
+---
+
+No son peligrosos por daño bruto, sino por su capacidad de interrumpir, distraer y desordenar una situacion importante.
+
+---
+
+Reconocer cuando un bloque puede estar infestado ahorra tiempo, equipo y problemas durante exploracion avanzada.
+

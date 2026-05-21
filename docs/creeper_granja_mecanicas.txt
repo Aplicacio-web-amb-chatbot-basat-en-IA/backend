@@ -1,0 +1,17 @@
+Una granja automatica de creepers busca generar creepers de forma controlada y dirigirlos a una zona de muerte o recogida.
+
+Los creepers aparecen en oscuridad suficiente como otros mobs hostiles del Overworld.
+
+Muchos disenos usan trampillas y techos de altura limitada para impedir el spawn de mobs mas altos y favorecer creepers.
+
+Los gatos se usan a menudo porque los creepers intentan evitarlos y eso ayuda a empujarlos hacia una caida.
+
+Una vez desplazados, los creepers suelen morir por dano de caida o por otro sistema de eliminacion.
+
+Las tolvas y cofres permiten recoger automaticamente la polvora.
+
+La eficiencia de una granja de creepers depende mucho de eliminar otros lugares de spawn cercanos.
+
+Iluminar cuevas y superficies oscuras en la zona activa del jugador mejora bastante el rendimiento.
+
+Estas granjas son utiles cuando se necesita mucha polvora para TNT, fuegos artificiales o pociones splash.

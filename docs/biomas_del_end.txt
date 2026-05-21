@@ -1,0 +1,15 @@
+La isla principal del End es donde aparece la Ender Dragon y el portal de salida.
+
+Las End Highlands son biomas de las islas exteriores donde pueden generarse muchas end cities.
+
+Las End Midlands conectan zonas exteriores y sirven de transición entre Highlands y otras áreas.
+
+Las Small End Islands son pequeñas islas dispersas con menos recursos y menor espacio.
+
+Las End Barrens suelen aparecer en bordes de islas y no suelen contener end cities.
+
+Los endermen aparecen en gran cantidad en casi todo el End.
+
+El bioma del End afecta sobre todo a la generación del terreno y a la posibilidad de encontrar end cities.
+
+Las islas exteriores son especialmente importantes por su relación con elytra, shulkers y botín avanzado.

@@ -1,0 +1,3 @@
+Un beacon puede funcionar con una piramide de uno a cuatro niveles hecha con bloques minerales validos.
+Con un nivel pequeno suele desbloquear efectos basicos como Speed o Haste, mientras que los niveles superiores permiten mas opciones y mayor alcance.
+La regeneracion solo se puede seleccionar en un beacon completamente mejorado.

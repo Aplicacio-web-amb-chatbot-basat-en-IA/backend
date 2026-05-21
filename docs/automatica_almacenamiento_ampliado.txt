@@ -1,0 +1,18 @@
+Un sistema de almacenamiento automatico suele combinar cofres, tolvas, comparadores, redstone y filtros individuales para cada objeto importante.
+
+---
+
+El objetivo principal es separar automaticamente recursos sin tener que ordenar todo a mano. Esto ahorra mucho tiempo en bases medianas y grandes.
+
+---
+
+Los sistemas mas simples funcionan bien para unos pocos materiales, mientras que los grandes almacenes requieren mejor planificacion del espacio y del flujo de objetos.
+
+---
+
+Los filtros deben configurarse con cuidado para evitar que un objeto incorrecto entre en el modulo equivocado o rompa la estabilidad del sistema.
+
+---
+
+Una buena organizacion del almacenamiento mejora exploracion, mineria, granjas y construccion, porque reduce mucho el tiempo perdido en gestion de inventario.
+

@@ -1,0 +1,31 @@
+Como funciona una trading hall de aldeanos. Una trading hall organiza aldeanos por profesiones para tener intercambios accesibles, repetibles y faciles de reponer. Su valor no esta solo en comerciar mas comodo, sino en transformar aldeanos en una infraestructura central de progreso.
+---
+Como se combina una trading hall con un breeder. El breeder produce nuevos aldeanos y la trading hall los recibe, clasifica y asigna profesiones segun el objetivo del jugador. Esta combinacion es una de las bases tecnicas mas potentes porque enlaza libros, herramientas, armaduras, esmeraldas y hierro.
+---
+Como se consiguen bibliotecarios utiles de forma eficiente. Lo habitual es bloquear y desbloquear la profesion con el bloque de trabajo hasta obtener el libro deseado en la primera oferta. Es un proceso repetitivo, pero muy valioso para asegurar Mending, Efficiency, Protection u otros encantamientos clave.
+---
+Como funciona una granja de reputacion o descuentos con aldeanos. Algunos sistemas buscan curar aldeanos zombie o explotar mecanicas de reputacion para abaratar intercambios. Esto puede ser muy potente, aunque exige mas infraestructura y mas control del comportamiento de aldeanos.
+---
+Como funciona una granja de esmeraldas a traves de comercio. No siempre es una granja automatica clasica, pero una buena infraestructura de aldeanos convierte cultivos, papel, palos, carne o drops de granjas en esmeraldas de forma continua. Por eso muchas bases tecnicas integran granjas de recursos con trading halls.
+---
+Como conectar cultivos automaticos con aldeanos. Los cultivos pueden alimentar breeders o servir como recurso de comercio para granjeros. Esta conexion hace que una granja de trigo, zanahorias o patatas tenga mucho mas valor estrategico del que parece a simple vista.
+---
+Como funciona una granja de hierro centrada en soporte de trading. El hierro automatico no solo da lingotes, tambien permite fabricar yunques, tolvas, herramientas y bloques necesarios para la base tecnica. Por eso una granja de hierro suele ser casi imprescindible si se quiere escalar comercio y automatizacion.
+---
+Como funciona una raid farm pensada para esmeraldas. Ademas de totems, las raid farms producen muchos objetos comerciables o directamente valiosos, y pueden disparar el suministro de esmeraldas de la base. Es una de las mejores infraestructuras si el jugador ya domina aldeanos y almacenamiento.
+---
+Como evitar problemas comunes en una trading hall. Lo importante es controlar camas, estaciones de trabajo, rutas y acceso del jugador sin mezclar aldeas accidentalmente. Si los aldeanos pierden vinculacion o se cruzan varias mecanicas, el sistema puede volverse inestable.
+---
+Como se organiza una base centrada en aldeanos. Conviene separar breeder, trading hall, hierro y, si existe, zona de curacion o descuentos. Cuanto mas ordenado este cada modulo, mas facil resulta reparar errores y ampliar la infraestructura.
+---
+Como funcionan las granjas de cultivos con aldeanos agricultores. Un aldeano agricultor planta, cosecha y puede intentar compartir comida, lo que permite disenos donde otro modulo o un sistema de recogida aprovecha ese comportamiento. Es una de las automatizaciones mas caracteristicas porque usa IA del propio juego, no solo redstone.
+---
+Como elegir que profesiones priorizar en una trading hall. Suelen ser muy importantes bibliotecarios, herreros, flecheros, granjeros y clerigos, porque cubren encantamientos, equipo, esmeraldas y materiales utiles. La prioridad exacta depende de si la base necesita mas comercio, mas equipo o mas soporte tecnico.
+---
+Como integrar una raid farm con almacenamiento automatico. Dado que una raid farm produce objetos variados, suele compensar anadir clasificadores, cofres dedicados y una gestion clara de excedentes. Si todo cae en un solo cofre sin ordenar, el valor practico de la granja baja bastante.
+---
+Como saber si una infraestructura de aldeanos ya esta madura. Se nota cuando puede reponer bibliotecarios, mantener hierro estable, generar esmeraldas y sostener equipo encantado sin depender tanto de exploracion o suerte. A partir de ahi, muchas otras granjas se vuelven mas faciles de construir y mantener.
+---
+Como priorizar aldeanos frente a otras granjas. Si el objetivo es progresion estable, comercio y acceso fiable a encantamientos, los aldeanos suelen ser de lo mejor que se puede montar en mid game. Otras granjas pueden dar mas drops concretos, pero pocas cambian tanto la economia general de la partida.
+---
+Como explicar el valor tecnico de aldeanos y raids. No se trata solo de tener intercambios o totems, sino de crear una red de sistemas conectados: cultivos para comida, breeders para poblacion, trading halls para libros y equipo, hierro para infraestructura y raids para economia avanzada. En conjunto forman una de las cadenas tecnicas mas completas del juego.

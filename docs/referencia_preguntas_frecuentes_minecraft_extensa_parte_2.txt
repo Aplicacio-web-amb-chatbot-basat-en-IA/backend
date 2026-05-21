@@ -1,0 +1,23 @@
+Como proteger una base de creepers y otros mobs hostiles. Lo mas importante es iluminar bien el exterior y el interior, evitar zonas oscuras y usar materiales resistentes en la fachada principal. Tambien ayuda poner vallas, muros, fosos simples o una puerta de hierro para que los mobs no lleguen facilmente a la entrada.
+---
+Como no perder objetos al explorar cuevas o el Nether. Conviene llevar solo el equipo necesario, guardar recursos valiosos antes de una expedicion larga y marcar el camino de vuelta con antorchas o bloques visibles. Dormir antes de salir y llevar cubo de agua, comida y bloques reduce mucho el riesgo de morir lejos de la base.
+---
+Como organizar mejor el almacenamiento al principio del juego. Una buena opcion es separar cofres por categorias como minerales, comida, bloques de construccion, redstone y objetos de exploracion. Si la base crece, se puede pasar a un sistema con barriles o clasificadores de objetos con tolvas y comparadores.
+---
+Como viajar mas rapido por Minecraft sin usar Elytra. En el Overworld funcionan bien el caballo, la barca y los raules, pero para largas distancias suele compensar construir una red de portales en el Nether. Un bloque recorrido en el Nether equivale a ocho en el Overworld, asi que los viajes bien enlazados ahorran mucho tiempo.
+---
+Como conseguir experiencia de forma estable si aun no se tiene una granja de Enderman. En juego temprano y medio sirven bastante bien los hornos con reserva de experiencia, los spawners de esqueletos o zombies y las granjas de blazes. Tambien dan buena experiencia la mineria de cuarzo en el Nether, el comercio con aldeanos y la cria o cocina de ciertos recursos.
+---
+Como proteger aldeanos dentro de una base o trading hall. Lo esencial es bloquear el acceso de zombies, iluminar las zonas donde podria aparecer un mob hostil y evitar huecos por donde los aldeanos puedan escapar. Tambien conviene separar camas, puestos de trabajo y rutas de transporte para que no se mezclen profesiones ni vinculaciones.
+---
+Como preparar una expedicion larga de mineria. Llevar varios picos, comida suficiente, antorchas, un cubo de agua, una cama y algunos cofres o barriles puede ahorrar muchos problemas. Si se espera encontrar lava o mobs, tambien es recomendable llevar escudo, bloques de construccion y espacio libre en el inventario.
+---
+Como usar mejor los mapas y la cartografia. El mapa normal sirve para registrar terreno explorado, mientras que el mapa localizador ayuda a seguir la posicion del jugador y de aliados en ciertas situaciones. La mesa de cartografia permite ampliar mapas, clonarlos o bloquear su estado para conservar una referencia fija del terreno.
+---
+Como encontrar tesoros enterrados o estructuras sin perderse. Los mapas de tesoro ayudan a localizar cofres ocultos, y los ojos de ender sirven para buscar strongholds. Para exploracion general, llevar una base de coordenadas, usar mapas y construir hitos visibles suele ser mas fiable que moverse sin referencias.
+---
+Como mejorar la seguridad de una granja o de una base abierta. Una mezcla de iluminacion, vallas, puertas y zonas de acceso controlado suele ser suficiente en supervivencia normal. En bases mas avanzadas se pueden usar trampillas, losas y alfombras para impedir spawn hostil en los lugares mas delicados.
+---
+Como conseguir comida fiable y facil en los primeros dias. Las fuentes mas simples suelen ser vacas, cerdos, pollos, ovejas, pan y pescado. En cuanto la base se estabiliza, una huerta con trigo, patatas y zanahorias suele dar una fuente de comida mucho mas consistente que depender solo de la caza.
+---
+Como planificar la progresion general de una partida survival. Lo habitual es asegurar comida, cama, herramientas de hierro y refugio, luego pasar a encantamientos, Nether y aldeanos, y despues preparar End, Elytra y automatizaciones. Este orden no es obligatorio, pero ayuda a reducir riesgo y a aprovechar mejor cada fase del juego.

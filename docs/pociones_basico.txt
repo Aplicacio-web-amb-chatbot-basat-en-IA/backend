@@ -1,0 +1,37 @@
+Las pociones se preparan en un soporte para pociones.
+
+El soporte para pociones necesita polvo de blaze como combustible de preparación.
+
+La base habitual de la mayoría de pociones útiles es la awkward potion.
+
+Para empezar a preparar pociones se usan botellas de vidrio llenas de agua.
+
+La verruga del Nether es uno de los ingredientes más importantes porque transforma botellas de agua en awkward potions.
+
+A partir de esa base, otros ingredientes añaden efectos concretos como velocidad, fuerza o visión nocturna.
+
+La redstone alarga la duración de muchas pociones.
+
+El glowstone suele aumentar la potencia de muchas pociones, pero normalmente reduce su duración.
+
+La pólvora convierte muchas pociones en splash potions que se lanzan.
+
+El aliento de dragón convierte splash potions en lingering potions, que dejan una nube de efecto.
+
+No todos los ingredientes añaden un efecto desde cero; algunos modifican una poción ya existente.
+
+Hay pociones beneficiosas, nocivas y situacionales.
+
+La alquimia es importante para combate, exploración, supervivencia en lava o agua, y movilidad.
+
+Sin acceso al Nether, la progresión de pociones queda muy limitada porque faltan blaze rods y nether wart.
+
+Las pociones más útiles para muchos jugadores son resistencia al fuego, visión nocturna, fuerza, regeneración y caída lenta.
+
+La resistencia al fuego es especialmente importante para explorar el Nether con seguridad.
+
+La visión nocturna facilita cuevas oscuras, océanos y trabajos bajo el agua.
+
+La caída lenta resulta muy valiosa en el End, montañas o construcciones elevadas.
+
+Las splash potions permiten afectar a otros jugadores o mobs sin necesidad de que beban la poción.

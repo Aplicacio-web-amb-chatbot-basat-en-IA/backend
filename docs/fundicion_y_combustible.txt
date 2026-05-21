@@ -1,0 +1,43 @@
+Fundir es el proceso de transformar materias primas o ciertos bloques en productos refinados usando un horno o un alto horno.
+
+Cocinar comida usa el horno o el ahumador y también consume combustible.
+
+Cuando un objeto se funde o cocina correctamente, el jugador recibe experiencia al recoger el resultado.
+
+El horno tiene tres espacios: entrada, combustible y salida.
+
+El alto horno es más rápido para minerales y equipo metálico, pero no sirve para alimentos.
+
+El ahumador es más rápido para comida, pero no para minerales.
+
+Combustibles habituales son carbón, carbón vegetal, madera procesada, troncos, tablones, palos, lava en cubo y bloques combustibles específicos.
+
+Un cubo de lava es un combustible muy eficiente, pero no todos los jugadores lo usan al principio por su coste logístico.
+
+El carbón y el carbón vegetal son combustibles comunes y fáciles de conseguir en supervivencia temprana.
+
+La madera y sus derivados pueden usarse como combustible, aunque suelen ser menos eficientes que el carbón.
+
+Minerales como hierro, oro o cobre suelen requerir fundición antes de convertirse en lingotes utilizables.
+
+La comida cruda como carne, pescado o patatas puede cocinarse para mejorar su utilidad alimenticia o evitar efectos negativos de algunos alimentos.
+
+No todos los bloques o materiales pueden fundirse; solo funcionan los que tienen receta de horno, alto horno o ahumador.
+
+Elegir el tipo de estación correcto mejora mucho la velocidad de producción.
+
+El hierro en bruto se funde para obtener lingotes de hierro, que sirven para cubos, tijeras, escudos, raíles y muchas herramientas.
+
+El oro en bruto se funde para obtener lingotes de oro, útiles en powered rails, objetos dorados, trueque con piglins y recetas especiales.
+
+El cobre en bruto se funde para obtener lingotes de cobre usados en construcción, catalejos y pararrayos.
+
+La arena se funde para fabricar cristal, que luego sirve para ventanas, botellas y faroles.
+
+Los troncos pueden convertirse en carbón vegetal fundiéndolos con otro combustible, lo que ayuda si aún no se ha encontrado carbón mineral.
+
+Las patatas crudas pueden cocinarse para obtener patatas asadas, una opción de comida simple y útil al inicio.
+
+El pollo, la ternera, el cerdo y el cordero mejoran claramente al cocinarse.
+
+Los hornos almacenan experiencia interna hasta que el jugador retira el resultado, algo útil en algunas estrategias de experiencia.

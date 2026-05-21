@@ -1,0 +1,3 @@
+Los honey blocks son utiles para redstone y movimiento porque reducen deslizamiento y pueden arrastrar entidades junto con pistones.
+Se usan en ascensores, puertas especiales y algunas maquinas compactas.
+Se obtienen a partir de botellas de miel, por lo que conviene tener acceso estable a abejas.

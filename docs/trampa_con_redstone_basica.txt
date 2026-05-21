@@ -1,0 +1,3 @@
+Una trampa con redstone puede construirse usando una entrada oculta, una señal de activacion y un mecanismo como pistones, TNT, flechas de dispensador o puertas trampa.
+Lo importante es que el disparador active la redstone en el momento adecuado, por ejemplo con placa de presion, tripwire, boton oculto u observador.
+Una trampa simple de redstone suele combinar disparador, cableado y efecto final, y conviene probar bien el circuito para no dañar tu propia base ni quedarte sin salida.

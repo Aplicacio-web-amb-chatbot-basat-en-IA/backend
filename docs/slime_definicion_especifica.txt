@@ -1,0 +1,4 @@
+Un slime es un mob hostil gelatinoso que aparece en ciertos chunks del Overworld y en pantanos bajo condiciones adecuadas.
+Los slimes se dividen en tamaños menores al morir y sueltan bolas de slime.
+Las bolas de slime son utiles para pistones pegajosos y otros mecanismos.
+

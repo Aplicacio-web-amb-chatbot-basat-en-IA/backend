@@ -1,0 +1,17 @@
+Por que una granja de hierro no genera golems aunque tiene aldeanos y camas. Tener aldeanos y camas no basta por si solo, porque tambien importa el punto de spawn del golem, la validez de la aldea y la condicion concreta que dispara el comportamiento del diseno. Muchas veces el fallo no esta en la estructura visible, sino en una condicion interna que el jugador no ve a simple vista.
+---
+Como diagnosticar una granja de hierro paso a paso. Lo normal es revisar si los aldeanos reconocen bien sus camas, si el sistema de panico o deteccion de amenaza esta funcionando y si existe alguna zona alternativa donde los golems puedan aparecer. Si un golem spawnea fuera del area prevista, la granja puede parecer rota aunque en realidad este funcionando mal orientada.
+---
+Que errores son frecuentes en una granja de hierro. Son comunes las camas mal vinculadas, aldeanos descolocados, mobs de amenaza mal sincronizados y plataformas de spawn con bloques o agua en posiciones incorrectas. Tambien falla mucho cuando la granja esta demasiado cerca de otra aldea o de estructuras con las que comparte mecanicas.
+---
+Como optimizar una granja de hierro para supervivencia normal. Lo importante no es solo maximizar el numero teorico de golems, sino mantener un sistema estable, accesible y facil de reparar. Una granja algo mas simple pero fiable suele ser mejor que un diseno muy ajustado que se rompe al mover un aldeano o al cambiar un bloque sin querer.
+---
+Como se mejora la recogida en una granja de hierro. Conviene que los golems sean empujados rapido a lava, caida o camara de muerte y que los lingotes y amapolas lleguen enseguida a tolvas o corrientes de agua. Si la recogida es lenta, los drops pueden acumularse y hacer que el mantenimiento sea mas incomodo.
+---
+Como evitar spawns alternativos en una granja de hierro. Hay que revisar el entorno inmediato y bloquear cualquier superficie valida donde el golem pueda aparecer fuera de la zona prevista. Este punto es clave, porque una granja de hierro puede parecer que no produce cuando en realidad los golems estan saliendo en lugares que el jugador no esta viendo.
+---
+Cuando compensa ampliar una granja de hierro. Si el hierro ya cubre yunques, tolvas, bloques y herramientas que usa la base, ampliar por ampliar puede no compensar. En cambio, si el sistema de almacenamiento se vacia rapido o el proyecto depende mucho de redstone, aumentar capacidad suele tener bastante sentido.
+---
+Como integrar una granja de hierro con una base tecnica. El hierro es uno de los recursos mas utiles del juego tecnico porque alimenta tolvas, yunques, railes, herramientas y bloques estructurales. Por eso una buena granja de hierro suele actuar como infraestructura base para casi cualquier expansion del proyecto.
+---
+Como explicar tecnicamente una granja de hierro. Lo mas claro es separarla en modulo de aldeanos, condicion de activacion, plataforma de spawn, camara de muerte y almacenamiento. Esa division ayuda a demostrar que no es solo una caja con aldeanos, sino un sistema que aprovecha varias mecanicas del juego.

@@ -1,0 +1,40 @@
+La mesa de crafteo es esencial porque permite usar una cuadricula de tres por tres.
+La espada de hierro se fabrica con dos lingotes de hierro y un palo.
+Los lingotes van en vertical y el palo debajo.
+La espada de diamante se fabrica con dos diamantes y un palo.
+La antorcha se fabrica con un palo y un carbon o carbon vegetal.
+Colocar el carbon encima del palo produce varias antorchas.
+La cama se fabrica con tres bloques de lana y tres tablones.
+La mesa de encantamientos se fabrica con obsidiana, diamantes y un libro.
+El horno se fabrica con ocho bloques de piedra o piedra labrada segun receta base correspondiente.
+El cofre se fabrica con ocho tablones.
+El barril usa tablones y slabs.
+El escudo se fabrica con tablones y un lingote de hierro.
+El cubo se fabrica con tres lingotes de hierro.
+Las tijeras se fabrican con dos lingotes de hierro.
+La caña de pescar se fabrica con palos y cuerda.
+El arco se fabrica con palos y cuerda.
+La ballesta requiere palo, hierro, cuerda y gancho de disparo.
+El yunque se fabrica con bloques de hierro e lingotes de hierro.
+La tolva se fabrica con cofres e hierro.
+El comparador usa cuarzo del Nether, redstone y antorchas de redstone.
+El repetidor usa redstone, piedra y antorchas de redstone.
+El piston usa madera, piedra, hierro y redstone.
+El piston pegajoso añade una bola de slime al piston normal.
+El observador usa cuarzo, piedra roja y piedra.
+El dispensador usa arco, redstone y piedra.
+El dropper se parece al dispensador pero no usa arco.
+El soporte de pociones usa vara de blaze y piedra.
+La mesa de cartografia usa papel y tablones.
+La cama solo sirve para dormir con seguridad en el Overworld.
+En Nether y End la cama explota.
+La ancla de respawn solo sirve en el Nether.
+La elytra no se fabrica y se consigue en barcos del End.
+Las cajas de shulker se fabrican con un cofre y dos caparazones de shulker.
+El ender chest se fabrica con obsidiana y un ojo de ender.
+Los ojos de ender se fabrican con perla de ender y polvo de blaze.
+Las antorchas no requieren mesa de crafteo.
+Las puertas de hierro necesitan redstone para abrirse.
+Las puertas de madera pueden abrirse a mano.
+La mesa de herreria permite mejorar equipo a netherita usando plantilla adecuada.
+Las recetas exactas son muy importantes para preguntas de crafteo.

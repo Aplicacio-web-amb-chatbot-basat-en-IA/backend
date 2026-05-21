@@ -1,0 +1,15 @@
+Muchos mobs hostiles normales aparecen en oscuridad suficiente sobre bloques válidos.
+
+La iluminación reduce o impide el spawn de numerosos mobs hostiles en el Overworld.
+
+Los mobs no suelen aparecer demasiado cerca del jugador ni demasiado lejos en comparación con el área activa de simulación.
+
+El tipo de bloque y el espacio disponible influyen en si un mob puede generarse.
+
+Algunos mobs requieren condiciones especiales de bioma, estructura, altura o dimensión.
+
+Los mobs acuáticos necesitan agua y reglas distintas a las de mobs terrestres.
+
+Los mobs del Nether y del End obedecen reglas propias de esas dimensiones además de las generales.
+
+Conocer las reglas de aparición es esencial para prevenir spawns o para diseñar granjas eficientes.

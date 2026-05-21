@@ -1,0 +1,3 @@
+Los goat horns son objetos de sonido que se obtienen cuando una cabra embiste ciertos bloques duros y deja caer el cuerno.
+Cada cuerno tiene un sonido concreto y puede usarse como señal, decoracion o elemento de rol en servidores y mundos cooperativos.
+Las cabras se encuentran sobre todo en biomas de montana.

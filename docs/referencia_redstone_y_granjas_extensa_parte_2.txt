@@ -1,0 +1,75 @@
+Un sistema de transporte de items puede usar corrientes de agua, tolvas o vagonetas con tolva.
+Los elevadores de agua mueven items hacia arriba con soulsand o magma segun el efecto buscado.
+Un bubble elevator con soulsand impulsa entidades y items hacia arriba.
+El magma tira hacia abajo y sirve para recogida o trampas.
+Las puertas automaticas de redstone pueden ser simples o complejas.
+Una puerta de hierro necesita señal de redstone para abrirse.
+Una puerta normal de madera no necesita redstone porque puede abrirse a mano.
+Las placas de presion son una entrada simple para puertas automaticas.
+Los botones y palancas son otras entradas comunes.
+Los sensores sculk pueden servir como activadores situacionales.
+Las puertas de pistones permiten abrir huecos de bloques.
+Una puerta de dos por dos usa pistones pegajosos y sincronizacion.
+Una puerta de tres por tres o mayor aumenta mucho la complejidad.
+Los relojes de redstone generan pulsos repetitivos.
+Los relojes deben usarse con cuidado para no saturar mecanismos.
+Los dispensadores lanzan o usan objetos de forma automatica.
+Los droppers solo expulsan items.
+Los dispensadores pueden colocar agua, lava, tijeras, botellas y muchos otros objetos.
+Los observadores con pistones son la base de muchisimas granjas modernas.
+La prioridad de actualizacion puede importar en algunos circuitos.
+Los chunk borders y chunk loading influyen en granjas de largo alcance.
+Una granja puede romperse si parte queda descargada mientras otra sigue activa.
+El almacenamiento final debe dimensionarse al rendimiento esperado de la granja.
+Los overflow y los items acumulados pueden generar lag y perdidas.
+Los clasificadores necesitan espacio para mantenimiento y expansion.
+Una sala de cofres bien ordenada ahorra tiempo cotidiano.
+Las etiquetas ayudan a no perder objetos importantes.
+Las cajas de shulker facilitan almacenamiento portable.
+Un sistema de descarga de shulkers puede acelerar mucho el ordenado masivo.
+Las granjas de arboles van desde manuales hasta completamente automatizadas.
+Las completamente automaticas suelen ser mas complicadas y especificas de tipo de arbol.
+La TNT duping existe en algunos diseños tecnicos pero puede no ser deseable en todos los proyectos.
+Una granja de piedra o basalto puede proporcionar bloques de construccion renovables.
+El basalto se genera con lava, soul soil y blue ice en la combinacion correcta.
+El cobblestone generator clasico usa agua y lava colocadas de forma segura.
+La obsidiana no se genera igual que el cobblestone.
+Un portal del Nether puede servir en algunas granjas de mobs para mover entidades de dimension.
+Las granjas de oro en el Nether suelen usar pigmen zombificados y mecanicas de agro.
+La altura de construccion en el Nether puede afectar el rendimiento.
+Spawnproofing en losas, botones, alfombras o antorchas depende del bloque y del mob objetivo.
+No todos los bloques invalidan spawn del mismo modo en todas las situaciones.
+Las hojas se usan mucho para impedir spawn y para pathfinding especifico.
+Las trampillas se usan para manipular hitbox y percepcion de mobs.
+Los signos y las vallas ayudan a contener agua y lava.
+El vidrio puede servir como superficie no spawneable en algunos diseños.
+Los bloques transparentes y las slabs tienen usos muy distintos segun el circuito o granja.
+Una granja eficiente no solo depende del diseño, sino tambien del entorno.
+Si la superficie y las cuevas cercanas no estan iluminadas, el cap de mobs se reparte mal.
+Si el jugador se coloca demasiado cerca, muchos mobs no apareceran.
+Si se coloca demasiado lejos, la granja puede quedar descargada.
+Las granjas AFK funcionan mejor con posicion de jugador fija y conocida.
+Un gran error comun es copiar un diseño sin adaptarlo a la version del juego.
+Cambios de version pueden alterar spawning, redstone o comportamiento de aldeanos.
+Tambien es comun olvidar acceso de mantenimiento y luego sufrir reparaciones dificiles.
+Las palancas maestras ayudan a apagar sistemas cuando no se necesitan.
+Los sistemas de overflow y basuras ayudan a manejar items no deseados.
+La automatizacion completa no siempre es necesaria.
+A veces un sistema semiautomatico es mas barato y suficientemente util.
+Las granjas deben evaluarse por coste, rendimiento y mantenimiento.
+Una granja muy rapida pero fragil puede ser peor que una mas lenta y estable.
+Las pruebas de funcionamiento antes de decorar ahorran mucho trabajo.
+La decoracion posterior no deberia bloquear acceso a tolvas, cofres o mecanismos criticos.
+La redstone compacta es potente pero mas dificil de depurar.
+Los circuitos mas claros ayudan mucho al aprendizaje y mantenimiento.
+El uso de nombres de objetos correctos en filtros reduce errores de clasificacion.
+Los comparadores tambien sirven para detectar estado de hornos, compostadores y otros bloques.
+Los relojes pueden hacerse con repetidores, observadores o hoppers.
+Un reloj de hoppers es util para temporizadores largos.
+Las vagonetas con tolva recogen items mas rapido que tolvas normales en algunos contextos.
+Un sistema de minecarts puede distribuir items entre hornos o cofres en linea.
+Los portales del Nether pueden integrarse con sistemas de viaje o granjas.
+Las granjas de experiencia se eligen segun progreso y recursos disponibles.
+La redstone no solo sirve para eficiencia, tambien para comodidad.
+Una base con puertas, luces, hornos y almacenamiento automatizado se siente mucho mas fluida.
+Un sistema automatico estable suele ser mejor que uno teoricamente mas rapido pero propenso a atascarse.

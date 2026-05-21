@@ -1,0 +1,3 @@
+Una granja de slime suele hacerse localizando un slime chunk y vaciando varias plataformas grandes en profundidad.
+Despues se iluminan las cuevas cercanas y se usa algun sistema de golems, caidas o magma para mover y matar slimes con mas eficiencia.
+Tambien se pueden hacer granjas de slime en pantanos, aunque normalmente son menos estables que en un slime chunk bien preparado.

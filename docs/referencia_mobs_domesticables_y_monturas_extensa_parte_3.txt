@@ -1,0 +1,19 @@
+El lobo se domestica con huesos y, una vez domesticado, puede seguir al jugador, sentarse y ayudar en combate. Es una mascota util pero vulnerable a lava, caidas y grandes grupos de enemigos.
+---
+El gato se domestica con pescado crudo y ayuda a mantener lejos a creepers y phantoms en muchas situaciones. Ademas, aporta utilidad decorativa y presencia en la base.
+---
+El caballo se domestica montandolo varias veces hasta que aparecen corazones. Una vez domesticado, puede llevar silla y armadura de caballo y es una de las mejores monturas terrestres.
+---
+El burro se domestica como un caballo, pero destaca por poder llevar cofre. Es una montura y animal de carga muy practico para exploracion terrestre temprana o media.
+---
+La mula se obtiene cruzando caballo y burro y tambien se domestica montandola varias veces. Puede llevar cofre y silla, pero no armadura de caballo.
+---
+La llama se domestica montandola varias veces, aunque no se controla con silla como un caballo. Su principal valor esta en el transporte de objetos mediante cofres y caravanas.
+---
+El camello no funciona con un proceso clasico de domesticacion como lobo o caballo, sino mas como montura utilizable con silla. Destaca por su doble asiento, su altura y su dash.
+---
+El loro se domestica con semillas y puede posarse sobre el hombro del jugador. Imita sonidos de mobs cercanos y aporta utilidad de alerta y decoracion.
+---
+El caballo esqueleto no se domestica como un caballo normal desde estado salvaje comun, sino que aparece en eventos especiales y puede convertirse en montura. Su interes es raro y muy ligado a tormentas o jinetes esqueleticos.
+---
+El caballo zombi existe en el juego, pero no es una montura habitual en supervivencia normal como un caballo estandar. Su relevancia esta mas en comandos o apariciones especiales que en progresion normal.

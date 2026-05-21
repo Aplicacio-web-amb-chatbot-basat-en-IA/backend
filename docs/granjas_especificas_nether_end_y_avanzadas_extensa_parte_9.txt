@@ -1,0 +1,35 @@
+Como funciona una granja de cuarzo a traves de bartering. Aunque el cuarzo se mina directamente, una parte del suministro puede venir de intercambios con piglins si ya existe una gold farm potente. Esto permite convertir oro renovable en cuarzo sin depender tanto del minado manual del Nether.
+---
+Como funciona una granja de perlas del End sin depender solo de loot manual. Lo mas comun es aprovechar una granja de enderman, ya que estos sueltan perlas y experiencia en grandes cantidades. Por eso una buena enderman farm suele cubrir al mismo tiempo movilidad, progresion y XP.
+---
+Como funciona una granja de coral o recursos oceanicos. No siempre es una granja completamente automatica, pero pueden montarse sistemas para recolectar coral, algas o bloques marinos con mas comodidad. Suelen ser utiles para decoracion, construcciones acuaticas y almacenamiento de recursos especiales.
+---
+Como funciona una granja de guardianes orientada a prismarina. La estructura del ocean monument condiciona el spawn, asi que el diseno busca canalizar guardianes hacia una zona de muerte o remate. El interes principal es obtener prismarina, cristales de prismarina y experiencia.
+---
+Como se mejora una granja de guardianes. Conviene controlar bien la zona de agua, reducir interferencias, optimizar la caida o muerte de los guardianes y dejar almacenamiento amplio. Es una granja muy potente, pero requiere bastante preparacion y limpieza del entorno.
+---
+Como funciona una granja de shulkers para shells. Estas granjas intentan mantener shulkers en un espacio controlado y automatizar el proceso de eliminacion o reproduccion segun la version y el diseno. Su valor tecnico es muy alto porque las shulker shells son importantes para almacenamiento avanzado.
+---
+Como funciona una granja de ghasts. Son granjas avanzadas que explotan condiciones concretas de spawn en el Nether y mecanismos de transporte grandes. Se usan para obtener lagrimas de ghast y, en algunos casos, polvora si el sistema es mixto.
+---
+Como funciona una granja de striders o recursos asociados. No es una granja tan comun como otras, pero puede plantearse si interesa cuero o interaccion con el Nether. Aun asi, suele tener menos prioridad que hoglins, piglins o blazes.
+---
+Como funciona una granja de experience basada en oro. Las gold farms dan mucho oro, pero tambien una cantidad muy alta de experiencia si el diseno deja al jugador intervenir en la fase final. Por eso suelen competir con las granjas de enderman como opcion fuerte de XP avanzada.
+---
+Como funciona una granja de wither basada en bedrock o espacio controlado. Algunos sistemas no automatizan la invocacion completa, pero si el confinamiento y la muerte del Wither para facilitar estrellas del Nether. Son granjas o mecanismos muy avanzados y dependen mucho de la version y de detalles del entorno.
+---
+Como funciona una granja de froglights bien conectada a otras granjas del Nether. Lo interesante es que puede encadenarse con sistemas de magma cubes y transporte de ranas, creando una produccion automatizada de bloques de luz decorativos. Es una granja mas de lujo que de supervivencia basica, pero muy vistosa.
+---
+Como funciona una granja de raid para totems. El objetivo principal de muchas raid farms es automatizar la obtencion de totems de inmortalidad, ademas de esmeraldas y otros drops. Por eso es una granja muy valorada en late game, cuando el jugador quiere seguridad y comercio abundante.
+---
+Como se integra una raid farm con trading y almacenamiento. Las esmeraldas y objetos obtenidos pueden alimentar una zona de aldeanos, clasificadores y almacen central, haciendo que la granja no solo genere drops sino tambien economia interna para la base. Cuanto mejor se integra, mas rentable se vuelve.
+---
+Como funciona una granja del End pensada solo para XP. Si el objetivo no son tanto las perlas sino la experiencia, el diseno puede priorizar la velocidad de spawn, agrupacion y remate de enderman. Esto convierte la granja en una herramienta directa para reparar equipo con Mending y mantener herramientas activas.
+---
+Como decidir entre gold farm y enderman farm para experiencia. La granja de enderman suele ser muy directa y simple como fuente de XP, mientras que la gold farm puede aportar ademas oro y acceso a bartering. Si el jugador quiere polivalencia, la gold farm gana valor; si quiere simplicidad, la enderman farm suele ser excelente.
+---
+Como preparar el equipamiento antes de construir granjas avanzadas del Nether o End. Conviene llevar proteccion, caidas reducidas, buena comida, bloques de construccion, resistencia al fuego si hace falta y herramientas fiables. Muchas granjas avanzadas fallan mas por preparacion insuficiente que por el diseno en si.
+---
+Como afecta el entorno a las granjas avanzadas. En el Nether importan mucho el biome, el espacio libre y los spawns cercanos, mientras que en el End importa la distancia a otras superficies y la seguridad del jugador al construir. Elegir mal el lugar puede complicar innecesariamente un sistema que en teoria era bueno.
+---
+Como decidir que granja avanzada construir primero. Si se necesita XP y perlas, enderman es muy buena eleccion. Si se quiere oro, cuarzo y bartering, conviene una gold farm. Si se busca prismarina o totems, guardianes y raids ofrecen recursos muy valiosos pero exigen mas preparacion.

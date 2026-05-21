@@ -1,0 +1,11 @@
+Los aldeanos comparten informacion social interna mediante un sistema de gossip.
+
+Ese sistema influye en la reputacion del jugador dentro de la aldea.
+
+Ayudar a la aldea o curar aldeanos zombis puede mejorar precios y percepcion.
+
+Dañar aldeanos o causar problemas puede empeorar precios y provocar reacciones negativas.
+
+La popularidad y la reputacion no son exactamente lo mismo que el comercio directo, pero afectan su resultado.
+
+Este sistema explica por que algunos descuentos o penalizaciones no dependen solo de un trade concreto.

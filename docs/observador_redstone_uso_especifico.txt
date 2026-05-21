@@ -1,0 +1,3 @@
+Un observador de redstone detecta cambios en el bloque que esta mirando y emite un pulso corto de redstone.
+Sirve para automatizar granjas, activar pistones, detectar crecimiento de cultivos y disparar mecanismos cuando un bloque cambia de estado.
+Es especialmente util cuando quieres convertir un cambio automatico del mundo en una señal de redstone.

@@ -1,0 +1,4 @@
+Un sistema automatico de clasificacion con redstone suele construirse con una linea de tolvas, comparadores, antorchas de redstone y cofres de salida.
+Cada modulo filtro se configura para un objeto concreto, de manera que solo deje pasar ese item hacia su cofre correspondiente.
+Para que sea estable, conviene usar items de relleno y comprobar bien la señal del comparador en cada modulo.
+

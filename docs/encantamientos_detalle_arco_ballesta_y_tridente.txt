@@ -1,0 +1,21 @@
+Power aumenta el dano del arco y es la mejora ofensiva principal para disparos normales. Suele ser la base de un buen arco de combate.
+---
+Punch aumenta el retroceso que provoca una flecha del arco. Puede servir para mantener distancia con enemigos, aunque no siempre es tan prioritario como Power o Unbreaking.
+---
+Flame prende fuego a la flecha disparada por un arco y al objetivo impactado. Aporta dano adicional con el tiempo y puede cocinar ciertos animales al morir.
+---
+Infinity permite disparar infinitas flechas normales mientras se tenga al menos una en el inventario. Es muy comodo para exploracion y combate largo, aunque normalmente no se combina con Mending.
+---
+Quick Charge reduce el tiempo de recarga de la ballesta. Es uno de los encantamientos mas utiles de este arma porque mejora mucho su ritmo y comodidad de disparo.
+---
+Multishot hace que la ballesta dispare varios proyectiles a la vez en abanico. Es vistoso y util contra grupos o con fuegos artificiales, pero compite normalmente con Piercing.
+---
+Piercing permite que el proyectil de ballesta atraviese varias entidades alineadas. Suele ser una opcion muy buena cuando se busca eficiencia y versatilidad en la ballesta.
+---
+Loyalty hace que el tridente vuelva al jugador despues de lanzarlo. Es uno de los encantamientos mas comodos para uso general del tridente.
+---
+Channeling hace que un tridente invoque un rayo al impactar durante una tormenta y en condiciones adecuadas. Su uso es muy situacional, pero puede servir para creepers cargados y efectos especiales.
+---
+Riptide impulsa al jugador al lanzar el tridente en agua o lluvia. Convierte el tridente en una potente herramienta de movilidad, pero no es la opcion normal junto con Loyalty o Channeling.
+---
+Impaling aumenta el dano del tridente contra ciertos objetivos acuaticos o relacionados con el agua segun la version. Destaca sobre todo en combate marino o contra mobs concretos.

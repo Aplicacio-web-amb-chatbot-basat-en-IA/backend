@@ -1,0 +1,39 @@
+El zombie es uno de los mobs hostiles mas basicos del Overworld. Persigue al jugador en oscuridad, puede quemarse de dia y suelta carne podrida, hierro o equipamiento en casos concretos.
+---
+El zombie aldeano es una variante hostil que puede curarse para volver a ser aldeano normal. Tiene mucha importancia en descuentos de comercio y en progresion de aldeanos.
+---
+El esqueleto es un hostil a distancia que usa arco y suelta huesos, flechas y a veces arco. Es uno de los peligros mas constantes en juego temprano por su capacidad de atacar desde lejos.
+---
+El bogged es una variante esqueletica reciente asociada a entornos concretos y ataques con efecto. Conviene tratarlo como una variante especializada del esqueleto con matices propios de drop o bioma.
+---
+El stray es una variante helada del esqueleto que dispara flechas con lentitud. Aparece en biomas frios y representa una amenaza especialmente molesta por el control de movimiento que aplica.
+---
+El husk es una variante desertica del zombie que puede aplicar hambre. No se quema igual de facil al sol y aparece en biomas de desierto.
+---
+El drowned es una variante acuatica de zombie y puede usar tridente en ciertos casos. Es importante por su relacion con tridentes y exploracion submarina.
+---
+El creeper es un hostil iconico que explota cerca del jugador. Es especialmente peligroso en bases y entradas porque destruye bloques si la explosion afecta al entorno.
+---
+La witch es un hostil que usa pociones y suelta ingredientes valiosos como redstone, glowstone, polvo, botellas o azucar segun el drop. Puede ser peligrosa por veneno, lentitud y daño combinado.
+---
+El pillager es un hostil con ballesta asociado a patrullas, outposts y raids. Suelta a veces estandartes y se relaciona con el inicio de incursiones.
+---
+El vindicator es un hostil cuerpo a cuerpo muy danino, habitual en mansiones y raids. Suele ser mucho mas peligroso de cerca de lo que parece a simple vista.
+---
+El evoker es un hostil de magia que invoca vexes y puede soltar totem de inmortalidad. Es uno de los enemigos mas importantes de raids y woodland mansions.
+---
+El vex es una criatura pequeña invocada por evokers que atraviesa bloques y resulta molesta por su movilidad. Puede causar mucho dano si no se elimina rapido.
+---
+El ravager es una bestia pesada de raids que causa gran dano y rompe la linea visual de combate. En incursiones avanzadas puede ser uno de los enemigos mas duros del Overworld.
+---
+La endermite es un pequeno hostil relacionado con perlas de ender. No aparece de forma tan comun como otros mobs, pero es importante en granjas de enderman y ciertas mecanicas.
+---
+El silverfish es un pequeno hostil ligado a bloques infestados y strongholds. Es molesto por su tamaño y por invocar o liberar mas infestados si se rompe el bloque equivocado.
+---
+La cave spider es una variante de araña mas pequeña y venenosa. Es especialmente peligrosa en minas abandonadas por espacios estrechos y acumulacion.
+---
+El phantom es un hostil volador que aparece si el jugador pasa mucho tiempo sin dormir. Es una presion de supervivencia ligada al ciclo de sueño y suelta membranas utiles.
+---
+El slime aparece en ciertos chunks o pantanos y se divide en tamaños menores al recibir dano. Es importante por las bolas de slime y por las granjas asociadas.
+---
+El breeze es un hostil reciente relacionado con camaras de prueba y cargas de viento. Destaca por ataques de aire y mecanicas propias distintas a los hostiles clasicos del Overworld.

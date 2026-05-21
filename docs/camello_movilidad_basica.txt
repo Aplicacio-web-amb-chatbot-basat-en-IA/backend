@@ -1,0 +1,3 @@
+El camello es una montura util para explorar zonas abiertas del desierto y moverse con dos jugadores a la vez.
+Puede dar un pequeno dash hacia delante y, por su altura, evita algunos ataques de mobs bajos en determinadas situaciones.
+Normalmente se encuentra en aldeas del desierto.

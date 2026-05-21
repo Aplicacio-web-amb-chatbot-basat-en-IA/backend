@@ -1,0 +1,17 @@
+El sistema de spawning de mobs depende de factores como luz, tipo de bloque, distancia al jugador, bioma, dimension y limites globales.
+
+En Minecraft moderno, muchos mobs hostiles del Overworld requieren nivel de luz 0 para aparecer.
+
+Los mobs pasivos tienen reglas distintas y suelen depender de hierba, espacio y condiciones de generacion del mundo.
+
+No todos los mobs pueden aparecer en cualquier bloque o en cualquier dimension.
+
+La distancia al jugador influye porque los mobs no aparecen demasiado cerca y tampoco se procesan igual a cualquier distancia.
+
+Tambien existe un limite de mobs activos que puede afectar el ritmo de aparicion.
+
+Por eso, para mejorar granjas hostiles, conviene reducir otros puntos validos de spawn alrededor del jugador.
+
+Las cuevas, superficies oscuras y plataformas mal iluminadas compiten por el mismo limite de mobs hostiles.
+
+Entender el spawning es clave para evitar mobs en la base o para optimizar granjas automáticas.

@@ -1,0 +1,1 @@
+Un hacha puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing como herramienta, y tambien Sharpness, Smite o Bane of Arthropods como arma. Por eso el hacha tiene una lista de encantamientos mas flexible que otras herramientas.

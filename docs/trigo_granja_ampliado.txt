@@ -1,0 +1,18 @@
+Una granja de trigo basica necesita tierra, agua, una azada y semillas. El agua hidrata la tierra cercana y ayuda a que el cultivo se mantenga estable.
+
+---
+
+El trigo tarda tiempo en crecer, por lo que conviene plantar bastante superficie si quieres una fuente continua de pan o de cria para ciertos animales.
+
+---
+
+La luz ayuda a que la granja siga siendo util por la noche y evita la aparicion de mobs en sus alrededores. Las vallas tambien pueden ser utiles para protegerla.
+
+---
+
+El trigo no solo sirve para pan. Tambien es muy importante para criar vacas y ovejas, asi que una granja de trigo puede apoyar varias cadenas de recursos.
+
+---
+
+En una granja simple, recoger cuando el trigo esta completamente maduro y volver a plantar enseguida mantiene la produccion estable desde fases tempranas.
+

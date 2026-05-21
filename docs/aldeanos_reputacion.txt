@@ -1,0 +1,15 @@
+La reputación del jugador en una aldea influye en cómo reaccionan algunos aldeanos y golems.
+
+Ayudar a una aldea o curar aldeanos zombis puede mejorar relaciones y generar descuentos.
+
+Dañar aldeanos, causar problemas en la aldea o comportarse de forma hostil puede empeorar la reputación.
+
+Una mala reputación puede aumentar precios o provocar reacciones menos favorables.
+
+Los iron golems pueden volverse agresivos contra jugadores con reputación muy negativa.
+
+Las mecánicas exactas incluyen intercambio de gossip entre aldeanos, por lo que la información sobre el jugador puede propagarse.
+
+La reputación no solo depende de una acción aislada, sino del historial reciente del jugador con la aldea.
+
+Las curaciones de aldeanos zombis son una de las formas más conocidas de conseguir descuentos importantes.

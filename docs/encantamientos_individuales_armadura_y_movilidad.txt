@@ -1,0 +1,23 @@
+Protection reduce una amplia variedad de dano y suele ser el encantamiento defensivo mas general para armadura. Es una opcion muy segura cuando no se busca resistir un riesgo muy concreto.
+---
+Fire Protection reduce especialmente el dano de fuego, lava y algunas fuentes relacionadas. Es util sobre todo en el Nether o en situaciones donde el mayor peligro es quemarse.
+---
+Blast Protection reduce el dano de explosiones, como las de creepers, TNT o camas en dimensiones peligrosas. Suele ser mas situacional que Protection general, pero puede tener mucho valor en contextos concretos.
+---
+Projectile Protection reduce el dano de proyectiles como flechas, tridentes o bolas disparadas por ciertos enemigos. Es una proteccion especializada y normalmente se elige solo si el principal riesgo viene de ataques a distancia.
+---
+Respiration aumenta el tiempo que se puede respirar bajo el agua y ayuda mucho en exploracion submarina. Se aplica al casco y se combina muy bien con Aqua Affinity o con pociones de respiracion acuática.
+---
+Aqua Affinity acelera la velocidad de minado bajo el agua al eliminar gran parte de la penalizacion habitual. Es especialmente util para monumentos oceanicos, bases submarinas o trabajos de construccion en el oceano.
+---
+Thorns devuelve parte del dano a los atacantes cuando golpean al jugador o a la entidad que lleva la armadura. Puede ser util, pero tambien acelera el desgaste del equipo si se recibe mucho dano.
+---
+Depth Strider mejora mucho el movimiento bajo el agua y hace la exploracion marina mas comoda. Se aplica a botas y no se usa a la vez con Frost Walker como combinacion normal.
+---
+Feather Falling reduce el dano por caida y es uno de los encantamientos mas practicos de las botas. Evita muchas muertes en cuevas, montanas, End y exploracion vertical.
+---
+Frost Walker convierte temporalmente el agua en hielo al caminar sobre ella. Sirve para cruzar rios y oceanos pequenos sin barco, pero no suele combinarse con Depth Strider como opcion principal de botas.
+---
+Soul Speed aumenta la velocidad sobre arena de almas y tierra de almas. Tiene un enfoque casi exclusivo en el Nether y se valora sobre todo en rutas o zonas extensas de ese terreno.
+---
+Swift Sneak aumenta la velocidad al ir agachado y se aplica a pantalones. Es muy util en construccion de precision, exploracion de ancient cities y movimientos controlados en bordes o zonas peligrosas.

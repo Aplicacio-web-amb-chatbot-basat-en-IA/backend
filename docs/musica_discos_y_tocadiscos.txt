@@ -1,0 +1,7 @@
+Los music discs son objetos coleccionables que pueden reproducirse en un jukebox.
+
+Algunos se consiguen en cofres y otros de formas mas especiales, como ciertos drops relacionados con creepers y skeletons.
+
+El jukebox se fabrica con tablones y un diamante.
+
+Aunque no cambian la progresion, son parte importante de la ambientacion y coleccion del juego.

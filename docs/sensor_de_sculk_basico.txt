@@ -1,0 +1,3 @@
+El sculk sensor detecta vibraciones producidas por pasos, proyectiles, cofres, bloques y muchas otras acciones cercanas.
+Es muy util para automatizaciones basadas en movimiento o eventos, aunque puede activarse con ruido no deseado si no se aísla bien.
+Se puede usar junto a wool para bloquear vibraciones en sistemas mas controlados.

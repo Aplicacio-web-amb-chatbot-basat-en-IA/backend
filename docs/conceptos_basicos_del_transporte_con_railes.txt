@@ -1,0 +1,18 @@
+Los railes permiten crear rutas fijas de transporte para jugadores, aldeanos, cofres con minecart y otros sistemas automatizados.
+
+---
+
+Los railes propulsores necesitan energia de redstone para funcionar bien y son los que permiten mantener velocidad en trayectos largos.
+
+---
+
+Aunque requieren hierro y oro, los railes son muy utiles cuando quieres mover aldeanos, conectar bases o automatizar transporte en interiores.
+
+---
+
+Los minecarts con cofre ayudan a mover objetos, mientras que los minecarts con tolva tienen aplicaciones concretas en granjas y recogida.
+
+---
+
+No siempre son la opcion mas barata, pero en ciertos proyectos son mas comodos y fiables que mover todo manualmente.
+

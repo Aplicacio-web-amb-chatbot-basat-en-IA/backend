@@ -1,0 +1,111 @@
+La supervivencia temprana empieza consiguiendo madera lo antes posible.
+Con madera se fabrican tablones, palos, herramientas basicas y una mesa de crafteo.
+El siguiente objetivo habitual es conseguir piedra para mejorar las herramientas iniciales.
+Un pico de piedra permite minar hierro mas rapido que un pico de madera.
+El hacha de piedra acelera mucho la recoleccion de madera.
+La espada de piedra es una mejora util si aun no hay hierro disponible.
+Conseguir comida estable al principio evita perder tiempo por hambre.
+Los animales pasivos suelen ser la primera fuente de comida para muchos jugadores.
+Las vacas aportan carne y cuero.
+Los pollos aportan pollo y plumas.
+Los cerdos aportan chuletas.
+Las ovejas aportan lana y cordero.
+La lana es importante para fabricar una cama.
+Dormir en una cama permite saltar la noche y fijar el punto de respawn.
+Una cama explota en el Nether y en el End si se intenta usar para dormir.
+Una cama segura en el Overworld ayuda a reducir el castigo por morir.
+La mesa de crafteo desbloquea recetas de tres por tres.
+Sin mesa de crafteo no se pueden fabricar muchas herramientas y bloques importantes.
+El horno permite cocinar comida y fundir minerales.
+El carbon es un combustible comun y eficaz.
+El carbon vegetal se consigue cocinando troncos y sirve igual que el carbon en muchas recetas.
+Las antorchas se fabrican con un palo y un carbon o carbon vegetal.
+Iluminar la base reduce el spawn de mobs hostiles.
+Las cuevas oscuras siguen siendo peligrosas incluso con armadura temprana.
+El hierro es uno de los recursos mas importantes del inicio y del juego medio.
+Con hierro se pueden fabricar cubos, armaduras, herramientas, escudo, tijeras y mecanismos.
+Un cubo de agua es una de las herramientas mas utiles del juego.
+El agua ayuda a bajar montanas con seguridad.
+El agua apaga fuego y lava superficial.
+El agua frena caidas si se coloca bien.
+El agua ayuda a subir por paredes con un ascensor improvisado.
+Un cubo de lava sirve como combustible duradero.
+La lava tambien puede ser peligrosa en minas y cuevas.
+Llevar un cubo de agua al explorar cuevas es una practica muy recomendable.
+El escudo es una de las mejores defensas del juego temprano.
+El escudo bloquea ataques cuerpo a cuerpo y muchos proyectiles.
+Los esqueletos son mucho menos peligrosos cuando se usa bien el escudo.
+La armadura de hierro suele ser la primera armadura seria de supervivencia.
+La armadura completa de hierro da un gran salto de seguridad.
+La armadura de diamante mejora aun mas la defensa y la durabilidad.
+La netherita mejora la resistencia al empuje y la durabilidad respecto al diamante.
+El oro tiene poca durabilidad como armadura y herramientas.
+Las herramientas de oro son rapidas pero se rompen con facilidad.
+Las herramientas de diamante suelen reservarse para avances importantes.
+Una piqueta de hierro es necesaria para extraer diamantes.
+Los diamantes aparecen sobre todo en capas profundas del mundo.
+En versiones modernas una zona muy comun para buscar diamantes es alrededor de Y -58 o Y -59.
+Explorar cuevas profundas puede dar mas recursos que tuneles largos si se hace con cuidado.
+El lapislazuli es necesario para usar la mesa de encantamientos.
+La obsidiana se obtiene al contacto entre agua y bloque fuente de lava.
+Para recoger obsidiana hace falta pico de diamante o netherita.
+La mesa de encantamientos se fabrica con obsidiana, diamantes y un libro.
+Las estanterias alrededor de la mesa mejoran los encantamientos disponibles.
+La experiencia se usa para encantar y para trabajos de yunque.
+La experiencia se consigue minando, matando mobs, comerciando y fundiendo objetos.
+El yunque permite reparar, renombrar y combinar encantamientos.
+Cada uso del yunque puede aumentar el coste futuro de un objeto.
+Mending es uno de los mejores encantamientos del juego.
+Un aldeano bibliotecario es una de las formas mas fiables de conseguir libros encantados utiles.
+El comercio con aldeanos puede ser una fuente fuerte de progresion.
+Las aldeas suelen ser excelentes puntos de inicio.
+Las aldeas pueden aportar camas, comida, cultivos y aldeanos utiles.
+Proteger una aldea de zombies es importante si se quiere usar a largo plazo.
+La reputacion y los descuentos influyen en algunos precios de aldeanos.
+Curar a un aldeano zombie puede dar descuentos muy grandes.
+Heroe de la aldea da descuentos temporales tras ganar una incursion.
+La cria de aldeanos permite ampliar una granja de hierro o un trading hall.
+Para criar aldeanos hacen falta camas disponibles y comida suficiente.
+Las zanahorias, patatas, pan y remolachas pueden servir para la cria de aldeanos.
+Una granja de hierro moderna suele usar aldeanos y un zombie para provocar golems.
+Los golems de hierro aparecen cuando se cumplen ciertas condiciones de miedo y descanso de aldeanos.
+Los golems pueden empujarse con agua hacia lava o daño de caida.
+Las tolvas recogen automaticamente lingotes de hierro y amapolas.
+Las granjas automaticas ahorran mucho tiempo en recursos repetitivos.
+Una granja de trigo basica necesita tierra labrada, agua y semillas.
+El agua hidrata la tierra a varios bloques de distancia.
+La luz suficiente permite que los cultivos crezcan tambien de noche.
+El trigo sirve para pan, cria de vacas y ovejas, y comercio con algunos aldeanos.
+Las zanahorias y patatas son cultivos muy comodos para comida estable.
+Las patatas cocinadas son una comida eficiente y facil.
+Las zanahorias doradas son una de las mejores comidas generales del juego.
+Los melones y calabazas son utiles para comercio y granjas automaticas.
+La cana de azucar sirve para papel y cohetes si se combina con polvora.
+El bambu puede servir como combustible automatico o para andamios.
+El andamio facilita mucho la construccion vertical.
+La miel puede reducir daño por caida de algunas formas y ayuda en redstone.
+Los panales sirven para velas, colmenas y bloques de nido artificial.
+Las abejas polinizan cultivos cercanos y ayudan a crecer algunos campos.
+Las bayas dulces sirven como comida de emergencia y como defensa con arbustos.
+Las algas se pueden secar y usar como comida o combustible si se compactan.
+La pesca puede ser una fuente secundaria de comida y objetos.
+Una fogata cocina varios alimentos sin consumir combustible adicional una vez encendida.
+Los hornos funden un objeto cada vez.
+Los altos hornos funden minerales y armaduras mas rapido.
+Los ahumadores cocinan comida mas rapido.
+El compostador convierte material organico en harina de hueso.
+La harina de hueso acelera el crecimiento de muchos cultivos.
+Los esqueletos sueltan huesos, muy utiles para agricultura temprana.
+Los creepers sueltan polvora, necesaria para TNT y cohetes.
+Los slimes sueltan bolas de slime utiles para pistones pegajosos.
+Los endermen sueltan perlas de ender, clave para strongholds y portales.
+Los blaze sueltan blaze rods, necesarias para polvo de blaze y soporte de pociones.
+Las verrugas del Nether son esenciales para la mayoria de pociones.
+Las pociones mejoran mucho exploracion y combate si se preparan bien.
+Resistencia al fuego es excelente para Nether y minas con lava.
+Vision nocturna mejora cuevas, oceanos y espacios oscuros.
+Curacion instantanea ayuda en combates intensos.
+Fuerza mejora daño cuerpo a cuerpo.
+Rapidez facilita movimiento y algunas rutas de combate.
+Caida lenta ayuda contra caidas y algunas peleas con el Ender Dragon.
+Respiracion acuatica sirve para explorar oceanos y monumentos.

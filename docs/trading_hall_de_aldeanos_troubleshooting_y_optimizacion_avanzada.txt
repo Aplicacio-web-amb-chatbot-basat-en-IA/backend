@@ -1,0 +1,15 @@
+Por que una trading hall puede dejar de ser estable. Lo normal es que haya problemas de vinculacion con camas o bloques de trabajo, aldeanos mal posicionados o mezcla accidental con otras aldeas cercanas. Cuando eso pasa, el sistema sigue teniendo aldeanos, pero pierde orden tecnico y deja de ser predecible.
+---
+Como diagnosticar una trading hall. Conviene revisar si cada aldeano reconoce su bloque de trabajo, si el acceso del jugador es comodo y si el modulo de breeder o de descuentos no esta interfiriendo con la zona principal. La trading hall no es solo un conjunto de aldeanos: es una infraestructura que debe mantener relaciones estables.
+---
+Que errores son frecuentes en una trading hall. Son comunes los aldeanos que pierden profesion util, bloques de trabajo mal asignados, pasillos demasiado estrechos y sistemas de transporte que no dejan reponer poblacion con facilidad. Tambien es frecuente no reservar espacio para ampliaciones y obligar a rehacer medio sistema mas adelante.
+---
+Como optimizar una trading hall para libros encantados. Lo normal es priorizar bibliotecarios bien organizados, acceso rapido del jugador y un metodo comodo para reemplazar ofertas cuando no interesan. Si el objetivo es conseguir encantamientos concretos, la ergonomia del sistema importa casi tanto como el numero de aldeanos.
+---
+Como optimizar una trading hall para economia general. Si la base usa mucho comercio, conviene combinar bibliotecarios con granjeros, flecheros, clerigos y otros aldeanos utiles. Asi la trading hall deja de ser solo una fuente de libros y pasa a ser un centro economico para esmeraldas, equipo y materiales.
+---
+Como integrar una trading hall con otras granjas. Se conecta muy bien con breeders, granjas de cultivos, granjas de hierro y, en fases mas avanzadas, con raid farms o descuentos por curacion. Cuanto mejor integrada esta, mas clara resulta la utilidad global de la infraestructura.
+---
+Cuando compensa ampliar una trading hall. Si ya se tienen los encantamientos clave y el comercio basico cubre las necesidades de la base, ampliar demasiado puede no compensar. Pero si faltan profesiones utiles o la economia interna se queda corta, una ampliacion ordenada puede dar mucho valor.
+---
+Como explicar tecnicamente una trading hall. Conviene separarla en obtencion de aldeanos, asignacion de profesiones, acceso del jugador, estabilidad de vinculaciones y conexion con otras granjas. Esa explicacion permite presentarla como una pieza tecnica central y no solo como una fila de NPCs encerrados.

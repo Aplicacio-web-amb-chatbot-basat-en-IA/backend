@@ -1,0 +1,7 @@
+El bambu crece rapidamente y es un recurso util para combustible, decoracion y algunas granjas.
+
+El andamio se fabrica con bambu y cuerda.
+
+El andamio es extremadamente util para construccion vertical porque permite subir y bajar con facilidad.
+
+Tambien puede retirarse rapidamente desde abajo, lo que lo hace practico en proyectos grandes.

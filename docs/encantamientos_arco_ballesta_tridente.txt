@@ -1,0 +1,29 @@
+Power aumenta el daño de las flechas disparadas con arco.
+
+Punch aumenta el retroceso que causa un arco al impactar.
+
+Flame prende fuego a los objetivos golpeados por flechas de arco.
+
+Infinity permite disparar flechas usando una sola flecha normal en el inventario, aunque no funciona con flechas especiales.
+
+Mending e Infinity no se pueden combinar normalmente en el mismo arco.
+
+Quick Charge reduce el tiempo de recarga de la ballesta.
+
+Multishot hace que la ballesta dispare tres proyectiles a la vez, aunque normalmente solo consume uno.
+
+Piercing permite que los proyectiles de la ballesta atraviesen varios objetivos o ciertos escudos y entidades.
+
+Multishot y Piercing son incompatibles entre sí en una misma ballesta.
+
+Unbreaking y Mending son muy útiles en arcos, ballestas y tridentes porque reducen reparaciones frecuentes.
+
+Loyalty hace que el tridente vuelva al jugador después de ser lanzado, siempre que pueda regresar.
+
+Channeling invoca un rayo al impactar con un tridente durante tormenta y en condiciones válidas.
+
+Riptide impulsa al jugador al lanzar el tridente en agua o lluvia, pero es incompatible con Loyalty y Channeling.
+
+Impaling aumenta el daño del tridente contra ciertos objetivos acuáticos o relacionados según las reglas de Java Edition.
+
+Los tridentes son versátiles porque pueden servir como arma cuerpo a cuerpo, arma lanzable y herramienta de movilidad con Riptide.

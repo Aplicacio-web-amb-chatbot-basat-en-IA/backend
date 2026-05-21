@@ -1,0 +1,3 @@
+El allay es una criatura util que recoge objetos cercanos del mismo tipo que el item que le entregas.
+Puede ayudarte a automatizar recogida simple en granjas o zonas de drop si se combina con blocs de notas y sistemas de almacenamiento.
+Suele encontrarse encerrado en outposts de saqueadores o mansiones del bosque.

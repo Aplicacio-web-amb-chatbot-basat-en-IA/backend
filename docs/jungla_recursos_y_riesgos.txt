@@ -1,0 +1,9 @@
+Las junglas son biomas densos con gran vegetacion y visibilidad reducida.
+
+Su recurso mas caracteristico es el cacao, ademas de bambu en variantes adecuadas.
+
+Tambien pueden contener templos de la jungla con botin y mecanismos de flechas.
+
+Moverse por jungla puede ser mas lento y confuso que en llanuras o bosques.
+
+Son biomas utiles para recursos concretos, pero menos comodos para bases iniciales si se busca simplicidad.

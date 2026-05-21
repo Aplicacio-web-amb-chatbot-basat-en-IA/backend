@@ -1,0 +1,37 @@
+El Overworld contiene muchos biomas con clima, vegetación, mobs y recursos distintos.
+
+Los bosques son biomas cómodos para empezar por su abundancia de madera y animales.
+
+Las llanuras facilitan construir, encontrar aldeas y ver mobs a distancia.
+
+Los desiertos tienen poca madera natural, pero pueden contener aldeas y templos del desierto.
+
+Las taigas ofrecen abetos, zorros, lobos y a veces aldeas de taiga.
+
+Las junglas tienen bambú, cacao y vegetación densa, pero pueden ser difíciles para orientarse.
+
+Los pantanos generan barro, lirios de agua y slimes en condiciones adecuadas.
+
+Las montañas y zonas elevadas son importantes para ciertos minerales, cabras y exploración vertical.
+
+Los océanos permiten encontrar monumentos oceánicos, ruinas y naufragios.
+
+Los ríos facilitan desplazamiento y pesca, pero no sustituyen a biomas completos en recursos.
+
+Los biomas nevados introducen hielo, nieve y algunas condiciones ambientales distintas.
+
+Los badlands son valiosos por su gran cantidad de terracota y vetas expuestas de oro.
+
+Los mushroom fields son muy raros y especiales porque allí no aparecen mobs hostiles comunes de la noche.
+
+Cada bioma puede influir en generación de estructuras, color del entorno, mobs disponibles y facilidad de supervivencia.
+
+Conocer biomas ayuda a responder preguntas sobre dónde encontrar recursos, animales o estructuras.
+
+Las llanuras son una de las mejores zonas para empezar por visibilidad, animales y aldeas potenciales.
+
+Las montañas son muy útiles para encontrar esmeraldas y obtener buenas vistas, aunque pueden ser más peligrosas por caídas.
+
+Las junglas destacan por bambú, cacao y vegetación densa, pero pueden dificultar la orientación.
+
+Los océanos son importantes para hallar naufragios, ruinas y monumentos, además de facilitar ciertos desplazamientos.

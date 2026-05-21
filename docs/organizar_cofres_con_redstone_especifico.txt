@@ -1,0 +1,3 @@
+Para organizar automaticamente cofres con redstone, lo normal es usar un clasificador de objetos con una linea de tolvas, comparadores, antorchas de redstone y cofres de salida.
+Cada modulo se configura para un objeto concreto, de manera que solo ese item pase a su cofre correspondiente mientras el resto sigue avanzando por la linea.
+Para que el sistema sea estable, conviene usar items de relleno, comprobar bien la señal del comparador y dejar acceso de mantenimiento a tolvas y cofres.

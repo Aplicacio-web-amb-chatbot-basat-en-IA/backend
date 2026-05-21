@@ -1,0 +1,15 @@
+La mesa de crafteo es uno de los bloques mas importantes de Minecraft Vanilla.
+
+Su funcion principal es ampliar la cuadrícula de crafteo desde 2x2 en el inventario a una cuadrícula de 3x3.
+
+Gracias a la mesa de crafteo se pueden fabricar la mayoria de herramientas, armas, cofres, hornos, camas y componentes de progresion.
+
+Sin una mesa de crafteo no se pueden fabricar muchos objetos basicos del juego.
+
+Se fabrica con cuatro tablones de madera colocados en forma de cuadrado.
+
+Es uno de los primeros bloques que conviene crear al iniciar una partida de supervivencia.
+
+Muchos objetos importantes como picos, espadas, cubos, escudos y mecanismos de redstone dependen de recetas de 3x3.
+
+Tener una mesa de crafteo cerca de la base y llevar otra en exploracion suele ahorrar mucho tiempo.

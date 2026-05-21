@@ -1,0 +1,3 @@
+Para una espada, los mejores encantamientos generales suelen ser Sharpness, Looting, Unbreaking y Mending.
+Fire Aspect puede ser muy util para dano extra y comida cocinada, y Sweeping Edge es muy bueno en Java Edition para grupos de mobs.
+Smite o Bane of Arthropods solo convienen en casos concretos, porque son mas situacionales que Sharpness.

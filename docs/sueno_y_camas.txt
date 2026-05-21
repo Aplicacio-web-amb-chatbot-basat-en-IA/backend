@@ -1,0 +1,23 @@
+Dormir en Minecraft normalmente requiere una cama colocada en una zona segura del Overworld.
+
+Para fabricar una cama se necesitan tres bloques de lana y tres tablones de madera.
+
+Una cama se puede usar haciendo clic derecho sobre ella durante la noche o durante una tormenta.
+
+Dormir hace que la noche avance rapidamente hasta la manana si se cumplen las condiciones normales.
+
+Al dormir, la cama establece el punto de reaparicion del jugador, siempre que la cama siga existiendo y sea valida.
+
+No se puede dormir si hay mobs hostiles demasiado cerca de la cama.
+
+No se puede dormir libremente durante el dia salvo en situaciones concretas como tormenta.
+
+Las camas explotan si se intentan usar para dormir en el Nether o en el End.
+
+Por ese motivo, en Nether y End una cama no sirve para descansar y puede convertirse en una trampa explosiva.
+
+Llevar una cama en exploraciones del Overworld es muy util para fijar punto de respawn y evitar phantoms.
+
+Si una cama se destruye o queda bloqueada, el jugador reaparece en otro punto valido, normalmente el spawn global del mundo.
+
+Dormir es una mecanica clave para supervivencia temprana porque evita parte del riesgo nocturno y ahorra tiempo.

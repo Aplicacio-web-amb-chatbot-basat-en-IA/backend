@@ -1,0 +1,7 @@
+La hoguera permite cocinar alimentos sin combustible continuo una vez colocada.
+
+Tambien produce humo visible, util para señalizacion y algunas interacciones con abejas.
+
+Es una estacion muy util al principio del juego si el jugador aun no tiene automatizacion o mucho carbon.
+
+Una hoguera colocada bajo una colmena ayuda a calmar a las abejas al recoger miel o panales.

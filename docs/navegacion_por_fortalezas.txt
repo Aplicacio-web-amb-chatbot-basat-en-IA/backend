@@ -1,0 +1,18 @@
+Las strongholds son estructuras subterraneas grandes y algo laberinticas. Suelen contener biblioteca, celdas, pasillos y la sala del portal del End.
+
+---
+
+Al explorarlas conviene llevar antorchas, comida, bloques y ojos de ender. Marcar caminos o cerrar rutas ya vistas ayuda a no perderse.
+
+---
+
+La sala del portal contiene un spawner de silverfish. Destruirlo o controlarlo pronto hace mucho mas segura la preparacion del salto al End.
+
+---
+
+No todas las habitaciones tienen el mismo valor. Las bibliotecas pueden dar libros, papel y decoracion, pero el objetivo principal suele ser localizar la sala del portal.
+
+---
+
+Llegar bien preparado a la stronghold evita perder recursos justo antes de una de las fases mas importantes de la partida.
+

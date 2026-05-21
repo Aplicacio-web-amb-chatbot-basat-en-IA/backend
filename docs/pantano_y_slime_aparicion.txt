@@ -1,0 +1,7 @@
+Los pantanos son importantes por sus lirios, barro y por ser uno de los lugares donde pueden aparecer slimes bajo condiciones concretas.
+
+Las witches y cabañas de bruja tambien se asocian al pantano.
+
+El spawn de slimes en pantano depende de oscuridad, espacio y otros factores como la fase lunar.
+
+Este biome puede ser util si el jugador busca recursos para granjas de slime sin localizar un slime chunk.

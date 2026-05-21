@@ -1,0 +1,9 @@
+El ender chest comparte inventario entre todos los ender chests del mismo jugador.
+
+Esto lo convierte en una herramienta excelente para transporte seguro de objetos valiosos.
+
+Si se rompe sin Silk Touch, normalmente no devuelve el propio bloque de forma util para recolocarlo igual.
+
+Combinar ender chests con shulker boxes mejora mucho la logistica de juego tardio.
+
+Es especialmente util en exploracion larga, mineria profunda o proyectos grandes.

@@ -1,0 +1,17 @@
+No todas las estructuras del Overworld tienen el mismo valor en cada fase de la partida. Al principio, aldeas, minas abandonadas y ruinas sencillas pueden ser mas utiles que estructuras muy peligrosas.
+
+---
+
+Las aldeas aportan camas, comida, aldeanos y bloques funcionales. Las minas abandonadas pueden dar cuerda, railes y acceso a cuevas profundas.
+
+---
+
+Las mansiones del bosque, ciudades antiguas o monumentos oceanicos suelen requerir mejor equipo y una preparacion mayor antes de ser realmente rentables.
+
+---
+
+Elegir bien que estructuras explorar segun tu progreso ahorra muertes y optimiza recursos, especialmente en supervivencia normal.
+
+---
+
+La prioridad correcta depende de si buscas comida, comercio, materiales, progreso al End o recursos raros concretos.

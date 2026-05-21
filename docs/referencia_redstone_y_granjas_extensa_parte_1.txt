@@ -1,0 +1,87 @@
+La redstone permite automatizar tareas, transporte y aperturas de puertas.
+Una señal de redstone puede activarse con palancas, botones, placas de presion y sensores.
+El polvo de redstone transmite señal a lo largo del suelo y algunos bloques.
+Los repetidores extienden señal y añaden retraso.
+Los comparadores leen estados de contenedores y de algunos bloques especiales.
+Las antorchas de redstone actuan como fuente de energia y como inversor logico.
+Los pistones empujan bloques y entidades en muchos diseños.
+Los pistones pegajosos pueden arrastrar bloques de vuelta.
+Los observadores detectan cambios y generan pulsos muy utiles.
+Las tolvas mueven objetos entre contenedores automaticamente.
+Los cofres almacenan objetos y se combinan en cofres grandes.
+Los barriles son otra opcion de almacenamiento con apertura mas sencilla en algunos diseños.
+Un sistema automatico de clasificacion de objetos suele usar tolvas, comparadores y antorchas.
+Cada modulo filtro se ajusta a un item objetivo.
+Los items de relleno ayudan a mantener estable el filtro.
+Los comparadores detectan la cantidad en la tolva filtro.
+Cuando entra el item correcto, la señal desbloquea temporalmente la salida.
+El item baja al contenedor correcto.
+Los items no filtrados siguen hacia el final de la linea.
+Un buen clasificador necesita margenes para evitar atasco por items apilables raros.
+Los items no apilables requieren tratamientos especiales o lineas aparte.
+Los hornos automaticos suelen usar una entrada, una linea de combustible y una salida.
+Las tolvas alimentan el horno y recogen el resultado.
+Un array de hornos acelera la fundicion masiva.
+Los altos hornos mejoran fundicion de minerales y piezas metalicas.
+Los ahumadores mejoran coccion de comida.
+Un sistema de compostaje automatico puede convertir sobrantes en harina de hueso.
+Las granjas de cana de azucar suelen usar observadores y pistones.
+Cuando la cana crece a cierta altura, el observador detecta el cambio.
+El piston rompe la cana superior y deja la base para regrowth.
+Las granjas de bambu siguen una logica parecida.
+El bambu es muy util como combustible y para andamios.
+Las granjas de kelp pueden aportar combustible si se seca y compacta.
+Una granja de trigo automatica completa es menos trivial porque replantar requiere aldeanos o intervencion.
+Las granjas semiautomaticas de trigo suelen limitarse a cosecha rapida con agua.
+Las granjas de patatas y zanahorias con aldeanos son muy practicas.
+Los aldeanos granjeros recogen y replantan cultivos.
+Las tolvas bajo tierra o vagonetas con tolva permiten recoger parte de la cosecha.
+Las granjas de calabaza y melon son de las mas faciles de automatizar.
+El tallo madura y al lado aparece el fruto.
+Un observador puede detectar el tallo maduro o el cambio del fruto.
+Un piston rompe el melon o calabaza y las tolvas recogen.
+Las granjas de miel usan colmenas, abejas y dispensadores con botellas o tijeras.
+Los comparadores pueden leer el nivel de miel de una colmena.
+Cuando la colmena llega al nivel adecuado, un dispensador recoge miel o panal.
+Una fogata bajo la colmena evita enfadar a las abejas en el proceso.
+Las granjas de pollo cocinado suelen usar huevos, lava y recogida automatica.
+Las granjas de vacas o cerdos suelen ser menos automaticas y mas manuales.
+Una granja de hierro moderna usa aldeanos, camas y un zombie.
+El zombie asusta a los aldeanos y provoca aparicion de golems.
+Los golems spawnean en una plataforma valida cercana.
+El agua empuja los golems hacia lava o zona de muerte.
+Tolvas y cofres recogen los drops.
+Si hay otros bloques validos alrededor, los golems pueden spawnear donde no interesa.
+Por eso es importante spawnproofing o altura adecuada.
+Una granja de creepers busca forzar spawns de creepers y excluir otros mobs.
+Las trampillas en el techo pueden limitar altura para que no aparezcan zombies o esqueletos.
+Los gatos se usan para asustar creepers y dirigirlos hacia la caida.
+Muchas granjas usan caida, explosiones controladas o kill chamber.
+Iluminar cuevas alrededor mejora mucho el rendimiento.
+La distancia del jugador a la granja afecta el spawn y el despawn.
+Una granja general de mobs hostiles produce varios drops a la vez.
+Puede usar plataformas oscuras y corrientes de agua con observadores o dispensadores.
+Las granjas de enderman son excelentes para experiencia.
+Suelen construirse en el End lejos de la isla principal.
+Los endermen caen a una zona de un golpe o de matanza controlada.
+Los endermen no toleran agua, lo que puede usarse en su manejo.
+Las granjas de blaze son muy buenas para experiencia y combustible de pociones.
+Suelen construirse alrededor de un spawner en fortalezas del Nether.
+Las bolas de nieve ayudan mucho contra blazes en algunos contextos.
+Las granjas de slime se basan en chunks de slime o pantanos.
+Los chunks de slime requieren excavar y spawnproofing exhaustivo.
+Las granjas de guardianes son muy poderosas pero complejas.
+Requieren trabajar dentro o alrededor de monumentos oceanicos.
+La eliminacion de agua o uso de tecnicas especificas complica mucho su construccion.
+Las granjas de raid pueden producir totems y muchos otros recursos.
+Su complejidad es mas alta y el riesgo tambien.
+Las granjas de aldeanos para trades suelen organizarse como trading halls.
+Cada aldeano tiene su puesto de trabajo asignado.
+Romper y recolocar el bloque de trabajo antes del primer trade permite reroll de ofertas.
+Una vez que se comercia con un aldeano, sus ofertas base quedan fijadas.
+Los bibliotecarios son muy buscados por libros encantados.
+Los granjeros son faciles de subir y pueden ayudar con comida y esmeraldas.
+Los flecheros compran palos en algunas rutas de progresion rapida.
+Optimizar un trading hall incluye seguridad, acceso y reposicion de puestos.
+Separar aldeanos evita confusion de camas y puestos.
+Curar aldeanos zombie mejora mucho los precios.

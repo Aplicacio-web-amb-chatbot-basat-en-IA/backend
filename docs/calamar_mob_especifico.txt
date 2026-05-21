@@ -1,0 +1,1 @@
+El calamar es un mob acuatico pasivo que suelta tinta al morir. Esa tinta es util para tintes, escritura y algunas decoraciones o recetas concretas.

@@ -1,0 +1,18 @@
+Las abejas son mobs neutrales que viven cerca de nidos de abejas o colmenas. Se usan sobre todo para miel, panales y ciertas granjas decorativas o funcionales.
+
+---
+
+Una abeja enfadada puede atacar si destruyes su nido sin cuidado o si molestas demasiado a la colonia. Usar humo de una hoguera bajo el nido evita enfadar a las abejas al recoger recursos.
+
+---
+
+La miel se usa en algunos bloques y recetas, mientras que los panales sirven para velas, colmenas y para encerar bloques de cobre.
+
+---
+
+Mover abejas con flores y colocar colmenas cerca de cultivos puede ayudar a acelerar el crecimiento de algunos cultivos gracias a la polinizacion.
+
+---
+
+Una granja simple de miel necesita abejas, flores, colmenas o nidos, y algun sistema para recoger botellas de miel o panales de forma segura.
+

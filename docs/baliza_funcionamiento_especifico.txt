@@ -1,0 +1,3 @@
+Un beacon es un bloque avanzado que da efectos positivos a jugadores cercanos cuando se coloca sobre una piramide de minerales validos.
+La piramide puede construirse con hierro, oro, diamante, esmeralda o netherita, y cuanto mas grande sea mas opciones de efectos desbloquea.
+Para activarlo necesitas colocar un mineral o lingote en su interfaz y elegir efectos como Speed, Haste, Resistance o Regeneration.

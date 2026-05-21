@@ -1,0 +1,23 @@
+Como usar la mesa de herreria y por que es importante en versiones modernas. La mesa de herreria sirve para mejorar equipo de diamante a netherita y para aplicar plantillas de herreria segun la version. Esto hace que no baste con obtener ancient debris: tambien hace falta entender el proceso de mejora y los materiales asociados.
+---
+Que diferencia hay entre yunque, afiladora y mesa de encantamientos. La mesa de encantamientos sirve para aplicar encantamientos nuevos usando experiencia y lapislazuli. El yunque sirve para reparar, combinar y renombrar, mientras que la afiladora quita encantamientos no malditos y devuelve algo de experiencia.
+---
+Como usar un cofre de Ender y por que compensa tanto. El cofre de Ender comparte inventario entre todas sus copias, asi que es excelente para viajes, mineria o exploracion peligrosa. Aunque tenga menos capacidad que una sala de cofres, su valor esta en transportar objetos importantes con mucha seguridad.
+---
+Como aprovechar las shulker boxes en juego avanzado. Una shulker box permite transportar muchos stacks sin necesidad de llenar el inventario con cofres sueltos. Combinada con Elytra o con exploracion larga, es uno de los mayores saltos de comodidad del juego tardio.
+---
+Como funcionan las cargas del ancla de reaparicion. El ancla se carga con glowstone y permite reaparecer en el Nether, pero solo es segura alli. Intentar usarla en el Overworld o en el End provoca una explosion, asi que conviene entender bien en que dimension se esta antes de activarla.
+---
+Como usar un conducto y cuando merece la pena. El conducto da respiracion bajo el agua, vision mejorada y cierta utilidad de combate en un area si esta construido con su estructura correcta. Para bases submarinas o exploracion oceanica larga, suele ser mucho mas comodo que depender solo de pociones.
+---
+Como aprovechar cohetes y fuegos artificiales. Aunque sirven como celebracion, en survival su uso mas importante es impulsar la Elytra. El tipo de cohete afecta sobre todo a su duracion o a si lleva carga explosiva, por lo que para vuelo suelen preferirse recetas simples y eficientes.
+---
+Como usar mejor mapas, brujulas y piedra iman. La piedra iman permite vincular una brujula a una posicion concreta en lugar de apuntar siempre al punto de respawn. Esto es util para bases secundarias, rutas de exploracion y zonas del Nether donde una brujula normal no funciona como referencia.
+---
+Como se usa un barril y cuando compensa frente al cofre. El barril funciona como contenedor y tiene la ventaja de poder abrirse aunque haya un bloque encima. En almacenes compactos o decoraciones rurales suele ser mas flexible que un cofre, aunque su capacidad es la misma.
+---
+Como sacar partido a la mesa de cartografia y al mapa localizador. Estas herramientas ayudan a clonar, ampliar y organizar mapas para exploracion o decoracion. Si la partida ya tiene rutas largas o varias bases, mantener mapas bien gestionados ahorra tiempo y evita perder referencias.
+---
+Como elegir entre Toque de Seda y Fortuna. Toque de Seda conviene cuando interesa recoger el bloque tal cual o conservar variantes especiales, mientras que Fortuna mejora la obtencion de recursos en ciertos minerales, cultivos y drops. No hay un encantamiento universalmente mejor: depende de si se busca eficiencia de recoleccion o flexibilidad de almacenamiento y procesado.
+---
+Como preparar un kit utilitario de supervivencia avanzada. Muchos jugadores terminan llevando siempre cubo de agua, fuego o resistencia al fuego segun el entorno, perlas de ender, cohetes, herramientas de repuesto y bloques de construccion. No es una receta fija, pero tener un set utilitario pensado reduce mucho los errores tontos en exploracion y combate.

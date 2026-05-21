@@ -1,0 +1,4 @@
+Una granja de aldeanos suele basarse en camas disponibles, comida suficiente y dos o mas aldeanos capaces de reproducirse.
+Si los aldeanos tienen acceso a camas y reciben comida como pan, zanahorias o patatas, pueden generar nuevos aldeanos.
+Muchas granjas usan un granjero para repartir comida automaticamente a otros aldeanos.
+La proteccion contra zombies y un buen control de camas y puestos de trabajo son claves para que funcione de forma estable.

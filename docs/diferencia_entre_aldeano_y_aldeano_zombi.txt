@@ -1,0 +1,3 @@
+Un aldeano normal puede trabajar, comerciar, reproducirse y vincularse a camas y bloques de trabajo, mientras que un aldeano zombi es una version hostil o infectada que ya no comercia de forma normal.
+El aldeano zombi puede curarse con pocion de debilidad y manzana dorada para volver a ser aldeano normal, y esa cura puede generar descuentos de comercio.
+En supervivencia, la diferencia practica es que uno sirve para progresion con aldeas y trading, y el otro es un estado peligroso pero aprovechable.

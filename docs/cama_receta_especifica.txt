@@ -1,0 +1,4 @@
+La cama se fabrica con tres bloques de lana y tres tablones.
+La lana va en la fila superior y los tablones en la fila central de la mesa de crafteo.
+La receta produce una cama.
+La cama sirve para dormir en el Overworld y fijar el punto de respawn.

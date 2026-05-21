@@ -1,0 +1,51 @@
+El pollo es un mob pasivo comun que aporta plumas, pollo crudo y huevos. Es util tanto para comida como para flechas y pequenas granjas automaticas de huevos o pollos.
+---
+La vaca es un mob pasivo muy importante porque da carne y cuero. El cuero ayuda mucho en progresion hacia libros, estanterias y encantamientos.
+---
+La oveja es un mob pasivo que da lana y carne. La lana sirve para camas, decoracion y algunos automatismos basados en recoloracion o esquilado.
+---
+El cerdo es un mob pasivo centrado sobre todo en comida. No tiene tanta utilidad secundaria como vaca u oveja, pero sigue siendo una fuente simple de carne.
+---
+El conejo es un mob pasivo pequeno y rapido que da carne, piel y a veces pie de conejo. Su valor suele ser mas de coleccion o granja especializada que de progresion general.
+---
+La cabra aparece en montanas y puede embestir si se alinea bien con un objetivo. Tambien sirve para conseguir cuernos de cabra en situaciones concretas.
+---
+La rana es un mob pasivo relacionado con pantanos y manglares. Puede comer cubos de magma pequenos en ciertas transformaciones para producir froglights segun el bioma o temperatura.
+---
+El renacuajo es la fase inicial de la rana y crece con el tiempo hasta convertirse en una rana adulta. Su interes principal esta en la cria y en el acceso posterior a froglights.
+---
+La tortuga es un mob pasivo costero que pone huevos en playas. Sus scutes sirven para fabricar casco de tortuga, util para respiracion corta bajo el agua.
+---
+El calamar aparece en el agua y da tinta al morir. Es util para tintes, ciertos crafteos y elementos de decoracion o escritura.
+---
+El glow squid es una variante luminosa del calamar que suelta sacos de tinta brillante. Ese recurso se usa para resaltar texto en carteles y en algunas decoraciones.
+---
+El bacalao es un pez pasivo comun que puede servir como comida y como parte del ecosistema acuatico. Tambien es util para domesticar gatos si se obtiene crudo.
+---
+El salmon es otro pez comun que sirve como comida y tambien puede usarse crudo para domesticar gatos. Aparece en rios y oceanos frios o templados segun el entorno.
+---
+El pez tropical es un pez pasivo de oceanos calidos con gran variedad visual. Su valor es mas decorativo o de coleccion, aunque sigue formando parte de la vida marina.
+---
+El pez globo es tecnicamente pasivo, pero se hincha y envenena si se le molesta o toca. Es util sobre todo para pociones de respiracion o decoracion en cubos de agua.
+---
+El murcielago es un mob ambiental pasivo que no da drops utiles y aparece en cuevas oscuras. Sirve sobre todo como ambientacion y a veces como pista indirecta de cavidades cercanas.
+---
+El aldeano es un mob pasivo o civil clave por su sistema de comercio, profesiones y reproduccion. Es una de las bases de la progresion avanzada por acceso a encantamientos, herramientas y recursos renovables.
+---
+El comerciante errante aparece ocasionalmente con llamas y ofrece intercambios limitados. Suele ser menos potente que un sistema de aldeanos estable, pero puede dar recursos curiosos o decorativos.
+---
+La llama de comerciante acompaña al comerciante errante y puede actuar como animal de carga si se gestiona bien. Su relevancia real suele ser secundaria respecto al propio comerciante.
+---
+La mooshroom es una variante especial de vaca que aparece en campos de setas. Es valiosa porque puede dar estofado de setas y tiene un interes logístico y decorativo alto.
+---
+El panda es un mob pasivo de jungla con varios comportamientos y personalidades. Su importancia es mas de fauna especial que de progresion fuerte, aunque resulta atractivo para coleccion o zoo.
+---
+El zorro es un mob pasivo con comportamiento propio, especialmente activo de noche. Puede recoger objetos y tiene mas valor de ambientacion y curiosidad que de utilidad directa.
+---
+El delfin es un mob acuatico amigable que puede dar impulso al nadar y guiar al jugador hacia ciertos tesoros hundidos. Es muy util en exploracion marina.
+---
+El allay es un mob utilitario que puede recoger y agrupar objetos similares segun el item que se le entregue. Destaca en sistemas de clasificacion, granjas y automatizaciones creativas.
+---
+El armadillo es un mob reciente asociado a sabanas y a la obtencion de material para armadura de lobo. Su importancia principal esta en proteger lobos domesticados.
+---
+El sniffer es un mob especial obtenido a partir de huevos antiguos y relacionado con arqueologia. Sirve para encontrar semillas decorativas o plantas raras propias de su mecanica.

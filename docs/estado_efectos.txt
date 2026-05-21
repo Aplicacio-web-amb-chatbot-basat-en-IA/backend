@@ -1,0 +1,43 @@
+Los efectos de estado modifican temporalmente atributos o condiciones del jugador o de otras entidades.
+
+Speed aumenta velocidad de movimiento.
+
+Slowness reduce velocidad de movimiento.
+
+Haste aumenta velocidad de minado y ciertas acciones relacionadas.
+
+Mining Fatigue reduce la velocidad de minado de forma notable.
+
+Strength aumenta daño cuerpo a cuerpo.
+
+Weakness reduce daño cuerpo a cuerpo.
+
+Regeneration recupera salud con el tiempo.
+
+Instant Health cura al instante.
+
+Instant Damage inflige daño instantáneo.
+
+Fire Resistance protege frente a fuego y lava.
+
+Night Vision mejora visibilidad en oscuridad.
+
+Invisibility hace menos visible al jugador o entidad afectada.
+
+Water Breathing permite respirar bajo el agua.
+
+Slow Falling reduce mucho la velocidad de caída.
+
+Poison reduce la vida progresivamente.
+
+Wither también reduce vida progresivamente y puede ser más peligroso porque oscurece corazones.
+
+Levitation eleva a la entidad afectada hacia arriba.
+
+Resistance reduce daño recibido.
+
+Absorption añade corazones temporales adicionales.
+
+Bad Omen puede desencadenar una raid al entrar en una aldea.
+
+Hero of the Village otorga beneficios y descuentos tras completar una raid.

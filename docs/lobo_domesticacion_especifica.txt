@@ -1,0 +1,5 @@
+Para domesticar un lobo hay que usar huesos sobre un lobo salvaje.
+Cuando la domesticacion tiene exito aparecen particulas de corazon y el lobo recibe un collar.
+Una vez domesticado, el lobo puede seguir al jugador o quedarse sentado.
+Los lobos domesticados pueden ayudar en combate contra algunos enemigos.
+

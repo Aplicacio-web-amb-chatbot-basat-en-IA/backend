@@ -1,0 +1,17 @@
+Una puerta automatica de redstone funciona usando una entrada, una senal y un mecanismo de apertura.
+
+Las entradas mas comunes son placas de presion, botones, palancas o sensores.
+
+La senal de redstone se transmite por polvo de redstone, repetidores u otros componentes adecuados.
+
+Las puertas de hierro no se pueden abrir a mano y necesitan una senal de redstone para abrirse.
+
+Una puerta automatica simple puede construirse con una puerta de hierro y dos placas de presion, una a cada lado.
+
+Tambien pueden hacerse puertas ocultas con pistones, aunque eso ya es un diseno mas avanzado.
+
+Los repetidores son utiles para alargar la senal o controlar su comportamiento.
+
+Los observadores y comparadores pueden formar parte de sistemas mas complejos, pero no son imprescindibles en una puerta basica.
+
+Para una puerta automatica simple, lo mas importante es que la senal llegue correctamente al bloque o mecanismo de apertura.

@@ -1,0 +1,3 @@
+El lightning rod atrae rayos cercanos y ayuda a proteger construcciones inflamables de impactos aleatorios.
+Tambien puede usarse en redstone para detectar tormentas electricas y activar senales con cada rayo.
+Se fabrica con lingotes de cobre.

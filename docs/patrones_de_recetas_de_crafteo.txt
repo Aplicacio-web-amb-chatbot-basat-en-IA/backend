@@ -1,0 +1,18 @@
+Muchas recetas de herramientas y armas siguen patrones repetidos. Las espadas usan dos materiales en vertical y un palo debajo.
+
+---
+
+Los picos usan tres materiales en la fila superior y dos palos en la columna central. Las palas usan un material arriba y dos palos en vertical.
+
+---
+
+Las hachas y azadas usan dos o tres materiales junto con dos palos. Aprender estos patrones reduce mucho la necesidad de memorizar receta por receta.
+
+---
+
+Las piezas de armadura tambien siguen patrones regulares. El casco usa cinco materiales, el peto ocho, los pantalones siete y las botas cuatro.
+
+---
+
+Muchas recetas funcionales usan el mismo principio: un bloque central o base y materiales de soporte alrededor. Entender estos patrones ayuda a deducir recetas comunes.
+

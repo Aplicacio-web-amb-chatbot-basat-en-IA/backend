@@ -1,0 +1,19 @@
+La pocion de curacion se hace con awkward potion mas glistering melon slice. Restaura salud al instante y es muy util en combate directo o recuperacion de emergencia.
+---
+La pocion de dano se obtiene normalmente transformando una pocion de curacion o una de veneno con fermented spider eye. Hace dano instantaneo y se aprovecha sobre todo en version arrojadiza o persistente contra enemigos.
+---
+La pocion de veneno se hace con awkward potion mas spider eye. Aplica dano progresivo, aunque no suele matar por si sola, y se usa bastante en variantes arrojadizas para debilitar enemigos.
+---
+La pocion de regeneracion se hace con awkward potion mas ghast tear. Recupera vida poco a poco y es una gran ayuda en combates largos o situaciones peligrosas.
+---
+La pocion de fuerza se hace con awkward potion mas blaze powder. Aumenta el dano cuerpo a cuerpo y es muy util contra bosses, mobs duros y raids.
+---
+La pocion de infestacion se hace con awkward potion mas stone. Aporta el efecto Infested, que puede hacer aparecer silverfish cuando la entidad afectada recibe dano.
+---
+La pocion de weaving se hace con awkward potion mas cobweb. Aporta el efecto Weaving, relacionado con la aparicion de telarañas al morir la entidad afectada.
+---
+La pocion de oozing se hace con awkward potion mas slime block. Aporta el efecto Oozing, que hace aparecer slimes cuando la entidad afectada muere en ciertas condiciones del efecto.
+---
+La pocion de wind charging se hace con awkward potion mas breeze rod. Aporta el efecto Wind Charged, asociado a una explosion de viento cuando la entidad afectada muere.
+---
+La pocion de suerte no forma parte de la alquimia survival normal como una receta estandar util y suele tratarse aparte segun contexto o disponibilidad. Si alguien pregunta por ella, conviene aclarar que no entra en la ruta clasica de pociones survival habituales.

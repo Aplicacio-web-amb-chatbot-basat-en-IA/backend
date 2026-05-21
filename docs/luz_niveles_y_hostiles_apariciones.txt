@@ -1,0 +1,9 @@
+La luz es uno de los factores mas importantes para controlar la aparicion de mobs hostiles.
+
+En Minecraft moderno, muchos mobs hostiles comunes del Overworld requieren oscuridad total o nivel de luz muy bajo para spawnear.
+
+Colocar antorchas, faroles u otras fuentes de luz alrededor de la base reduce mucho el peligro.
+
+Las cuevas sin iluminar, los techos oscuros y las plataformas mal diseñadas suelen convertirse en focos de spawn.
+
+Controlar la luz es una de las bases tanto de la supervivencia segura como de la construccion de granjas.

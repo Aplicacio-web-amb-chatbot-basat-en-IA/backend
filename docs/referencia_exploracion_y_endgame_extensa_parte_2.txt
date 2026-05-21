@@ -1,0 +1,23 @@
+Como encontrar una stronghold y llegar al End. Lo habitual es fabricar ojos de ender, lanzarlos en el Overworld y seguir la direccion en la que vuelan hasta que indiquen una zona concreta del subsuelo. Una vez dentro de la stronghold, hay que localizar la sala del portal y completar los huecos del marco si faltan ojos.
+---
+Como buscar end cities y conseguir Elytra. Tras derrotar a la Ender Dragon o usar el portal de salida hacia las islas exteriores, toca explorar hasta encontrar una end city con end ship. La Elytra suele estar expuesta en ese barco, junto con buen botin y a menudo shulkers alrededor.
+---
+Como encontrar fortalezas del Nether y por que importan. Las fortalezas del Nether son clave porque alli aparecen blazes y wither skeletons. Los blazes permiten conseguir blaze rods para ojos de ender y pociones, y los wither skeletons sueltan los craneos necesarios para invocar al Wither.
+---
+Como explorar un bastion remanente sin morir rapido. Los bastions mezclan botin muy bueno con muchos piglins, piglin brutes y zonas de caida o lava. Llevar armadura de oro, bloques, comida, resistencia al fuego y una ruta de escape suele ser mas importante que intentar saquearlo todo de golpe.
+---
+Como prepararse para una ancient city o para el Warden. Lo mas importante es evitar ruido innecesario, usar sigilo y no activar demasiados sensores de sculk o shriekers. La ancient city ofrece botin valioso, pero no conviene tratarla como una estructura de combate directo si se quiere sobrevivir.
+---
+Como explorar un monumento oceanico. El mayor problema suele ser la respiracion bajo el agua, la vision reducida y el efecto de fatiga minera del guardian anciano. Llevar pociones adecuadas, bloques para aislar zonas y un plan de entrada ayuda bastante a controlar la exploracion.
+---
+Como preparar un combate contra la Ender Dragon. Conviene llevar arco, bloques, cubo de agua, buena armadura, comida y medios para destruir cristales del obsidiana. En peleas menos arriesgadas, tambien ayudan perlas de ender, pociones y un punto de respawn preparado antes de entrar.
+---
+Como prepararse para invocar y derrotar al Wither. Suele recomendarse invocarlo en un espacio controlado, con buena armadura, pociones, comida y preferiblemente leche o regeneracion segun el plan. Es un combate mucho menos caotico si se elige bien el terreno y no se hace cerca de la base principal.
+---
+Como usar bien una Elytra cuando ya se ha conseguido. La Elytra brilla mucho mas si se combina con cohetes, altura inicial suficiente y espacio abierto para maniobrar. Llevar cohetes de reserva y vigilar la durabilidad es importante para no caer por falta de impulso o por rotura del equipo.
+---
+Como aprovechar una baliza en una base avanzada. La baliza no se limita a ser decoracion: con una base mineral adecuada puede dar velocidad, prisa, fuerza, resistencia o regeneracion segun su nivel. En proyectos de mineria, construccion o granjas, una baliza bien colocada ahorra muchisimo tiempo.
+---
+Como explorar estructuras peligrosas de forma eficiente. En general conviene limpiar una zona, asegurar una retirada y priorizar el botin clave antes de seguir avanzando. Entrar sin bloques, sin comida y sin espacio de inventario suele convertir una buena expedicion en una perdida de recursos.
+---
+Como decidir si ya estas listo para el late game. Un buen indicador es tener comida estable, encantamientos decentes, acceso al Nether, forma de obtener experiencia y equipo de repuesto. No hace falta tener todo automatizado, pero si cierta capacidad de recuperacion si algo sale mal en el End o contra un jefe.

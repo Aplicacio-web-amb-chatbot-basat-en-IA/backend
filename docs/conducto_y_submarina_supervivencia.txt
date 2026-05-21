@@ -1,0 +1,9 @@
+El conduit es un bloque avanzado para supervivencia bajo el agua.
+
+Se fabrica con un corazon del mar y caparazones de nautilus.
+
+Cuando esta activado correctamente con su estructura, puede otorgar vision acuática mejorada, respiracion y velocidad de minado bajo el agua en su area.
+
+Es muy util para bases oceanicas, monumentos y exploracion submarina prolongada.
+
+Antes de conseguir un conduit, las pociones de respiracion acuática y vision nocturna suelen ser las herramientas principales para trabajar bajo el agua.

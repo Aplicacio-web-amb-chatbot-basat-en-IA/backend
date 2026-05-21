@@ -1,0 +1,13 @@
+Un trading hall es una estructura organizada para tener muchos aldeanos utiles en un espacio controlado.
+
+El objetivo principal es acceder rapidamente a intercambios concretos, como libros encantados o venta de cultivos.
+
+Cada aldeano suele colocarse en un puesto individual para evitar confusiones y facilitar su proteccion.
+
+Es importante que los aldeanos tengan acceso adecuado a su bloque de trabajo si se quiere reposicion regular de trades.
+
+Proteger el trading hall de zombies, pillagers y accidentes es esencial para no perder aldeanos valiosos.
+
+Muchos disenos usan vagonetas, camas y bloques de trabajo para transportar y fijar aldeanos en su puesto.
+
+Un trading hall bien hecho mejora mucho el acceso a Mending, Protection, Efficiency y otros recursos clave.

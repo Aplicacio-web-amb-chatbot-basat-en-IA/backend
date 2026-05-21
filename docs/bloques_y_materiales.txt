@@ -1,0 +1,47 @@
+La madera es uno de los materiales más importantes al inicio porque permite fabricar herramientas, palos, cofres, puertas y mesas de trabajo.
+
+La piedra mejora rápidamente las herramientas básicas y permite avanzar desde madera a equipo más eficiente.
+
+El adoquín es un material abundante para herramientas, hornos, construcción y generadores de piedra.
+
+La tierra y la hierba son comunes, pero no son materiales de construcción resistentes frente a explosiones o mobs.
+
+La arena se usa para cristal, TNT y hormigón en combinación con grava y tintes.
+
+La grava puede soltarse por gravedad y es importante para obtener pedernal.
+
+La obsidiana es muy resistente y se usa para portales del Nether, mesas de encantamientos y otras recetas especiales.
+
+El cristal se obtiene fundiendo arena y es útil para ventanas, botellas y algunos componentes.
+
+La lana se consigue de ovejas o telarañas procesadas y se usa en camas, decoración y ciertos sistemas.
+
+La terracota es abundante en badlands y útil para construcción decorativa.
+
+El barro y los ladrillos de barro son materiales de construcción más modernos y útiles en diseños específicos.
+
+Los bloques de cobre cambian visualmente con la oxidación y sirven para construcción y algunos dispositivos como pararrayos.
+
+El cuarzo del Nether es muy usado en decoración clara y en componentes avanzados de redstone.
+
+Conocer materiales ayuda a responder preguntas sobre resistencia, utilidad, decoración y progresión tecnológica.
+
+La piedra lisa se obtiene fundiendo piedra normal y se usa en recetas como el alto horno.
+
+La piedra se consigue fundiendo adoquin, mientras que el adoquin suele obtenerse al picar piedra normal sin Silk Touch.
+
+La obsidiana se forma cuando el agua toca un bloque fuente de lava y normalmente requiere pico de diamante o netherita para recogerse.
+
+El vidrio no se puede recuperar en condiciones normales sin Silk Touch.
+
+La madera existe en muchas variantes, pero las recetas basicas suelen aceptar cualquier tipo de tablones si la receta no exige una madera concreta.
+
+Las losas, escaleras y muros sirven para construir con mas detalle y a menudo se fabrican a partir del bloque base correspondiente.
+
+Los bloques que caen por gravedad, como arena o grava, son utiles pero exigen mas cuidado en construccion.
+
+La lana es importante para camas y decoracion, pero no es un bloque resistente al fuego.
+
+Los bloques de hierro, oro, diamante o redstone sirven tanto para almacenar recursos como para construccion o mecanismos especificos.
+
+El cuarzo del Nether es ademas una buena fuente de experiencia cuando se mina en grandes cantidades.

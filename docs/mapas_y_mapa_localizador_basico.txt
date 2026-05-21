@@ -1,0 +1,3 @@
+Los mapas muestran el terreno explorado y ayudan a orientarse en viajes largos.
+Un locator map añade iconos de jugadores, lo que lo hace muy util en partidas multijugador o exploracion coordinada.
+Los mapas pueden ampliarse para cubrir mas zona, aunque pierden detalle local.

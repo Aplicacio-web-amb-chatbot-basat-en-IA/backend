@@ -1,0 +1,3 @@
+Una granja automatica de cana de azucar suele usar agua, arena o tierra junto a agua, observadores, pistones y un sistema de recogida con tolvas o minecarts.
+Cuando la cana crece a cierta altura, el observador detecta el cambio y activa el piston para romper la parte superior sin destruir la base.
+Despues, los items caen a una linea de recogida y la cana vuelve a crecer de forma automatica.

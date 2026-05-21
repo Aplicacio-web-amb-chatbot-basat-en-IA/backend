@@ -1,0 +1,92 @@
+Las armaduras y herramientas encantadas cambian mucho la calidad de juego.
+Eficiencia acelera mineria y tala.
+Fortuna aumenta drops de varios minerales y cultivos.
+Toque de seda recoge bloques especiales intactos.
+Sharpness es una mejora general de daño muy util.
+Protection es un encantamiento general de armadura muy fuerte.
+Feather Falling reduce mucho el daño por caida.
+Unbreaking aumenta durabilidad.
+Mending repara con experiencia.
+Looting aumenta drops de algunos mobs.
+Power mejora daño del arco.
+Infinity evita gastar flechas normales salvo una.
+Un tridente puede ser util pero no siempre es facil de conseguir.
+La ballesta tiene un estilo distinto al arco.
+El arco suele ser mas flexible por encantamientos y cadencia.
+Los cohetes son necesarios para volar con elytra.
+La elytra se obtiene en ciudades del End.
+Las cajas de shulker cambian enormemente la gestion de inventario.
+Un ender chest permite transportar contenido vinculado al jugador.
+Un ender chest se fabrica con obsidiana y un ojo de ender.
+Las strongholds contienen el portal al End.
+Los ojos de ender sirven para localizar strongholds y activar el portal.
+Cada ojo de ender puede romperse al usarse.
+Conviene llevar ojos extra al buscar stronghold.
+Llevar bloques de construccion al End es muy util.
+Llevar agua al End ayuda contra caidas y endermen.
+Los endermen se enfadan si se les mira a los ojos sin proteccion adecuada.
+Una calabaza en la cabeza evita mirarles directamente pero dificulta la vision.
+Los cristales del End curan a la Ender Dragon.
+Destruir los cristales suele ser la primera prioridad de la pelea.
+Algunos cristales tienen rejas y requieren mas cuidado.
+El dragon deja de curarse cuando todos los cristales se destruyen.
+Atacar al dragon cuando aterriza suele ser muy eficiente.
+Las camas pueden usarse ofensivamente en el End porque explotan.
+Usar camas contra el dragon es potente pero arriesgado.
+Un arco ayuda a destruir cristales lejanos.
+El Nether acelera viajes largos si se usan portales bien colocados.
+Un bloque recorrido en el Nether equivale a varios en el Overworld.
+Los biomas del Nether cambian mucho el riesgo de exploracion.
+Llevar armadura de oro evita la hostilidad inmediata de piglins comunes.
+Los hoglins son muy peligrosos en Crimson Forest.
+Los ghasts son molestos en espacios abiertos del Nether.
+Las fortalezas del Nether son clave para blaze rods y verrugas.
+Los bastions ofrecen gran botin pero mucho peligro.
+La netherita se obtiene mejorando equipo de diamante en herreria con plantilla.
+Los escombros ancestrales aparecen en capas especificas del Nether.
+La TNT o camas ayudan a buscar escombros ancestrales.
+Llevar resistencia al fuego al Nether reduce muchos riesgos.
+No dormir en el Nether evita explosiones inesperadas.
+Las anclas de respawn sirven para fijar respawn en el Nether.
+Las anclas explotan fuera del Nether si se intentan usar para respawn.
+La exploracion de cuevas exige ritmo y disciplina.
+Iluminar entradas y giros ayuda a no perderse.
+Marcar el camino con antorchas orientadas o bloques ayuda mucho.
+Llevar comida suficiente es obligatorio para cuevas largas.
+No conviene bajar sin pico extra, antorchas y bloques.
+La lava y los barrancos pueden matar a jugadores con buen equipo.
+Escuchar sonidos de mobs y agua puede indicar zonas interesantes o peligrosas.
+Los esqueletos en zonas estrechas son muy peligrosos por retroceso.
+Los creepers castigan mucho la distraccion.
+Las arañas pueden subir y rodear posiciones facilmente.
+Los zombies son simples pero peligrosos en grupos.
+Los slimes pueden aparecer en trozos especificos o biomas de pantano.
+Los pantanos son utiles para slimes y brujas.
+Las chozas de bruja son puntos conocidos para granjas de brujas.
+Los monumentos oceanicos dan acceso a esponjas y a guardian farms.
+Las ciudades ancestrales contienen botin fuerte pero el Warden es una amenaza enorme.
+El Warden no es un objetivo habitual de combate.
+Lo mas recomendable ante el Warden suele ser evitarlo.
+Los sensores sculk detectan vibraciones.
+La lana ayuda a bloquear algunas vibraciones en mecanicas sculk.
+Las trial chambers ofrecen nuevos retos y botin segun version.
+Los mapas y cartografia ayudan a orientarse y compartir informacion.
+La mesa de cartografia permite ampliar, copiar y bloquear mapas.
+Una base ordenada ahorra mucho tiempo en partidas largas.
+Los clasificadores automaticos mejoran gestion de objetos.
+Las tolvas son la base de mucha automatizacion.
+Los comparadores permiten leer niveles de contenedores.
+Los repetidores extienden señales y controlan retrasos.
+Los pistones empujan bloques y hacen posibles puertas y granjas.
+Los observadores detectan cambios de bloque y generan pulsos.
+La redstone puede simplificar tareas repetitivas pero complica el diseño.
+La progresion eficiente en Minecraft no siempre es lineal.
+Algunos jugadores priorizan aldeanos antes que diamantes.
+Otros priorizan Nether temprano para progreso rapido.
+Una ruta equilibrada suele incluir comida, hierro, diamantes, encantamientos y movilidad.
+La elytra marca un gran salto al juego avanzado.
+Las granjas de experiencia reducen mucho el coste de mantenimiento del equipo.
+El objetivo final de muchas partidas cambia segun estilo del jugador.
+Algunos jugadores buscan automatizar recursos.
+Otros prefieren exploracion, decoracion o combate.
+Minecraft Vanilla permite muchas rutas validas de progresion.

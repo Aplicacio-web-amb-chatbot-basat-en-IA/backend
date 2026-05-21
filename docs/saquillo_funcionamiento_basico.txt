@@ -1,0 +1,3 @@
+El bundle sirve para agrupar objetos variados en un solo espacio logico de inventario.
+Es util para exploracion, arqueologia o primeras fases de partida donde llevas muchos objetos distintos en pocas cantidades.
+No sustituye a cofres o shulkers, pero ayuda mucho a reducir desorden.

@@ -1,0 +1,53 @@
+Los biomas influyen en recursos, mobs y ritmo de progresion.
+Las llanuras suelen ser buenas para bases tempranas y aldeas.
+Los bosques aportan madera abundante y cobertura.
+Las montañas dan acceso a vistas, cabras y esmeraldas en altura.
+Los desiertos ofrecen aldeas, templos y poca madera natural.
+Los templos del desierto pueden contener buen botin temprano.
+Hay que bajar con cuidado en templos del desierto por la trampa TNT.
+Las junglas tienen bambu, cacao y templos poco comunes.
+Los pantanos son utiles para slimes y chozas de bruja.
+Las taigas pueden ofrecer aldeas, bayas dulces y bosques amplios.
+Los oceanos contienen monumentos, naufragios y ruinas.
+Los naufragios son excelentes para comida, mapas y recursos tempranos.
+Las ruinas oceanicas pueden dar carbon, herramientas y mapas enterrados.
+Los tesoros enterrados dan corazon del mar y otros objetos utiles.
+Las badlands tienen mucho oro expuesto y minas abandonadas visibles.
+Los campos de setas son seguros frente a mobs hostiles normales en superficie.
+Las aldeas son de las mejores estructuras del inicio.
+Una aldea puede aportar camas, comida, hierro y aldeanos de valor.
+Las minas abandonadas contienen railes, telarañas y spawners de cave spider.
+Las strongholds son obligatorias para llegar al End.
+Las mansiones del bosque tienen buen botin y enemigos peligrosos.
+Las ciudades ancestrales tienen botin de alto nivel y riesgo extremo por sculk y warden.
+Los monumentos oceanicos son dificiles pero rentables a medio y largo plazo.
+Las trial chambers ofrecen retos y recompensas segun version.
+Las fortalezas del Nether son prioritarias si se busca progresar al End.
+Los bastions pueden ser mejores o peores segun su tipo y posicion.
+Las ruinas de portal ayudan a entrar antes al Nether si se completan.
+Las ruinas de portal suelen tener oro, obsidiana y herramientas dañadas.
+Los puestos de saqueadores pueden ser utiles o peligrosos.
+Un mal presagio puede activar incursiones si se entra en una aldea.
+Los campamentos pueden dar botin temprano pero generan conflicto.
+Las chozas de bruja solo aparecen en pantanos concretos.
+Las piramides del desierto son valiosas si se desarma bien la trampa.
+Los iglus a veces esconden sotanos con aldeano zombie y clerigo.
+Los mineshafts son utiles para railes, madera y recursos secundarios.
+Las cuevas exuberantes aportan arcilla, musgo y axolotls.
+Las cuevas de dripstone tienen muchas estalagmitas y peligros de caida.
+Los biomas nevados añaden lentitud tactica y variantes de mobs.
+Los rios facilitan movimiento en barco.
+Las playas son comodas para construir o conectar base y oceano.
+Los bosques oscuros son mas opresivos y pueden contener mansiones.
+Los biomas de cerezo son vistosos y tranquilos para construccion.
+Las aldeas del desierto, taiga, nieve y sabana cambian materiales y layout.
+La utilidad de una estructura depende del momento de la partida.
+Un naufragio es excelente al principio pero menos determinante en late game.
+Una ciudad del End gana valor enorme cuando aun no se tiene elytra.
+Una fortress pierde prioridad una vez ya se tienen blaze rods y verrugas suficientes.
+No todas las exploraciones merecen el mismo riesgo segun la fase de progresion.
+Un mapa de cartografo puede ayudar a encontrar mansiones o monumentos.
+El viaje por Nether puede ahorrar muchisimo tiempo para volver a estructuras lejanas.
+Construir portales enlazados exige entender correspondencia de coordenadas.
+Una base secundaria cerca de estructuras clave puede ahorrar tiempo.
+Explorar con cama, comida, bloques y agua suele ser mucho mas seguro.

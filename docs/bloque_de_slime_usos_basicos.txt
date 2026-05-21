@@ -1,0 +1,3 @@
+Los slime blocks son importantes en redstone porque adhieren muchos bloques cercanos cuando los mueve un piston.
+Gracias a eso permiten crear puertas complejas, flying machines y sistemas compactos de empuje.
+Tambien reducen dano por caida si aterrizas encima, aunque rebotas al caer.

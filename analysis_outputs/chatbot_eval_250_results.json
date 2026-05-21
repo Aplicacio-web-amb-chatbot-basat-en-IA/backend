@@ -1,0 +1,4688 @@
+[
+  {
+    "id": 1,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace una espada de madera?",
+    "focus": "espada de madera",
+    "focus_tokens": [
+      "espada",
+      "madera"
+    ],
+    "response": "La espada de madera se fabrica con dos tablones en vertical y un palo debajo en la columna central. La receta produce una espada de madera.",
+    "response_time_ms": 2453.19,
+    "response_chars": 139,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 2,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace una espada de hierro?",
+    "focus": "espada de hierro",
+    "focus_tokens": [
+      "espada",
+      "hierro"
+    ],
+    "response": "La espada de hierro se fabrica con dos lingotes de hierro en vertical y un palo debajo en la columna central. La receta produce una espada de hierro.",
+    "response_time_ms": 651.4,
+    "response_chars": 149,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 3,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un pico de diamante?",
+    "focus": "pico de diamante",
+    "focus_tokens": [
+      "pico",
+      "diamante"
+    ],
+    "response": "El pico de diamante se fabrica con tres diamantes en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de diamante.",
+    "response_time_ms": 644.22,
+    "response_chars": 155,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 4,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace una pala de diamante?",
+    "focus": "pala de diamante",
+    "focus_tokens": [
+      "pala",
+      "diamante"
+    ],
+    "response": "La pala de diamante se fabrica con un diamante arriba y dos palos debajo en vertical. La receta produce una pala de diamante.",
+    "response_time_ms": 673.99,
+    "response_chars": 125,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 5,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica una mesa de encantamientos?",
+    "focus": "mesa de encantamientos",
+    "focus_tokens": [
+      "mesa",
+      "encantamientos"
+    ],
+    "response": "La mesa de encantamientos se fabrica con cuatro bloques de obsidiana, dos diamantes y un libro. El libro va en la casilla superior central y los diamantes a ambos lados de la fila media. La receta produce una mesa de encantamientos.",
+    "response_time_ms": 640.59,
+    "response_chars": 232,
+    "top_sources": [
+      "mesa_de_encantamientos_receta.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 6,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un soporte para pociones?",
+    "focus": "soporte para pociones",
+    "focus_tokens": [
+      "soporte",
+      "pociones"
+    ],
+    "response": "El soporte para pociones se fabrica con una blaze rod en el centro y tres bloques de adoquin o piedra en la fila inferior. La receta produce un soporte para pociones.",
+    "response_time_ms": 640.49,
+    "response_chars": 166,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 7,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica TNT?",
+    "focus": "tnt",
+    "focus_tokens": [
+      "tnt"
+    ],
+    "response": "La TNT se fabrica con cuatro polvoras y cinco bloques de arena o arena roja alternados en la mesa de crafteo. La receta produce un bloque de TNT.",
+    "response_time_ms": 733.88,
+    "response_chars": 145,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 8,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un arco?",
+    "focus": "arco",
+    "focus_tokens": [
+      "arco"
+    ],
+    "response": "El arco se fabrica con tres palos formando una curva y tres cuerdas en la columna derecha. La receta produce un arco.",
+    "response_time_ms": 611.25,
+    "response_chars": 117,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 9,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica una cama?",
+    "focus": "cama",
+    "focus_tokens": [
+      "cama"
+    ],
+    "response": "La cama se fabrica con tres bloques de lana en la fila superior y tres tablones de madera en la fila central. La receta produce una cama.",
+    "response_time_ms": 635.27,
+    "response_chars": 137,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 10,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un cofre?",
+    "focus": "cofre",
+    "focus_tokens": [
+      "cofre"
+    ],
+    "response": "El cofre se fabrica con ocho tablones de madera colocados alrededor del hueco central de la mesa de crafteo. La receta produce un cofre.",
+    "response_time_ms": 632.32,
+    "response_chars": 136,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 11,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica una antorcha?",
+    "focus": "antorcha",
+    "focus_tokens": [
+      "antorcha"
+    ],
+    "response": "La antorcha se fabrica con un carbon o carbon vegetal encima de un palo. La receta produce cuatro antorchas.",
+    "response_time_ms": 627.04,
+    "response_chars": 108,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 12,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un escudo?",
+    "focus": "escudo",
+    "focus_tokens": [
+      "escudo"
+    ],
+    "response": "El escudo se fabrica con seis tablones y un lingote de hierro. Los tablones forman una especie de Y ancha en la mesa de crafteo y el lingote de hierro va en la casilla superior central. La receta produce un escudo.",
+    "response_time_ms": 739.13,
+    "response_chars": 214,
+    "top_sources": [
+      "escudo_receta_y_uso.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 13,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace una tolva?",
+    "focus": "tolva",
+    "focus_tokens": [
+      "tolva"
+    ],
+    "response": "La tolva se fabrica con cinco lingotes de hierro formando una V y un cofre en el centro. La receta produce una tolva.",
+    "response_time_ms": 634.94,
+    "response_chars": 117,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 14,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un piston?",
+    "focus": "piston",
+    "focus_tokens": [
+      "piston"
+    ],
+    "response": "El piston se fabrica con tres tablones en la fila superior, cuatro bloques de adoquin a los lados, un lingote de hierro en el centro y un polvo de redstone debajo. La receta produce un piston.",
+    "response_time_ms": 617.87,
+    "response_chars": 192,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 15,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un comparador de redstone?",
+    "focus": "comparador de redstone",
+    "focus_tokens": [
+      "comparador",
+      "redstone"
+    ],
+    "response": "El comparador se fabrica con tres antorchas de redstone en forma de triangulo, un cuarzo del Nether en el centro y tres bloques de piedra en la fila inferior. La receta produce un comparador.",
+    "response_time_ms": 613.48,
+    "response_chars": 191,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 16,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un repetidor de redstone?",
+    "focus": "repetidor de redstone",
+    "focus_tokens": [
+      "repetidor",
+      "redstone"
+    ],
+    "response": "El repetidor de redstone se fabrica con dos antorchas de redstone arriba a los lados, un polvo de redstone en el centro y tres bloques de piedra en la fila inferior. La receta produce un repetidor.",
+    "response_time_ms": 638.61,
+    "response_chars": 197,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 17,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un cofre de Ender?",
+    "focus": "cofre de ender",
+    "focus_tokens": [
+      "cofre",
+      "ender"
+    ],
+    "response": "El cofre de Ender comparte inventario entre todos los cofres de Ender del mismo jugador, asi que puedes guardar objetos en uno y recuperarlos desde otro en cualquier lugar. Si quieres recolocarlo sin perder el bloque, conviene romperlo con Silk Touch.",
+    "response_time_ms": 732.46,
+    "response_chars": 251,
+    "top_sources": [
+      "cofre_de_ender_uso_especifico.txt"
+    ],
+    "flags": [
+      "recipe_weak"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un ojo de ender?",
+    "focus": "ojo de ender",
+    "focus_tokens": [
+      "ojo",
+      "ender"
+    ],
+    "response": "Un ojo de ender se fabrica con una perla de ender y blaze powder.",
+    "response_time_ms": 633.85,
+    "response_chars": 65,
+    "top_sources": [
+      "conceptos_basicos_del_ojo_de_ender.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 19,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un telar?",
+    "focus": "telar",
+    "focus_tokens": [
+      "telar"
+    ],
+    "response": "El telar se fabrica con dos cuerdas en la fila superior y dos tablones justo debajo. La receta produce un telar.",
+    "response_time_ms": 633.1,
+    "response_chars": 112,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 20,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un compostador?",
+    "focus": "compostador",
+    "focus_tokens": [
+      "compostador"
+    ],
+    "response": "El compostador se fabrica con siete losas de madera formando una U abierta por arriba. La receta produce un compostador.",
+    "response_time_ms": 601.54,
+    "response_chars": 120,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 21,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un ahumador?",
+    "focus": "ahumador",
+    "focus_tokens": [
+      "ahumador"
+    ],
+    "response": "El ahumador se fabrica con un horno en el centro y cuatro troncos, madera o troncos pelados en las casillas superior, inferior, izquierda y derecha. La receta produce un ahumador.",
+    "response_time_ms": 640.5,
+    "response_chars": 179,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 22,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un alto horno?",
+    "focus": "alto horno",
+    "focus_tokens": [
+      "alto",
+      "horno"
+    ],
+    "response": "El alto horno se fabrica con un horno en el centro, cinco lingotes de hierro alrededor de la parte superior y laterales, y tres bloques de piedra lisa en la fila inferior. La receta produce un alto horno.",
+    "response_time_ms": 749.79,
+    "response_chars": 204,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 23,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace una afiladora?",
+    "focus": "afiladora",
+    "focus_tokens": [
+      "afiladora"
+    ],
+    "response": "La palanca se fabrica con un palo encima de un bloque de adoquin o piedra. La receta produce una palanca.",
+    "response_time_ms": 688.06,
+    "response_chars": 105,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se fabrica un yunque?",
+    "focus": "yunque",
+    "focus_tokens": [
+      "yunque"
+    ],
+    "response": "El yunque se fabrica con tres bloques de hierro en la fila superior, un lingote de hierro en el centro y tres lingotes de hierro en la fila inferior. La receta produce un yunque.",
+    "response_time_ms": 643.33,
+    "response_chars": 178,
+    "top_sources": [
+      "recetas_de_crafteo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 25,
+    "category": "recipes",
+    "question_type": "recipe",
+    "question": "Como se hace un mapa localizador?",
+    "focus": "mapa localizador",
+    "focus_tokens": [
+      "mapa",
+      "localizador"
+    ],
+    "response": "El mapa localizador se fabrica con ocho hojas de papel y una brujula. El papel rodea la brujula, que va en la casilla central, y la receta produce un mapa localizador.",
+    "response_time_ms": 629.05,
+    "response_chars": 167,
+    "top_sources": [
+      "mapa_localizador_receta_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 26,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una baliza en Minecraft?",
+    "focus": "baliza en minecraft",
+    "focus_tokens": [
+      "baliza"
+    ],
+    "response": "El yunque sirve para reparar objetos, combinar encantamientos compatibles y renombrar equipo a cambio de niveles de experiencia. Tambien permite conservar encantamientos al reparar, aunque cada uso aumenta el coste futuro del objeto.",
+    "response_time_ms": 579.8,
+    "response_chars": 233,
+    "top_sources": [
+      "como_se_usa_un_yunque_en_minecraft.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un yunque?",
+    "focus": "yunque",
+    "focus_tokens": [
+      "yunque"
+    ],
+    "response": "Para usar un yunque, colocas el objeto principal en la ranura izquierda y el material, herramienta o libro encantado en la ranura central. El yunque sirve para reparar objetos, combinar encantamientos compatibles y renombrar equipo a cambio de niveles de experiencia.",
+    "response_time_ms": 664.95,
+    "response_chars": 267,
+    "top_sources": [
+      "yunque_uso_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 28,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una afiladora?",
+    "focus": "afiladora",
+    "focus_tokens": [
+      "afiladora"
+    ],
+    "response": "Que diferencia hay entre yunque, afiladora y mesa de encantamientos. El yunque sirve para reparar, combinar y renombrar, mientras que la afiladora quita encantamientos no malditos y devuelve algo de experiencia.",
+    "response_time_ms": 568.23,
+    "response_chars": 211,
+    "top_sources": [
+      "referencia_recursos_crafteo_y_utilidades_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 29,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un compostador?",
+    "focus": "compostador",
+    "focus_tokens": [
+      "compostador"
+    ],
+    "response": "El compostador convierte muchos objetos vegetales en bone meal. Ademas, funciona como bloque de trabajo del aldeano granjero.",
+    "response_time_ms": 571.2,
+    "response_chars": 125,
+    "top_sources": [
+      "compostador_funcionamiento_basico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un ahumador?",
+    "focus": "ahumador",
+    "focus_tokens": [
+      "ahumador"
+    ],
+    "response": "El carnicero usa ahumador.",
+    "response_time_ms": 572.68,
+    "response_chars": 26,
+    "top_sources": [
+      "aldeanos_profesiones.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un alto horno?",
+    "focus": "alto horno",
+    "focus_tokens": [
+      "alto",
+      "horno"
+    ],
+    "response": "El alto horno es más rápido para minerales y equipo metálico, pero no sirve para alimentos.",
+    "response_time_ms": 574.66,
+    "response_chars": 91,
+    "top_sources": [
+      "fundicion_y_combustible.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 32,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una tolva?",
+    "focus": "tolva",
+    "focus_tokens": [
+      "tolva"
+    ],
+    "response": "Los minecarts con tolva permiten recoger items rapidamente sobre railes o por debajo de bloques concretos.",
+    "response_time_ms": 674.61,
+    "response_chars": 106,
+    "top_sources": [
+      "tolva_vagoneta_uso.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 33,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un comparador de redstone?",
+    "focus": "comparador de redstone",
+    "focus_tokens": [
+      "comparador",
+      "redstone"
+    ],
+    "response": "El comparador de redstone sirve para leer la intensidad de una señal o el estado de algunos bloques y contenedores. Puede comparar una señal con otra o funcionar en modo resta.",
+    "response_time_ms": 573.63,
+    "response_chars": 176,
+    "top_sources": [
+      "comparador_redstone_funcionamiento_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 34,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un observador de redstone?",
+    "focus": "observador de redstone",
+    "focus_tokens": [
+      "observador",
+      "redstone"
+    ],
+    "response": "Un observador de redstone detecta cambios en el bloque que esta mirando y emite un pulso corto de redstone. Es especialmente util cuando quieres convertir un cambio automatico del mundo en una señal de redstone.",
+    "response_time_ms": 569.82,
+    "response_chars": 211,
+    "top_sources": [
+      "observador_redstone_uso_especifico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve una mesa de encantamientos?",
+    "focus": "mesa de encantamientos",
+    "focus_tokens": [
+      "mesa",
+      "encantamientos"
+    ],
+    "response": "Para hacer una mesa de encantamientos necesitas cuatro bloques de obsidiana, dos diamantes y un libro. La receta se hace en la mesa de crafteo. Despues, para usar la mesa de encantamientos necesitas tambien lapislazuli y niveles de experiencia.",
+    "response_time_ms": 577.0,
+    "response_chars": 244,
+    "top_sources": [
+      "mesa_de_encantamientos_requisitos_especificos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una mesa de cartografia?",
+    "focus": "mesa de cartografia",
+    "focus_tokens": [
+      "mesa",
+      "cartografia"
+    ],
+    "response": "La mesa de cartografia permite ampliar, copiar o bloquear mapas.",
+    "response_time_ms": 574.23,
+    "response_chars": 64,
+    "top_sources": [
+      "mapas_y_cartografia.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 37,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un telar?",
+    "focus": "telar",
+    "focus_tokens": [
+      "telar"
+    ],
+    "response": "El telar facilita crear patrones de estandarte.",
+    "response_time_ms": 689.35,
+    "response_chars": 47,
+    "top_sources": [
+      "estaciones_de_crafteo.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un conducto?",
+    "focus": "conducto",
+    "focus_tokens": [
+      "conducto"
+    ],
+    "response": "Respiration aumenta el tiempo que se puede respirar bajo el agua y reduce la presion de ahogo en exploracion submarina. Se aplica al casco y combina muy bien con Aqua Affinity o con una estrategia de conducto y pociones.",
+    "response_time_ms": 572.61,
+    "response_chars": 220,
+    "top_sources": [
+      "encantamientos_detalle_armadura_y_defensa.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un ancla de reaparicion?",
+    "focus": "ancla de reaparicion",
+    "focus_tokens": [
+      "ancla",
+      "reaparicion"
+    ],
+    "response": "Como funcionan las cargas del ancla de reaparicion. El ancla se carga con glowstone y permite reaparecer en el Nether, pero solo es segura alli.",
+    "response_time_ms": 551.33,
+    "response_chars": 144,
+    "top_sources": [
+      "referencia_recursos_crafteo_y_utilidades_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 40,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un cofre de Ender?",
+    "focus": "cofre de ender",
+    "focus_tokens": [
+      "cofre",
+      "ender"
+    ],
+    "response": "El cofre de Ender comparte inventario entre todos los cofres de Ender del mismo jugador, asi que puedes guardar objetos en uno y recuperarlos desde otro en cualquier lugar. Si quieres recolocarlo sin perder el bloque, conviene romperlo con Silk Touch.",
+    "response_time_ms": 563.4,
+    "response_chars": 251,
+    "top_sources": [
+      "cofre_de_ender_uso_especifico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve una hoguera?",
+    "focus": "hoguera",
+    "focus_tokens": [
+      "hoguera"
+    ],
+    "response": "La hoguera permite cocinar alimentos sin combustible continuo una vez colocada.",
+    "response_time_ms": 572.68,
+    "response_chars": 79,
+    "top_sources": [
+      "hoguera_cocina_y_humo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 42,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una mesa de herreria?",
+    "focus": "mesa de herreria",
+    "focus_tokens": [
+      "mesa",
+      "herreria"
+    ],
+    "response": "Como usar la mesa de herreria y por que es importante en versiones modernas. La mesa de herreria sirve para mejorar equipo de diamante a netherita y para aplicar plantillas de herreria segun la version.",
+    "response_time_ms": 580.02,
+    "response_chars": 202,
+    "top_sources": [
+      "referencia_recursos_crafteo_y_utilidades_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 43,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve un atril?",
+    "focus": "atril",
+    "focus_tokens": [
+      "atril"
+    ],
+    "response": "Para conseguir mejores libros encantados con bibliotecarios, una estrategia comun es colocar y romper repetidamente el atril hasta ver un primer intercambio interesante. Este metodo se conoce como reroll de bibliotecario y permite buscar encantamientos valiosos como Mending, Unbreaking o Efficiency.",
+    "response_time_ms": 682.2,
+    "response_chars": 300,
+    "top_sources": [
+      "bibliotecario_reroll_basico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 44,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una cama en Minecraft?",
+    "focus": "cama en minecraft",
+    "focus_tokens": [
+      "cama"
+    ],
+    "response": "La cama se fabrica con tres bloques de lana y tres tablones. La cama sirve para dormir en el Overworld y fijar el punto de respawn.",
+    "response_time_ms": 577.88,
+    "response_chars": 131,
+    "top_sources": [
+      "cama_receta_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 45,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve una linterna?",
+    "focus": "linterna",
+    "focus_tokens": [
+      "linterna"
+    ],
+    "response": "Las recompensas incluyen prismarine, linternas marinas y esponjas.",
+    "response_time_ms": 569.35,
+    "response_chars": 66,
+    "top_sources": [
+      "oceano_monumento_estrategia.txt"
+    ],
+    "flags": [
+      "purpose_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un escudo?",
+    "focus": "escudo",
+    "focus_tokens": [
+      "escudo"
+    ],
+    "response": "El escudo es una de las herramientas defensivas mas utiles del juego temprano y medio. Permite bloquear gran parte del daño frontal y reduce mucho el peligro de esqueletos y creepers.",
+    "response_time_ms": 575.82,
+    "response_chars": 183,
+    "top_sources": [
+      "uso_y_tiempo_del_escudo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 47,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve una brujula?",
+    "focus": "brujula",
+    "focus_tokens": [
+      "brujula"
+    ],
+    "response": "El mapa se fabrica normalmente con ocho hojas de papel y una brujula en la mesa de crafteo. El papel rodea la brujula, que va en la casilla central, y la receta produce un mapa.",
+    "response_time_ms": 576.5,
+    "response_chars": 177,
+    "top_sources": [
+      "mapa_receta_especifica.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace una perla de ender?",
+    "focus": "perla de ender",
+    "focus_tokens": [
+      "perla",
+      "ender"
+    ],
+    "response": "Un ojo de ender se fabrica con una perla de ender y blaze powder.",
+    "response_time_ms": 666.08,
+    "response_chars": 65,
+    "top_sources": [
+      "conceptos_basicos_del_ojo_de_ender.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Para que sirve una campana?",
+    "focus": "campana",
+    "focus_tokens": [
+      "campana"
+    ],
+    "response": "El herrero de herramientas usa mesa de herreria y puede ofrecer picos, palas, hachas, azadas y campanas o recursos relacionados segun nivel.",
+    "response_time_ms": 577.52,
+    "response_chars": 140,
+    "top_sources": [
+      "aldeanos_profesiones.txt"
+    ],
+    "flags": [
+      "purpose_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "purpose",
+    "question_type": "purpose",
+    "question": "Que hace un bloque de miel?",
+    "focus": "bloque de miel",
+    "focus_tokens": [
+      "bloque",
+      "miel"
+    ],
+    "response": "Los honey blocks son utiles para redstone y movimiento porque reducen deslizamiento y pueden arrastrar entidades junto con pistones. Se obtienen a partir de botellas de miel, por lo que conviene tener acceso estable a abejas.",
+    "response_time_ms": 561.65,
+    "response_chars": 225,
+    "top_sources": [
+      "bloque_de_miel_usos_basicos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona el comercio con aldeanos?",
+    "focus": "el comercio con aldeanos",
+    "focus_tokens": [
+      "comercio",
+      "aldeanos"
+    ],
+    "response": "El comercio con aldeanos puede sustituir parte del crafteo si se dispone de una buena infraestructura de esmeraldas. El comercio con aldeanos permite intercambiar objetos por esmeraldas y esmeraldas por objetos. Una sala de comercio ordenada facilita mucho el acceso a aldeanos clave. Separar aldeanos evita errores de cama y puesto de trabajo.",
+    "response_time_ms": 605.45,
+    "response_chars": 344,
+    "top_sources": [
+      "aldeanos_comercio.txt",
+      "aldeanos_comercio.txt",
+      "referencia_aldeanos_y_comercio_extensa_parte_1.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 52,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona el spawn de mobs?",
+    "focus": "el spawn de mobs",
+    "focus_tokens": [
+      "spawn",
+      "mobs"
+    ],
+    "response": "El spawn de mobs hostiles depende sobre todo de la luz, la distancia al jugador, el tipo de bloque disponible y los limites globales de mobs. La distancia al jugador importa para aparicion y despawn de mobs.",
+    "response_time_ms": 577.07,
+    "response_chars": 207,
+    "top_sources": [
+      "como_funciona_el_spawn_de_mobs.txt",
+      "spawn_de_mobs_funcionamiento_especifico.txt",
+      "referencia_mobs_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 53,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona la redstone basica?",
+    "focus": "la redstone basica",
+    "focus_tokens": [
+      "redstone",
+      "basica"
+    ],
+    "response": "La redstone básica permite crear puertas automáticas, iluminación por sensor, hornos automáticos simples y clasificadores de objetos. Una trampa con redstone puede construirse usando una entrada oculta, una señal de activacion y un mecanismo como pistones, TNT, flechas de dispensador o puertas trampa. Las antorchas de redstone son componentes clave para crear inversores, relojes sencillos y memorias basicas.",
+    "response_time_ms": 683.59,
+    "response_chars": 411,
+    "top_sources": [
+      "conceptos_basicos_de_redstone.txt",
+      "trampa_con_redstone_basica.txt",
+      "componentes_de_redstone.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 54,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como se usa un yunque en Minecraft?",
+    "focus": "yunque en minecraft",
+    "focus_tokens": [
+      "yunque"
+    ],
+    "response": "Para usar un yunque en Minecraft, colocas el objeto principal en la ranura izquierda y el material, herramienta o libro encantado en la ranura central. El yunque sirve para reparar objetos, combinar encantamientos compatibles y renombrar equipo a cambio de niveles de experiencia.",
+    "response_time_ms": 575.34,
+    "response_chars": 280,
+    "top_sources": [
+      "como_se_usa_un_yunque_en_minecraft.txt",
+      "transporte_opciones.txt",
+      "experiencia_fuentes.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 55,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como se usa una mesa de encantamientos?",
+    "focus": "mesa de encantamientos",
+    "focus_tokens": [
+      "mesa",
+      "encantamientos"
+    ],
+    "response": "Para hacer una mesa de encantamientos necesitas cuatro bloques de obsidiana, dos diamantes y un libro. Despues, para usar la mesa de encantamientos necesitas tambien lapislazuli y niveles de experiencia. La receta produce una mesa de encantamientos. Hay dos formas principales de aplicarlos: la mesa de encantamientos y el yunque.",
+    "response_time_ms": 562.27,
+    "response_chars": 330,
+    "top_sources": [
+      "mesa_de_encantamientos_requisitos_especificos.txt",
+      "mesa_de_encantamientos_receta.txt",
+      "encantamientos_flujo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 56,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona Reparacion?",
+    "focus": "reparacion",
+    "focus_tokens": [
+      "reparacion"
+    ],
+    "response": "El encantamiento Reparacion, tambien conocido como Mending, hace que la experiencia recogida repare automaticamente el objeto encantado en lugar de perderse toda en la barra del jugador. Para que funcione bien, el objeto con Reparacion debe estar equipado o en una posicion donde pueda recibir esa experiencia. Mending cambia completamente la economia de reparacion del jugador y reduce mucho el desgaste a largo plazo.",
+    "response_time_ms": 582.51,
+    "response_chars": 419,
+    "top_sources": [
+      "encantamiento_reparacion_especifico.txt",
+      "mending_reparacion_flujo.txt",
+      "mending_reparacion_flujo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 57,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona Fortuna?",
+    "focus": "fortuna",
+    "focus_tokens": [
+      "fortuna"
+    ],
+    "response": "El encantamiento Fortuna aumenta la cantidad de recursos que puedes obtener de ciertos minerales, cultivos y bloques al romperlos. Como elegir entre Toque de Seda y Fortuna. Toque de Seda conviene cuando interesa recoger el bloque tal cual o conservar variantes especiales, mientras que Fortuna mejora la obtencion de recursos en ciertos minerales, cultivos y drops. No hay un encantamiento universalmente mejor: depende de si se busca eficiencia de recoleccion o flexibilidad de almacenamiento y procesado.",
+    "response_time_ms": 572.18,
+    "response_chars": 507,
+    "top_sources": [
+      "encantamiento_fortuna_especifico.txt",
+      "referencia_recursos_crafteo_y_utilidades_extensa_parte_2.txt",
+      "referencia_supervivencia_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 58,
+    "category": "mechanics",
+    "question_type": "build",
+    "question": "Como se hace una granja automatica de hierro?",
+    "focus": "automatica de hierro",
+    "focus_tokens": [
+      "automatica",
+      "hierro"
+    ],
+    "response": "1. Una granja automatica de hierro moderna suele basarse en aldeanos y golems de hierro.\n2. Despues, los golems se empujan con agua hacia una zona de muerte o recogida automatica con lava, tolvas y cofres.",
+    "response_time_ms": 559.58,
+    "response_chars": 205,
+    "top_sources": [
+      "hierro_granja_mecanicas.txt",
+      "granja_de_hierro_pasos_especificos.txt",
+      "defensa_y_granjas_de_golems_de_hierro.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 59,
+    "category": "mechanics",
+    "question_type": "build",
+    "question": "Como se hace una granja de creepers?",
+    "focus": "creepers",
+    "focus_tokens": [
+      "creepers"
+    ],
+    "response": "1. Una granja automatica de creepers suele construirse con plataformas oscuras donde puedan aparecer creepers, mientras se limita o bloquea la aparicion de otros mobs.\n2. Despues, los creepers se dirigen con gatos, caidas o corrientes hacia una zona de muerte o recogida automatica.\n3. Frente a creepers normales, la obsidiana es una de las opciones mas practicas si quieres proteger zonas concretas de la base.\n4. Como funciona una granja de creepers en comparacion con una granja hostil general.",
+    "response_time_ms": 684.69,
+    "response_chars": 497,
+    "top_sources": [
+      "granja_de_creepers_funcionamiento_especifico.txt",
+      "bloques_resistentes_a_explosiones_de_creepers.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 60,
+    "category": "mechanics",
+    "question_type": "build",
+    "question": "Como se crea una granja automatica de cana de azucar?",
+    "focus": "automatica de cana de azucar",
+    "focus_tokens": [
+      "automatica",
+      "cana",
+      "azucar"
+    ],
+    "response": "1. Una granja automatica de cana de azucar suele usar agua, arena o tierra junto a agua, observadores, pistones y un sistema de recogida con tolvas o minecarts.\n2. Despues, los items caen a una linea de recogida y la cana vuelve a crecer de forma automatica.",
+    "response_time_ms": 583.45,
+    "response_chars": 258,
+    "top_sources": [
+      "granja_automatica_de_cana_de_azucar_especifica.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt",
+      "granja_de_pollos_funcionamiento_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 61,
+    "category": "mechanics",
+    "question_type": "build",
+    "question": "Como puedo organizar automaticamente cofres con redstone?",
+    "focus": "cofres con redstone",
+    "focus_tokens": [
+      "cofres",
+      "redstone"
+    ],
+    "response": "1. Para organizar automaticamente cofres con redstone, lo normal es usar un clasificador de objetos con una linea de tolvas, comparadores, antorchas de redstone y cofres de salida.\n2. Para que el sistema sea estable, conviene usar items de relleno, comprobar bien la señal del comparador y dejar acceso de mantenimiento a tolvas y cofres.",
+    "response_time_ms": 565.91,
+    "response_chars": 338,
+    "top_sources": [
+      "organizar_cofres_con_redstone_especifico.txt",
+      "organizar_cofres_con_redstone_especifico.txt",
+      "clasificador_redstone_pasos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 62,
+    "category": "mechanics",
+    "question_type": "general",
+    "question": "Como puedo hacer una puerta automatica?",
+    "focus": "como puedo hacer una puerta automatica",
+    "focus_tokens": [
+      "puerta",
+      "automatica"
+    ],
+    "response": "1. Una puerta automatica simple puede construirse con una puerta de hierro y dos placas de presion, una a cada lado.\n2. Para una puerta automatica simple, lo mas importante es que la senal llegue correctamente al bloque o mecanismo de apertura.\n3. Una puerta automatica de redstone funciona usando una entrada, una senal y un mecanismo de apertura.",
+    "response_time_ms": 571.54,
+    "response_chars": 348,
+    "top_sources": [
+      "automatica_redstone_puerta.txt",
+      "automatica_redstone_puerta.txt",
+      "automatica_redstone_puerta.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 63,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona un observador de redstone?",
+    "focus": "observador de redstone",
+    "focus_tokens": [
+      "observador",
+      "redstone"
+    ],
+    "response": "Un observador de redstone detecta cambios en el bloque que esta mirando y emite un pulso corto de redstone. Como usar un observador de redstone de forma util. Una trampa con redstone puede construirse usando una entrada oculta, una señal de activacion y un mecanismo como pistones, TNT, flechas de dispensador o puertas trampa.",
+    "response_time_ms": 618.79,
+    "response_chars": 327,
+    "top_sources": [
+      "observador_redstone_uso_especifico.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "trampa_con_redstone_basica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 64,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona un comparador de redstone?",
+    "focus": "comparador de redstone",
+    "focus_tokens": [
+      "comparador",
+      "redstone"
+    ],
+    "response": "El comparador de redstone sirve para leer la intensidad de una señal o el estado de algunos bloques y contenedores. Que diferencia hay entre un repetidor y un comparador de redstone. El comparador, en cambio, puede leer intensidad de señal de contenedores y bloques especiales, comparar dos entradas o funcionar en modo resta. Para que sea estable, conviene usar items de relleno y comprobar bien la señal del comparador en cada modulo.",
+    "response_time_ms": 566.21,
+    "response_chars": 436,
+    "top_sources": [
+      "comparador_redstone_funcionamiento_especifico.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "clasificador_redstone_pasos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 65,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como puedo mover aldeanos de un lugar a otro?",
+    "focus": "aldeanos de un lugar a otro",
+    "focus_tokens": [
+      "aldeanos",
+      "lugar",
+      "otro"
+    ],
+    "response": "Para mover aldeanos de un lugar a otro, las opciones mas practicas suelen ser barcas y minecarts. Tambien puedes usar agua, empujes y caminos protegidos para trasladar aldeanos, pero lo importante es evitar zombies, caidas y escapes durante el proceso.",
+    "response_time_ms": 705.98,
+    "response_chars": 252,
+    "top_sources": [
+      "mover_aldeanos_transporte_especifico.txt",
+      "mover_aldeanos_transporte_especifico.txt",
+      "referencia_aldeanos_y_comercio_extensa_parte_1.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 66,
+    "category": "mechanics",
+    "question_type": "general",
+    "question": "Como puedo dormir en Minecraft?",
+    "focus": "como puedo dormir en minecraft",
+    "focus_tokens": [
+      "dormir"
+    ],
+    "response": "1. Para dormir en Minecraft normalmente necesitas una cama colocada en una zona segura del Overworld.\n2. Puedes usar la cama de noche o durante una tormenta.\n3. No puedes dormir si hay monstruos hostiles cerca.\n4. Dormir adelanta la noche y fija tu punto de respawn en esa cama.",
+    "response_time_ms": 573.95,
+    "response_chars": 278,
+    "top_sources": [
+      "dormir_en_minecraft_especifico.txt",
+      "sueno_y_camas.txt",
+      "cama_sueno_y_explosiones.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 67,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona una granja de Enderman?",
+    "focus": "granja de enderman",
+    "focus_tokens": [
+      "granja",
+      "enderman"
+    ],
+    "response": "Una granja de Enderman suele construirse en el End, lejos de la isla principal, para controlar mejor el spawn. Una granja de Enderman suele funcionar aprovechando la gran cantidad de endermen que pueden aparecer en el End. Para reparar equipo con Mending y ganar niveles, una granja de Enderman es una de las mejores inversiones del juego tardio.",
+    "response_time_ms": 569.23,
+    "response_chars": 346,
+    "top_sources": [
+      "granja_de_enderman_funcionamiento_especifico.txt",
+      "enderman_granja_funcionamiento_especifico.txt",
+      "conceptos_basicos_de_granja_de_enderman.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 68,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona una granja de Blaze?",
+    "focus": "granja de blaze",
+    "focus_tokens": [
+      "granja",
+      "blaze"
+    ],
+    "response": "Una granja de blazes suele construirse alrededor de un spawner en una fortaleza del Nether. Estas granjas son muy utiles para experiencia, blaze rods y progresion de pociones. Una buena granja de Blaze acelera mucho el acceso a pociones y experiencia. Las granjas de Blaze suelen construirse alrededor de spawners en fortalezas del Nether.",
+    "response_time_ms": 589.62,
+    "response_chars": 339,
+    "top_sources": [
+      "granja_de_blaze_funcionamiento_especifico.txt",
+      "conceptos_basicos_de_granja_de_blazes.txt",
+      "conceptos_basicos_de_granja_de_blazes.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 69,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona una granja automatica de trigo?",
+    "focus": "granja automatica de trigo",
+    "focus_tokens": [
+      "granja",
+      "automatica",
+      "trigo"
+    ],
+    "response": "Las granjas de bambu siguen una logica parecida. Una granja de trigo automatica completa es menos trivial porque replantar requiere aldeanos o intervencion. Las granjas semiautomaticas de trigo suelen limitarse a cosecha rapida con agua. Una granja de trigo basica necesita tierra, agua, una azada y semillas de trigo.",
+    "response_time_ms": 576.81,
+    "response_chars": 318,
+    "top_sources": [
+      "referencia_redstone_y_granjas_extensa_parte_1.txt",
+      "trigo_granja_basico.txt",
+      "trigo_granja_ampliado.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 70,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona un clasificador de objetos con tolvas?",
+    "focus": "clasificador de objetos con tolvas",
+    "focus_tokens": [
+      "clasificador",
+      "objetos",
+      "tolvas"
+    ],
+    "response": "Un clasificador de items sencillo suele usar una tolva de entrada, un comparador, una antorcha de redstone y una tolva de salida bloqueada por la señal. Como funciona un clasificador de objetos con redstone. Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto. Como usar tolvas y vagonetas con tolva para transporte automatico.",
+    "response_time_ms": 670.3,
+    "response_chars": 429,
+    "top_sources": [
+      "clasificador_de_items_sencillo_especifico.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 71,
+    "category": "mechanics",
+    "question_type": "general",
+    "question": "Como se activa un portal del End?",
+    "focus": "como se activa un portal del end",
+    "focus_tokens": [
+      "se",
+      "activa",
+      "portal",
+      "end"
+    ],
+    "response": "1. El portal del End no se fabrica desde cero como un portal del Nether, porque ya aparece generado dentro de una stronghold.\n2. El portal del End necesita ojos de ender para activarse si no esta completo.\n3. Se accede al End activando un portal en una stronghold con ojos de ender.",
+    "response_time_ms": 573.32,
+    "response_chars": 282,
+    "top_sources": [
+      "materiales_para_portal_del_end_especifico.txt",
+      "fortalezas_y_portal_del_end.txt",
+      "dimension_end.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 72,
+    "category": "mechanics",
+    "question_type": "build",
+    "question": "Como se construye un portal del Nether?",
+    "focus": "portal del nether",
+    "focus_tokens": [
+      "portal",
+      "nether"
+    ],
+    "response": "1. Para construir un portal del Nether necesitas formar un marco de obsidiana de al menos cuatro bloques de alto por cinco de ancho contando las esquinas.\n2. Un portal del Nether funciona enlazando una posicion del Overworld con otra del Nether segun la relacion de coordenadas entre ambas dimensiones.\n3. Un portal del Nether se construye normalmente con obsidiana en forma de marco vertical.",
+    "response_time_ms": 554.72,
+    "response_chars": 393,
+    "top_sources": [
+      "portal_del_nether_construccion_especifica.txt",
+      "portal_del_nether_funcionamiento_especifico.txt",
+      "viaje_por_portales_del_nether.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 73,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona una baliza?",
+    "focus": "baliza",
+    "focus_tokens": [
+      "baliza"
+    ],
+    "response": "Para hacer una baliza o beacon necesitas tres bloques de obsidiana, cinco bloques de cristal y una estrella del Nether. La baliza se fabrica colocando la estrella del Nether en el centro, tres bloques de obsidiana en la fila inferior y cinco bloques de cristal en las casillas restantes. El Wither es un jefe invocado por el jugador usando arena de almas y craneos de wither skeleton. Su derrota da la estrella del Nether, necesaria para fabricar una baliza.",
+    "response_time_ms": 570.01,
+    "response_chars": 458,
+    "top_sources": [
+      "baliza_materiales_especificos.txt",
+      "wither_mob_especifico.txt",
+      "baliza_mecanicas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 74,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como se usa una mesa de cartografia?",
+    "focus": "mesa de cartografia",
+    "focus_tokens": [
+      "mesa",
+      "cartografia"
+    ],
+    "response": "La mesa de cartografia permite ampliar, copiar o bloquear mapas. La mesa de cartografia se fabrica con dos hojas de papel arriba y cuatro tablones ocupando las dos filas inferiores. La receta produce una mesa de cartografia. Como usar mejor los mapas y la cartografia.",
+    "response_time_ms": 570.25,
+    "response_chars": 268,
+    "top_sources": [
+      "mapas_y_cartografia.txt",
+      "recetas_de_crafteo.txt",
+      "referencia_preguntas_frecuentes_minecraft_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 75,
+    "category": "mechanics",
+    "question_type": "mechanic",
+    "question": "Como funciona la reputacion con aldeanos?",
+    "focus": "la reputacion con aldeanos",
+    "focus_tokens": [
+      "reputacion",
+      "aldeanos"
+    ],
+    "response": "Dañar aldeanos, causar problemas en la aldea o comportarse de forma hostil puede empeorar la reputación. La reputación del jugador en una aldea influye en cómo reaccionan algunos aldeanos y golems. La reputación no solo depende de una acción aislada, sino del historial reciente del jugador con la aldea.",
+    "response_time_ms": 567.39,
+    "response_chars": 304,
+    "top_sources": [
+      "aldeanos_reputacion.txt",
+      "aldeanos_reputacion.txt",
+      "aldeanos_reputacion.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 76,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como puedo conseguir diamantes rapidamente?",
+    "focus": "diamantes rapidamente",
+    "focus_tokens": [
+      "diamantes",
+      "rapidamente"
+    ],
+    "response": "Llevar antorchas, cubo de agua, comida y un pico de repuesto mejora mucho la busqueda de diamantes. Para extraer diamantes hace falta un pico de hierro o superior. Los diamantes aparecen incrustados en bloques de deepslate o piedra profunda a esas alturas.",
+    "response_time_ms": 672.55,
+    "response_chars": 256,
+    "top_sources": [
+      "diamante_mineria.txt",
+      "diamante_mineria.txt",
+      "diamante_mineria.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 77,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como puedo conseguir netherita?",
+    "focus": "netherita",
+    "focus_tokens": [
+      "netherita"
+    ],
+    "response": "La netherita no se obtiene como herramienta o armadura directa desde cero. La netherita se obtiene a partir de ancient debris encontrado en el Nether. El ancient debris se funde para obtener fragmentos de netherita.",
+    "response_time_ms": 568.47,
+    "response_chars": 215,
+    "top_sources": [
+      "ruta_de_mejora_a_netherita.txt",
+      "restos_de_netherita_y_mejora.txt",
+      "ruta_de_mejora_a_netherita.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 78,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como puedo conseguir esmeraldas facilmente?",
+    "focus": "esmeraldas facilmente",
+    "focus_tokens": [
+      "esmeraldas",
+      "facilmente"
+    ],
+    "response": "La forma mas rapida y estable de conseguir esmeraldas suele ser comerciar con aldeanos. Tambien se pueden conseguir esmeraldas minando en biomas de montaña, pero el comercio suele ser la opcion mas eficiente a largo plazo. Un pico con Fortune sirve mejor para conseguir más diamantes, carbón, redstone, lapislázuli o esmeraldas. Las esmeraldas suelen conseguirse facilmente con granjeros, flecheros, albañiles o bibliotecarios segun los recursos disponibles.",
+    "response_time_ms": 576.04,
+    "response_chars": 458,
+    "top_sources": [
+      "esmeraldas_conseguir_rapido_especifico.txt",
+      "encantamientos_herramientas.txt",
+      "aldeanos_comercio.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 79,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo ancient debris?",
+    "focus": "ancient debris",
+    "focus_tokens": [
+      "ancient",
+      "debris"
+    ],
+    "response": "El ancient debris se funde para obtener fragmentos de netherita. La netherita se obtiene a partir de ancient debris encontrado en el Nether.",
+    "response_time_ms": 582.86,
+    "response_chars": 140,
+    "top_sources": [
+      "ruta_de_mejora_a_netherita.txt",
+      "minerales_y_recursos_minerales.txt",
+      "restos_de_netherita_y_mejora.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 80,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Donde puedo encontrar una stronghold?",
+    "focus": "una stronghold",
+    "focus_tokens": [
+      "stronghold"
+    ],
+    "response": "La forma normal de encontrar una stronghold es usar ojos de ender y seguir la direccion en la que vuelan. Encontrar una stronghold es obligatorio para activar el portal del End y luchar contra la Ender Dragon. Cuando los ojos empiezan a quedarse sobre una zona y bajar, suele significar que la stronghold esta debajo de ese punto. Como encontrar una stronghold y llegar al End.",
+    "response_time_ms": 559.09,
+    "response_chars": 377,
+    "top_sources": [
+      "stronghold_como_encontrarla.txt",
+      "fortaleza_del_end_como_encontrarla.txt",
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 81,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como encuentro una fortaleza del Nether?",
+    "focus": "una fortaleza del nether",
+    "focus_tokens": [
+      "fortaleza",
+      "nether"
+    ],
+    "response": "Para encontrar una fortaleza del Nether conviene explorar amplias zonas del Nether y buscar estructuras largas de ladrillos del Nether. Encontrar una fortaleza del Nether es importante porque alli aparecen blazes y wither skeletons. Por eso, encontrar una fortaleza del Nether y obtener blaze rods suele ser un paso obligatorio en la progresion principal del juego.",
+    "response_time_ms": 684.89,
+    "response_chars": 365,
+    "top_sources": [
+      "fortaleza_del_nether_como_encontrarla.txt",
+      "fortaleza_del_nether_como_encontrarla_corta.txt",
+      "usos_de_las_blaze_rods.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 82,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde aparece un bastion remnant?",
+    "focus": "un bastion remnant",
+    "focus_tokens": [
+      "bastion",
+      "remnant"
+    ],
+    "response": "El bastion remanente es una gran estructura del Nether llena de piglins, piglin brutes y botin muy valioso. Explorarla bien puede acelerar mucho la progresion, pero tambien es una de las zonas mas peligrosas del Nether.",
+    "response_time_ms": 581.72,
+    "response_chars": 219,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 83,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo blaze rods?",
+    "focus": "blaze rods",
+    "focus_tokens": [
+      "blaze",
+      "rods"
+    ],
+    "response": "Las blaze rods son un recurso clave del Nether. Se obtienen al derrotar blazes, normalmente en fortalezas del Nether. Sin blaze rods no puedes progresar de forma normal hacia el End, porque los ojos de ender requieren blaze powder para su fabricacion. Por eso, encontrar una fortaleza del Nether y obtener blaze rods suele ser un paso obligatorio en la progresion principal del juego.",
+    "response_time_ms": 573.71,
+    "response_chars": 384,
+    "top_sources": [
+      "usos_de_las_blaze_rods.txt",
+      "usos_de_las_blaze_rods.txt",
+      "usos_de_las_blaze_rods.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 84,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo ender pearls?",
+    "focus": "ender pearls",
+    "focus_tokens": [
+      "ender",
+      "pearls"
+    ],
+    "response": "Las ender pearls se consiguen sobre todo derrotando endermen o mediante ciertos intercambios. Combinadas con blaze powder, las ender pearls se convierten en ojos de ender.",
+    "response_time_ms": 575.72,
+    "response_chars": 171,
+    "top_sources": [
+      "progresion_con_perlas_de_ender_y_fortalezas.txt",
+      "progresion_con_perlas_de_ender_y_fortalezas.txt",
+      "clerigo_y_ender_perla_intercambios.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 85,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como se consigue obsidiana?",
+    "focus": "obsidiana",
+    "focus_tokens": [
+      "obsidiana"
+    ],
+    "response": "Para recoger obsidiana suele hacer falta un pico de diamante o netherita. La obsidiana se crea normalmente cuando el agua entra en contacto con un bloque fuente de lava. El cubo de agua es una herramienta muy importante para crear obsidiana de forma segura en el Overworld.",
+    "response_time_ms": 570.41,
+    "response_chars": 273,
+    "top_sources": [
+      "creacion_de_portales_y_obsidiana.txt",
+      "creacion_de_portales_y_obsidiana.txt",
+      "creacion_de_portales_y_obsidiana.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 86,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde encontrar slime?",
+    "focus": "slime",
+    "focus_tokens": [
+      "slime"
+    ],
+    "response": "El slime aparece en ciertos chunks o pantanos y se divide en tamaños menores al recibir dano. Es muy importante por las bolas de slime y las granjas asociadas a este recurso.",
+    "response_time_ms": 572.57,
+    "response_chars": 174,
+    "top_sources": [
+      "slime_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 87,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde encontrar amatista?",
+    "focus": "amatista",
+    "focus_tokens": [
+      "amatista"
+    ],
+    "response": "Para aprovecharlo bien, necesitas que el objeto con mending este equipado o en una posicion donde pueda recibir experiencia de forma adecuada.",
+    "response_time_ms": 674.24,
+    "response_chars": 142,
+    "top_sources": [
+      "mending_reparacion_flujo.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como se consigue lapislazuli?",
+    "focus": "lapislazuli",
+    "focus_tokens": [
+      "lapislazuli"
+    ],
+    "response": "El lapislazuli se consigue minando mineral de lapislazuli en capas subterraneas del Overworld. El lapislazuli es importante porque se usa en la mesa de encantamientos.",
+    "response_time_ms": 562.92,
+    "response_chars": 167,
+    "top_sources": [
+      "lapislazuli_obtencion_especifica.txt",
+      "lapislazuli_y_encantamientos_suministro.txt",
+      "lapislazuli_y_encantamientos_suministro.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 89,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo una silla de montar?",
+    "focus": "una silla de montar",
+    "focus_tokens": [
+      "silla",
+      "montar"
+    ],
+    "response": "Una vez domesticado, al burro se le puede poner silla para montarlo y tambien un cofre para usarlo como animal de carga. Para domesticar un caballo primero debes montarlo varias veces sin silla hasta que deje de tirarte y aparezcan particulas de corazon. Cuando ya esta domesticado, puedes ponerle una silla para controlarlo y, si quieres, tambien armadura de caballo. Las sillas no se fabrican normalmente y suelen obtenerse de cofres, pesca o comercio segun contexto.",
+    "response_time_ms": 562.68,
+    "response_chars": 469,
+    "top_sources": [
+      "burro_domesticacion_especifica.txt",
+      "caballo_domesticacion_especifica.txt",
+      "transporte_con_camellos_y_caballos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 90,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo nether wart?",
+    "focus": "nether wart",
+    "focus_tokens": [
+      "nether",
+      "wart"
+    ],
+    "response": "Las fortalezas tambien contienen nether wart, necesaria para la mayoria de pociones utiles. Las fortalezas tambien suelen contener nether wart, base de muchas pociones utiles.",
+    "response_time_ms": 551.04,
+    "response_chars": 175,
+    "top_sources": [
+      "estructuras_del_nether_y_del_end.txt",
+      "farmeo_de_verrugas_del_nether.txt",
+      "fortalezas_del_nether_y_blazes.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 91,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo un caparazon de tortuga?",
+    "focus": "un caparazon de tortuga",
+    "focus_tokens": [
+      "caparazon",
+      "tortuga"
+    ],
+    "response": "Las tortugas permiten progresar hacia caparazon de tortuga y ciertos usos avanzados relacionados con agua. La tortuga es un mob pasivo costero que pone huevos en playas. Sus scutes sirven para fabricar casco de tortuga, util para exploracion acuática y respiracion corta bajo el agua. Las tortugas se reproducen con hierba marina.",
+    "response_time_ms": 585.93,
+    "response_chars": 330,
+    "top_sources": [
+      "mobs_pasivos.txt",
+      "tortuga_mob_especifico.txt",
+      "animales_cria_alimentos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 92,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como se consigue miel?",
+    "focus": "miel",
+    "focus_tokens": [
+      "miel"
+    ],
+    "response": "Se obtienen a partir de botellas de miel, por lo que conviene tener acceso estable a abejas. La miel se recoge con botellas cuando el nido o colmena tiene suficiente nivel. La miel sirve para bloques de miel, botellas de miel y ciertos usos alimenticios o tecnicos.",
+    "response_time_ms": 565.59,
+    "response_chars": 265,
+    "top_sources": [
+      "bloque_de_miel_usos_basicos.txt",
+      "miel_y_abeja_farmeo.txt",
+      "miel_y_abeja_farmeo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 93,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde encontrar suspicious sand?",
+    "focus": "suspicious sand",
+    "focus_tokens": [
+      "suspicious",
+      "sand"
+    ],
+    "response": "Suspicious sand y suspicious gravel son bloques especiales que pueden contener loot arqueologico. Suelen encontrarse en ruinas, desert temples, ocean ruins y algunas estructuras antiguas.",
+    "response_time_ms": 695.97,
+    "response_chars": 187,
+    "top_sources": [
+      "suspicious_sand_y_gravel_basico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 94,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde aparece un spawner?",
+    "focus": "un spawner",
+    "focus_tokens": [
+      "spawner"
+    ],
+    "response": "En la sala del portal del End suele haber un spawner de silverfish, por lo que es buena idea controlarlo cuanto antes.",
+    "response_time_ms": 575.81,
+    "response_chars": 118,
+    "top_sources": [
+      "lepismas_y_infestados_bloques.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 95,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo prismarine?",
+    "focus": "prismarine",
+    "focus_tokens": [
+      "prismarine"
+    ],
+    "response": "El conduit es un bloque util para exploracion submarina porque da vision mejorada, respiracion y velocidad de minado bajo el agua cerca de su estructura activa. Para activarlo se coloca en el centro de una estructura hecha con bloques de prismarina, prismarine bricks, dark prismarine o sea lanterns. Las recompensas incluyen prismarine, linternas marinas y esponjas. La prismarine y las sea lanterns se asocian a monumentos oceanicos y guardians.",
+    "response_time_ms": 549.64,
+    "response_chars": 447,
+    "top_sources": [
+      "conducto_funcionamiento_especifico.txt",
+      "oceano_monumento_estrategia.txt",
+      "prismarina_y_faroles_marinos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 96,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Donde encuentro una ancient city?",
+    "focus": "una ancient city",
+    "focus_tokens": [
+      "ancient",
+      "city"
+    ],
+    "response": "Explorar una ancient city requiere moverse despacio, evitar activar shriekers y llevar bloques de lana para amortiguar vibraciones. Como prepararse para una ancient city o para el Warden. La ancient city ofrece botin valioso, pero no conviene tratarla como una estructura de combate directo si se quiere sobrevivir. La ancient city es una estructura enorme del deep dark asociada a sculk, sensores y shriekers, y por tanto al Warden.",
+    "response_time_ms": 575.67,
+    "response_chars": 433,
+    "top_sources": [
+      "ancient_city_exploracion_basica.txt",
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt",
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 97,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde encontrar una trial chamber?",
+    "focus": "una trial chamber",
+    "focus_tokens": [
+      "trial",
+      "chamber"
+    ],
+    "response": "Las trial chambers son una estructura moderna orientada a combate, botin y retos repetibles. Su valor depende de la version y de los recursos o experiencia que busques.",
+    "response_time_ms": 576.51,
+    "response_chars": 168,
+    "top_sources": [
+      "prueba_camaras_recompensas_y_riesgos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 98,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como consigo un Elytra?",
+    "focus": "un elytra",
+    "focus_tokens": [
+      "elytra"
+    ],
+    "response": "La elytra se consigue normalmente en un end ship que aparece junto a algunas end cities en las islas exteriores del End. Para llegar hasta ella, primero debes derrotar a la Ender Dragon o acceder al End exterior, explorar una end city con barco y recoger la elytra del marco donde aparece expuesta. Como buscar end cities y conseguir Elytra.",
+    "response_time_ms": 680.25,
+    "response_chars": 341,
+    "top_sources": [
+      "como_puedo_conseguir_un_elytra.txt",
+      "como_puedo_conseguir_un_elytra.txt",
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 99,
+    "category": "obtain_location",
+    "question_type": "location",
+    "question": "Donde encontrar un ocean monument?",
+    "focus": "un ocean monument",
+    "focus_tokens": [
+      "ocean",
+      "monument"
+    ],
+    "response": "Los monumentos oceanicos suelen encontrarse en biomas de oceano profundo. Conviene llevar respiracion acuática, vision nocturna y bloques si planeas entrar nada mas encontrarlos.",
+    "response_time_ms": 585.45,
+    "response_chars": 178,
+    "top_sources": [
+      "monumento_oceanico_localizacion_especifica.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "obtain_location",
+    "question_type": "obtain",
+    "question": "Como conseguir un corazon del mar?",
+    "focus": "un corazon del mar",
+    "focus_tokens": [
+      "corazon",
+      "mar"
+    ],
+    "response": "El conduit se fabrica usando un corazon del mar y caparazones de nautilus. El corazon del mar se obtiene normalmente en tesoros enterrados, mientras que los caparazones de nautilus se consiguen pescando, comerciando o matando ahogados con suerte. Despues de fabricarlo, el conduit necesita una estructura de prismarina para activarse. El corazon del mar es un componente esencial para el conduit.",
+    "response_time_ms": 546.61,
+    "response_chars": 396,
+    "top_sources": [
+      "conducto_receta_y_componentes.txt",
+      "conducto_y_submarina_supervivencia.txt",
+      "enterrado_tesoro_y_mapas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 101,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una espada?",
+    "focus": "espada",
+    "focus_tokens": [
+      "espada"
+    ],
+    "response": "1. Una espada puede llevar Sharpness, Smite, Bane of Arthropods, Knockback, Fire Aspect, Looting, Sweeping Edge, Unbreaking, Mending y Curse of Vanishing.\n2. Si la pregunta es que encantamientos puede tener una espada, esa es la lista principal en supervivencia normal.",
+    "response_time_ms": 582.36,
+    "response_chars": 269,
+    "top_sources": [
+      "espada_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 102,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un pico?",
+    "focus": "pico",
+    "focus_tokens": [
+      "pico"
+    ],
+    "response": "Un pico puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 574.23,
+    "response_chars": 95,
+    "top_sources": [
+      "pico_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 103,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un hacha?",
+    "focus": "hacha",
+    "focus_tokens": [
+      "hacha"
+    ],
+    "response": "Un hacha puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing como herramienta, y tambien Sharpness, Smite o Bane of Arthropods como arma.",
+    "response_time_ms": 687.81,
+    "response_chars": 172,
+    "top_sources": [
+      "hacha_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 104,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una pala?",
+    "focus": "pala",
+    "focus_tokens": [
+      "pala"
+    ],
+    "response": "Una pala puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 574.51,
+    "response_chars": 96,
+    "top_sources": [
+      "pala_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 105,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una azada?",
+    "focus": "azada",
+    "focus_tokens": [
+      "azada"
+    ],
+    "response": "Una azada puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 583.16,
+    "response_chars": 97,
+    "top_sources": [
+      "azada_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 106,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un casco?",
+    "focus": "casco",
+    "focus_tokens": [
+      "casco"
+    ],
+    "response": "Un casco puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Respiration, Aqua Affinity, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.",
+    "response_time_ms": 574.23,
+    "response_chars": 187,
+    "top_sources": [
+      "casco_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 107,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una pechera?",
+    "focus": "pechera",
+    "focus_tokens": [
+      "pechera"
+    ],
+    "response": "Una pechera puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.",
+    "response_time_ms": 580.87,
+    "response_chars": 162,
+    "top_sources": [
+      "pechera_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 108,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener unos pantalones?",
+    "focus": "unos pantalones",
+    "focus_tokens": [
+      "pantalones"
+    ],
+    "response": "1. Unos pantalones pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Swift Sneak, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.\n2. Swift Sneak es el encantamiento mas distintivo de esta pieza.",
+    "response_time_ms": 692.25,
+    "response_chars": 248,
+    "top_sources": [
+      "pantalones_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 109,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener unas botas?",
+    "focus": "unas botas",
+    "focus_tokens": [
+      "botas"
+    ],
+    "response": "1. Unas botas pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Feather Falling, Depth Strider, Frost Walker, Soul Speed, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.\n2. En botas hay bastante competencia entre encantamientos de movilidad y supervivencia.",
+    "response_time_ms": 568.64,
+    "response_chars": 311,
+    "top_sources": [
+      "botas_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 110,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un arco?",
+    "focus": "arco",
+    "focus_tokens": [
+      "arco"
+    ],
+    "response": "Punch aumenta el retroceso que provoca una flecha del arco.",
+    "response_time_ms": 574.37,
+    "response_chars": 59,
+    "top_sources": [
+      "encantamientos_detalle_arco_ballesta_y_tridente.txt"
+    ],
+    "flags": [
+      "enchantments_weak"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una ballesta?",
+    "focus": "ballesta",
+    "focus_tokens": [
+      "ballesta"
+    ],
+    "response": "Una ballesta puede llevar Quick Charge, Multishot, Piercing, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 605.17,
+    "response_chars": 102,
+    "top_sources": [
+      "ballesta_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 112,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un tridente?",
+    "focus": "tridente",
+    "focus_tokens": [
+      "tridente"
+    ],
+    "response": "Unbreaking y Mending son muy útiles en arcos, ballestas y tridentes porque reducen reparaciones frecuentes.",
+    "response_time_ms": 588.23,
+    "response_chars": 107,
+    "top_sources": [
+      "encantamientos_arco_ballesta_tridente.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una cana de pescar?",
+    "focus": "cana de pescar",
+    "focus_tokens": [
+      "cana",
+      "pescar"
+    ],
+    "response": "Una cana de pescar puede llevar Luck of the Sea, Lure, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 589.08,
+    "response_chars": 96,
+    "top_sources": [
+      "cana_de_pescar_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 114,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una Elytra?",
+    "focus": "elytra",
+    "focus_tokens": [
+      "elytra"
+    ],
+    "response": "La Elytra puede llevar Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 691.61,
+    "response_chars": 64,
+    "top_sources": [
+      "elytra_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 115,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un escudo?",
+    "focus": "escudo",
+    "focus_tokens": [
+      "escudo"
+    ],
+    "response": "Un escudo puede llevar Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 581.05,
+    "response_chars": 64,
+    "top_sources": [
+      "escudo_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 116,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una maza?",
+    "focus": "maza",
+    "focus_tokens": [
+      "maza"
+    ],
+    "response": "Una maza puede llevar Density, Breach, Wind Burst, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 583.78,
+    "response_chars": 92,
+    "top_sources": [
+      "maza_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 117,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener unas tijeras?",
+    "focus": "unas tijeras",
+    "focus_tokens": [
+      "tijeras"
+    ],
+    "response": "Las tijeras pueden llevar Efficiency, Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 587.64,
+    "response_chars": 79,
+    "top_sources": [
+      "tijeras_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 118,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un mechero?",
+    "focus": "mechero",
+    "focus_tokens": [
+      "mechero"
+    ],
+    "response": "El mechero o encendedor puede llevar Unbreaking, Mending y Curse of Vanishing.",
+    "response_time_ms": 693.88,
+    "response_chars": 78,
+    "top_sources": [
+      "mechero_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 119,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una armadura de caballo?",
+    "focus": "armadura de caballo",
+    "focus_tokens": [
+      "armadura",
+      "caballo"
+    ],
+    "response": "1. La armadura de caballo no tiene una lista normal de encantamientos como la armadura del jugador.\n2. Si alguien pregunta que encantamientos puede tener una armadura de caballo, la respuesta habitual es que no se trata como una pieza encantable estandar en survival.",
+    "response_time_ms": 567.91,
+    "response_chars": 267,
+    "top_sources": [
+      "armadura_de_caballo_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 120,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un casco de tortuga?",
+    "focus": "casco de tortuga",
+    "focus_tokens": [
+      "casco",
+      "tortuga"
+    ],
+    "response": "Un casco puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Respiration, Aqua Affinity, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.",
+    "response_time_ms": 588.46,
+    "response_chars": 187,
+    "top_sources": [
+      "casco_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 121,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una espada de netherita?",
+    "focus": "espada de netherita",
+    "focus_tokens": [
+      "espada",
+      "netherita"
+    ],
+    "response": "1. Una espada puede llevar Sharpness, Smite, Bane of Arthropods, Knockback, Fire Aspect, Looting, Sweeping Edge, Unbreaking, Mending y Curse of Vanishing.\n2. Si la pregunta es que encantamientos puede tener una espada, esa es la lista principal en supervivencia normal.",
+    "response_time_ms": 583.3,
+    "response_chars": 269,
+    "top_sources": [
+      "espada_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 122,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un pico de diamante?",
+    "focus": "pico de diamante",
+    "focus_tokens": [
+      "pico",
+      "diamante"
+    ],
+    "response": "1. Para un pico, los encantamientos mas utiles suelen ser Efficiency, Unbreaking y Mending.\n2. Fortune es mejor si quieres multiplicar minerales como diamantes, carbon o redstone, mientras que Silk Touch conviene si quieres recoger el bloque tal cual.\n3. Fortune y Silk Touch no pueden ir juntos en el mismo pico, asi que normalmente se usan picos distintos.",
+    "response_time_ms": 583.23,
+    "response_chars": 358,
+    "top_sources": [
+      "encantamientos_pico_mejores_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 123,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener un hacha de netherita?",
+    "focus": "hacha de netherita",
+    "focus_tokens": [
+      "hacha",
+      "netherita"
+    ],
+    "response": "Un hacha puede llevar Efficiency, Silk Touch, Fortune, Unbreaking, Mending y Curse of Vanishing como herramienta, y tambien Sharpness, Smite o Bane of Arthropods como arma.",
+    "response_time_ms": 791.72,
+    "response_chars": 172,
+    "top_sources": [
+      "hacha_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 124,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener unas botas de netherita?",
+    "focus": "unas botas de netherita",
+    "focus_tokens": [
+      "botas",
+      "netherita"
+    ],
+    "response": "1. Unas botas pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Feather Falling, Depth Strider, Frost Walker, Soul Speed, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.\n2. En botas hay bastante competencia entre encantamientos de movilidad y supervivencia.",
+    "response_time_ms": 544.6,
+    "response_chars": 311,
+    "top_sources": [
+      "botas_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 125,
+    "category": "item_enchantments",
+    "question_type": "item_enchantments",
+    "question": "Que encantamientos puede tener una pechera de diamante?",
+    "focus": "pechera de diamante",
+    "focus_tokens": [
+      "pechera",
+      "diamante"
+    ],
+    "response": "Una pechera puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.",
+    "response_time_ms": 589.19,
+    "response_chars": 162,
+    "top_sources": [
+      "pechera_encantamientos_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 126,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Fortuna?",
+    "focus": "fortuna",
+    "focus_tokens": [
+      "fortuna"
+    ],
+    "response": "El encantamiento Fortuna aumenta la cantidad de recursos que puedes obtener de ciertos minerales, cultivos y bloques al romperlos. No mejora todos los bloques por igual, asi que a veces conviene compararlo con Toque de Seda segun el recurso que quieras recoger.",
+    "response_time_ms": 556.24,
+    "response_chars": 261,
+    "top_sources": [
+      "encantamiento_fortuna_especifico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Reparacion?",
+    "focus": "reparacion",
+    "focus_tokens": [
+      "reparacion"
+    ],
+    "response": "El encantamiento Reparacion, tambien conocido como Mending, hace que la experiencia recogida repare automaticamente el objeto encantado en lugar de perderse toda en la barra del jugador. Para que funcione bien, el objeto con Reparacion debe estar equipado o en una posicion donde pueda recibir esa experiencia.",
+    "response_time_ms": 571.48,
+    "response_chars": 310,
+    "top_sources": [
+      "encantamiento_reparacion_especifico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Proteccion?",
+    "focus": "proteccion",
+    "focus_tokens": [
+      "proteccion"
+    ],
+    "response": "La utilidad real de cada proteccion depende del tipo de muerte que intentas evitar con mas frecuencia.",
+    "response_time_ms": 560.81,
+    "response_chars": 102,
+    "top_sources": [
+      "proteccion_contra_fuego_explosion_proyectil.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Proteccion contra el fuego?",
+    "focus": "proteccion contra el fuego",
+    "focus_tokens": [
+      "proteccion",
+      "fuego"
+    ],
+    "response": "La resistencia al fuego es una de las mejores protecciones para explorar el Nether.",
+    "response_time_ms": 665.75,
+    "response_chars": 83,
+    "top_sources": [
+      "lava_y_fuego_seguridad.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Proteccion contra explosiones?",
+    "focus": "proteccion contra explosiones",
+    "focus_tokens": [
+      "proteccion",
+      "explosiones"
+    ],
+    "response": "Los bloques mas conocidos por resistir muy bien explosiones son la obsidiana, el agua como barrera, y en niveles altos tambien bloques como el ancla de reaparicion o ciertos bloques irrompibles de estructuras. Frente a creepers normales, la obsidiana es una de las opciones mas practicas si quieres proteger zonas concretas de la base.",
+    "response_time_ms": 572.12,
+    "response_chars": 335,
+    "top_sources": [
+      "bloques_resistentes_a_explosiones_de_creepers.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Proteccion contra proyectiles?",
+    "focus": "proteccion contra proyectiles",
+    "focus_tokens": [
+      "proteccion",
+      "proyectiles"
+    ],
+    "response": "El escudo es una de las herramientas defensivas mas utiles del juego temprano y medio. Permite bloquear gran parte del daño frontal y reduce mucho el peligro de esqueletos y creepers.",
+    "response_time_ms": 597.7,
+    "response_chars": 183,
+    "top_sources": [
+      "uso_y_tiempo_del_escudo.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Aqua Affinity?",
+    "focus": "aqua affinity",
+    "focus_tokens": [
+      "aqua",
+      "affinity"
+    ],
+    "response": "Aqua Affinity mejora la velocidad de minado bajo el agua.",
+    "response_time_ms": 606.76,
+    "response_chars": 57,
+    "top_sources": [
+      "encantamientos_armadura.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Respiracion?",
+    "focus": "respiracion",
+    "focus_tokens": [
+      "respiracion"
+    ],
+    "response": "La pocion de respiracion acuática es muy util para monumentos oceanicos, tesoros y construcciones submarinas. Normalmente se prepara a partir de una awkward potion y un pez globo.",
+    "response_time_ms": 562.01,
+    "response_chars": 179,
+    "top_sources": [
+      "pocion_de_respiracion_acuatica_basico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Feather Falling?",
+    "focus": "feather falling",
+    "focus_tokens": [
+      "feather",
+      "falling"
+    ],
+    "response": "Feather Falling en botas es de los encantamientos mas practicos de todo el juego por la cantidad de muertes que evita.",
+    "response_time_ms": 682.18,
+    "response_chars": 118,
+    "top_sources": [
+      "armadura_y_proteccion.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Swift Sneak?",
+    "focus": "swift sneak",
+    "focus_tokens": [
+      "swift",
+      "sneak"
+    ],
+    "response": "Swift Sneak aumenta la velocidad al moverse agachado. Se aplica a pantalones y es especialmente util en construccion de precision, ancient cities y zonas donde agacharse es importante para no caer o no activar peligros.",
+    "response_time_ms": 577.06,
+    "response_chars": 219,
+    "top_sources": [
+      "encantamientos_detalle_armadura_y_defensa.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Depth Strider?",
+    "focus": "depth strider",
+    "focus_tokens": [
+      "depth",
+      "strider"
+    ],
+    "response": "Depth Strider ayuda mucho en movimiento bajo el agua, mientras que Frost Walker crea hielo temporal al andar sobre agua.",
+    "response_time_ms": 675.15,
+    "response_chars": 120,
+    "top_sources": [
+      "armadura_y_proteccion.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 137,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Frost Walker?",
+    "focus": "frost walker",
+    "focus_tokens": [
+      "frost",
+      "walker"
+    ],
+    "response": "Frost Walker convierte temporalmente el agua en hielo al caminar sobre ella. Sirve para cruzar rios y lagos sin barco, aunque normalmente compite con Depth Strider como eleccion principal para botas.",
+    "response_time_ms": 587.38,
+    "response_chars": 199,
+    "top_sources": [
+      "encantamientos_detalle_botas_y_movilidad.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 138,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Soul Speed?",
+    "focus": "soul speed",
+    "focus_tokens": [
+      "soul",
+      "speed"
+    ],
+    "response": "Soul Speed aumenta la velocidad sobre arena de almas y tierra de almas. Tiene un enfoque casi exclusivo en el Nether y se valora sobre todo en rutas o zonas extensas de ese terreno.",
+    "response_time_ms": 586.99,
+    "response_chars": 181,
+    "top_sources": [
+      "encantamientos_individuales_armadura_y_movilidad.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Looting?",
+    "focus": "looting",
+    "focus_tokens": [
+      "looting"
+    ],
+    "response": "Looting es uno de los encantamientos más importantes para conseguir recursos de mobs de forma eficiente.",
+    "response_time_ms": 606.04,
+    "response_chars": 104,
+    "top_sources": [
+      "encantamientos_armas.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Sharpness?",
+    "focus": "sharpness",
+    "focus_tokens": [
+      "sharpness"
+    ],
+    "response": "Sharpness es un encantamiento generalista para espada y suele ser la opcion mas universal en combate normal.",
+    "response_time_ms": 699.12,
+    "response_chars": 108,
+    "top_sources": [
+      "barrido_castigo_afilado_elecciones.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Smite?",
+    "focus": "smite",
+    "focus_tokens": [
+      "smite"
+    ],
+    "response": "La redstone permite automatizar tareas, transporte y aperturas de puertas. El polvo de redstone transmite señal a lo largo del suelo y algunos bloques. Los comparadores leen estados de contenedores y de algunos bloques especiales.",
+    "response_time_ms": 563.32,
+    "response_chars": 230,
+    "top_sources": [
+      "referencia_redstone_y_granjas_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 142,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Bane of Arthropods?",
+    "focus": "bane of arthropods",
+    "focus_tokens": [
+      "bane",
+      "of",
+      "arthropods"
+    ],
+    "response": "Un tridente con riptide permite movilidad con agua o lluvia. Bane of Arthropods sirve contra arañas y similares, pero es muy situacional.",
+    "response_time_ms": 562.28,
+    "response_chars": 137,
+    "top_sources": [
+      "referencia_mobs_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 143,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Fire Aspect?",
+    "focus": "fire aspect",
+    "focus_tokens": [
+      "fire",
+      "aspect"
+    ],
+    "response": "Fire Aspect prende fuego al objetivo y añade daño indirecto por quemadura en muchas situaciones.",
+    "response_time_ms": 559.56,
+    "response_chars": 96,
+    "top_sources": [
+      "encantamientos_armas.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 144,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Efficiency?",
+    "focus": "efficiency",
+    "focus_tokens": [
+      "efficiency"
+    ],
+    "response": "Efficiency aumenta mucho la velocidad de minado o recoleccion en herramientas como picos, palas, hachas o azadas. Es uno de los encantamientos mas buscados porque mejora directamente la productividad.",
+    "response_time_ms": 588.19,
+    "response_chars": 200,
+    "top_sources": [
+      "encantamientos_individuales_herramientas_y_mineria.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 145,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Silk Touch?",
+    "focus": "silk touch",
+    "focus_tokens": [
+      "silk",
+      "touch"
+    ],
+    "response": "Silk Touch permite recoger muchos bloques en su forma original en lugar de obtener su drop habitual. Es ideal para minerales que se quieran procesar despues, bloques fragiles, piedra en bruto, vidrio o elementos decorativos especiales.",
+    "response_time_ms": 695.9,
+    "response_chars": 235,
+    "top_sources": [
+      "encantamientos_detalle_herramientas_durabilidad_y_recoleccion.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 146,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Quick Charge?",
+    "focus": "quick charge",
+    "focus_tokens": [
+      "quick",
+      "charge"
+    ],
+    "response": "Una ballesta puede llevar Quick Charge, Multishot, Piercing, Unbreaking, Mending y Curse of Vanishing. Quick Charge suele ser uno de los encantamientos mas importantes para la ballesta porque mejora mucho su comodidad de uso.",
+    "response_time_ms": 573.69,
+    "response_chars": 225,
+    "top_sources": [
+      "ballesta_encantamientos_especificos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Multishot?",
+    "focus": "multishot",
+    "focus_tokens": [
+      "multishot"
+    ],
+    "response": "Multishot hace que la ballesta dispare tres proyectiles a la vez, aunque normalmente solo consume uno.",
+    "response_time_ms": 573.59,
+    "response_chars": 102,
+    "top_sources": [
+      "encantamientos_arco_ballesta_tridente.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Piercing?",
+    "focus": "piercing",
+    "focus_tokens": [
+      "piercing"
+    ],
+    "response": "Piercing permite que los proyectiles de la ballesta atraviesen varios objetivos o ciertos escudos y entidades.",
+    "response_time_ms": 572.46,
+    "response_chars": 110,
+    "top_sources": [
+      "encantamientos_arco_ballesta_tridente.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 149,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Loyalty?",
+    "focus": "loyalty",
+    "focus_tokens": [
+      "loyalty"
+    ],
+    "response": "Loyalty hace que el tridente vuelva al jugador despues de lanzarlo. Es uno de los encantamientos mas comodos para uso general del tridente.",
+    "response_time_ms": 573.58,
+    "response_chars": 139,
+    "top_sources": [
+      "encantamientos_detalle_arco_ballesta_y_tridente.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "enchantment_effects",
+    "question_type": "purpose",
+    "question": "Que hace Riptide?",
+    "focus": "riptide",
+    "focus_tokens": [
+      "riptide"
+    ],
+    "response": "Los tridentes son versátiles porque pueden servir como arma cuerpo a cuerpo, arma lanzable y herramienta de movilidad con Riptide.",
+    "response_time_ms": 682.89,
+    "response_chars": 130,
+    "top_sources": [
+      "encantamientos_arco_ballesta_tridente.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 151,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es una abeja?",
+    "focus": "abeja",
+    "focus_tokens": [
+      "abeja"
+    ],
+    "response": "La abeja es un mob normalmente neutral que produce miel y panales y ayuda a polinizar cultivos.",
+    "response_time_ms": 576.03,
+    "response_chars": 95,
+    "top_sources": [
+      "abeja_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 152,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un delfin?",
+    "focus": "delfin",
+    "focus_tokens": [
+      "delfin"
+    ],
+    "response": "El delfin es un mob acuatico amigable que puede dar impulso al nadar y guiar al jugador hacia ciertos tesoros hundidos.",
+    "response_time_ms": 577.34,
+    "response_chars": 119,
+    "top_sources": [
+      "delfin_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 153,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un axolote?",
+    "focus": "axolote",
+    "focus_tokens": [
+      "axolote"
+    ],
+    "response": "El axolote es un mob acuatico utilitario y decorativo que puede ayudar en combates bajo el agua.",
+    "response_time_ms": 579.75,
+    "response_chars": 96,
+    "top_sources": [
+      "axolote_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 154,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un allay?",
+    "focus": "allay",
+    "focus_tokens": [
+      "allay"
+    ],
+    "response": "El allay es un mob utilitario que puede recoger y agrupar objetos similares segun el item que se le entregue.",
+    "response_time_ms": 578.23,
+    "response_chars": 109,
+    "top_sources": [
+      "allay_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 155,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un armadillo?",
+    "focus": "armadillo",
+    "focus_tokens": [
+      "armadillo"
+    ],
+    "response": "El armadillo es un mob asociado a sabanas y a la obtencion de material para armadura de lobo.",
+    "response_time_ms": 692.58,
+    "response_chars": 93,
+    "top_sources": [
+      "armadillo_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 156,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un sniffer?",
+    "focus": "sniffer",
+    "focus_tokens": [
+      "sniffer"
+    ],
+    "response": "El sniffer es un mob especial obtenido a partir de huevos antiguos y relacionado con arqueologia.",
+    "response_time_ms": 550.52,
+    "response_chars": 97,
+    "top_sources": [
+      "sniffer_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 157,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un aldeano?",
+    "focus": "aldeano",
+    "focus_tokens": [
+      "aldeano"
+    ],
+    "response": "Para mover aldeanos de un lugar a otro, las opciones mas practicas suelen ser barcas y minecarts. Las barcas permiten mover aldeanos en distancias cortas o terreno irregular, mientras que los railes y minecarts son mejores para rutas largas o elevaciones controladas.",
+    "response_time_ms": 579.95,
+    "response_chars": 267,
+    "top_sources": [
+      "mover_aldeanos_transporte_especifico.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 158,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un lobo?",
+    "focus": "lobo",
+    "focus_tokens": [
+      "lobo"
+    ],
+    "response": "Los lobos salvajes se encuentran en ciertos biomas del Overworld.",
+    "response_time_ms": 576.94,
+    "response_chars": 65,
+    "top_sources": [
+      "lobo_comportamiento_y_domesticacion.txt"
+    ],
+    "flags": [
+      "definition_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 159,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un gato?",
+    "focus": "gato",
+    "focus_tokens": [
+      "gato"
+    ],
+    "response": "Los gatos domesticados pueden sentarse, seguir al jugador y servir como apoyo decorativo o funcional en la base.",
+    "response_time_ms": 565.82,
+    "response_chars": 112,
+    "top_sources": [
+      "gato_domesticacion_especifica.txt"
+    ],
+    "flags": [
+      "definition_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 160,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un camello?",
+    "focus": "camello",
+    "focus_tokens": [
+      "camello"
+    ],
+    "response": "La utilidad del camello esta en su altura, su doble asiento y su movilidad sobre terreno relativamente llano.",
+    "response_time_ms": 685.05,
+    "response_chars": 109,
+    "top_sources": [
+      "camello_control_y_montura_especifico.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 161,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un piglin?",
+    "focus": "piglin",
+    "focus_tokens": [
+      "piglin"
+    ],
+    "response": "El piglin es un mob del Nether que puede ser neutral si el jugador lleva oro.",
+    "response_time_ms": 576.24,
+    "response_chars": 77,
+    "top_sources": [
+      "piglin_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 162,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un piglin brute?",
+    "focus": "piglin brute",
+    "focus_tokens": [
+      "piglin",
+      "brute"
+    ],
+    "response": "El piglin brute es uno de los enemigos mas peligrosos de los bastions.",
+    "response_time_ms": 568.02,
+    "response_chars": 70,
+    "top_sources": [
+      "piglin_brute_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 163,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un blaze?",
+    "focus": "blaze",
+    "focus_tokens": [
+      "blaze"
+    ],
+    "response": "El blaze es un mob hostil del Nether que aparece en fortalezas y dispara bolas de fuego.",
+    "response_time_ms": 576.8,
+    "response_chars": 88,
+    "top_sources": [
+      "blaze_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 164,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un ghast?",
+    "focus": "ghast",
+    "focus_tokens": [
+      "ghast"
+    ],
+    "response": "El ghast es un gran hostil volador del Nether que lanza proyectiles explosivos.",
+    "response_time_ms": 611.83,
+    "response_chars": 79,
+    "top_sources": [
+      "ghast_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 165,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un wither skeleton?",
+    "focus": "wither skeleton",
+    "focus_tokens": [
+      "wither",
+      "skeleton"
+    ],
+    "response": "El wither skeleton aparece en fortalezas del Nether y puede aplicar efecto wither.",
+    "response_time_ms": 812.94,
+    "response_chars": 82,
+    "top_sources": [
+      "wither_skeleton_mob_especifico.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 166,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un guardian?",
+    "focus": "guardian",
+    "focus_tokens": [
+      "guardian"
+    ],
+    "response": "El guardian es un hostil acuatico del monumento oceanico que ataca a distancia con un rayo.",
+    "response_time_ms": 689.25,
+    "response_chars": 91,
+    "top_sources": [
+      "guardian_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 167,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un elder guardian?",
+    "focus": "elder guardian",
+    "focus_tokens": [
+      "elder",
+      "guardian"
+    ],
+    "response": "Los elder guardians son versiones mas fuertes que aplican Mining Fatigue al jugador.",
+    "response_time_ms": 667.45,
+    "response_chars": 84,
+    "top_sources": [
+      "guardianes_y_guardian_anciano.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 168,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un shulker?",
+    "focus": "shulker",
+    "focus_tokens": [
+      "shulker"
+    ],
+    "response": "El shulker es un hostil de las end cities que dispara proyectiles de levitacion.",
+    "response_time_ms": 746.56,
+    "response_chars": 80,
+    "top_sources": [
+      "shulker_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 169,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un warden?",
+    "focus": "warden",
+    "focus_tokens": [
+      "warden"
+    ],
+    "response": "El Warden es un enemigo extremadamente peligroso asociado al sculk y a las ancient cities.",
+    "response_time_ms": 682.86,
+    "response_chars": 90,
+    "top_sources": [
+      "warden_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 170,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un ravager?",
+    "focus": "ravager",
+    "focus_tokens": [
+      "ravager"
+    ],
+    "response": "El ravager es una bestia pesada de las raids que causa gran dano y mucha presion frontal.",
+    "response_time_ms": 558.42,
+    "response_chars": 89,
+    "top_sources": [
+      "ravager_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 171,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un breeze?",
+    "focus": "breeze",
+    "focus_tokens": [
+      "breeze"
+    ],
+    "response": "El breeze es un hostil reciente relacionado con trial chambers y ataques de viento.",
+    "response_time_ms": 576.59,
+    "response_chars": 83,
+    "top_sources": [
+      "breeze_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 172,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un bogged?",
+    "focus": "bogged",
+    "focus_tokens": [
+      "bogged"
+    ],
+    "response": "El bogged es una variante esqueletica reciente asociada a entornos concretos y ataques con efecto.",
+    "response_time_ms": 574.08,
+    "response_chars": 98,
+    "top_sources": [
+      "bogged_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 173,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un zoglin?",
+    "focus": "zoglin",
+    "focus_tokens": [
+      "zoglin"
+    ],
+    "response": "El zoglin es una version agresiva y descontrolada relacionada con el hoglin, normalmente hostil a casi todo.",
+    "response_time_ms": 541.39,
+    "response_chars": 108,
+    "top_sources": [
+      "zoglin_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 174,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un strider?",
+    "focus": "strider",
+    "focus_tokens": [
+      "strider"
+    ],
+    "response": "El strider es un mob del Nether que puede caminar sobre lava.",
+    "response_time_ms": 688.11,
+    "response_chars": 61,
+    "top_sources": [
+      "strider_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 175,
+    "category": "mobs",
+    "question_type": "definition",
+    "question": "Que es un glow squid?",
+    "focus": "glow squid",
+    "focus_tokens": [
+      "glow",
+      "squid"
+    ],
+    "response": "El glow squid es una variante luminosa del calamar que suelta sacos de tinta brillante.",
+    "response_time_ms": 571.12,
+    "response_chars": 87,
+    "top_sources": [
+      "glow_squid_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 176,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de invisibilidad?",
+    "focus": "la pocion de invisibilidad",
+    "focus_tokens": [
+      "pocion",
+      "invisibilidad"
+    ],
+    "response": "La pocion de invisibilidad se hace normalmente convirtiendo una pocion de vision nocturna con fermented spider eye. Aporta invisibilidad del jugador, aunque el equipo visible y otras acciones pueden seguir delatando su presencia.",
+    "response_time_ms": 646.5,
+    "response_chars": 229,
+    "top_sources": [
+      "pociones_individuales_movilidad_supervivencia_y_utilidad.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 177,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de vision nocturna?",
+    "focus": "la pocion de vision nocturna",
+    "focus_tokens": [
+      "pocion",
+      "vision",
+      "nocturna"
+    ],
+    "response": "La poción de visión nocturna mejora la visibilidad en oscuridad y bajo el agua.",
+    "response_time_ms": 557.64,
+    "response_chars": 79,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 178,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de rapidez?",
+    "focus": "la pocion de rapidez",
+    "focus_tokens": [
+      "pocion",
+      "rapidez"
+    ],
+    "response": "La pocion de fuerza aumenta daño cuerpo a cuerpo. La pocion de rapidez aumenta velocidad de movimiento. La pocion de regeneracion cura con el tiempo.",
+    "response_time_ms": 653.96,
+    "response_chars": 149,
+    "top_sources": [
+      "referencia_encantamientos_y_pociones_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "recipe_weak"
+    ]
+  },
+  {
+    "id": 179,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de resistencia al fuego?",
+    "focus": "la pocion de resistencia al fuego",
+    "focus_tokens": [
+      "pocion",
+      "resistencia",
+      "fuego"
+    ],
+    "response": "Para hacer una pocion de resistencia al fuego primero necesitas una awkward potion. Despues se combina con crema de magma para obtener la pocion de resistencia al fuego.",
+    "response_time_ms": 682.52,
+    "response_chars": 169,
+    "top_sources": [
+      "pocion_de_resistencia_al_fuego_receta_especifica.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 180,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de respiracion acuatica?",
+    "focus": "la pocion de respiracion acuatica",
+    "focus_tokens": [
+      "pocion",
+      "respiracion",
+      "acuatica"
+    ],
+    "response": "Respiracion acuática suele prepararse con pez globo sobre awkward potion.",
+    "response_time_ms": 648.32,
+    "response_chars": 73,
+    "top_sources": [
+      "pocion_recetas_referencia.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 181,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de caida lenta?",
+    "focus": "la pocion de caida lenta",
+    "focus_tokens": [
+      "pocion",
+      "caida",
+      "lenta"
+    ],
+    "response": "La poción de caída lenta reduce mucho la velocidad de caída.",
+    "response_time_ms": 572.2,
+    "response_chars": 60,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de fuerza?",
+    "focus": "la pocion de fuerza",
+    "focus_tokens": [
+      "pocion",
+      "fuerza"
+    ],
+    "response": "La pocion de fuerza se hace con awkward potion mas blaze powder. Aumenta el dano cuerpo a cuerpo y es muy util contra bosses, mobs duros y raids.",
+    "response_time_ms": 646.29,
+    "response_chars": 145,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 183,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de regeneracion?",
+    "focus": "la pocion de regeneracion",
+    "focus_tokens": [
+      "pocion",
+      "regeneracion"
+    ],
+    "response": "La poción de regeneración recupera salud con el tiempo.",
+    "response_time_ms": 573.16,
+    "response_chars": 55,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 184,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de curacion?",
+    "focus": "la pocion de curacion",
+    "focus_tokens": [
+      "pocion",
+      "curacion"
+    ],
+    "response": "Para hacer una pocion de curacion primero necesitas una awkward potion. Despues se combina con una rodaja de melon reluciente para obtener la pocion de curacion.",
+    "response_time_ms": 647.72,
+    "response_chars": 161,
+    "top_sources": [
+      "pocion_de_curacion_receta_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 185,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de dano?",
+    "focus": "la pocion de dano",
+    "focus_tokens": [
+      "pocion",
+      "dano"
+    ],
+    "response": "La poción de daño hace daño instantáneo al objetivo.",
+    "response_time_ms": 676.34,
+    "response_chars": 52,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 186,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de veneno?",
+    "focus": "la pocion de veneno",
+    "focus_tokens": [
+      "pocion",
+      "veneno"
+    ],
+    "response": "La pocion de veneno se hace con awkward potion mas spider eye. Aplica dano progresivo, aunque no suele matar por si sola, y se usa bastante en variantes arrojadizas para debilitar enemigos.",
+    "response_time_ms": 646.55,
+    "response_chars": 189,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 187,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de debilidad?",
+    "focus": "la pocion de debilidad",
+    "focus_tokens": [
+      "pocion",
+      "debilidad"
+    ],
+    "response": "La poción de debilidad reduce daño cuerpo a cuerpo.",
+    "response_time_ms": 566.53,
+    "response_chars": 51,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 188,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de maestro tortuga?",
+    "focus": "la pocion de maestro tortuga",
+    "focus_tokens": [
+      "pocion",
+      "maestro",
+      "tortuga"
+    ],
+    "response": "La pocion de maestro tortuga se hace con awkward potion mas turtle shell. Aporta mucha resistencia pero tambien lentitud, asi que es una pocion de supervivencia muy fuerte a cambio de movilidad reducida.",
+    "response_time_ms": 629.71,
+    "response_chars": 203,
+    "top_sources": [
+      "pociones_individuales_movilidad_supervivencia_y_utilidad.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 189,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de salto?",
+    "focus": "la pocion de salto",
+    "focus_tokens": [
+      "pocion",
+      "salto"
+    ],
+    "response": "La pocion de salto se hace con awkward potion mas rabbit's foot. Aporta mayor altura de salto y es util para movilidad, parkour o ciertas rutas de exploracion.",
+    "response_time_ms": 563.97,
+    "response_chars": 159,
+    "top_sources": [
+      "pociones_individuales_movilidad_supervivencia_y_utilidad.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 190,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de lentitud?",
+    "focus": "la pocion de lentitud",
+    "focus_tokens": [
+      "pocion",
+      "lentitud"
+    ],
+    "response": "La poción de lentitud reduce la velocidad de movimiento del objetivo.",
+    "response_time_ms": 751.59,
+    "response_chars": 69,
+    "top_sources": [
+      "pociones_efectos.txt"
+    ],
+    "flags": [
+      "recipe_weak"
+    ]
+  },
+  {
+    "id": 191,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de wind charging?",
+    "focus": "la pocion de wind charging",
+    "focus_tokens": [
+      "pocion",
+      "wind",
+      "charging"
+    ],
+    "response": "La pocion de wind charging se hace con awkward potion mas breeze rod. Aporta el efecto Wind Charged, asociado a una explosion de viento cuando la entidad afectada muere.",
+    "response_time_ms": 569.03,
+    "response_chars": 169,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 192,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de weaving?",
+    "focus": "la pocion de weaving",
+    "focus_tokens": [
+      "pocion",
+      "weaving"
+    ],
+    "response": "La pocion de weaving se hace con awkward potion mas cobweb. Aporta el efecto Weaving, relacionado con la aparicion de telarañas al morir la entidad afectada.",
+    "response_time_ms": 646.49,
+    "response_chars": 157,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 193,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de oozing?",
+    "focus": "la pocion de oozing",
+    "focus_tokens": [
+      "pocion",
+      "oozing"
+    ],
+    "response": "La pocion de oozing se hace con awkward potion mas slime block. Aporta el efecto Oozing, que hace aparecer slimes cuando la entidad afectada muere en ciertas condiciones del efecto.",
+    "response_time_ms": 573.2,
+    "response_chars": 181,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 194,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de infestation?",
+    "focus": "la pocion de infestation",
+    "focus_tokens": [
+      "pocion",
+      "infestation"
+    ],
+    "response": "Para hacer una pocion de curacion primero necesitas una awkward potion. Despues se combina con una rodaja de melon reluciente para obtener la pocion de curacion.",
+    "response_time_ms": 688.83,
+    "response_chars": 161,
+    "top_sources": [
+      "pocion_de_curacion_receta_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 195,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la awkward potion?",
+    "focus": "la awkward potion",
+    "focus_tokens": [
+      "awkward",
+      "potion"
+    ],
+    "response": "La base habitual de la mayoría de pociones útiles es la awkward potion.",
+    "response_time_ms": 680.04,
+    "response_chars": 71,
+    "top_sources": [
+      "pociones_basico.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 196,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace una pocion arrojadiza?",
+    "focus": "pocion arrojadiza",
+    "focus_tokens": [
+      "pocion",
+      "arrojadiza"
+    ],
+    "response": "La pocion de veneno se hace con awkward potion mas spider eye. Aplica dano progresivo, aunque no suele matar por si sola, y se usa bastante en variantes arrojadizas para debilitar enemigos.",
+    "response_time_ms": 637.78,
+    "response_chars": 189,
+    "top_sources": [
+      "pociones_individuales_combate_curacion_y_nuevas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 197,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta una pocion persistente?",
+    "focus": "una pocion persistente",
+    "focus_tokens": [
+      "pocion",
+      "persistente"
+    ],
+    "response": "Las pociones arrojadizas y persistentes cambian la forma de aplicarlas, pero la base sigue siendo entender que problema quieres resolver con cada una.",
+    "response_time_ms": 537.09,
+    "response_chars": 150,
+    "top_sources": [
+      "pociones_para_situaciones_comunes.txt"
+    ],
+    "flags": [
+      "purpose_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 198,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de vision nocturna?",
+    "focus": "la pocion de vision nocturna",
+    "focus_tokens": [
+      "pocion",
+      "vision",
+      "nocturna"
+    ],
+    "response": "La pocion de vision nocturna se hace con awkward potion mas golden carrot. Aporta vision clara en oscuridad, cuevas, agua o exploracion nocturna.",
+    "response_time_ms": 633.0,
+    "response_chars": 145,
+    "top_sources": [
+      "pociones_individuales_movilidad_supervivencia_y_utilidad.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 199,
+    "category": "potions",
+    "question_type": "purpose",
+    "question": "Que aporta la pocion de rapidez?",
+    "focus": "la pocion de rapidez",
+    "focus_tokens": [
+      "pocion",
+      "rapidez"
+    ],
+    "response": "La pocion de fuerza aumenta daño cuerpo a cuerpo. La pocion de rapidez aumenta velocidad de movimiento. La pocion de regeneracion cura con el tiempo.",
+    "response_time_ms": 563.22,
+    "response_chars": 149,
+    "top_sources": [
+      "referencia_encantamientos_y_pociones_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "purpose_weak"
+    ]
+  },
+  {
+    "id": 200,
+    "category": "potions",
+    "question_type": "recipe",
+    "question": "Como se hace la pocion de resistencia al fuego?",
+    "focus": "la pocion de resistencia al fuego",
+    "focus_tokens": [
+      "pocion",
+      "resistencia",
+      "fuego"
+    ],
+    "response": "Para hacer una pocion de resistencia al fuego primero necesitas una awkward potion. Despues se combina con crema de magma para obtener la pocion de resistencia al fuego.",
+    "response_time_ms": 650.95,
+    "response_chars": 169,
+    "top_sources": [
+      "pocion_de_resistencia_al_fuego_receta_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 201,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una aldea?",
+    "focus": "aldea",
+    "focus_tokens": [
+      "aldea"
+    ],
+    "response": "Para mover aldeanos de un lugar a otro, las opciones mas practicas suelen ser barcas y minecarts. Las barcas permiten mover aldeanos en distancias cortas o terreno irregular, mientras que los railes y minecarts son mejores para rutas largas o elevaciones controladas.",
+    "response_time_ms": 679.7,
+    "response_chars": 267,
+    "top_sources": [
+      "mover_aldeanos_transporte_especifico.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 202,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un pillager outpost?",
+    "focus": "pillager outpost",
+    "focus_tokens": [
+      "pillager",
+      "outpost"
+    ],
+    "response": "El pillager es un hostil con ballesta asociado a patrullas, outposts y raids.",
+    "response_time_ms": 573.26,
+    "response_chars": 77,
+    "top_sources": [
+      "pillager_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 203,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una woodland mansion?",
+    "focus": "woodland mansion",
+    "focus_tokens": [
+      "woodland",
+      "mansion"
+    ],
+    "response": "Es una de las criaturas mas importantes de raids y woodland mansions.",
+    "response_time_ms": 578.86,
+    "response_chars": 69,
+    "top_sources": [
+      "evoker_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 204,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un desert temple?",
+    "focus": "desert temple",
+    "focus_tokens": [
+      "desert",
+      "temple"
+    ],
+    "response": "La pyramid del desierto o desert temple es una estructura clasica con botin y una trampa de TNT en la camara inferior.",
+    "response_time_ms": 655.58,
+    "response_chars": 118,
+    "top_sources": [
+      "estructuras_overworld_poblacion_y_superficie_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 205,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un jungle temple?",
+    "focus": "jungle temple",
+    "focus_tokens": [
+      "jungle",
+      "temple"
+    ],
+    "response": "El templo de la jungla o jungle temple es una estructura con trampas, palancas y cofres.",
+    "response_time_ms": 568.06,
+    "response_chars": 88,
+    "top_sources": [
+      "estructuras_overworld_poblacion_y_superficie_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 206,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una swamp hut?",
+    "focus": "swamp hut",
+    "focus_tokens": [
+      "swamp",
+      "hut"
+    ],
+    "response": "La choza de bruja o swamp hut es una estructura pequena de pantano asociada a witches y, en algunos casos, gatos negros.",
+    "response_time_ms": 683.67,
+    "response_chars": 120,
+    "top_sources": [
+      "estructuras_overworld_poblacion_y_superficie_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 207,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un iglu?",
+    "focus": "iglu",
+    "focus_tokens": [
+      "iglu"
+    ],
+    "response": "El iglu es una estructura de bioma frio que puede incluir una parte subterranea en algunos casos.",
+    "response_time_ms": 554.07,
+    "response_chars": 97,
+    "top_sources": [
+      "estructuras_overworld_poblacion_y_superficie_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 208,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un ruined portal?",
+    "focus": "ruined portal",
+    "focus_tokens": [
+      "ruined",
+      "portal"
+    ],
+    "response": "Por eso, los materiales clave para usar el portal del End son los ojos de ender y el acceso a la stronghold donde aparece la estructura. El portal del End no se fabrica desde cero como un portal del Nether, porque ya aparece generado dentro de una stronghold.",
+    "response_time_ms": 563.93,
+    "response_chars": 259,
+    "top_sources": [
+      "materiales_para_portal_del_end_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 209,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una trail ruin?",
+    "focus": "trail ruin",
+    "focus_tokens": [
+      "trail",
+      "ruin"
+    ],
+    "response": "Las ruinas del sendero o trail ruins son estructuras parcialmente enterradas y ligadas a arqueologia.",
+    "response_time_ms": 545.23,
+    "response_chars": 101,
+    "top_sources": [
+      "estructuras_overworld_poblacion_y_superficie_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 210,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una mineshaft?",
+    "focus": "mineshaft",
+    "focus_tokens": [
+      "mineshaft"
+    ],
+    "response": "La mina abandonada o mineshaft es una estructura subterranea con railes, madera, spawners de cave spider y cofres.",
+    "response_time_ms": 576.55,
+    "response_chars": 114,
+    "top_sources": [
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 211,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una stronghold?",
+    "focus": "stronghold",
+    "focus_tokens": [
+      "stronghold"
+    ],
+    "response": "La forma normal de encontrar una stronghold es usar ojos de ender y seguir la direccion en la que vuelan. Encontrar una stronghold es obligatorio para activar el portal del End y luchar contra la Ender Dragon.",
+    "response_time_ms": 685.73,
+    "response_chars": 209,
+    "top_sources": [
+      "stronghold_como_encontrarla.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 212,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una ancient city?",
+    "focus": "ancient city",
+    "focus_tokens": [
+      "ancient",
+      "city"
+    ],
+    "response": "Explorar una ancient city requiere moverse despacio, evitar activar shriekers y llevar bloques de lana para amortiguar vibraciones.",
+    "response_time_ms": 572.58,
+    "response_chars": 131,
+    "top_sources": [
+      "ancient_city_exploracion_basica.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 213,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una trial chamber?",
+    "focus": "trial chamber",
+    "focus_tokens": [
+      "trial",
+      "chamber"
+    ],
+    "response": "Las trial chambers son una estructura moderna orientada a combate, botin y retos repetibles.",
+    "response_time_ms": 569.13,
+    "response_chars": 92,
+    "top_sources": [
+      "prueba_camaras_recompensas_y_riesgos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 214,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un dungeon en Minecraft?",
+    "focus": "dungeon en minecraft",
+    "focus_tokens": [
+      "dungeon"
+    ],
+    "response": "Las trial chambers son estructuras de combate y exploracion presentes en versiones modernas de Minecraft.",
+    "response_time_ms": 637.17,
+    "response_chars": 105,
+    "top_sources": [
+      "prueba_camaras_resumen.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un ocean monument?",
+    "focus": "ocean monument",
+    "focus_tokens": [
+      "ocean",
+      "monument"
+    ],
+    "response": "Los monumentos oceanicos suelen encontrarse en biomas de oceano profundo.",
+    "response_time_ms": 567.06,
+    "response_chars": 73,
+    "top_sources": [
+      "monumento_oceanico_localizacion_especifica.txt"
+    ],
+    "flags": [
+      "definition_weak",
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una ocean ruin?",
+    "focus": "ocean ruin",
+    "focus_tokens": [
+      "ocean",
+      "ruin"
+    ],
+    "response": "Las ruinas oceanicas son estructuras marinas rotas con cofres y bloques relacionados con piedra, arena o arqueologia segun contexto.",
+    "response_time_ms": 700.89,
+    "response_chars": 132,
+    "top_sources": [
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 217,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un shipwreck?",
+    "focus": "shipwreck",
+    "focus_tokens": [
+      "shipwreck"
+    ],
+    "response": "Es una de las mejores estructuras de exploracion costera en juego temprano. El barco hundido o shipwreck contiene cofres con comida, mapas, papel, hierro y a veces tesoros enterrados relacionados.",
+    "response_time_ms": 572.77,
+    "response_chars": 196,
+    "top_sources": [
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 218,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un buried treasure?",
+    "focus": "buried treasure",
+    "focus_tokens": [
+      "buried",
+      "treasure"
+    ],
+    "response": "El tesoro enterrado no es una estructura grande, pero si un objetivo de mapa muy util porque puede dar corazon del mar y recursos valiosos.",
+    "response_time_ms": 587.72,
+    "response_chars": 139,
+    "top_sources": [
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 219,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una nether fortress?",
+    "focus": "nether fortress",
+    "focus_tokens": [
+      "nether",
+      "fortress"
+    ],
+    "response": "Las fortalezas del Nether contienen blazes, wither skeletons y nether wart, por lo que son esenciales para progresar a pociones y al End.",
+    "response_time_ms": 581.07,
+    "response_chars": 137,
+    "top_sources": [
+      "estructuras_del_nether_y_del_end.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 220,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un bastion remnant?",
+    "focus": "bastion remnant",
+    "focus_tokens": [
+      "bastion",
+      "remnant"
+    ],
+    "response": "Los bastiones son estructuras del Nether con botin valioso, oro, bloques utiles y enemigos peligrosos.",
+    "response_time_ms": 579.82,
+    "response_chars": 102,
+    "top_sources": [
+      "bastion_botin_y_riesgos.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 221,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un nether fossil?",
+    "focus": "nether fossil",
+    "focus_tokens": [
+      "nether",
+      "fossil"
+    ],
+    "response": "El fossil del Nether es una estructura rara hecha de bloques oseos en ciertos biomas del Nether.",
+    "response_time_ms": 709.76,
+    "response_chars": 96,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 222,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es una end city?",
+    "focus": "end city",
+    "focus_tokens": [
+      "end",
+      "city"
+    ],
+    "response": "La end city es la gran estructura del End exterior y una de las recompensas mas importantes del juego avanzado.",
+    "response_time_ms": 579.19,
+    "response_chars": 111,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 223,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es un end ship?",
+    "focus": "end ship",
+    "focus_tokens": [
+      "end",
+      "ship"
+    ],
+    "response": "El end ship es una parte especial asociada a algunas end cities y es donde suele encontrarse la Elytra expuesta.",
+    "response_time_ms": 580.02,
+    "response_chars": 112,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 224,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que son los pilares de obsidiana del End?",
+    "focus": "los pilares de obsidiana del end",
+    "focus_tokens": [
+      "pilares",
+      "obsidiana",
+      "end"
+    ],
+    "response": "Los pilares de obsidiana del End son estructuras de combate ligadas a la Ender Dragon.",
+    "response_time_ms": 580.54,
+    "response_chars": 86,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 225,
+    "category": "structures",
+    "question_type": "definition",
+    "question": "Que es el portal de salida del End?",
+    "focus": "el portal de salida del end",
+    "focus_tokens": [
+      "portal",
+      "salida",
+      "end"
+    ],
+    "response": "El portal de salida del End o fuente del End es la estructura central que aparece tras derrotar a la Ender Dragon.",
+    "response_time_ms": 565.2,
+    "response_chars": 114,
+    "top_sources": [
+      "estructuras_nether_y_end_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 226,
+    "category": "strategy",
+    "question_type": "combat",
+    "question": "Como puedo derrotar al Ender Dragon?",
+    "focus": "al ender dragon",
+    "focus_tokens": [
+      "ender",
+      "dragon"
+    ],
+    "response": "1. Para derrotar a la Ender Dragon primero hay que acceder al End a traves de una stronghold y un portal activado con ojos de ender.\n2. La Ender Dragon es el jefe principal del End y uno de los grandes objetivos de progresion en survival.\n3. La Ender Dragon y el Wither son los dos grandes jefes clasicos de Minecraft Vanilla.",
+    "response_time_ms": 669.5,
+    "response_chars": 326,
+    "top_sources": [
+      "estrategia_para_la_ender_dragon.txt",
+      "ender_dragon_mob_especifico.txt",
+      "referencia_combate_avanzado_y_jefes_extensa_parte_1.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 227,
+    "category": "strategy",
+    "question_type": "combat",
+    "question": "Como puedo derrotar al Wither?",
+    "focus": "al wither",
+    "focus_tokens": [
+      "wither"
+    ],
+    "response": "1. Como prepararse para invocar y derrotar al Wither.\n2. Suele recomendarse invocarlo en un espacio controlado, con buena armadura, pociones, comida y preferiblemente leche o regeneracion segun el plan.\n3. Para invocar al Wither necesitas tres calaveras de wither skeleton y cuatro bloques de arena de almas o tierra de almas.\n4. El wither skeleton aparece en fortalezas del Nether y puede aplicar efecto wither.",
+    "response_time_ms": 575.59,
+    "response_chars": 412,
+    "top_sources": [
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt",
+      "wither_requisitos_invocacion_especificos.txt",
+      "wither_skeleton_mob_especifico.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 228,
+    "category": "strategy",
+    "question_type": "general",
+    "question": "Como puedo explorar cuevas sin morir?",
+    "focus": "como puedo explorar cuevas sin morir",
+    "focus_tokens": [
+      "explorar",
+      "cuevas",
+      "sin",
+      "morir"
+    ],
+    "response": "1. La mejor estrategia para explorar cuevas sin morir es avanzar despacio, iluminar bien y mantener una ruta clara de retirada.\n2. Explorar sin cama aumenta el riesgo de perder progreso tras morir.",
+    "response_time_ms": 574.57,
+    "response_chars": 197,
+    "top_sources": [
+      "cuevas_estrategia_segura_especifica.txt",
+      "referencia_exploracion_y_movilidad_extensa_parte_1.txt",
+      "cueva_exploracion_estrategia.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 229,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como puedo sobrevivir mejor en el Nether?",
+    "focus": "el nether",
+    "focus_tokens": [
+      "nether"
+    ],
+    "response": "1. Para sobrevivir mejor en el Nether conviene llevar comida abundante, bloques para cubrirte, un arco o ballesta y pociones de resistencia al fuego si es posible.\n2. Muevete con cuidado cerca de lava, ghasts y hoglins, y marca siempre el camino de vuelta para no perderte.",
+    "response_time_ms": 575.92,
+    "response_chars": 273,
+    "top_sources": [
+      "nether_supervivencia_especifica.txt",
+      "referencia_supervivencia_extensa_parte_2.txt",
+      "estructuras_del_nether_y_del_end.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 230,
+    "category": "strategy",
+    "question_type": "comparison",
+    "question": "Que diferencia hay entre una espada de hierro y una de netherita?",
+    "focus": "una espada de hierro y una de netherita",
+    "focus_tokens": [
+      "espada",
+      "hierro",
+      "netherita"
+    ],
+    "response": "Una espada de netherita hace mas dano, dura mas y ofrece mejor rendimiento general que una espada de hierro. La espada de hierro es mucho mas barata y accesible en juego temprano, mientras que la de netherita requiere primero una espada de diamante mejorada en herreria.",
+    "response_time_ms": 571.64,
+    "response_chars": 270,
+    "top_sources": [
+      "diferencia_espada_hierro_y_netherita.txt",
+      "hierro_contra_diamante_equipo.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 231,
+    "category": "strategy",
+    "question_type": "comparison",
+    "question": "Que diferencia hay entre un aldeano y un aldeano zombi?",
+    "focus": "un aldeano y un aldeano zombi",
+    "focus_tokens": [
+      "aldeano",
+      "aldeano",
+      "zombi"
+    ],
+    "response": "Un aldeano normal puede trabajar, comerciar, reproducirse y vincularse a camas y bloques de trabajo, mientras que un aldeano zombi es una version hostil o infectada que ya no comercia de forma normal. Un aldeano zombi puede curarse para volver a ser aldeano normal.",
+    "response_time_ms": 681.57,
+    "response_chars": 265,
+    "top_sources": [
+      "diferencia_entre_aldeano_y_aldeano_zombi.txt",
+      "aldeano_zombie_cura.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 232,
+    "category": "strategy",
+    "question_type": "best_choice",
+    "question": "Que encantamiento es mejor para una espada?",
+    "focus": "una espada",
+    "focus_tokens": [
+      "espada"
+    ],
+    "response": "Para una espada, los mejores encantamientos generales suelen ser Sharpness, Looting, Unbreaking y Mending. Smite o Bane of Arthropods solo convienen en casos concretos, porque son mas situacionales que Sharpness.",
+    "response_time_ms": 573.12,
+    "response_chars": 212,
+    "top_sources": [
+      "encantamientos_espada_mejores_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 233,
+    "category": "strategy",
+    "question_type": "best_choice",
+    "question": "Que encantamientos son mejores para un pico?",
+    "focus": "un pico",
+    "focus_tokens": [
+      "pico"
+    ],
+    "response": "Para un pico, los encantamientos mas utiles suelen ser Efficiency, Unbreaking y Mending. Fortune es mejor si quieres multiplicar minerales como diamantes, carbon o redstone, mientras que Silk Touch conviene si quieres recoger el bloque tal cual. Fortune y Silk Touch no pueden ir juntos en el mismo pico, asi que normalmente se usan picos distintos.",
+    "response_time_ms": 582.43,
+    "response_chars": 349,
+    "top_sources": [
+      "encantamientos_pico_mejores_especificos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 234,
+    "category": "strategy",
+    "question_type": "best_choice",
+    "question": "Cual es la mejor comida para supervivencia?",
+    "focus": "comida para supervivencia",
+    "focus_tokens": [
+      "comida",
+      "supervivencia"
+    ],
+    "response": "Tener una fuente estable de comida cuanto antes mejora mucho la exploracion y la supervivencia.",
+    "response_time_ms": 587.51,
+    "response_chars": 95,
+    "top_sources": [
+      "early_comida_fuentes.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 235,
+    "category": "strategy",
+    "question_type": "best_choice",
+    "question": "Cual es la mejor armadura del juego?",
+    "focus": "armadura del juego",
+    "focus_tokens": [
+      "armadura",
+      "juego"
+    ],
+    "response": "La mejor armadura general de Minecraft Vanilla es la de netherita, porque mejora a la de diamante en durabilidad y resistencia al empuje. Si aun no tienes netherita, la armadura de diamante suele ser la mejor opcion practica. En fases tempranas, la armadura de hierro es la primera defensa realmente solida.",
+    "response_time_ms": 581.56,
+    "response_chars": 307,
+    "top_sources": [
+      "mejor_armadura_minecraft_especifica.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 236,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como evito que aparezcan mobs hostiles?",
+    "focus": "que aparezcan mobs hostiles",
+    "focus_tokens": [
+      "que",
+      "aparezcan",
+      "mobs",
+      "hostiles"
+    ],
+    "response": "1. Para evitar que aparezcan mobs hostiles en tu base, lo mas importante es iluminar bien todas las zonas oscuras y eliminar espacios validos de spawn.\n2. Tambien ayuda usar losas, alfombras, cristal u otros bloques donde muchos mobs no puedan aparecer.",
+    "response_time_ms": 689.11,
+    "response_chars": 253,
+    "top_sources": [
+      "evitar_aparicion_de_mobs_en_base_especifico.txt",
+      "referencia_mobs_extensa_parte_2.txt",
+      "referencia_mobs_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 237,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como me preparo para una ancient city?",
+    "focus": "una ancient city",
+    "focus_tokens": [
+      "ancient",
+      "city"
+    ],
+    "response": "1. Explorar una ancient city requiere moverse despacio, evitar activar shriekers y llevar bloques de lana para amortiguar vibraciones.\n2. Objetos como pociones, comida, perlas de ender y una azada o pico rapido ayudan mucho para lootear y salir con seguridad.\n3. Como prepararse para una ancient city o para el Warden.\n4. La ancient city ofrece botin valioso, pero no conviene tratarla como una estructura de combate directo si se quiere sobrevivir.",
+    "response_time_ms": 593.86,
+    "response_chars": 449,
+    "top_sources": [
+      "ancient_city_exploracion_basica.txt",
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt",
+      "estructuras_overworld_subterraneas_y_acuaticas_extensa_parte_2.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 238,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como me preparo para entrar en una trial chamber?",
+    "focus": "entrar en una trial chamber",
+    "focus_tokens": [
+      "entrar",
+      "trial",
+      "chamber"
+    ],
+    "response": "1. Las trial chambers son estructuras subterraneas modernas centradas en combate por oleadas y recompensas.\n2. Conviene entrar con buena armadura, escudo, comida, bloques y espacio en inventario, porque son estructuras de riesgo medio o alto.\n3. Las trial chambers son estructuras de combate y exploracion presentes en versiones modernas de Minecraft.\n4. Las trial chambers son una estructura moderna orientada a combate, botin y retos repetibles.",
+    "response_time_ms": 579.73,
+    "response_chars": 447,
+    "top_sources": [
+      "camaras_de_prueba_basico.txt",
+      "prueba_camaras_resumen.txt",
+      "prueba_camaras_recompensas_y_riesgos.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 239,
+    "category": "strategy",
+    "question_type": "combat",
+    "question": "Como matar a un warden?",
+    "focus": "un warden",
+    "focus_tokens": [
+      "warden"
+    ],
+    "response": "1. El Warden es un enemigo extremadamente peligroso asociado al sculk y a las ancient cities.\n2. En la mayoria de partidas, gestionar bien el riesgo en torno al warden es mas importante que derrotarlo.\n3. El warden es una de las amenazas mas peligrosas del juego.",
+    "response_time_ms": 553.45,
+    "response_chars": 263,
+    "top_sources": [
+      "warden_mob_especifico.txt",
+      "estrategia_de_supervivencia_con_warden.txt",
+      "estrategia_de_supervivencia_con_warden.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 240,
+    "category": "strategy",
+    "question_type": "combat",
+    "question": "Como matar a un blaze?",
+    "focus": "un blaze",
+    "focus_tokens": [
+      "blaze"
+    ],
+    "response": "1. El blaze es un mob hostil del Nether que aparece en fortalezas y dispara bolas de fuego.\n2. Es esencial por las blaze rods, necesarias para progresar hacia ojos de ender y pociones.\n3. Los blaze son una de las amenazas clave de fortalezas del Nether.\n4. Las brujas usan pociones ofensivas y defensivas.",
+    "response_time_ms": 570.88,
+    "response_chars": 305,
+    "top_sources": [
+      "blaze_mob_especifico.txt",
+      "referencia_mobs_extensa_parte_1.txt",
+      "referencia_mobs_hostiles_nether_y_end_extensa_parte_3.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 241,
+    "category": "strategy",
+    "question_type": "combat",
+    "question": "Como vencer a un ravager?",
+    "focus": "un ravager",
+    "focus_tokens": [
+      "ravager"
+    ],
+    "response": "1. La forma mas segura de combatir creepers suele ser mantener distancia con arco o golpear y retroceder con cuidado.\n2. La manera mas segura de matar creepers al principio es golpear y retroceder, o usar arco desde distancia.\n3. Un escudo ayuda mucho porque reduce el riesgo al acercarte.\n4. Punch aumenta el retroceso que provoca una flecha del arco.",
+    "response_time_ms": 693.61,
+    "response_chars": 352,
+    "top_sources": [
+      "creeper_basico.txt",
+      "creeper_comportamiento_detalles.txt",
+      "encantamientos_individuales_arco_ballesta_tridente.txt"
+    ],
+    "flags": [
+      "focus_overlap_0"
+    ]
+  },
+  {
+    "id": 242,
+    "category": "strategy",
+    "question_type": "definition",
+    "question": "Que es mejor para un pico, Fortuna o Toque de Seda?",
+    "focus": "mejor para un pico, fortuna o toque de seda",
+    "focus_tokens": [
+      "pico",
+      "fortuna",
+      "toque",
+      "seda"
+    ],
+    "response": "No mejora todos los bloques por igual, asi que a veces conviene compararlo con Toque de Seda segun el recurso que quieras recoger. El encantamiento Fortuna aumenta la cantidad de recursos que puedes obtener de ciertos minerales, cultivos y bloques al romperlos.",
+    "response_time_ms": 577.65,
+    "response_chars": 261,
+    "top_sources": [
+      "encantamiento_fortuna_especifico.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 243,
+    "category": "strategy",
+    "question_type": "definition",
+    "question": "Que es mejor para botas, Depth Strider o Frost Walker?",
+    "focus": "mejor para botas, depth strider o frost walker",
+    "focus_tokens": [
+      "botas",
+      "depth",
+      "strider",
+      "frost",
+      "walker"
+    ],
+    "response": "Unas botas pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Feather Falling, Depth Strider, Frost Walker, Soul Speed, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.",
+    "response_time_ms": 576.17,
+    "response_chars": 220,
+    "top_sources": [
+      "botas_encantamientos_especificos.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 244,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como me preparo para explorar un ocean monument?",
+    "focus": "explorar un ocean monument",
+    "focus_tokens": [
+      "explorar",
+      "ocean",
+      "monument"
+    ],
+    "response": "1. Los monumentos oceanicos suelen encontrarse en biomas de oceano profundo.\n2. Explorar grandes masas de agua, usar mapas de cartografo o buscar zonas con guardianes ayuda mucho a localizarlos.\n3. La respiracion acuática permite explorar oceanos, ruinas y monumentos con mucha mas seguridad.\n4. La exploracion oceanica puede aportar naufragios, ruinas oceanicas, monumentos y tesoros enterrados.",
+    "response_time_ms": 576.33,
+    "response_chars": 396,
+    "top_sources": [
+      "monumento_oceanico_localizacion_especifica.txt",
+      "pociones_efectos.txt",
+      "oceano_exploracion.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 245,
+    "category": "strategy",
+    "question_type": "general",
+    "question": "Como sobrevivo mejor bajo el agua?",
+    "focus": "como sobrevivo mejor bajo el agua",
+    "focus_tokens": [
+      "sobrevivo",
+      "bajo",
+      "agua"
+    ],
+    "response": "1. La poción de respiración acuática permite respirar bajo el agua.\n2. El conduit es un bloque avanzado para supervivencia bajo el agua.",
+    "response_time_ms": 575.7,
+    "response_chars": 136,
+    "top_sources": [
+      "pociones_efectos.txt",
+      "estado_efectos.txt",
+      "conducto_y_submarina_supervivencia.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 246,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Cual es la mejor estrategia para conseguir experiencia rapido?",
+    "focus": "conseguir experiencia rapido",
+    "focus_tokens": [
+      "conseguir",
+      "experiencia",
+      "rapido"
+    ],
+    "response": "1. La mejor fuente de experiencia depende del punto de progresion, recursos disponibles y objetivo del jugador.\n2. La mejor fuente de experiencia depende de la fase de la partida, del riesgo que puedas asumir y del tipo de infraestructura que ya tengas construida.\n3. Fundir objetos en hornos tambien genera experiencia al recoger el resultado.",
+    "response_time_ms": 678.96,
+    "response_chars": 344,
+    "top_sources": [
+      "experiencia_fuentes.txt",
+      "xp_farmeo_prioridad.txt",
+      "experiencia_fuentes.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 247,
+    "category": "strategy",
+    "question_type": "strategy",
+    "question": "Como me preparo para una expedicion al End?",
+    "focus": "una expedicion al end",
+    "focus_tokens": [
+      "expedicion",
+      "end"
+    ],
+    "response": "1. Para ir al End necesitas localizar una stronghold y activar su portal con ojos de ender.\n2. Antes de entrar, conviene llevar buena armadura, arma, arco o ballesta, comida, bloques de construccion y, si es posible, un cubo de agua.\n3. Tambien es recomendable preparar la pelea contra la Ender Dragon antes de cruzar el portal.\n4. Como buscar end cities y conseguir Elytra.",
+    "response_time_ms": 570.1,
+    "response_chars": 374,
+    "top_sources": [
+      "ir_al_end_requisitos_especificos.txt",
+      "referencia_exploracion_y_endgame_extensa_parte_2.txt",
+      "referencia_exploracion_y_movilidad_extensa_parte_1.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 248,
+    "category": "strategy",
+    "question_type": "definition",
+    "question": "Que es mejor, arco o ballesta?",
+    "focus": "mejor, arco o ballesta",
+    "focus_tokens": [
+      "arco",
+      "ballesta"
+    ],
+    "response": "En progresion general, el arco suele ser mas universal, mientras que la ballesta es una opcion valida pero mas especializada.",
+    "response_time_ms": 564.48,
+    "response_chars": 125,
+    "top_sources": [
+      "arco_ballesta_comparacion.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 249,
+    "category": "strategy",
+    "question_type": "definition",
+    "question": "Que es mejor, proteccion general o proteccion especializada?",
+    "focus": "mejor, proteccion general o proteccion especializada",
+    "focus_tokens": [
+      "proteccion",
+      "general",
+      "proteccion",
+      "especializada"
+    ],
+    "response": "Suele ser la mejor opcion base cuando no se busca una proteccion especializada contra una fuente concreta de dano.",
+    "response_time_ms": 580.08,
+    "response_chars": 114,
+    "top_sources": [
+      "encantamientos_detalle_armadura_y_defensa.txt"
+    ],
+    "flags": [
+      "definition_weak"
+    ]
+  },
+  {
+    "id": 250,
+    "category": "strategy",
+    "question_type": "build",
+    "question": "Como optimizar una base para evitar creepers?",
+    "focus": "base para evitar creepers",
+    "focus_tokens": [
+      "base",
+      "evitar",
+      "creepers"
+    ],
+    "response": "1. Para evitar que aparezcan mobs hostiles en tu base, lo mas importante es iluminar bien todas las zonas oscuras y eliminar espacios validos de spawn.\n2. Entender el spawning es clave para evitar mobs en la base o para optimizar granjas automáticas.\n3. La manera mas segura de matar creepers al principio es golpear y retroceder, o usar arco desde distancia.",
+    "response_time_ms": 563.38,
+    "response_chars": 359,
+    "top_sources": [
+      "evitar_aparicion_de_mobs_en_base_especifico.txt",
+      "mob_aparicion_sistema.txt",
+      "creeper_comportamiento_detalles.txt"
+    ],
+    "flags": []
+  }
+]

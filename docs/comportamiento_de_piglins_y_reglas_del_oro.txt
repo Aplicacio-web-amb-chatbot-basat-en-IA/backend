@@ -1,0 +1,18 @@
+Los piglins son neutrales mientras lleves al menos una pieza de armadura de oro. Sin oro, normalmente se vuelven hostiles con rapidez.
+
+---
+
+Tambien se enfadan si abres ciertos contenedores o manipulas oro cerca de ellos sin cuidado. Esto importa mucho en bastiones y exploracion del Nether.
+
+---
+
+El trueque con piglins permite obtener recursos utiles como obsidiana, cuarzo, cuerda, perlas, hierro y otros objetos segun la version y el contexto.
+
+---
+
+No deben confundirse con los piglin brutes, que siguen siendo hostiles aunque lleves oro.
+
+---
+
+Entender bien la relacion entre piglins y oro hace mucho mas segura la progresion por el Nether.
+

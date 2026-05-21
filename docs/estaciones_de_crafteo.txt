@@ -1,0 +1,49 @@
+La mesa de crafteo amplía el crafteo de 2x2 del inventario a una cuadrícula de 3x3.
+
+El horno sirve para fundir minerales y cocinar alimentos usando combustible.
+
+El alto horno funde minerales y equipo metálico más rápido que el horno normal, pero no cocina comida.
+
+El ahumador cocina comida más rápido que el horno normal, pero no funde minerales.
+
+La mesa de herreria se usa para mejorar equipo de diamante a netherita y para otras recetas modernas de mejora según plantilla y materiales.
+
+El yunque permite reparar objetos, combinar encantamientos, aplicar libros encantados y renombrar objetos.
+
+La piedra de afilar repara combinando objetos y elimina encantamientos no maldición, devolviendo parte de la experiencia.
+
+El telar facilita crear patrones de estandarte.
+
+El cortapiedra permite fabricar variantes de bloques de piedra con una interfaz directa y sin desperdicio de ingredientes en muchas recetas.
+
+La mesa de flechas sirve como bloque de trabajo del flechero y no añade una mecánica de fabricación compleja en Java comparable a otras estaciones.
+
+La mesa de cartografia permite copiar, ampliar y bloquear mapas.
+
+El caldero almacena algunos líquidos o contenidos según edición y mecánica concreta.
+
+La mesa de encantamientos aplica encantamientos consumiendo lapislázuli y niveles.
+
+El soporte para pociones se usa para preparar pociones a partir de botellas, ingredientes base y modificadores.
+
+Muchas estaciones también funcionan como bloques de trabajo de aldeanos y por eso influyen en profesiones e intercambios.
+
+La mesa de crafteo es imprescindible para fabricar la mayoría de herramientas, cofres, hornos, camas, puertas y bloques de progreso inicial.
+
+El horno normal es la opción más flexible porque permite tanto cocinar alimentos como fundir minerales.
+
+El alto horno es recomendable cuando el objetivo principal es procesar hierro, oro o equipo metálico rápidamente.
+
+El ahumador es recomendable para cocinar grandes cantidades de comida en menos tiempo.
+
+La mesa de encantamientos requiere libros, diamantes y obsidiana para fabricarse y necesita estanterías cercanas para alcanzar encantamientos altos.
+
+La mesa de herreria es necesaria para convertir equipo de diamante en netherita usando lingote de netherita y la plantilla adecuada.
+
+El yunque también permite poner nombre a objetos y combinar libros encantados entre sí antes de aplicarlos al equipo final.
+
+La piedra de afilar es útil cuando se quiere limpiar encantamientos no deseados de un objeto encontrado.
+
+La mesa de cartografia es especialmente útil para ampliar mapas de exploración o copiar un mapa antes de viajar.
+
+El cortapiedra simplifica recetas de piedra y suele ahorrar pasos al construir con ladrillos de piedra, escaleras o losas.

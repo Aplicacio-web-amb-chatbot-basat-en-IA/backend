@@ -1,0 +1,25 @@
+Efficiency aumenta la velocidad de minado o uso de la herramienta correspondiente.
+
+Unbreaking da una probabilidad de no consumir durabilidad en cada uso y alarga mucho la vida útil del objeto.
+
+Mending repara el objeto usando experiencia recogida mientras el objeto está equipado o en una ranura válida.
+
+Silk Touch hace que muchos bloques suelten el propio bloque en lugar de su drop normal.
+
+Fortune aumenta la cantidad de drops de muchos minerales y cultivos concretos.
+
+Silk Touch y Fortune normalmente no se pueden combinar en la misma herramienta.
+
+Looting no es un encantamiento de herramienta, sino de espada, por lo que no mejora drops mineros.
+
+Efficiency es muy valioso en picos, palas, hachas y tijeras en usos compatibles.
+
+Un pico con Silk Touch sirve para recoger piedra, menas completas, cristal y otros bloques delicados.
+
+Un pico con Fortune sirve mejor para conseguir más diamantes, carbón, redstone, lapislázuli o esmeraldas.
+
+Shears no usan Fortune ni Silk Touch igual que un pico, aunque siguen teniendo usos propios con ciertos bloques.
+
+Una combinación muy común para herramienta principal es Efficiency, Unbreaking y Mending.
+
+En hachas, Efficiency también mejora velocidad de tala y algunas tareas de combate situacional, aunque siguen siendo herramientas.

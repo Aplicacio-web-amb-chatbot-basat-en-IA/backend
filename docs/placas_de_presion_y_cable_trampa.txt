@@ -1,0 +1,7 @@
+Las placas de presion activan redstone cuando una entidad adecuada pasa sobre ellas.
+
+El tripwire detecta cruces a traves de una cuerda conectada a tripwire hooks.
+
+Ambos sistemas son utiles para trampas, puertas automaticas, alarmas o mecanismos de paso.
+
+Las placas son mas sencillas, mientras que el tripwire permite ciertos diseños mas discretos o a distancia.

@@ -1,0 +1,9 @@
+Cuando el jugador muere, normalmente pierde sus objetos en el lugar de la muerte, salvo reglas especiales del mundo.
+
+Despues reaparece en su cama valida o en el punto de spawn del mundo si no hay cama utilizable.
+
+Recuperar objetos rapidamente suele ser importante porque pueden desaparecer si pasa demasiado tiempo cargado o si caen en lava.
+
+Tener una cama, equipo de repuesto y una base organizada ayuda a reducir mucho el impacto de las muertes.
+
+La gestion del respawn es una parte importante de la supervivencia y de la exploracion arriesgada.

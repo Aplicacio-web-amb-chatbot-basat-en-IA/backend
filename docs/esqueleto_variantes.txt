@@ -1,0 +1,7 @@
+Los skeletons tienen varias variantes segun bioma y dimension.
+
+Los strays aparecen en biomas frios y tienen caracteristicas propias.
+
+Los wither skeletons aparecen en fortalezas del Nether y son clave para invocar al Wither.
+
+Todas estas variantes comparten ataques a distancia o mecanicas relacionadas con esqueletos, pero cambian en drops y peligros.

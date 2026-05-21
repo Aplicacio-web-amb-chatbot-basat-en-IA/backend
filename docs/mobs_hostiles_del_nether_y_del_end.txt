@@ -1,0 +1,37 @@
+Los ghasts atacan a distancia con bolas de fuego explosivas y suelen aparecer en espacios abiertos del Nether.
+
+Los blazes disparan ráfagas de fuego y son esenciales porque sueltan blaze rods.
+
+Los magma cubes saltan, hacen daño al contacto y aparecen sobre todo en el Nether.
+
+Los wither skeletons aparecen en fortalezas del Nether y pueden aplicar el efecto Wither.
+
+Los hoglins son criaturas agresivas del Crimson Forest y pueden empujar con fuerza al jugador.
+
+Los piglin brutes son muy agresivos y no se calman por llevar oro.
+
+Los shulkers aparecen en end cities y disparan proyectiles que causan levitación.
+
+Los endermites son pequeños mobs hostiles relacionados con perlas de ender en ciertos casos.
+
+Los endermen aparecen tanto en Overworld como en Nether y End, pero son especialmente abundantes en el End.
+
+Los ghasts y blazes son especialmente peligrosos si el jugador no tiene protección contra fuego o cobertura.
+
+Los wither skeletons son una fuente clave de calaveras para invocar al Wither.
+
+Los shulkers son importantes porque sueltan caparazones para fabricar shulker boxes.
+
+El control del terreno y una buena preparación son fundamentales en Nether y End porque muchos mobs allí tienen gran movilidad o daño elevado.
+
+Los blazes son prioritarios porque sus blaze rods desbloquean soporte para pociones y ojos de ender.
+
+Los ghasts son molestos por su alcance y porque pueden destruir ciertos bloques con sus explosiones.
+
+Los wither skeletons son peligrosos por el efecto Wither y por su importancia para invocar al Wither.
+
+Los piglin brutes golpean muy fuerte y no respetan la pieza de oro del jugador.
+
+Los hoglins son agresivos y pueden empujar al jugador a lava o precipicios si no se controla el terreno.
+
+Los shulkers son una amenaza unica porque la levitacion puede provocar caidas muy peligrosas.

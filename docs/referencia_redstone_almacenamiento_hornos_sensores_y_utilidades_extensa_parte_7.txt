@@ -1,0 +1,37 @@
+Como funciona un sistema de almacenamiento central. Un almacenamiento central suele combinar lineas de entrada, clasificadores, cofres de salida y acceso de mantenimiento. Su objetivo es que los recursos de granjas, mineria y exploracion lleguen a una zona ordenada sin depender de clasificacion manual constante.
+---
+Como disenar un almacenamiento para granjas automaticas. Lo importante es prever que algunas granjas generan un solo recurso y otras varios a la vez. Por eso conviene separar entradas por modulo, dejar rebosaderos y decidir donde tiene sentido usar filtros y donde basta con cofres mas simples.
+---
+Como evitar que un almacenamiento se sature. Lo normal es anadir cofres de reserva, filtros por tipo y, si hace falta, una salida de exceso o basura controlada. Si el sistema no tiene margen, una sola granja productiva puede bloquear toda la linea.
+---
+Como usar comparadores para medir llenado de cofres o tolvas. Un comparador conectado a un contenedor devuelve una senal proporcional al contenido. Esto permite encender una lampara, disparar una alarma, activar un desvio o detener una maquina cuando se alcanza un umbral.
+---
+Como hacer un aviso de cofre lleno. Basta con leer el contenedor con un comparador y decidir a partir de que nivel debe activarse la senal. Es una mejora sencilla y muy util en granjas largas, porque evita perder recursos por saturacion sin darse cuenta.
+---
+Como automatizar una linea de hornos con combustible renovable. Una linea de hornos puede alimentarse con bambu, kelp seco, carbon vegetal o cualquier otra fuente estable usando tolvas y almacenamiento separado. Si el suministro esta bien balanceado, la produccion puede mantenerse casi sin intervencion del jugador.
+---
+Como funciona una super smelter a nivel general. Una super smelter reparte muchos items entre varios hornos para procesar grandes cantidades en paralelo. Normalmente necesita una entrada principal, una linea de combustible, un sistema de extraccion y cierta sincronizacion para que todo se distribuya con equilibrio.
+---
+Como se recoge experiencia de hornos de forma eficiente. Algunos jugadores dejan acumular objetos procesados en hornos y luego los extraen de golpe para recoger mucha experiencia. Es una tecnica util si la base ya dispone de una linea automatica de coccion constante.
+---
+Como usar sensores de luz diurna en automatizacion. El sensor de luz diurna permite activar o desactivar sistemas segun la hora del dia, como lamparas, puertas, granjas simples o alarmas. Es util cuando se quiere una automatizacion basada en ciclos naturales del mundo.
+---
+Como usar tripwire y placas de presion tecnicamente. Ambos sirven como entradas fisicas y pueden activar puertas, trampas, alarmas o contadores. La diferencia suele estar en si se quiere detectar una entidad que pase, un jugador concreto o una accion mas deliberada.
+---
+Como usar item frames, libros o llaves ocultas en una base. Estos activadores no son clasicos, pero se usan mucho en bases ocultas o sistemas esteticos donde no interesa mostrar una palanca evidente. Su valor esta en combinar funcionalidad con discrecion.
+---
+Como hacer una basura o incinerador automatico. Suele usarse un cofre de entrada, tolvas y lava, cactus u otro mecanismo destructivo controlado. Esto ayuda a limpiar excedentes en zonas de mineria, granjas o almacenamiento cuando no todo merece guardarse.
+---
+Como hacer un sistema de overflow para almacenamiento. Un overflow deriva los items que no caben en la linea principal hacia cofres extra o hacia una salida controlada. Es muy util cuando el jugador no siempre revisa a tiempo la produccion de una granja.
+---
+Como integrar redstone y decoracion sin que todo se vea tecnico. Una base puede esconder el cableado bajo suelo, detras de paredes o en salas tecnicas separadas, dejando visible solo la interfaz util. Esto mantiene la funcionalidad sin que toda la construccion parezca una fabrica abierta.
+---
+Como mantener accesible una sala de redstone. Aunque el sistema este escondido al usuario normal, conviene dejar paneles o pasillos de mantenimiento. Si no se puede acceder a tolvas, comparadores, observadores y palancas, cualquier averia se vuelve mucho mas costosa de resolver.
+---
+Como planificar una ampliacion futura de almacenamiento. Lo mejor es dejar lineas o espacios reservados para nuevos filtros, nuevos cofres y nuevas entradas. Si el almacenamiento nace demasiado justo, cada ampliacion futura obliga a rehacer parte de la infraestructura.
+---
+Como separar recursos tecnicos y recursos decorativos. En bases grandes suele compensar dar prioridad a hierro, redstone, cuarzo, combustible y drops de granjas en una zona tecnica, dejando otros bloques para una zona mas libre o decorativa. Esa separacion agiliza mucho el uso diario.
+---
+Como saber si un sistema tecnico es demasiado complejo para su beneficio. Si mantenerlo cuesta mas tiempo que el recurso que ahorra, probablemente esta sobredisenado. En supervivencia, la simplicidad mantenible suele ser mejor que la optimizacion extrema si el uso real no lo justifica.
+---
+Como documentar o explicar un sistema de redstone en una memoria o defensa. Lo mejor es dividirlo en entrada, deteccion, logica, accion y salida. Si se entiende cada fase, luego resulta mucho mas facil justificar por que se eligio ese diseno y no otro.

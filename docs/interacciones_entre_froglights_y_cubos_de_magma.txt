@@ -1,0 +1,7 @@
+Las ranas pueden producir froglights al interactuar con cubos de magma pequeños en condiciones adecuadas.
+
+Los froglights son bloques luminosos decorativos muy valorados.
+
+Conseguirlos requiere entender el comportamiento de ranas y cubos de magma y montar un entorno controlado.
+
+Es una mecanica avanzada y mas orientada a decoracion o granjas especializadas que a progreso basico.

@@ -1,0 +1,43 @@
+Como funciona la fuerza de senal en redstone. La fuerza de una senal de redstone suele salir con intensidad 15 y va bajando a medida que recorre polvo de redstone. Cada bloque de polvo consume un nivel, asi que una linea larga necesita repetidores para restaurar la intensidad.
+---
+Que diferencia hay entre un repetidor y un comparador. El repetidor sirve para extender senal, introducir retraso y bloquear senales laterales no deseadas. El comparador sirve para leer intensidad de contenedores y bloques especiales, comparar dos entradas o restar una senal a otra.
+---
+Como se usa un repetidor en una instalacion tecnica. Un repetidor puede colocarse en varias posiciones de retraso y cada posicion anade mas ticks a la senal. Esto es util para sincronizar pistones, puertas, dispensadores y circuitos que necesitan que dos acciones no ocurran exactamente al mismo tiempo.
+---
+Como se usa un comparador con cofres, tolvas o hornos. El comparador puede leer cuanto contenido tiene un contenedor y convertirlo en una senal de distinta intensidad. Esto permite hacer indicadores de llenado, clasificadores de objetos, sistemas de aviso y circuitos que se activan cuando un contenedor supera cierto nivel.
+---
+Como funciona un observador de redstone. El observador detecta cambios en el bloque que esta mirando y emite un pulso corto por la cara de salida. Eso lo hace muy util para detectar crecimiento de cultivos, cambios de estado en bloques y acciones del jugador o de otras maquinas.
+---
+Para que sirve una antorcha de redstone. La antorcha actua como fuente de energia constante cuando el bloque al que esta conectada no recibe senal. Tambien se usa en puertas logicas, inversores, relojes, lineas verticales de senal y memorias simples.
+---
+Que bloques se usan para transmitir redstone de forma segura. Los bloques solidos completos suelen usarse para soportar antorchas, repetidores y comparadores, mientras que cristal, hojas y otros bloques no solidos ayudan a evitar conexiones indeseadas. Elegir bien el bloque importa mucho cuando un circuito es compacto.
+---
+Como transportar redstone en vertical. Se puede hacer con columnas de antorchas, observadores enfrentados o combinaciones de pistones y bloques. La eleccion depende de si se necesita una subida rapida, una bajada compacta o un sistema facil de mantener.
+---
+Como mover senal a larga distancia sin llenar todo de polvo. A veces conviene combinar repetidores, observadores o modulos separados en lugar de arrastrar una sola linea muy larga de polvo. Esto reduce interferencias y facilita apagar o mantener partes concretas del circuito.
+---
+Como hacer un pulso corto con redstone. Un pulso corto puede obtenerse con observadores, con un comparador en ciertos disenos o con un circuito monestable sencillo. Los pulsos cortos son utiles para pistones, dispensadores y mecanismos que no deben quedarse activados de forma continua.
+---
+Como prolongar una senal de redstone. Para alargar un pulso se suelen usar comparadores con bloques o contenedores, o sistemas con repetidores y retroalimentacion controlada. Esto sirve cuando una puerta, una trampa o un dispensador necesitan permanecer activos durante mas tiempo.
+---
+Como hacer un reloj de redstone sin que cause problemas. Un reloj puede construirse con repetidores, observadores o tolvas enfrentadas, pero conviene que tenga una forma clara de apagarse. Un reloj permanente e innecesario puede producir lag, ruido y activaciones accidentales en otros sistemas cercanos.
+---
+Como funciona un reloj de tolvas. Dos tolvas enfrentadas que pasan items de una a otra generan una senal periodica que puede leerse con comparadores. Es un sistema muy util para temporizadores, dispensadores periodicos, clasificadores avanzados y puertas con apertura temporal.
+---
+Como usar tolvas de forma eficiente. Las tolvas mueven items de forma constante entre contenedores y son la base de muchas automatizaciones. Conviene evitar usar demasiadas tolvas siempre desbloqueadas en zonas grandes porque pueden penalizar rendimiento si el sistema crece mucho.
+---
+Como bloquear una tolva con redstone. Una tolva deja de transferir items cuando recibe energia de redstone. Este detalle es clave en clasificadores de objetos, lineas de almacenamiento, hornos automáticos y temporizadores de tolvas.
+---
+Como funciona un clasificador de objetos. El clasificador tipico usa una tolva principal, una tolva de filtro, un comparador, una antorcha de redstone, un repetidor y bloques de soporte. El sistema mantiene items de relleno para que solo pase el objeto deseado a cada cofre y evita mezclar materiales.
+---
+Como evitar que un clasificador se rompa. Lo importante es calibrar bien el numero de items del filtro y usar nombres o rellenos que no puedan confundirse con objetos reales del sistema. Si se colocan objetos de relleno incorrectos o el filtro recibe demasiada carga, puede producirse desbordamiento.
+---
+Como funcionan los hornos automaticos. Un sistema automatico suele separar entrada de objetos, combustible y salida usando tolvas o vagonetas con tolva. Esto permite cocinar grandes cantidades de material y despues recogerlas sin tener que alimentar cada horno manualmente.
+---
+Como hacer una linea de hornos masiva. Lo habitual es repartir la entrada y el combustible mediante tolvas, agua o vagonetas con tolva para alimentar varios hornos a la vez. El beneficio principal es procesar mas material por ciclo, pero el diseno debe ser ordenado para no atascarse.
+---
+Como automatizar cofres y almacenamiento con redstone. El uso combinado de tolvas, comparadores, filtros y cofres permite crear sistemas donde los objetos se almacenan solos segun su tipo. Esto es especialmente util en bases con granjas automaticas, mineria intensiva o produccion tecnica grande.
+---
+Como combinar agua y redstone para mover objetos. Las corrientes de agua son muy utiles para recoger items y llevarlos a tolvas o cofres. En muchas granjas conviene usar agua para el transporte horizontal y dejar la redstone solo para romper, activar o sincronizar mecanismos.
+---
+Como depurar un circuito de redstone cuando no funciona. Lo mejor es comprobar cada modulo por separado, revisar la orientacion de observadores y repetidores, confirmar la direccion de los pistones y buscar conexiones laterales no deseadas. En redstone, los errores pequenos suelen propagarse mucho si el diseno es compacto.

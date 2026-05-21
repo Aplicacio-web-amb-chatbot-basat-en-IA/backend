@@ -1,0 +1,255 @@
+La mesa de crafteo se fabrica con cuatro tablones de madera colocados en un cuadrado de 2x2. La receta produce una mesa de crafteo.
+---
+El palo se fabrica con dos tablones colocados en vertical, uno encima del otro. La receta produce cuatro palos.
+---
+La antorcha se fabrica con un carbon o carbon vegetal encima de un palo. La receta produce cuatro antorchas.
+---
+La hoguera se fabrica con tres palos, un carbon o carbon vegetal y tres troncos o madera. Los palos van en la fila central, el carbon en el centro y los troncos en la fila inferior. La receta produce una hoguera.
+---
+El cofre se fabrica con ocho tablones de madera colocados alrededor del hueco central de la mesa de crafteo. La receta produce un cofre.
+---
+El barril se fabrica con seis tablones y dos losas de madera. Las losas van arriba y abajo en el centro, y los tablones a los lados. La receta produce un barril.
+---
+El horno se fabrica con ocho bloques de adoquin colocados alrededor del hueco central. La receta produce un horno.
+---
+El alto horno se fabrica con un horno en el centro, cinco lingotes de hierro alrededor de la parte superior y laterales, y tres bloques de piedra lisa en la fila inferior. La receta produce un alto horno.
+---
+El ahumador se fabrica con un horno en el centro y cuatro troncos, madera o troncos pelados en las casillas superior, inferior, izquierda y derecha. La receta produce un ahumador.
+---
+La piedra de afilar se fabrica con dos palos arriba a los lados, una losa de piedra en el centro y dos tablones abajo a los lados. La receta produce una piedra de afilar.
+---
+El yunque se fabrica con tres bloques de hierro en la fila superior, un lingote de hierro en el centro y tres lingotes de hierro en la fila inferior. La receta produce un yunque.
+---
+La mesa de encantamientos se fabrica con un libro arriba en el centro, dos diamantes a izquierda y derecha del centro, cuatro bloques de obsidiana en forma de T inferior y un bloque de obsidiana en el centro. La receta produce una mesa de encantamientos.
+---
+El soporte para pociones se fabrica con una blaze rod en el centro y tres bloques de adoquin o piedra en la fila inferior. La receta produce un soporte para pociones.
+---
+La mesa de cartografia se fabrica con dos hojas de papel arriba y cuatro tablones ocupando las dos filas inferiores. La receta produce una mesa de cartografia.
+---
+El telar se fabrica con dos cuerdas en la fila superior y dos tablones justo debajo. La receta produce un telar.
+---
+El cortapiedra se fabrica con un lingote de hierro en el centro superior y tres bloques de piedra en la fila inferior. La receta produce un cortapiedra.
+---
+La mesa de herreria se fabrica con dos lingotes de hierro en la fila superior y cuatro tablones ocupando las dos filas inferiores laterales. La receta produce una mesa de herreria.
+---
+El compostador se fabrica con siete losas de madera formando una U abierta por arriba. La receta produce un compostador.
+---
+La mesa de flechas se fabrica con dos pedernales arriba, dos plumas en el centro, un lingote de hierro en el medio inferior y cuatro tablones rellenando las dos filas inferiores laterales. La receta produce una mesa de flechas.
+---
+El atril se fabrica con una libreria en el centro y cuatro losas de madera, tres en la fila superior y una en el centro inferior. La receta produce un atril.
+---
+La libreria se fabrica con tres libros en la fila central y seis tablones de madera en las filas superior e inferior. La receta produce una libreria.
+---
+El libro se fabrica con tres hojas de papel y una pieza de cuero. Los papeles rodean o acompanian el cuero en una disposicion compacta. La receta produce un libro.
+---
+El papel se fabrica con tres piezas de cana de azucar colocadas en horizontal. La receta produce tres hojas de papel.
+---
+La cama se fabrica con tres bloques de lana en la fila superior y tres tablones de madera en la fila central. La receta produce una cama.
+---
+La puerta de roble se fabrica con seis tablones de roble colocados en dos columnas verticales de tres. La receta produce tres puertas.
+---
+La trampilla de roble se fabrica con seis tablones de roble colocados en dos filas horizontales de tres. La receta produce dos trampillas.
+---
+La valla de roble se fabrica con cuatro tablones y dos palos alternados en las dos filas centrales. La receta produce tres vallas.
+---
+La puerta de valla de roble se fabrica con cuatro palos a los lados y dos tablones en el centro de las dos filas centrales. La receta produce una puerta de valla.
+---
+El cartel se fabrica con seis tablones en las dos filas superiores y un palo en el centro inferior. La receta produce tres carteles.
+---
+El bote de roble se fabrica con cinco tablones de roble colocados con forma de U. La receta produce un bote.
+---
+El bote con cofre se fabrica combinando un bote y un cofre en la mesa de crafteo. La receta produce un bote con cofre.
+---
+La escalera de mano se fabrica con siete palos formando una H abierta. La receta produce tres escaleras de mano.
+---
+La espada de madera se fabrica con dos tablones en vertical y un palo debajo en la columna central. La receta produce una espada de madera.
+---
+La espada de piedra se fabrica con dos bloques de adoquin en vertical y un palo debajo en la columna central. La receta produce una espada de piedra.
+---
+La espada de hierro se fabrica con dos lingotes de hierro en vertical y un palo debajo en la columna central. La receta produce una espada de hierro.
+---
+La espada de oro se fabrica con dos lingotes de oro en vertical y un palo debajo en la columna central. La receta produce una espada de oro.
+---
+La espada de diamante se fabrica con dos diamantes en vertical y un palo debajo en la columna central. La receta produce una espada de diamante.
+---
+El pico de madera se fabrica con tres tablones en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de madera.
+---
+El pico de piedra se fabrica con tres bloques de adoquin en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de piedra.
+---
+El pico de hierro se fabrica con tres lingotes de hierro en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de hierro.
+---
+El pico de oro se fabrica con tres lingotes de oro en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de oro.
+---
+El pico de diamante se fabrica con tres diamantes en la fila superior y dos palos en vertical en la columna central. La receta produce un pico de diamante.
+---
+La pala de madera se fabrica con un tablon arriba y dos palos debajo en vertical. La receta produce una pala de madera.
+---
+La pala de piedra se fabrica con un bloque de adoquin arriba y dos palos debajo en vertical. La receta produce una pala de piedra.
+---
+La pala de hierro se fabrica con un lingote de hierro arriba y dos palos debajo en vertical. La receta produce una pala de hierro.
+---
+La pala de oro se fabrica con un lingote de oro arriba y dos palos debajo en vertical. La receta produce una pala de oro.
+---
+La pala de diamante se fabrica con un diamante arriba y dos palos debajo en vertical. La receta produce una pala de diamante.
+---
+El hacha de madera se fabrica con tres tablones y dos palos. Los tablones forman una L en la esquina superior izquierda o derecha y los palos van en vertical. La receta produce un hacha de madera.
+---
+El hacha de piedra se fabrica con tres bloques de adoquin y dos palos. Los bloques forman una L superior y los palos van en vertical. La receta produce un hacha de piedra.
+---
+El hacha de hierro se fabrica con tres lingotes de hierro y dos palos. Los lingotes forman una L superior y los palos van en vertical. La receta produce un hacha de hierro.
+---
+El hacha de oro se fabrica con tres lingotes de oro y dos palos. Los lingotes forman una L superior y los palos van en vertical. La receta produce un hacha de oro.
+---
+El hacha de diamante se fabrica con tres diamantes y dos palos. Los diamantes forman una L superior y los palos van en vertical. La receta produce un hacha de diamante.
+---
+La azada de madera se fabrica con dos tablones en la fila superior y dos palos en vertical debajo. La receta produce una azada de madera.
+---
+La azada de piedra se fabrica con dos bloques de adoquin en la fila superior y dos palos en vertical debajo. La receta produce una azada de piedra.
+---
+La azada de hierro se fabrica con dos lingotes de hierro en la fila superior y dos palos en vertical debajo. La receta produce una azada de hierro.
+---
+La azada de oro se fabrica con dos lingotes de oro en la fila superior y dos palos en vertical debajo. La receta produce una azada de oro.
+---
+La azada de diamante se fabrica con dos diamantes en la fila superior y dos palos en vertical debajo. La receta produce una azada de diamante.
+---
+El casco de cuero se fabrica con cinco piezas de cuero formando un arco en la fila superior y laterales medios. La receta produce un casco de cuero.
+---
+El peto de cuero se fabrica con ocho piezas de cuero ocupando todas las casillas salvo la superior central. La receta produce un peto de cuero.
+---
+Los pantalones de cuero se fabrican con siete piezas de cuero formando una U invertida. La receta produce unos pantalones de cuero.
+---
+Las botas de cuero se fabrican con cuatro piezas de cuero en dos columnas laterales de dos. La receta produce unas botas de cuero.
+---
+El casco de hierro se fabrica con cinco lingotes de hierro formando un arco. La receta produce un casco de hierro.
+---
+El peto de hierro se fabrica con ocho lingotes de hierro ocupando todas las casillas salvo la superior central. La receta produce un peto de hierro.
+---
+Los pantalones de hierro se fabrican con siete lingotes de hierro formando una U invertida. La receta produce unos pantalones de hierro.
+---
+Las botas de hierro se fabrican con cuatro lingotes de hierro en dos columnas laterales de dos. La receta produce unas botas de hierro.
+---
+El casco de oro se fabrica con cinco lingotes de oro formando un arco. La receta produce un casco de oro.
+---
+El peto de oro se fabrica con ocho lingotes de oro ocupando todas las casillas salvo la superior central. La receta produce un peto de oro.
+---
+Los pantalones de oro se fabrican con siete lingotes de oro formando una U invertida. La receta produce unos pantalones de oro.
+---
+Las botas de oro se fabrican con cuatro lingotes de oro en dos columnas laterales de dos. La receta produce unas botas de oro.
+---
+El casco de diamante se fabrica con cinco diamantes formando un arco. La receta produce un casco de diamante.
+---
+El peto de diamante se fabrica con ocho diamantes ocupando todas las casillas salvo la superior central. La receta produce un peto de diamante.
+---
+Los pantalones de diamante se fabrican con siete diamantes formando una U invertida. La receta produce unos pantalones de diamante.
+---
+Las botas de diamante se fabrican con cuatro diamantes en dos columnas laterales de dos. La receta produce unas botas de diamante.
+---
+El escudo se fabrica con seis tablones y un lingote de hierro. Los tablones forman una Y ancha y el hierro va en la casilla superior central. La receta produce un escudo.
+---
+El arco se fabrica con tres palos formando una curva y tres cuerdas en la columna derecha. La receta produce un arco.
+---
+La ballesta se fabrica con tres palos, dos cuerdas, un lingote de hierro y un tripwire hook. Los palos forman la estructura central, las cuerdas van a los lados, el hierro en el centro y el tripwire hook debajo. La receta produce una ballesta.
+---
+La flecha se fabrica con un pedernal, un palo y una pluma colocados en vertical. La receta produce cuatro flechas.
+---
+La antorcha de redstone se fabrica con polvo de redstone encima de un palo. La receta produce una antorcha de redstone.
+---
+El repetidor de redstone se fabrica con dos antorchas de redstone arriba a los lados, un polvo de redstone en el centro y tres bloques de piedra en la fila inferior. La receta produce un repetidor.
+---
+El comparador se fabrica con tres antorchas de redstone en forma de triangulo, un cuarzo del Nether en el centro y tres bloques de piedra en la fila inferior. La receta produce un comparador.
+---
+El piston se fabrica con tres tablones en la fila superior, cuatro bloques de adoquin a los lados, un lingote de hierro en el centro y un polvo de redstone debajo. La receta produce un piston.
+---
+El piston pegajoso se fabrica combinando un piston con una bola de slime. La receta produce un piston pegajoso.
+---
+La tolva se fabrica con cinco lingotes de hierro formando una V y un cofre en el centro. La receta produce una tolva.
+---
+El dispensador se fabrica con siete bloques de adoquin alrededor, un arco en el centro y un polvo de redstone en el centro inferior. La receta produce un dispensador.
+---
+El dropper se fabrica con siete bloques de adoquin alrededor y un polvo de redstone en el centro. La receta produce un dropper.
+---
+La lampara de redstone se fabrica con un bloque de glowstone en el centro y cuatro polvos de redstone en cruz alrededor. La receta produce una lampara de redstone.
+---
+El observador se fabrica con seis bloques de adoquin, dos polvos de redstone y un cuarzo del Nether. La receta produce un observador.
+---
+El bloque de notas se fabrica con ocho tablones rodeando un polvo de redstone central. La receta produce un bloque de notas.
+---
+La placa de presion de piedra se fabrica con dos bloques de piedra en horizontal. La receta produce una placa de presion de piedra.
+---
+La placa de presion de madera se fabrica con dos tablones en horizontal. La receta produce una placa de presion de madera.
+---
+El boton de piedra se fabrica con un bloque de piedra. La receta produce un boton de piedra.
+---
+El boton de madera se fabrica con un tablon. La receta produce un boton de madera.
+---
+La palanca se fabrica con un palo encima de un bloque de adoquin o piedra. La receta produce una palanca.
+---
+La via normal se fabrica con seis lingotes de hierro a los lados, un palo en el centro y nada mas. La receta produce dieciseis rails.
+---
+La powered rail se fabrica con seis lingotes de oro a los lados, un palo en el centro y un polvo de redstone abajo en el centro. La receta produce seis vias propulsoras.
+---
+La detector rail se fabrica con seis lingotes de hierro a los lados, una placa de presion de piedra en el centro y un polvo de redstone abajo en el centro. La receta produce seis detector rails.
+---
+La activator rail se fabrica con seis lingotes de hierro a los lados, dos palos en diagonal y una antorcha de redstone en el centro. La receta produce seis activator rails.
+---
+El minecart se fabrica con cinco lingotes de hierro colocados con forma de U. La receta produce un minecart.
+---
+El minecart con cofre se fabrica combinando un minecart con un cofre. La receta produce un minecart con cofre.
+---
+El minecart con horno se fabrica combinando un horno con un minecart. La receta produce un minecart con horno.
+---
+La brujula se fabrica con cuatro lingotes de hierro en cruz alrededor de un polvo de redstone central. La receta produce una brujula.
+---
+El reloj se fabrica con cuatro lingotes de oro en cruz alrededor de un polvo de redstone central. La receta produce un reloj.
+---
+El cubo se fabrica con tres lingotes de hierro colocados con forma de V. La receta produce un cubo.
+---
+Las tijeras se fabrican con dos lingotes de hierro colocados en diagonal. La receta produce unas tijeras.
+---
+El mechero se fabrica con un pedernal y un lingote de hierro colocados en diagonal. La receta produce un mechero.
+---
+La cana de pescar se fabrica con tres palos en diagonal y dos cuerdas colgando a la derecha. La receta produce una cana de pescar.
+---
+El tripwire hook se fabrica con un lingote de hierro, un palo y un tablon colocados en vertical. La receta produce dos tripwire hooks.
+---
+La botella de vidrio se fabrica con tres bloques de cristal colocados con forma de V. La receta produce tres botellas.
+---
+El bloque de hierro se fabrica con nueve lingotes de hierro llenando toda la mesa de crafteo. La receta produce un bloque de hierro.
+---
+El bloque de oro se fabrica con nueve lingotes de oro llenando toda la mesa de crafteo. La receta produce un bloque de oro.
+---
+El bloque de diamante se fabrica con nueve diamantes llenando toda la mesa de crafteo. La receta produce un bloque de diamante.
+---
+El bloque de redstone se fabrica con nueve polvos de redstone llenando toda la mesa de crafteo. La receta produce un bloque de redstone.
+---
+El bloque de lapislazuli se fabrica con nueve lapislazulis llenando toda la mesa de crafteo. La receta produce un bloque de lapislazuli.
+---
+El bloque de esmeralda se fabrica con nueve esmeraldas llenando toda la mesa de crafteo. La receta produce un bloque de esmeralda.
+---
+El bloque de carbon se fabrica con nueve carbones llenando toda la mesa de crafteo. La receta produce un bloque de carbon.
+---
+El pan se fabrica con tres unidades de trigo colocadas en horizontal. La receta produce un pan.
+---
+El pastel se fabrica con tres cubos de leche arriba, dos unidades de azucar a los lados del centro, un huevo en el centro y tres unidades de trigo abajo. La receta produce un pastel.
+---
+La galleta se fabrica con dos unidades de trigo a los lados y un grano de cacao en el centro. La receta produce ocho galletas.
+---
+La manzana dorada se fabrica con una manzana en el centro y ocho lingotes de oro alrededor. La receta produce una manzana dorada.
+---
+La zanahoria dorada se fabrica con una zanahoria en el centro y ocho pepitas de oro alrededor. La receta produce una zanahoria dorada.
+---
+La rodaja de melon reluciente se fabrica con una rodaja de melon en el centro y ocho pepitas de oro alrededor. La receta produce una rodaja de melon reluciente.
+---
+El azucar se fabrica con una pieza de cana de azucar. La receta produce un azucar.
+---
+La antorcha de alma se fabrica combinando una antorcha normal con tierra de almas o arena de almas. La receta produce cuatro antorchas de alma.
+---
+La fogata de almas se fabrica combinando una hoguera con tierra de almas o arena de almas. La receta produce una fogata de almas.
+---
+El andamio se fabrica con seis bambues y una cuerda. Los bambues rodean la cuerda excepto la fila inferior derecha. La receta produce seis andamios.
+---
+La TNT se fabrica con cuatro polvoras y cinco bloques de arena o arena roja alternados en la mesa de crafteo. La receta produce un bloque de TNT.
+---
+El mapa se fabrica con ocho hojas de papel rodeando una brujula en la casilla central. La receta produce un mapa.
+---
+El mapa localizador se fabrica con ocho hojas de papel rodeando una brujula en la casilla central. La receta produce un mapa localizador.

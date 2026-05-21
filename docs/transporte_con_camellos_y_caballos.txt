@@ -1,0 +1,9 @@
+Los caballos son una opcion fuerte de transporte terrestre cuando se consigue silla.
+
+Pueden variar mucho en velocidad, salto y salud.
+
+Los camellos permiten transporte de dos jugadores y tienen ventajas particulares en desiertos y terreno abierto.
+
+Las sillas no se fabrican normalmente y suelen obtenerse de cofres, pesca o comercio segun contexto.
+
+Burros y mulas pueden llevar cofres, lo que los hace utiles para transporte de objetos.

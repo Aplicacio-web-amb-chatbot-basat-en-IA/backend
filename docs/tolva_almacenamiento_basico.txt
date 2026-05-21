@@ -1,0 +1,13 @@
+Las tolvas son uno de los pilares de la automatizacion y el almacenamiento en Minecraft.
+
+Pueden mover objetos entre cofres, hornos, barriles y otros contenedores compatibles.
+
+Una tolva puede recoger objetos del suelo si el item cae sobre ella.
+
+Las tolvas permiten automatizar fundicion, clasificacion y transporte basico de items.
+
+Tambien pueden bloquearse con redstone para controlar exactamente cuando deben o no deben mover objetos.
+
+Un sistema de almacenamiento simple suele combinar cofres y tolvas para ordenar objetos sin gestion manual completa.
+
+Son componentes muy usados en granjas automaticas y clasificadores de objetos.

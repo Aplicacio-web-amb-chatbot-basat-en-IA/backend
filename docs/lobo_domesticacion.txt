@@ -1,0 +1,17 @@
+Los lobos salvajes aparecen en ciertos biomas, especialmente en taigas y bosques concretos.
+
+Para domesticar un lobo hay que darle huesos haciendo clic derecho con el hueso en la mano.
+
+El numero de huesos necesarios puede variar, porque el proceso tiene un componente aleatorio.
+
+Cuando el lobo se domestica aparecen particulas de corazon y pasa a tener collar.
+
+Un lobo domesticado sigue al jugador, puede sentarse si se le ordena y ayuda en combate contra ciertos enemigos.
+
+Los lobos domesticados pueden ser utiles como apoyo, pero no sustituyen una buena armadura o estrategia.
+
+Para curar a un lobo domesticado se le puede dar comida de carne adecuada.
+
+Atacar a un lobo salvaje sin cuidado puede volver hostil a la manada cercana.
+
+Los lobos no se domestican con trigo ni con carne en Minecraft Java; los huesos son el metodo principal.

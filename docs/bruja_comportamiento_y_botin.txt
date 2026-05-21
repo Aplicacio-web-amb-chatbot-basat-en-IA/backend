@@ -1,0 +1,18 @@
+Las brujas son mobs hostiles que usan pociones para curarse o para atacar al jugador. Por eso pueden ser mas resistentes y molestas que otros enemigos normales.
+
+---
+
+Atacan con pociones arrojadizas y pueden aplicar veneno, lentitud o daño indirecto segun la situacion. Combatirlas a distancia suele ser mas seguro que intercambiar golpes cerca.
+
+---
+
+Las brujas sueltan ingredientes utiles como redstone, glowstone, azucar, palos, polvo y botellas. Esto las convierte en un objetivo interesante para granjas concretas.
+
+---
+
+En pantanos y en raids pueden aparecer de forma especialmente relevante. En esos contextos conviene priorizarlas por encima de enemigos menos peligrosos.
+
+---
+
+Aunque no son el mob mas fuerte del juego, si exigen respeto porque pueden alargar combates y complicar mucho situaciones ya inestables.
+

@@ -1,0 +1,69 @@
+La palanca es una fuente de señal estable que se enciende y apaga manualmente.
+
+El botón emite una señal temporal corta después de pulsarlo.
+
+La placa de presión emite señal cuando una entidad o elemento compatible la activa.
+
+El repetidor transmite señal en una dirección concreta, puede retrasarla y también bloquearse en ciertos montajes.
+
+El comparador puede leer la ocupación de contenedores, comparar señales o detectar estados especiales de algunos bloques.
+
+El pistón empuja bloques al activarse.
+
+El pistón pegajoso puede empujar y también tirar de muchos bloques al retraerse.
+
+El observador detecta cambios en el bloque observado y genera un pulso corto.
+
+El dispensador usa o lanza objetos de manera funcional, por ejemplo flechas, cubos, agua o tijeras en ciertos contextos.
+
+El soltador o dropper expulsa objetos como entidades o los mueve a contenedores sin usar su funcionalidad especial.
+
+La tolva transfiere objetos entre contenedores y es básica en automatización y clasificación.
+
+La lámpara de redstone se enciende al recibir señal.
+
+La antorcha de redstone actúa como fuente de energía y también sirve para invertir señales.
+
+El bloque de notas produce sonido y puede activarse con redstone o interacción.
+
+El target block puede emitir una señal según la precisión del impacto de un proyectil.
+
+Combinar correctamente estos componentes permite construir puertas, relojes, filtros, granjas y circuitos lógicos.
+
+Las tolvas son uno de los componentes más importantes para automatizar hornos, cofres y clasificadores de objetos.
+
+Los comparadores son esenciales para detectar nivel de llenado de contenedores.
+
+Los observadores son muy útiles para granjas automáticas porque detectan crecimiento o cambios de bloques.
+
+Los dispensadores destacan frente a los droppers cuando interesa usar el objeto en lugar de solo soltarlo.
+
+Un repetidor puede configurarse con distintos niveles de retraso y también puede servir para renovar una señal debilitada.
+
+Un comparador en modo normal puede comparar una señal con otra, y en modo resta puede emitir la diferencia entre ambas.
+
+Las tolvas pueden extraer objetos de contenedores situados encima y empujarlos hacia el contenedor al que apuntan.
+
+Bloquear una tolva con redstone impide temporalmente que mueva objetos, algo muy util en clasificadores.
+
+Los pistones normales no pueden empujar todos los bloques del juego y tienen limites de empuje.
+
+Los pistones pegajosos pueden arrastrar muchos bloques al retraerse, lo que permite puertas ocultas y mecanismos compactos.
+
+Los observadores detectan cambios de estado como crecimiento de cultivos, actualizaciones de bloques o movimiento de agua y lava en algunos montajes.
+
+Los dispensadores pueden colocar agua o lava si contienen cubos, disparar flechas, lanzar bolas de nieve, colocar armaduras en entidades y usar tijeras sobre ciertas criaturas o bloques en situaciones concretas.
+
+Los droppers, a diferencia de los dispensadores, no aplican el uso funcional del objeto y simplemente lo expulsan o lo transfieren.
+
+Las antorchas de redstone son componentes clave para crear inversores, relojes sencillos y memorias basicas.
+
+Las lamparas de redstone sirven como salida visual y son utiles para estados de encendido, indicadores o decoracion funcional.
+
+El bloque objetivo o target block permite activar mecanismos a distancia con proyectiles y la intensidad puede variar con la precision.
+
+Los sensores de luz diurna permiten activar circuitos segun la hora del dia.
+
+Los sensores de sculk pueden detectar vibraciones y abrir nuevas posibilidades de automatizacion y deteccion.
+
+Los railes con detector o activadores interactuan con minecarts y son importantes en transporte automatizado.

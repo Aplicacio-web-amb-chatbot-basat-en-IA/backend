@@ -1,0 +1,9 @@
+Los monumentos oceanicos son estructuras protegidas por guardians y elder guardians.
+
+Pueden imponer Mining Fatigue, lo que dificulta romper bloques rapidamente en su interior.
+
+Respiracion acuática, vision nocturna y buen equipo mejoran mucho la exploracion del monumento.
+
+Las recompensas incluyen prismarine, linternas marinas y esponjas.
+
+Completar un monumento es una tarea de dificultad media o alta segun la preparacion.

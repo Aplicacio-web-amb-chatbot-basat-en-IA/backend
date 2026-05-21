@@ -1,0 +1,5 @@
+Los encantamientos mejoran herramientas, armas, armaduras y algunos objetos especiales.
+Hay dos formas principales de aplicarlos: la mesa de encantamientos y el yunque.
+La mesa de encantamientos usa lapislazuli y experiencia, mientras que el yunque permite combinar objetos o aplicar libros encantados.
+Algunos encantamientos son incompatibles entre si y otros tienen varios niveles.
+

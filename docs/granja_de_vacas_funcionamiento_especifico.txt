@@ -1,0 +1,3 @@
+Una granja de vacas basica necesita un cercado, vacas y trigo para reproducirlas de forma controlada.
+Puede hacerse manual o semiautomatica, pero lo importante es mantener suficientes vacas adultas para carne, cuero y reproduccion continua.
+El cuero de vaca es especialmente util para progresar hacia libros y encantamientos.

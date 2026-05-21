@@ -1,0 +1,13 @@
+Por que una granja de guardianes produce menos de lo esperado. Suele pasar si la zona no esta suficientemente aislada, si todavia hay espacios validos de spawn fuera de la camara principal o si la recogida y eliminacion de guardianes es lenta. En este tipo de granja el entorno importa muchisimo, no solo el modulo central.
+---
+Como optimizar una granja de guardianes para prismarina y experiencia. Lo importante es concentrar el spawn, reducir recorridos muertos y asegurar una muerte rapida o una camara de remate eficiente. Si ademas el almacenamiento esta bien dimensionado, la granja puede mantenerse funcionando durante mucho tiempo sin supervision constante.
+---
+Que errores tecnicos son comunes en una granja de guardianes. Son frecuentes los fallos de limpieza parcial del monumento, corrientes de agua mal cerradas, zonas donde los guardianes se atascan y puntos donde el jugador se coloca demasiado cerca o demasiado lejos. Cualquiera de esos detalles puede bajar mucho el rendimiento real.
+---
+Como decidir si compensa hacer una granja de guardianes. Compensa sobre todo si se quiere mucha prismarina, cristales de prismarina o experiencia y si el jugador va a usar de verdad esos bloques o recursos. Es una granja costosa de montar, asi que suele tener mas sentido en una fase media o tardia del juego.
+---
+Como integrar una granja de guardianes con almacenamiento. Dado que genera varios tipos de drop, suele compensar separar prismarina, cristales y pescado si se quiere un almacen ordenado. Si todo cae al mismo sitio sin filtros, la granja sigue funcionando, pero el uso practico de lo producido empeora.
+---
+Como mejorar la seguridad al construir una granja de guardianes. Conviene preparar respiracion acuatica, buena proteccion, bloques para delimitar zonas y una ruta segura de acceso. El problema no suele ser solo el diseno final, sino el proceso de vaciado, aislamiento y construccion en un entorno hostil.
+---
+Como explicar tecnicamente una granja de guardianes. Lo mas claro es dividirla en control del area de spawn, transporte de entidades, camara de muerte o remate y almacenamiento de drops. Asi se entiende que no es una sola maquina, sino un sistema completo basado en mecanicas del monumento y del spawn acuatico.

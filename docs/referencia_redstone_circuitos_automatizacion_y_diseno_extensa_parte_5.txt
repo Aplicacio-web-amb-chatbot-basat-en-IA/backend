@@ -1,0 +1,43 @@
+Como disenar redstone modular. Un sistema modular separa claramente entrada, procesamiento, accion y almacenamiento. Esto facilita detectar errores, ampliar la maquina y sustituir una parte sin rehacer toda la instalacion.
+---
+Como hacer una puerta 2x2 de pistones fiable. Una puerta 2x2 necesita dos pares de pistones y cierta sincronizacion entre apertura y cierre. Los repetidores suelen usarse para ordenar el movimiento y evitar que un piston intente empujar cuando el hueco aun no esta libre.
+---
+Como mejorar una puerta de redstone para usarla a diario. Conviene que tenga activacion sencilla, sistema de cierre estable y acceso comodo por ambos lados. Tambien ayuda anadir una forma de mantenimiento para revisar pistones, cableado y retrasos sin desmontar toda la entrada.
+---
+Como hacer una entrada oculta con redstone. Las entradas ocultas suelen combinar pistones, bloques camuflados y un activador discreto como palanca escondida, item frame, boton oculto u observador. Lo importante no es solo abrirla, sino que el cierre no revele facilmente donde esta el mecanismo.
+---
+Como funcionan las puertas logicas en redstone. Las puertas AND, OR, NOT y XOR permiten decidir cuando una salida debe activarse segun varias entradas. En Minecraft se aplican a sistemas de seguridad, granjas con varios estados, alarmas y mecanismos que dependen de condiciones simultaneas.
+---
+Para que sirve una memoria RS NOR. Una memoria RS NOR permite guardar un estado de encendido o apagado hasta que otra senal lo cambie. Es util en sistemas donde hace falta recordar si una puerta esta abierta, si una alarma ya se activo o si una maquina debe mantenerse encendida.
+---
+Como hacer un T flip flop en redstone. Un T flip flop convierte un pulso breve en un cambio de estado sostenido, alternando encendido y apagado cada vez que recibe una nueva senal. Sirve para palancas virtuales, modos de maquina y paneles de control compactos.
+---
+Como sincronizar pistones y dispensadores. La sincronizacion suele hacerse con repetidores o con pulsos separados para que cada modulo actue en el orden correcto. Esto es importante en puertas, cosechadoras de agua, lanzadores de items y trampas de lava o flechas.
+---
+Como automatizar una granja de cana de azucar con redstone. Lo comun es usar observadores para detectar el crecimiento y pistones para cortar la planta a una altura concreta. Luego los items caen a agua, tolvas o vagonetas con tolva para su recogida automatica.
+---
+Como automatizar una granja de bambu con redstone. El bambu se presta muy bien a sistemas con observador y piston porque crece rapido y se rompe facilmente. Despues puede enviarse a cofres, usarse como combustible o combinarse con madera para fabricar andamios.
+---
+Como automatizar melon y calabaza. Se suelen plantar los tallos delante de una casilla libre y colocar un observador que detecte el fruto cuando aparece. Un piston rompe el melon o la calabaza y un sistema de agua o tolvas recoge el drop.
+---
+Como automatizar kelp o cactus. En ambos casos suelen usarse observadores y pistones para romper el bloque cuando alcanza cierta altura. La dificultad no suele estar en cortar la planta, sino en recoger bien los items y evitar perdidas laterales.
+---
+Como hacer un sistema de compostaje automatico. Un sistema tecnico puede alimentar compostadores con semillas, hojas u otros materiales organicos mediante tolvas. Esto permite producir harina de hueso de forma estable si ya existe una granja de cultivos o de musgo.
+---
+Como automatizar una granja de lana. Con ovejas encerradas, dispensadores con tijeras y observadores que detectan el recrecimiento de la hierba o el estado de la lana, se pueden obtener sistemas de color fijo muy utiles para bloques decorativos o intercambios.
+---
+Como hacer una granja de miel con automatizacion. Los observadores detectan cuando la colmena alcanza nivel suficiente y disparan un dispensador con tijeras o botellas. La clave es evitar enfadar a las abejas y asegurar que siempre tengan acceso a flores cercanas.
+---
+Como hacer un sistema de alarma o detector. Se puede construir con sensores de sculk, observadores, tripwire, placas o combinaciones con comparadores. Esto sirve para bases, entradas ocultas, sistemas de aviso de cofres llenos o deteccion de paso de mobs y jugadores.
+---
+Como usar sensores de sculk de forma tecnica. El sensor de sculk detecta vibraciones y puede activarse con pasos, proyectiles, puertas, agua o bloques que cambian de estado. Bien aislado, sirve para puertas automaticas, alarmas sin contacto y mecanismos de control bastante discretos.
+---
+Como evitar lag en una base tecnica. Conviene apagar relojes innecesarios, evitar exceso de tolvas siempre activas, separar modulos y no tener muchas entidades o items acumulados. Un sistema ordenado y con interruptores de apagado suele rendir mejor que uno siempre activo.
+---
+Como construir una sala tecnica organizada. Lo habitual es agrupar almacenamiento, hornos, granjas y controles en zonas separadas pero conectadas. Esto facilita mantenimiento, evita cableado caotico y ayuda a ampliar la base sin romper sistemas anteriores.
+---
+Como hacer que una granja sea facil de mantener. Las mejores granjas no son solo las mas rapidas, sino las que dejan acceder a cofres, tolvas, palancas y puntos de atasco. Si una maquina es muy compacta pero imposible de reparar, acaba siendo peor para uso diario.
+---
+Como pensar una automatizacion antes de construirla. Primero conviene decidir entrada, salida, ritmo de trabajo y almacenamiento. Despues se define como detectar el evento principal, como romper o mover el recurso y como recogerlo sin perdidas.
+---
+Como combinar redstone y granjas de forma eficiente. La redstone deberia usarse donde aporta control, sincronizacion o deteccion, mientras que agua, gravedad, spawn natural o aldeanos pueden encargarse de la parte pasiva. Las mejores granjas suelen mezclar mecanicas del juego en lugar de resolver todo solo con cableado.

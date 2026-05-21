@@ -1,0 +1,13 @@
+Por que una raid farm puede romperse o dejar de ser estable. Suele deberse a problemas con la aldea de referencia, con la posicion del jugador, con la gestion del efecto bad omen o con spawns que se desordenan fuera del punto previsto. Es una granja sensible porque depende de varias mecanicas a la vez.
+---
+Como optimizar una raid farm para totems y esmeraldas. Conviene asegurar oleadas rapidas, una eliminacion eficiente de mobs y un almacenamiento preparado para drops variados. Si la granja tarda demasiado en limpiar cada raid, la produccion por tiempo baja mucho aunque el sistema siga siendo funcional.
+---
+Que errores tecnicos son comunes en una raid farm. Son frecuentes las aldeas mal definidas, camas o estaciones de trabajo que interfieren, spawns fuera de la zona de muerte y rutas por las que algunos pillagers quedan atascados. En una raid farm los pequenos fallos suelen tener consecuencias grandes.
+---
+Como integrar una raid farm en una base tecnica. Lo normal es conectarla con almacenamiento automatico y, si tiene sentido, con infraestructura de aldeanos o comercio. Asi las esmeraldas, totems y otros drops pasan de ser solo botin acumulado a formar parte de la economia interna de la base.
+---
+Cuando merece la pena construir una raid farm. Suele compensar cuando el jugador ya domina aldeanos, comercio y almacenamiento y quiere una gran fuente de totems y esmeraldas. Antes de eso, otras granjas pueden dar mejor retorno con menos complejidad.
+---
+Como preparar una raid farm para mantenimiento. Conviene dejar accesos a la zona de aldea, a la camara de muerte y a los puntos donde se gestionan drops y bad omen. Si el sistema queda demasiado cerrado, cualquier error de aldeanos o spawns se vuelve dificil de depurar.
+---
+Como explicar una raid farm en una pregunta tecnica. Lo mejor es describir primero la dependencia de la mecanica de raid, luego la definicion de la aldea, despues el control del spawn y por ultimo la eliminacion y recogida de drops. Esa secuencia deja claro por que es una de las granjas mas tecnicas del juego.

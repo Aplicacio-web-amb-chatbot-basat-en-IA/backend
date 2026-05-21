@@ -1,0 +1,9 @@
+Los desiertos tienen poca vegetacion y poca madera natural, por lo que no suelen ser el mejor biome para empezar sin recursos previos.
+
+Sin embargo, pueden contener aldeas del desierto, templos del desierto y pozos del desierto.
+
+Los templos del desierto son especialmente valiosos por su botin, pero contienen una trampa de TNT en la camara inferior.
+
+La falta de lluvia y la visibilidad amplia hacen de los desiertos biomas relativamente faciles para detectar mobs o estructuras.
+
+Los husks pueden aparecer como variante de zombie propia del desierto.

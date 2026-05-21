@@ -1,0 +1,13 @@
+Por que una raid farm puede quedarse a medio ciclo aunque las primeras oleadas funcionen. Lo mas comun es que algun pillager quede fuera de la zona prevista, que la aldea este mal definida o que el jugador no mantenga correctamente el estado necesario para encadenar raids. En estas granjas, una sola entidad fuera de sitio puede bloquear todo el flujo.
+---
+Como diagnosticar una raid farm paso a paso. Conviene revisar primero la definicion de la aldea, luego la zona donde spawnean los pillagers, despues la camara de muerte y por ultimo el tratamiento de drops y del bad omen. Si una de esas fases queda a medias, la granja sigue arrancando pero pierde estabilidad.
+---
+Que errores son frecuentes en una raid farm. Son comunes las camas o estaciones de trabajo mal colocadas, las rutas donde algunos enemigos se atascan y la recogida deficiente de drops variados. Tambien es habitual no prever mantenimiento y terminar sin acceso comodo a la parte que realmente falla.
+---
+Como optimizar una raid farm para totems. Si el objetivo principal son totems de inmortalidad, conviene asegurar oleadas rapidas, limpieza completa de enemigos y almacenamiento ordenado. Un sistema lento sigue funcionando, pero desaprovecha una de las mayores ventajas de esta granja: la acumulacion rapida de recursos muy valiosos.
+---
+Como optimizar una raid farm para esmeraldas y economia. En ese caso gana importancia la integracion con clasificadores, almacenamiento y, si procede, infraestructura de aldeanos. Las esmeraldas tienen mucho mas valor cuando se conectan con trading halls o con una base que realmente comercia de forma constante.
+---
+Cuando compensa construir una raid farm. Suele compensar cuando la base ya esta bien desarrollada y el jugador quiere escalar totems, esmeraldas y drops tecnicos. Antes de eso, una granja de hierro, una buena infraestructura de aldeanos o una granja de XP pueden dar mas retorno con menos complejidad.
+---
+Como explicar tecnicamente una raid farm. Lo mejor es hablar de definicion de la aldea, control del spawn de las oleadas, muerte de entidades y almacenamiento final. Esa secuencia ayuda a defender por que es una granja avanzada y no solo una sala donde aparecen enemigos.

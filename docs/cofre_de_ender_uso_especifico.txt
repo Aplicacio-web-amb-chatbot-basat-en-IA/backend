@@ -1,0 +1,3 @@
+El cofre de Ender comparte inventario entre todos los cofres de Ender del mismo jugador, asi que puedes guardar objetos en uno y recuperarlos desde otro en cualquier lugar.
+Se usa sobre todo para transportar materiales valiosos de forma segura durante exploracion, mineria o construcciones grandes.
+Si quieres recolocarlo sin perder el bloque, conviene romperlo con Silk Touch.

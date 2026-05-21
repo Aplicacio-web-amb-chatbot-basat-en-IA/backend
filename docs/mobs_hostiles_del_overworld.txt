@@ -1,0 +1,51 @@
+Los zombies son mobs hostiles comunes que aparecen de noche o en oscuridad suficiente.
+
+Los skeletons atacan a distancia con arco y pueden ser peligrosos en terreno abierto.
+
+Los creepers explotan al acercarse al jugador y son una amenaza importante para supervivencia y construcciones.
+
+Las spiders pueden trepar muros y son neutrales con suficiente luz, pero hostiles en oscuridad.
+
+Las cave spiders son más pequeñas y aplican veneno al atacar.
+
+Las witches lanzan pociones negativas y pueden curarse con pociones beneficiosas.
+
+Los phantoms aparecen si el jugador pasa muchas noches sin dormir y atacan desde el aire.
+
+Los slimes aparecen en pantanos bajo condiciones adecuadas y en slime chunks bajo tierra.
+
+Los pillagers usan ballestas y pueden aparecer en puestos de saqueadores o patrullas.
+
+Los vindicators usan hacha y hacen mucho daño en combate cercano.
+
+Los evokers invocan colmillos y vexes y aparecen en raids o mansiones del bosque.
+
+Los vexes vuelan, atraviesan parcialmente espacios y son peligrosos por su movilidad.
+
+La luz, la distancia y el tipo de bloque afectan al spawn de muchos mobs hostiles.
+
+Tener armadura, escudo, iluminación y refugio reduce mucho el riesgo frente a mobs hostiles del Overworld.
+
+Los creepers son especialmente peligrosos cerca de la base porque pueden destruir bloques y matar al jugador por sorpresa.
+
+Los skeletons castigan mucho a jugadores sin escudo o sin cobertura.
+
+Las witches son amenazas importantes por veneno, lentitud y curación propia.
+
+Dormir con regularidad evita phantoms y reduce el riesgo aéreo en exploración prolongada.
+
+Los zombies son simples pero peligrosos en grupo y pueden reforzarse en ciertas dificultades.
+
+Los drowned aparecen en agua y pueden portar tridentes, lo que los hace especialmente peligrosos en rios y oceanos.
+
+Los skeletons son una amenaza constante porque castigan al jugador antes de entrar en rango de cuerpo a cuerpo.
+
+Los creepers castigan mucho la falta de atencion y el mal uso del terreno o la luz.
+
+Las spiders pueden trepar y entrar por huecos donde otros mobs no caben tan facilmente.
+
+Las cave spiders son especialmente molestas en minas abandonadas por su veneno y tamaño.
+
+Los pillagers, vindicators y evokers forman parte de amenazas ligadas a raids o estructuras.
+
+Los slimes pueden ser molestos pero tambien utiles porque sueltan bolas de slime necesarias para varias recetas.

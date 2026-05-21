@@ -1,0 +1,18 @@
+Los golems de nieve se fabrican con dos bloques de nieve y una calabaza tallada. Son mobs de utilidad mas que de combate real.
+
+---
+
+Pueden distraer a algunos enemigos y dejar un rastro de nieve en ciertos biomas o superficies adecuadas, lo que tiene usos decorativos o tecnicos muy concretos.
+
+---
+
+No sustituyen a defensas serias ni a granjas importantes, pero si pueden ser utiles en proyectos tematicos o automatismos muy concretos.
+
+---
+
+Su supervivencia depende mucho del bioma y del clima, ya que en algunos lugares no aguantan bien.
+
+---
+
+Son mas una herramienta creativa o secundaria que una pieza central de progresion.
+

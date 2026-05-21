@@ -1,0 +1,18 @@
+Los ghasts son mobs hostiles voladores del Nether que disparan bolas de fuego explosivas. Son especialmente molestos en espacios abiertos o cerca de lagos de lava.
+
+---
+
+Una forma clasica de defenderse es reflejar sus proyectiles si tienes buen timing, aunque en supervivencia normal suele ser mas seguro usar arco o cubrirse.
+
+---
+
+Los ghasts pueden destruir construcciones fragiles y empujar al jugador a situaciones peligrosas. Por eso conviene no subestimarlos al construir rutas en el Nether.
+
+---
+
+Al morir pueden soltar lagrimas de ghast, un recurso util para pociones de regeneracion y para fabricar cristales del End.
+
+---
+
+Controlar lineas de vision, terreno y cobertura marca la diferencia al viajar por zonas abiertas del Nether.
+

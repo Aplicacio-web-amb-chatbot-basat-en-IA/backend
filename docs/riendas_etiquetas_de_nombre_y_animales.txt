@@ -1,0 +1,7 @@
+Las correas o leads permiten mover y atar animales o mobs compatibles.
+
+Son utiles para granjas, transporte corto y organizacion de bases.
+
+Las name tags sirven para poner nombre a entidades y evitar ciertos despawns en algunos casos.
+
+Combinadas, estas herramientas ayudan mucho a gestionar animales, mobs especiales y colecciones.

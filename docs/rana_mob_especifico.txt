@@ -1,0 +1,1 @@
+La rana es un mob pasivo relacionado con pantanos y manglares. Puede participar en la obtencion de froglights al interactuar con cubos de magma pequenos en las condiciones adecuadas.

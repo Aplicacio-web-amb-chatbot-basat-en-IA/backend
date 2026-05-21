@@ -1,0 +1,61 @@
+El Nether es una dimension peligrosa centrada en fuego, lava y mobs agresivos.
+Entrar al Nether sin armadura decente suele ser arriesgado.
+Llevar armadura de oro evita la hostilidad inmediata de piglins normales.
+Llevar resistencia al fuego reduce mucho el riesgo de muerte por lava y blaze.
+Las fortalezas del Nether son clave para progresion al End.
+En las fortalezas aparecen blazes y wither skeletons.
+Los blaze rods son necesarios para polvo de blaze.
+El polvo de blaze se usa en brewing y en ojos de ender.
+Las verrugas del Nether son necesarias para la mayoria de pociones utiles.
+Los bastions contienen buen botin pero tambien muchos enemigos peligrosos.
+Los piglin brutes hacen mucho daño y son hostiles siempre.
+Abrir cofres o romper oro cerca de piglins normales puede enfadarlos.
+El bartering con piglins usa lingotes de oro.
+El bartering puede dar perlas de ender, cuerda, obsidiana llorosa y otros recursos.
+Los hoglins son una buena fuente de comida en el Nether si se matan con seguridad.
+Los hoglins huyen de warped fungi.
+Los ghasts castigan construcciones abiertas y puentes largos.
+Las bolas de fuego de ghast pueden devolverse con un golpe preciso.
+Los magma cubes aparecen mucho en algunos biomas y estructuras.
+El soul sand ralentiza movimiento si no se tiene Soul Speed.
+Los warped forests son relativamente buenos para obtener endermen en el Nether.
+Los crimson forests son mas peligrosos por hoglins y piglins.
+Los basalt deltas son incomodos por relieve y magma cubes.
+Los soul sand valleys tienen mucho espacio abierto y esqueletos del Nether.
+Un portal del Nether bien colocado mejora viajes largos.
+Un bloque avanzado en el Nether equivale a varios en el Overworld.
+Las anclas de respawn permiten fijar respawn en el Nether.
+Las anclas deben cargarse con glowstone.
+Usar una ancla de respawn fuera del Nether provoca explosion.
+Dormir en una cama en el Nether tambien provoca explosion.
+La mineria de escombros ancestrales suele hacerse en capas profundas.
+La TNT o las camas se usan mucho para abrir tuneles de busqueda de netherita.
+Para usar netherita en equipo hace falta plantilla de herreria ademas de lingote.
+La netherita mejora durabilidad y resistencia al empuje.
+El End es la dimension final asociada a la Ender Dragon.
+Para entrar al End hace falta encontrar una stronghold.
+Los ojos de ender ayudan a localizar la stronghold.
+El portal del End necesita activarse con ojos de ender si no esta completo.
+La sala del portal suele tener silverfish spawner.
+Conviene preparar bien la entrada al End.
+Llevar bloques, agua, arco, comida y buena armadura es muy recomendable.
+Las perlas de ender ayudan a corregir caidas y movimientos.
+Los endermen aparecen en gran cantidad en el End.
+Mirar a un enderman a los ojos puede provocar un combate peligroso.
+Los cristales del End curan a la Ender Dragon.
+Mientras existan cristales, el dragon puede recuperar vida.
+Destruir primero los cristales suele ser la prioridad.
+Algunos cristales estan protegidos por barrotes.
+Un arco es util para romper cristales lejanos.
+Las camas pueden usarse como arma explosiva contra el dragon cuando aterriza.
+Usar camas requiere practica y cuidado por el daño de explosion.
+Cuando la Ender Dragon aterriza, es un buen momento para daño cuerpo a cuerpo.
+Llevar botellas vacias permite recoger aliento de dragon.
+Tras derrotar a la Ender Dragon se abre acceso al End exterior.
+Los portales externos del End llevan a islas con ciudades del End.
+Las ciudades del End contienen shulkers y a veces barcos del End.
+Los barcos del End son la fuente principal de elytra.
+Las cajas de shulker se fabrican con cofres y caparazones de shulker.
+La elytra cambia radicalmente la movilidad del juego avanzado.
+Los cohetes se usan para impulsar la elytra durante el vuelo.
+Perderse en el End exterior es facil sin buena orientacion o recursos.

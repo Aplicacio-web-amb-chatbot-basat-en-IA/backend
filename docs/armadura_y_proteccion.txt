@@ -1,0 +1,61 @@
+La armadura reduce daño recibido y es uno de los pilares de supervivencia en combate.
+
+Las piezas de armadura son casco, peto, pantalones y botas.
+
+Los materiales comunes de armadura son cuero, hierro, oro, diamante y netherita.
+
+La armadura de cuero ofrece poca protección, pero puede ser útil al inicio o en situaciones concretas.
+
+La armadura de hierro es una de las mejores opciones de coste-rendimiento en supervivencia temprana y media.
+
+La armadura de oro protege menos y se desgasta rápido, pero es útil en el Nether para evitar agresión inmediata de piglins normales si se lleva al menos una pieza.
+
+La armadura de diamante ofrece defensa alta y buena durabilidad.
+
+La armadura de netherita mejora la de diamante y añade mayor resistencia general y resistencia al fuego para el objeto.
+
+Los encantamientos defensivos mejoran mucho el rendimiento de cualquier armadura.
+
+Protection es la opción más general, mientras que Feather Falling, Respiration, Aqua Affinity o Soul Speed cubren necesidades concretas.
+
+El escudo complementa la armadura al bloquear muchos ataques frontales.
+
+Llevar armadura completa bien mantenida reduce mucho el riesgo en minas, Nether, End y exploración nocturna.
+
+La armadura de hierro completa suele ser uno de los primeros objetivos defensivos realistas.
+
+La armadura de diamante se vuelve especialmente fuerte cuando se combina con Protection, Unbreaking y Mending.
+
+Las botas con Feather Falling mejoran mucho la supervivencia en cuevas, montañas y el End.
+
+Un casco con Respiration y Aqua Affinity es muy útil para ruinas oceánicas, monumentos y construcción bajo el agua.
+
+Llevar al menos una pieza de oro en el Nether evita conflictos inmediatos con muchos piglins normales.
+
+La armadura de cuero es la mas debil, pero puede ser util para pasos iniciales o para atravesar nieve en polvo con botas de cuero.
+
+La armadura de cadena no suele fabricarse de forma normal y normalmente se consigue por botin o comercio.
+
+La armadura de hierro es el estandar inicial serio para explorar cuevas, aldeas peligrosas y el Nether temprano.
+
+La armadura de diamante es una gran meta intermedia antes del End y antes de buscar netherita.
+
+La netherita ofrece mejoras adicionales sobre diamante y hace que el objeto no se queme en lava si cae como item.
+
+Protection suele ser la mejor opcion general si no hay una necesidad muy concreta.
+
+Blast Protection es especialmente util contra creepers, TNT, camas explosivas en Nether o respawn anchors.
+
+Fire Protection gana mucho valor al explorar el Nether o trabajar con lava.
+
+Projectile Protection puede ser util frente a skeletons, pillagers o combates con mucho proyectil.
+
+Feather Falling en botas es de los encantamientos mas practicos de todo el juego por la cantidad de muertes que evita.
+
+Depth Strider ayuda mucho en movimiento bajo el agua, mientras que Frost Walker crea hielo temporal al andar sobre agua.
+
+Soul Speed mejora la movilidad en soul sand y soul soil, muy util en Nether.
+
+Swift Sneak es muy interesante para construccion segura y desplazamiento agachado en zonas peligrosas.
+
+Una armadura bien encantada suele marcar mas diferencia que solo subir un material sin encantamientos.

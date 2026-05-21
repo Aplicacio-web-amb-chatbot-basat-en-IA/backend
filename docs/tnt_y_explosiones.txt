@@ -1,0 +1,11 @@
+La TNT se fabrica con arena y polvora.
+
+Necesita una fuente de activacion como fuego, redstone u otros sistemas para explotar.
+
+Las explosiones destruyen bloques y dañan entidades, pero no todos los bloques resisten igual.
+
+La TNT es util para mineria, combate, trampas y granjas tecnicas segun el diseño.
+
+Los creepers y algunas mecanicas de camas o anchors tambien generan explosiones.
+
+Usar explosivos sin preparacion puede destruir bases, items o recursos valiosos.

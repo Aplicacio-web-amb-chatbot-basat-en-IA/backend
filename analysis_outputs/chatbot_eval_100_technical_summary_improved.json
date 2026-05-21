@@ -1,0 +1,539 @@
+{
+  "total_questions": 100,
+  "avg_response_time_ms": 744.61,
+  "median_response_time_ms": 722.75,
+  "min_response_time_ms": 648.1,
+  "max_response_time_ms": 2555.73,
+  "flagged_count": 96,
+  "exact_duplicate_answer_count": 0,
+  "question_type_distribution": {
+    "mechanic": 9,
+    "comparison": 1,
+    "diagnostic": 15,
+    "general": 37,
+    "build": 27,
+    "optimization": 7,
+    "timing": 3,
+    "definition": 1
+  },
+  "category_distribution": {
+    "redstone_core": 20,
+    "farms_overworld": 20,
+    "farms_nether_end": 20,
+    "villagers_storage": 20,
+    "advanced_mechanics": 20
+  },
+  "flag_distribution": {
+    "technical_depth_weak": 25,
+    "retrieved_qa_style_chunk": 95,
+    "answer_starts_with_question": 1,
+    "too_short_for_type": 1
+  },
+  "top_sources": {
+    "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt": 22,
+    "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt": 17,
+    "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt": 16,
+    "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt": 14,
+    "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt": 13,
+    "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt": 13,
+    "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt": 12,
+    "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt": 11,
+    "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt": 11,
+    "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt": 10,
+    "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt": 10,
+    "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt": 9,
+    "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt": 9,
+    "referencia_granjas_y_produccion_extensa_parte_3.txt": 8,
+    "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt": 8,
+    "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt": 7,
+    "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt": 7,
+    "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt": 7,
+    "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt": 6,
+    "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt": 5
+  },
+  "sample_flagged_results": [
+    {
+      "id": 1,
+      "category": "redstone_core",
+      "question": "Como funciona la fuerza de senal en redstone?",
+      "question_type": "mechanic",
+      "focus": "la fuerza de senal en redstone",
+      "focus_tokens": [
+        "fuerza",
+        "senal",
+        "redstone"
+      ],
+      "response": "La fuerza de una senal de redstone suele salir con intensidad 15 y va bajando a medida que recorre polvo de redstone.",
+      "response_chars": 117,
+      "response_time_ms": 2555.73,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "redstone_core",
+      "question": "Que diferencia hay entre un repetidor y un comparador?",
+      "question_type": "comparison",
+      "focus": "un repetidor y un comparador",
+      "focus_tokens": [
+        "repetidor",
+        "comparador"
+      ],
+      "response": "El repetidor sirve para extender senal, introducir retraso y bloquear senales laterales no deseadas. El comparador sirve para leer intensidad de contenedores y bloques especiales, comparar dos entradas o restar una senal a otra. El repetidor sirve principalmente para extender señal, retrasarla y evitar que se degrade en lineas largas.",
+      "response_chars": 336,
+      "response_time_ms": 672.94,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "redstone_core",
+      "question": "Por que un comparador da una intensidad distinta segun el contenedor?",
+      "question_type": "diagnostic",
+      "focus": "comparador da una intensidad distinta segun el contenedor",
+      "focus_tokens": [
+        "comparador",
+        "da",
+        "intensidad",
+        "distinta",
+        "segun",
+        "contenedor"
+      ],
+      "response": "Porque el comparador no lee solo si el contenedor esta lleno o vacio, sino cuanto contenido relativo tiene respecto a su capacidad total. El comparador puede leer cuanto contenido tiene un contenedor y convertirlo en una senal de distinta intensidad.",
+      "response_chars": 250,
+      "response_time_ms": 688.52,
+      "top_sources": [
+        "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "comparador_redstone_funcionamiento_especifico.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "redstone_core",
+      "question": "Como transportar redstone en vertical?",
+      "question_type": "general",
+      "focus": "como transportar redstone en vertical",
+      "focus_tokens": [
+        "transportar",
+        "redstone",
+        "vertical"
+      ],
+      "response": "1. Se puede hacer con columnas de antorchas, observadores enfrentados o combinaciones de pistones y bloques.\n2. La eleccion depende de si se necesita una subida rapida, una bajada compacta o un sistema facil de mantener.\n3. La antorcha actua como fuente de energia constante cuando el bloque al que esta conectada no recibe senal.",
+      "response_chars": 330,
+      "response_time_ms": 673.09,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "redstone_core",
+      "question": "Como hacer un pulso corto con redstone?",
+      "question_type": "general",
+      "focus": "como hacer un pulso corto con redstone",
+      "focus_tokens": [
+        "pulso",
+        "corto",
+        "redstone"
+      ],
+      "response": "1. Un pulso corto puede obtenerse con observadores, con un comparador en ciertos disenos o con un circuito monestable sencillo.\n2. Los pulsos cortos son utiles para pistones, dispensadores y mecanismos que no deben quedarse activados de forma continua.\n3. Elegir bien el sistema depende del espacio, de si se necesita pulso corto y de la direccion del circuito.\n4. El observador detecta cambios en el bloque que mira y emite un pulso corto.",
+      "response_chars": 440,
+      "response_time_ms": 653.75,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "redstone_core",
+      "question": "Como prolongar una senal de redstone?",
+      "question_type": "general",
+      "focus": "como prolongar una senal de redstone",
+      "focus_tokens": [
+        "prolongar",
+        "senal",
+        "redstone"
+      ],
+      "response": "1. Para alargar un pulso se suelen usar comparadores con bloques o contenedores, o sistemas con repetidores y retroalimentacion controlada.\n2. La fuerza de una senal de redstone suele salir con intensidad 15 y va bajando a medida que recorre polvo de redstone.\n3. La antorcha actua como fuente de energia constante cuando el bloque al que esta conectada no recibe senal.",
+      "response_chars": 370,
+      "response_time_ms": 793.87,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "redstone_core",
+      "question": "Como funciona un reloj de tolvas?",
+      "question_type": "mechanic",
+      "focus": "reloj de tolvas",
+      "focus_tokens": [
+        "reloj",
+        "tolvas"
+      ],
+      "response": "Dos tolvas enfrentadas que pasan items de una a otra generan una senal periodica que puede leerse con comparadores. Conviene usarlos con cuidado porque un reloj mal apagado puede generar ruido continuo y lag innecesario en la base. Un reloj puede construirse con repetidores, observadores o tolvas enfrentadas, pero conviene que tenga una forma clara de apagarse.",
+      "response_chars": 363,
+      "response_time_ms": 734.48,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "redstone_core",
+      "question": "Como bloquear una tolva con redstone?",
+      "question_type": "general",
+      "focus": "como bloquear una tolva con redstone",
+      "focus_tokens": [
+        "bloquear",
+        "tolva",
+        "redstone"
+      ],
+      "response": "1. Una tolva deja de transferir items cuando recibe energia de redstone.\n2. Bloquear una tolva con redstone impide temporalmente que mueva objetos, algo muy util en clasificadores.\n3. Una tolva alimentada no transfiere objetos con normalidad.",
+      "response_chars": 242,
+      "response_time_ms": 664.37,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "componentes_de_redstone.txt",
+        "tolva_y_objeto_flujo_resolucion.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "redstone_core",
+      "question": "Como funciona un clasificador de objetos con redstone?",
+      "question_type": "build",
+      "focus": "objetos con redstone",
+      "focus_tokens": [
+        "objetos",
+        "redstone"
+      ],
+      "response": "1. Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto.\n2. El clasificador tipico usa una tolva principal, una tolva de filtro, un comparador, una antorcha de redstone, un repetidor y bloques de soporte.\n3. Un sistema automatico de clasificacion de objetos con redstone suele basarse en tolvas, comparadores, antorchas de redstone y cofres.",
+      "response_chars": 442,
+      "response_time_ms": 721.59,
+      "top_sources": [
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "sistema_de_clasificacion_de_objetos.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "redstone_core",
+      "question": "Como evitar que un clasificador se rompa?",
+      "question_type": "general",
+      "focus": "como evitar que un clasificador se rompa",
+      "focus_tokens": [
+        "evitar",
+        "que",
+        "clasificador",
+        "se",
+        "rompa"
+      ],
+      "response": "1. Lo importante es calibrar bien el numero de items del filtro y usar nombres o rellenos que no puedan confundirse con objetos reales del sistema.\n2. Un clasificador de items sencillo suele usar una tolva de entrada, un comparador, una antorcha de redstone y una tolva de salida bloqueada por la señal.\n3. El clasificador tipico usa una tolva principal, una tolva de filtro, un comparador, una antorcha de redstone, un repetidor y bloques de soporte.",
+      "response_chars": 451,
+      "response_time_ms": 666.8,
+      "top_sources": [
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+        "clasificador_de_items_sencillo_especifico.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "redstone_core",
+      "question": "Como funciona una super smelter a nivel general?",
+      "question_type": "mechanic",
+      "focus": "super smelter a nivel general",
+      "focus_tokens": [
+        "super",
+        "smelter",
+        "nivel",
+        "general"
+      ],
+      "response": "Una super smelter reparte muchos items entre varios hornos para procesar grandes cantidades en paralelo.",
+      "response_chars": 104,
+      "response_time_ms": 852.88,
+      "top_sources": [
+        "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "redstone_core",
+      "question": "Por que una super smelter puede repartir mal los items?",
+      "question_type": "diagnostic",
+      "focus": "super smelter puede repartir mal los items",
+      "focus_tokens": [
+        "super",
+        "smelter",
+        "repartir",
+        "mal",
+        "items"
+      ],
+      "response": "Una super smelter reparte muchos items entre varios hornos para procesar grandes cantidades en paralelo. En supervivencia normal suele considerarse una desventaja porque dificulta recuperar equipo tras la muerte.",
+      "response_chars": 212,
+      "response_time_ms": 676.83,
+      "top_sources": [
+        "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+        "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+        "encantamientos_individuales_pesca_maldiciones_y_utilitarios.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "redstone_core",
+      "question": "Como usar goteros para ascensores de items?",
+      "question_type": "mechanic",
+      "focus": "goteros para ascensores de items",
+      "focus_tokens": [
+        "goteros",
+        "ascensores",
+        "items"
+      ],
+      "response": "Una cadena de goteros y observadores o comparadores puede subir items en vertical de forma compacta.",
+      "response_chars": 100,
+      "response_time_ms": 681.36,
+      "top_sources": [
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "usos_del_cubo_de_agua.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "redstone_core",
+      "question": "Como funciona una flying machine a nivel general?",
+      "question_type": "mechanic",
+      "focus": "flying machine a nivel general",
+      "focus_tokens": [
+        "flying",
+        "machine",
+        "nivel",
+        "general"
+      ],
+      "response": "Una flying machine usa pistones, observadores y bloques movibles para desplazarse por si sola.",
+      "response_chars": 94,
+      "response_time_ms": 750.08,
+      "top_sources": [
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "redstone_core",
+      "question": "Como aprovechar una flying machine en una granja?",
+      "question_type": "general",
+      "focus": "como aprovechar una flying machine en una granja",
+      "focus_tokens": [
+        "aprovechar",
+        "flying",
+        "machine",
+        "granja"
+      ],
+      "response": "1. La idea es que la maquina recorra una fila o superficie y vaya rompiendo o activando bloques a su paso.\n2. Esto compensa especialmente cuando la granja es demasiado ancha para resolverla con un solo modulo fijo.\n3. Una flying machine usa pistones, observadores y bloques movibles para desplazarse por si sola.\n4. Lo mas comun es aprovechar una granja de enderman, ya que estos sueltan perlas y experiencia en grandes cantidades.",
+      "response_chars": 431,
+      "response_time_ms": 660.32,
+      "top_sources": [
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "redstone_core",
+      "question": "Como funciona una memoria RS NOR en redstone?",
+      "question_type": "mechanic",
+      "focus": "memoria rs nor en redstone",
+      "focus_tokens": [
+        "memoria",
+        "rs",
+        "nor",
+        "redstone"
+      ],
+      "response": "Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto.",
+      "response_chars": 154,
+      "response_time_ms": 865.12,
+      "top_sources": [
+        "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "redstone_core",
+      "question": "Como hacer un T flip flop en redstone?",
+      "question_type": "general",
+      "focus": "como hacer un t flip flop en redstone",
+      "focus_tokens": [
+        "flip",
+        "flop",
+        "redstone"
+      ],
+      "response": "Un T flip flop convierte un pulso breve en un cambio de estado sostenido, alternando encendido y apagado cada vez que recibe una nueva senal.",
+      "response_chars": 141,
+      "response_time_ms": 658.45,
+      "top_sources": [
+        "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+        "trampa_con_redstone_basica.txt",
+        "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "redstone_core",
+      "question": "Por que un observador no activa lo que yo esperaba?",
+      "question_type": "diagnostic",
+      "focus": "observador no activa lo que yo esperaba",
+      "focus_tokens": [
+        "observador",
+        "no",
+        "activa",
+        "lo",
+        "que",
+        "yo",
+        "esperaba"
+      ],
+      "response": "Normalmente porque esta orientado al reves, porque detecta el bloque incorrecto o porque lo que produce es un pulso demasiado corto para el mecanismo final.",
+      "response_chars": 156,
+      "response_time_ms": 678.81,
+      "top_sources": [
+        "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+        "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+        "bloques_y_materiales.txt"
+      ],
+      "flags": [
+        "technical_depth_weak",
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "redstone_core",
+      "question": "Por que una puerta de pistones se abre pero no se cierra bien?",
+      "question_type": "diagnostic",
+      "focus": "puerta de pistones se abre pero no se cierra bien",
+      "focus_tokens": [
+        "puerta",
+        "pistones",
+        "se",
+        "abre",
+        "pero",
+        "no",
+        "se",
+        "cierra",
+        "bien"
+      ],
+      "response": "Suele deberse a retrasos mal ajustados, a un piston orientado de forma incorrecta o a una secuencia de cierre que ocurre demasiado pronto. Las puertas de pistones fallan muchas veces por sincronizacion, no por falta de potencia.",
+      "response_chars": 228,
+      "response_time_ms": 672.42,
+      "top_sources": [
+        "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+        "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+        "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "redstone_core",
+      "question": "Como disenar redstone modular?",
+      "question_type": "build",
+      "focus": "redstone modular",
+      "focus_tokens": [
+        "redstone",
+        "modular"
+      ],
+      "response": "1. Un sistema modular separa claramente entrada, procesamiento, accion y almacenamiento.\n2. La redstone avanzada no significa solo hacer puertas escondidas, sino construir sistemas mantenibles, modulares y capaces de integrarse con granjas, almacenamiento, hornos y transporte de items.\n3. La redstone puede usarse tanto para comodidad simple como para granjas complejas y sistemas tecnicos.",
+      "response_chars": 391,
+      "response_time_ms": 799.12,
+      "top_sources": [
+        "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+        "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+        "conceptos_basicos_de_redstone.txt"
+      ],
+      "flags": [
+        "retrieved_qa_style_chunk"
+      ]
+    }
+  ]
+}

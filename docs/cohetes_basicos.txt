@@ -1,0 +1,9 @@
+Los fuegos artificiales se fabrican con papel y polvora, y opcionalmente otros ingredientes decorativos.
+
+Sirven para espectaculo, pero tambien para impulsar la elytra en vuelo.
+
+Cuanta mas polvora se use en la receta basica, mayor puede ser la duracion del cohete.
+
+Son un componente esencial del transporte rapido en juego tardio junto a la elytra.
+
+Una granja de creepers facilita mucho producir fuegos artificiales en cantidad.

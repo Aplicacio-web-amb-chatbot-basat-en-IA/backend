@@ -1,0 +1,11 @@
+Los mapas ayudan a orientarse y explorar regiones del mundo.
+
+La mesa de cartografia permite ampliar, copiar o bloquear mapas.
+
+Un mapa bloqueado conserva su estado y no se actualiza mas.
+
+Los mapas son utiles para exploracion, decoracion y organizacion de rutas o bases.
+
+Los naufragios y tesoros enterrados a veces se relacionan con mapas especiales.
+
+Tener varios mapas bien organizados ayuda mucho en mundos grandes o con muchas construcciones.

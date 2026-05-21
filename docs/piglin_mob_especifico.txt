@@ -1,0 +1,1 @@
+El piglin es un mob del Nether que puede ser neutral si el jugador lleva oro. Es muy importante por el sistema de trueque y por su comportamiento territorial alrededor de ciertos bloques o cofres.

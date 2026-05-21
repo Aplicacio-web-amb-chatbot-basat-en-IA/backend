@@ -1,0 +1,4 @@
+Para invocar al Wither necesitas tres calaveras de wither skeleton y cuatro bloques de arena de almas o tierra de almas.
+Las calaveras se consiguen derrotando wither skeletons en fortalezas del Nether.
+Una vez colocas la estructura en forma correcta y pones la tercera calavera, el Wither aparece y comienza el combate.
+

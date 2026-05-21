@@ -1,0 +1,11 @@
+Los golems de hierro pueden aparecer naturalmente en aldeas bajo condiciones validas relacionadas con aldeanos.
+
+Tambien pueden fabricarse manualmente con bloques de hierro y una calabaza o jack o lantern.
+
+Los golems protegen a aldeanos y atacan a muchos mobs hostiles.
+
+Pueden volverse hostiles contra jugadores con mala reputacion en la aldea o si son provocados.
+
+Las granjas de hierro modernas dependen de las reglas de aparicion de estos golems.
+
+Un golem de hierro es util tanto como defensor de aldeas como recurso automatico de hierro.

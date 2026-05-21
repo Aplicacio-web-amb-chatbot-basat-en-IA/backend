@@ -1,0 +1,4 @@
+El spawn de mobs hostiles depende sobre todo de la luz, la distancia al jugador, el tipo de bloque disponible y los limites globales de mobs.
+En el Overworld moderno, muchos mobs hostiles normales necesitan nivel de luz 0 para aparecer, y ademas no suelen generarse demasiado cerca del jugador.
+La distancia al jugador influye tanto en la aparicion como en el despawn de mobs, por lo que colocarte bien cambia mucho el resultado.
+Por eso, iluminar cuevas y superficie, controlar plataformas validas y colocarte a la distancia correcta es clave para supervivencia y granjas de mobs.

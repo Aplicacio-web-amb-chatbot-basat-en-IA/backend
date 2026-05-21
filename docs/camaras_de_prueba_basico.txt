@@ -1,0 +1,3 @@
+Las trial chambers son estructuras subterraneas modernas centradas en combate por oleadas y recompensas.
+Dentro aparecen trial spawners que generan mobs segun el numero de jugadores cercanos y pueden dar loot cuando se completa el encuentro.
+Conviene entrar con buena armadura, escudo, comida, bloques y espacio en inventario, porque son estructuras de riesgo medio o alto.

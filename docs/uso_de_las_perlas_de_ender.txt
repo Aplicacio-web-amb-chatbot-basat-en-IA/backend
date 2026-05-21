@@ -1,0 +1,11 @@
+Las perlas de ender sirven para teletransportarse a corta o media distancia.
+
+Usarlas causa daño por caida equivalente al teletransporte.
+
+Tambien son componentes necesarios para fabricar ojos de ender.
+
+Los ojos de ender se usan para localizar strongholds y activar el portal del End.
+
+Llevar perlas de ender puede salvar al jugador en exploraciones, combate o caidas complicadas.
+
+Son muy valiosas en juego medio y tardio.

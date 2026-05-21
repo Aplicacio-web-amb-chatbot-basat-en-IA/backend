@@ -1,0 +1,3 @@
+El breeze es un mob hostil asociado a trial chambers y combate a distancia con cargas de viento.
+Sus ataques pueden activar mecanismos, empujar entidades y complicar mucho el movimiento en espacios cerrados.
+Los trial spawners generan mobs por rondas y forman parte central del reto de las trial chambers.

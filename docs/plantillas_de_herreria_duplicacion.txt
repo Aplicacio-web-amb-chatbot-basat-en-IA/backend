@@ -1,0 +1,3 @@
+Las smithing templates se usan para mejorar armaduras a netherita o para aplicar armor trims.
+Si quieres conservar una plantilla rara, puedes duplicarla con materiales concretos y una mesa de crafteo.
+Duplicar templates es importante para no gastar la unica copia original encontrada en exploracion.

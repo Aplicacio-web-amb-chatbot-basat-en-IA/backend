@@ -1,0 +1,1 @@
+El pollo es un mob pasivo comun que da plumas, pollo crudo y huevos. Es util para comida, flechas y pequenas granjas automaticas basadas en huevos o reproduccion sencilla.

@@ -1,0 +1,15 @@
+Protection reduce una amplia variedad de dano y es el encantamiento defensivo mas general para armadura. Suele ser la mejor opcion base cuando no se busca una proteccion especializada contra una fuente concreta de dano.
+---
+Fire Protection reduce especialmente el dano de fuego, lava y quemaduras prolongadas. Es muy util en el Nether o en situaciones donde el mayor riesgo es caer en lava o recibir mucho dano de fuego.
+---
+Blast Protection reduce el dano de explosiones como las de creepers, TNT, camas en dimensiones peligrosas o ciertos combates caoticos. Suele ser mas situacional que Protection general, pero puede tener mucho valor si el peligro principal son las explosiones.
+---
+Projectile Protection reduce el dano de proyectiles como flechas, tridentes y otros ataques a distancia. Es una proteccion especializada que compensa sobre todo si el jugador sufre mucho contra esqueletos, pillagers o combate ranged.
+---
+Thorns devuelve parte del dano al atacante cuando golpea a quien lleva la armadura encantada. Puede ser util en combate directo, aunque acelera el desgaste de la armadura si se reciben muchos golpes.
+---
+Respiration aumenta el tiempo que se puede respirar bajo el agua y reduce la presion de ahogo en exploracion submarina. Se aplica al casco y combina muy bien con Aqua Affinity o con una estrategia de conducto y pociones.
+---
+Aqua Affinity elimina gran parte de la penalizacion de minado bajo el agua y hace mucho mas comodo romper bloques sumergidos. Se aplica al casco y destaca en monumentos oceanicos, bases submarinas y trabajos en oceano.
+---
+Swift Sneak aumenta la velocidad al moverse agachado. Se aplica a pantalones y es especialmente util en construccion de precision, ancient cities y zonas donde agacharse es importante para no caer o no activar peligros.

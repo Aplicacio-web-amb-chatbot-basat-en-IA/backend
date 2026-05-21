@@ -1,0 +1,13 @@
+Los axolotes son criaturas acuaticas que aparecen en cuevas frondosas y aguas apropiadas.
+
+Pueden ayudar en combate contra algunos mobs acuaticos y tienen comportamientos unicos.
+
+Se pueden transportar con cubos de agua.
+
+Las ranas aparecen en biomas humedos y tienen variantes segun el clima o crecimiento.
+
+Los renacuajos crecen y se convierten en ranas dependiendo del entorno.
+
+Las ranas interactuan con cubos de magma pequenos para producir froglights.
+
+Estos mobs son utiles para decoracion, granjas especificas y variedad de ecosistemas.

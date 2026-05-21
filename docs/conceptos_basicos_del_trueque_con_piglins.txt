@@ -1,0 +1,9 @@
+El trueque con piglins se realiza lanzando lingotes de oro a un piglin normal.
+
+Tras coger el lingote, el piglin devuelve un item de su tabla de trueque.
+
+Esto puede dar recursos utiles como obsidiana, perlas de ender, cuarzo, cuerdas y otros materiales segun la version.
+
+El trueque no funciona con piglin brutes.
+
+Es una mecanica util para conseguir materiales del Nether sin depender solo de cofres o mineria.

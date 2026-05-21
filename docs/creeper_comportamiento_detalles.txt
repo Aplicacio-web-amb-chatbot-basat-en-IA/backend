@@ -1,0 +1,22 @@
+Un creeper es un mob hostil silencioso del Overworld. Se acerca al jugador y explota cuando permanece lo bastante cerca durante un breve tiempo.
+
+---
+
+Los creepers aparecen en zonas oscuras igual que otros mobs hostiles comunes. Su peligrosidad principal no es solo el daño directo, sino tambien la destruccion del terreno, cofres, cultivos y construcciones.
+
+---
+
+Un creeper no explota de inmediato al verte. Primero se acerca, emite un siseo y comienza una cuenta corta antes de detonar. Si te alejas a tiempo, la explosion puede cancelarse.
+
+---
+
+La manera mas segura de matar creepers al principio es golpear y retroceder, o usar arco desde distancia. Un escudo ayuda mucho porque reduce el riesgo al acercarte.
+
+---
+
+Si a un creeper le cae un rayo, se convierte en creeper cargado. Su explosion es mas fuerte y se usa a veces para obtener cabezas de mobs en situaciones controladas.
+
+---
+
+Los creepers sueltan polvora al morir. La polvora sirve para fabricar TNT, cohetes y algunas recetas relacionadas con combate o movilidad.
+

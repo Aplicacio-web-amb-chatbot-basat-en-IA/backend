@@ -1,0 +1,18 @@
+Los lobos salvajes se encuentran en ciertos biomas del Overworld. Se pueden domesticar usando huesos hasta que aparezcan corazones y un collar.
+
+---
+
+Una vez domesticado, el lobo sigue al jugador y puede ayudar en combate contra mobs hostiles. Tambien puede quedarse sentado si se le ordena.
+
+---
+
+Los lobos no se domestican con carne. La carne sirve para curarlos o para reproducirlos despues de haber sido domesticados.
+
+---
+
+Un lobo domesticado puede ser util en supervivencia temprana o media, pero tambien puede ponerse en peligro en lava, caidas o grandes grupos de enemigos.
+
+---
+
+Para curar a un lobo domesticado se le puede dar carne adecuada. Para reproducir dos lobos domesticados, ambos deben estar sanos y recibir comida de cria.
+

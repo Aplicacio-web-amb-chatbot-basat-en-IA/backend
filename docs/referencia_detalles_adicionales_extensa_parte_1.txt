@@ -1,0 +1,32 @@
+Los detalles pequeños de Minecraft a menudo cambian mucho la utilidad real de una respuesta.
+Decir donde aparece un recurso puede ser tan importante como decir para que sirve.
+Explicar una receta sin indicar el orden de los materiales puede ser insuficiente.
+Una respuesta sobre mobs mejora si incluye comportamiento, peligro y drop principal.
+Una respuesta sobre aldeanos mejora si distingue entre precio, profesion y utilidad.
+Una respuesta sobre granjas mejora si menciona condiciones de spawn o de funcionamiento.
+Una respuesta sobre redstone mejora si nombra componentes concretos.
+Una respuesta sobre cuevas mejora si incluye luz, comida y retirada.
+Una respuesta sobre el Nether mejora si recuerda oro, fuego y portales.
+Una respuesta sobre el End mejora si recuerda cristales, caidas y endermen.
+La informacion enciclopedica es mas util si esta separada por tema claro.
+Los documentos muy mezclados dificultan recuperar la mejor respuesta.
+Los documentos muy cortos a veces no aportan contexto suficiente.
+El equilibrio entre detalle y foco es importante en un sistema RAG.
+Agregar mas conocimiento ayuda, pero organizarlo bien ayuda aun mas.
+Una buena base documental permite responder mejor a preguntas basicas y avanzadas.
+Minecraft Vanilla tiene muchas mecanicas conectadas entre si.
+Por eso es util documentar no solo recetas, sino tambien usos, riesgos y estrategias.
+La progresion, el combate, la exploracion y la automatizacion se apoyan mutuamente.
+Una mejora real del chatbot suele necesitar mas documentos y mejor seleccion de fragmentos.
+Cuanto mas clara sea la documentacion, mas facil sera que el retrieval elija el fragmento correcto.
+La fidelidad a la fuente mejora cuando cada fragmento responde a una idea principal concreta.
+La completitud mejora cuando existen varios documentos complementarios sobre el mismo tema.
+La utilidad mejora cuando la respuesta mezcla definicion con consejo practico breve.
+La exactitud mejora cuando se evitan generalidades demasiado vagas.
+La claridad mejora cuando cada frase habla de una sola idea.
+Este tipo de conocimiento adicional refuerza la base del proyecto para preguntas futuras.
+Tambien ayuda a cubrir variantes de preguntas que no coinciden exactamente con una receta o definicion simple.
+Los embeddings se benefician de textos ricos en significado y vocabulario relacionado.
+Las palabras clave se benefician de titulos y frases directas con los terminos importantes.
+Combinar ambos enfoques suele dar mejores resultados que depender solo de uno.
+Seguir ampliando la base de datos permite cubrir mejor preguntas menos comunes o mas especificas.

@@ -1,0 +1,9 @@
+La nieve en polvo puede atrapar entidades y hacer que el jugador se hunda.
+
+Tambien puede causar congelacion con el tiempo.
+
+Las botas de cuero ayudan a caminar sobre nieve en polvo sin hundirse de la misma forma.
+
+Esta mecanica aparece en biomas frios y puede sorprender al explorar montañas.
+
+La nieve en polvo puede usarse tacticamente en trampas o diseños concretos.

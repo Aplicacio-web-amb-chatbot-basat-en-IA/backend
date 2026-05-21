@@ -1,0 +1,5 @@
+La mesa de encantamientos se fabrica con cuatro bloques de obsidiana, dos diamantes y un libro.
+La obsidiana forma la base y parte central inferior de la receta.
+El libro va en la casilla superior central y los diamantes a ambos lados de la fila media.
+La receta produce una mesa de encantamientos.
+Para usar la mesa de encantamientos tambien hace falta lapislazuli y niveles de experiencia.

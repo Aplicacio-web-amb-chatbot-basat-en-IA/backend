@@ -1,0 +1,11 @@
+Los phantoms aparecen cuando un jugador pasa varias noches sin dormir.
+
+Atacan desde el aire y pueden molestar mucho durante exploracion nocturna o construccion al aire libre.
+
+Dormir con regularidad evita su aparicion.
+
+Llevar una cama en viajes largos ayuda tanto a fijar respawn como a evitar phantoms.
+
+Los phantoms sueltan membranas fantasma, utiles para reparar elytra y para pociones de caida lenta.
+
+Si el jugador no quiere dormir, tambien puede combatirlos con arco o esperar su aproximacion con espada.

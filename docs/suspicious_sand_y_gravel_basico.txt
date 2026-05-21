@@ -1,0 +1,3 @@
+Suspicious sand y suspicious gravel son bloques especiales que pueden contener loot arqueologico.
+Para extraer su contenido sin destruirlo debes usar un brush y esperar a que aparezca el objeto.
+Suelen encontrarse en ruinas, desert temples, ocean ruins y algunas estructuras antiguas.

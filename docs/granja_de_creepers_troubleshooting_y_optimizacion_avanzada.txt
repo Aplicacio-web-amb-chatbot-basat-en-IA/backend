@@ -1,0 +1,15 @@
+Por que una granja de creepers da menos polvora de la esperada. Lo normal es que esten spawneando otros mobs, que los gatos no esten empujando bien a los creepers o que el entorno siga generando spawn fuera del modulo. En granjas de creepers, el filtrado fino pesa mucho mas de lo que parece.
+---
+Como diagnosticar una granja de creepers paso a paso. Conviene comprobar primero las alturas del diseno, despues la colocacion de trampillas y gatos, y por ultimo la ruta de caida o muerte. Si cualquiera de esas tres partes falla, la granja sigue teniendo spawn, pero deja de estar centrada realmente en creepers.
+---
+Que errores son frecuentes en una granja de creepers. Son comunes las plataformas demasiado altas para que aparezcan otros mobs, las trampillas mal orientadas, los gatos fuera de rango util y las zonas donde los creepers se atascan sin caer. Tambien es habitual no iluminar bien alrededor y perder parte del mob cap.
+---
+Como optimizar una granja de creepers. Lo importante es maximizar spawn especifico de creepers, acelerar su caida y mantener una recogida limpia de polvora. Una vez el diseno base ya filtra bien, las mejoras de entorno y AFK suelen notarse mucho mas que anadir mas plataformas sin control.
+---
+Como afecta el AFK a una granja de creepers. La distancia del jugador determina cuanto spawn util tiene el sistema y cuanto spawn se pierde fuera del modulo. Si el punto de AFK no esta bien pensado, la granja puede rendir mucho menos aunque la torre este construida correctamente.
+---
+Como se recoge bien la polvora en una granja de creepers. Lo mas comun es usar agua, tolvas o vagonetas con tolva para que los drops no queden demasiado tiempo en el suelo. La polvora se acumula rapido, asi que una salida limpia hacia almacenamiento evita perdidas y hace mas comodo el uso real de la granja.
+---
+Cuando compensa una granja de creepers frente a una granja hostil general. Compensa cuando el recurso buscado es sobre todo polvora para TNT o cohetes. Si lo que se quiere son drops variados y no una produccion especifica, una granja hostil general puede ser mas flexible aunque menos eficiente en polvora.
+---
+Como explicar tecnicamente una granja de creepers. Conviene hablar del filtrado de spawn, del uso de gatos y trampillas, del transporte hacia la camara de muerte y del almacenamiento. Asi se entiende que el valor del sistema no es solo matar mobs, sino forzar que casi todos los que produzca sean creepers.

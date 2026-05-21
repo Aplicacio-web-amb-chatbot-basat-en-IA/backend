@@ -1,0 +1,4 @@
+El comparador de redstone sirve para leer la intensidad de una señal o el estado de algunos bloques y contenedores.
+Puede comparar una señal con otra o funcionar en modo resta.
+Es muy util en clasificadores de objetos, cofres, hornos, tolvas y otros sistemas automaticos.
+

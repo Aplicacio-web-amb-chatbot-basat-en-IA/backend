@@ -1,0 +1,15 @@
+Minecraft ofrece varias formas de transporte segun la fase del juego.
+
+Caminar es la forma basica, pero pronto se puede mejorar con barcos, caballos o minecarts.
+
+Los barcos son muy utiles y baratos para viajar por rios y oceanos.
+
+Los caballos pueden ser muy buenos para viajes terrestres si se consigue una silla y un buen ejemplar.
+
+Los minecarts sirven para transporte guiado y automatizado sobre railes.
+
+En juego tardio, la elytra combinada con fuegos artificiales es una de las formas mas rapidas de viajar.
+
+El Nether tambien funciona como sistema de transporte rapido por la relacion de coordenadas con el Overworld.
+
+Elegir el metodo de transporte correcto depende del entorno, la distancia y los recursos disponibles.

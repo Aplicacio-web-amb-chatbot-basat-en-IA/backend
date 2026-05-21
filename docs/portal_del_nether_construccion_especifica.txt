@@ -1,0 +1,3 @@
+Para construir un portal del Nether necesitas formar un marco de obsidiana de al menos cuatro bloques de alto por cinco de ancho contando las esquinas.
+La forma minima funcional usa diez bloques de obsidiana si no colocas las esquinas.
+Despues se activa prendiendo fuego al interior con yesca, bola de fuego u otra fuente de ignicion.

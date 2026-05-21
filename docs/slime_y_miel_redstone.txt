@@ -1,0 +1,9 @@
+Los bloques de slime y de miel tienen usos especiales en redstone avanzada.
+
+Pueden mover grupos de bloques con pistones en maquinas voladoras, puertas ocultas y mecanismos complejos.
+
+Los bloques de miel tienen interacciones particulares con entidades y objetos adheridos.
+
+Los bloques de slime son muy usados en mecanismos tecnicos por su comportamiento elastico y de empuje.
+
+Estos sistemas no suelen ser necesarios para redstone basica, pero son clave en automatizacion avanzada.

@@ -1,0 +1,19 @@
+Los encantamientos mejoran herramientas, armas y armaduras con efectos especiales.
+
+Hay dos formas principales de aplicarlos: la mesa de encantamientos y el yunque.
+
+La mesa de encantamientos consume lapislazuli y niveles de experiencia para ofrecer encantamientos de forma semialeatoria.
+
+Cuantas mas estanterias correctamente colocadas haya alrededor de la mesa, mejores opciones de encantamiento se pueden obtener.
+
+El yunque permite combinar objetos encantados, aplicar libros encantados y renombrar equipo.
+
+Los libros encantados permiten aplicar encantamientos concretos con mucho mas control.
+
+Mending, Unbreaking, Efficiency, Fortune, Protection y Sharpness son algunos de los encantamientos mas buscados segun el tipo de objeto.
+
+Algunos encantamientos son incompatibles entre si, como Silk Touch y Fortune en la misma herramienta normal.
+
+Los bibliotecarios son una fuente muy importante de libros encantados especificos.
+
+La experiencia necesaria para encantar puede conseguirse luchando contra mobs, fundiendo, comerciando o usando granjas.

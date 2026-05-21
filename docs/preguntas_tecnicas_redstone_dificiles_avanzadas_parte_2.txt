@@ -1,0 +1,17 @@
+Por que un comparador da una intensidad distinta segun el contenedor. Porque el comparador no lee solo si el contenedor esta lleno o vacio, sino cuanto contenido relativo tiene respecto a su capacidad total. Por eso un cofre, una tolva y un horno pueden comportarse distinto aunque visualmente todos tengan items dentro.
+---
+Por que un observador no activa lo que yo esperaba. Normalmente porque esta orientado al reves, porque detecta el bloque incorrecto o porque lo que produce es un pulso demasiado corto para el mecanismo final. En redstone, muchos problemas del observador no son de energia, sino de orientacion y temporizacion.
+---
+Cuando conviene usar comparador y cuando repetidor. El repetidor conviene cuando se quiere reforzar senal, introducir retraso o aislar una linea. El comparador conviene cuando hay que leer intensidad, comparar entradas o construir logica que depende del nivel de llenado o del estado de un bloque especial.
+---
+Por que una puerta de pistones se abre pero no se cierra bien. Suele deberse a retrasos mal ajustados, a un piston orientado de forma incorrecta o a una secuencia de cierre que ocurre demasiado pronto. Las puertas de pistones fallan muchas veces por sincronizacion, no por falta de potencia.
+---
+Como se detecta un atasco en una linea de items. Lo normal es usar comparadores sobre tolvas o cofres, o revisar manualmente puntos donde la recogida cambia de altura o direccion. Si un modulo recibe mas flujo del que puede evacuar, el atasco no tarda en propagarse a todo el sistema.
+---
+Por que una super smelter puede repartir mal los items. Si la entrada no se distribuye de forma equilibrada o el combustible no llega a todos los hornos por igual, algunos modulos trabajan y otros quedan infrautilizados. El problema suele estar en la logistica interna, no en los hornos como tal.
+---
+Como saber si un reloj de redstone esta causando problemas de rendimiento. Si permanece activo siempre, genera actualizaciones inutiles o alimenta modulos que no hacen falta en ese momento, puede penalizar la base. Un buen indicio es que al apagarlo desaparecen ruido, pulsos sobrantes o comportamiento erratico en sistemas cercanos.
+---
+Por que una tolva bloqueada es util y no solo una limitacion. Porque bloquear tolvas permite controlar el flujo exacto de items, construir filtros, temporizadores y lineas de espera. Lejos de ser un problema, es una de las bases de muchas automatizaciones fiables.
+---
+Como explicar de forma tecnica pero clara una instalacion de redstone. Lo mejor es separar entrada, deteccion, logica, accion y salida. Esa estructura sirve tanto para entender el circuito como para defenderlo delante de alguien que no conoce el diseno exacto.

@@ -1,0 +1,3 @@
+El oficio de muchos aldeanos se puede cambiar colocandoles o quitandoles su bloque de trabajo antes de comerciar con ellos.
+Una vez realizas el primer intercambio, el aldeano suele quedar bloqueado en ese oficio y ya no se puede rerollear tan facilmente.
+Entender esto es clave para conseguir bibliotecarios, flecheros o granjeros con trades utiles.

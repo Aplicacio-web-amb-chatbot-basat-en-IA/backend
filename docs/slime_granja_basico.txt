@@ -1,0 +1,11 @@
+Los slimes aparecen en slime chunks bajo tierra y tambien en pantanos bajo condiciones concretas.
+
+Conseguir bolas de slime es importante para pistones pegajosos, bloques de slime y varias mecanicas.
+
+Una granja de slimes suele construirse localizando un slime chunk y vaciando una gran cavidad.
+
+Despues se preparan plataformas de spawn y sistemas de transporte o muerte.
+
+Iluminar cuevas cercanas ayuda mucho a mejorar la eficiencia al reducir otros spawns.
+
+Las granjas de slimes son muy utiles para jugadores que quieren avanzar en redstone o automatizacion.

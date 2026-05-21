@@ -1,0 +1,37 @@
+La barra de hambre determina la capacidad del jugador para esprintar y regenerar vida de forma natural.
+
+La saturación es un valor oculto que normalmente se consume antes que la barra visible de hambre.
+
+Los alimentos no solo restauran puntos de hambre, sino también distinta cantidad de saturación.
+
+La comida cocinada suele ser más eficiente que la cruda en hambre y saturación.
+
+Si la barra de hambre está suficientemente llena, la salud puede regenerarse de forma natural consumiendo hambre y saturación.
+
+Con hambre baja el jugador no puede esprintar y su capacidad de supervivencia disminuye.
+
+La carne podrida puede comerse en emergencias, pero puede aplicar hambre.
+
+El pan es una fuente temprana de comida fiable gracias al trigo.
+
+La carne de vaca cocinada y la carne de cerdo cocinada son alimentos muy sólidos en supervivencia general.
+
+Las zanahorias y patatas son renovables y útiles para agricultura continua.
+
+Las patatas venenosas no son una fuente fiable de alimento.
+
+El pescado cocinado puede ser una buena opción si el jugador pesca o vive cerca del agua.
+
+Las manzanas doradas no son alimento cotidiano, sino recurso especial para curación y supervivencia en combate.
+
+Mantener una fuente estable de comida es una de las prioridades más importantes en el inicio de una partida.
+
+Las vacas y cerdos son fuentes de comida muy eficientes si se dispone de horno o ahumador.
+
+El trigo permite fabricar pan y también criar vacas y ovejas.
+
+Las zanahorias y patatas son muy cómodas para crear granjas simples y renovables.
+
+La saturación alta ayuda a regenerar vida de forma más eficaz que una comida con poco valor oculto.
+
+Salir a explorar o entrar a una cueva con poca comida suele aumentar mucho el riesgo de morir.

@@ -1,0 +1,1 @@
+El wither skeleton aparece en fortalezas del Nether y puede aplicar efecto wither. Es clave porque a veces suelta craneos necesarios para invocar al Wither.

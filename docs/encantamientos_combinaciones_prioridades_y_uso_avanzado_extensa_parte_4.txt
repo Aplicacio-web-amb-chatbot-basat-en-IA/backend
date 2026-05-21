@@ -1,0 +1,41 @@
+Como priorizar encantamientos al principio de la partida. En fases tempranas suele compensar priorizar eficiencia, fortuna o toque de seda en herramientas, proteccion en armadura y poder o infinity en arco segun los recursos disponibles. La idea es mejorar supervivencia y progresion antes de buscar combinaciones perfectas.
+---
+Como cambian las prioridades de encantamientos en late game. Cuando ya hay recursos abundantes, suele compensar combinar proteccion completa, reparacion, irrompibilidad y encantamientos especializados segun el objeto. En esta fase el objetivo ya no es solo sobrevivir, sino optimizar tiempo y comodidad.
+---
+Que encantamientos suelen ser prioritarios en un pico. Los mas valiosos suelen ser eficiencia, fortuna o toque de seda, irrompibilidad y reparacion. La decision importante es elegir entre fortuna y toque de seda segun el uso principal del pico.
+---
+Cuando conviene Fortuna y cuando conviene Toque de Seda. Fortuna conviene cuando se quieren maximizar drops como diamantes, carbon, lapislazuli, redstone o esmeraldas. Toque de Seda conviene cuando interesa mover bloques intactos, recoger menas para procesarlas despues o conservar vidrio, hielo, hojas o bloques especiales.
+---
+Que encantamientos suelen ser prioritarios en una espada. Lo comun es buscar sharpness como base general, junto con saqueo, aspecto igneo, irrompibilidad y reparacion. Sweeping Edge tambien es muy util en Java para limpiar grupos de mobs.
+---
+Cuando conviene Smite en lugar de Sharpness. Smite solo destaca si se quiere especializar el arma contra no muertos como zombies, esqueletos, wither skeletons o el Wither. Para uso general, Sharpness suele ser mejor porque sirve contra mas enemigos.
+---
+Que encantamientos suelen ser prioritarios en un hacha. Si el hacha se usa como herramienta, suelen importar eficiencia, reparacion e irrompibilidad. Si tambien se usa como arma, puede tener sentido anadir sharpness, aunque depende del estilo de combate del jugador.
+---
+Que encantamientos suelen ser prioritarios en una pala o azada. En estos casos suelen bastar eficiencia, irrompibilidad y reparacion, salvo usos muy concretos. No suelen requerir combinaciones tan complejas como un pico o una espada.
+---
+Que encantamientos suelen ser prioritarios en la armadura. Proteccion es la opcion mas general y segura para casco, pechera, pantalones y botas. Despues suelen anadirse irrompibilidad y reparacion, junto con encantamientos situacionales como respiracion, afinidad acuatica, feather falling o depth strider.
+---
+Cuando conviene usar protecciones especificas en lugar de Proteccion general. Fire Protection, Blast Protection y Projectile Protection pueden ser utiles en contextos concretos, pero normalmente Protection general ofrece un rendimiento mas equilibrado. Las protecciones especializadas solo compensan cuando el riesgo principal esta muy claro.
+---
+Que encantamientos son clave en las botas. Feather Falling suele ser de los mas importantes porque reduce mucho el dano por caida. Segun el contexto, tambien conviene combinarlo con Depth Strider, Frost Walker o Soul Speed, ademas de proteccion, irrompibilidad y reparacion.
+---
+Que encantamientos son clave en el casco. Respiracion y afinidad acuatica son muy utiles para exploracion submarina, mientras que proteccion, irrompibilidad y reparacion siguen siendo la base general. Un casco bien encantado mejora mucho la comodidad en minas y oceano.
+---
+Infinity o Mending en arco, que suele compensar mas. Infinity es muy comodo para combate diario porque reduce el consumo de flechas, pero Mending da mas sostenibilidad a largo plazo. En fases avanzadas, muchos jugadores prefieren Mending si ya tienen una fuente estable de flechas.
+---
+Multishot o Piercing en ballesta, que conviene mas. Multishot es util para limpiar grupos a corta o media distancia y ahorrar cohetes de fuegos artificiales en algunos usos. Piercing suele ser mejor si se quiere dano mas controlado, impacto en linea y menos dispersion.
+---
+Loyalty, Riptide o Channeling en tridente, como se elige. Loyalty es la opcion mas comoda para uso general porque devuelve el tridente. Riptide cambia por completo el uso y esta pensado para movilidad con agua o lluvia. Channeling es muy situacional, pero puede ser potente en tormentas si el objetivo es invocar rayos.
+---
+Que encantamientos son mejores para Elytra. Normalmente lo esencial es irrompibilidad y reparacion, porque el objetivo principal es alargar la vida del objeto. No necesita una lista larga, pero esos dos encantamientos cambian mucho la utilidad real de la Elytra.
+---
+Como conseguir encantamientos de forma fiable. Las tres vias principales suelen ser mesa de encantamientos, libros encantados e intercambios con aldeanos. Para encantamientos concretos y repetibles, los aldeanos bibliotecarios suelen ser la opcion mas consistente.
+---
+Como evitar que un yunque se vuelva demasiado caro. Conviene planificar las combinaciones, fusionar libros de forma razonable y no ir anadiendo encantamientos en orden aleatorio. Si se trabaja mal, el coste de experiencia sube demasiado y puede bloquear combinaciones utiles.
+---
+Por que Reparacion es tan importante. Reparacion convierte la experiencia recogida en durabilidad para el objeto encantado, lo que reduce mucho la necesidad de rehacer herramientas y armaduras. En equipamiento final, suele ser uno de los encantamientos mas valiosos del juego.
+---
+Irrompibilidad sigue siendo util si ya tengo Reparacion. Si, porque reduce el desgaste y hace que Reparacion necesite menos experiencia para mantener el objeto. La combinacion de irrompibilidad y reparacion es una de las bases del equipamiento avanzado.
+---
+Que encantamientos son mas utiles para granjas y automatizacion. Toque de Seda, Fortuna, Eficiencia, Reparacion y algunos encantamientos de movilidad suelen ayudar mucho a construir y mantener granjas grandes. En combate o seguridad de granjas del Nether o del End, tambien importan proteccion, feather falling y encantamientos de arma segun el caso.

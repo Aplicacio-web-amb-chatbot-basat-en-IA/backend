@@ -1,0 +1,3 @@
+Para evitar que aparezcan mobs hostiles en tu base, lo mas importante es iluminar bien todas las zonas oscuras y eliminar espacios validos de spawn.
+Tambien ayuda usar losas, alfombras, cristal u otros bloques donde muchos mobs no puedan aparecer.
+Conviene revisar cuevas cercanas, tejados, graneros y alrededores de la base para que no queden puntos oscuros fuera de la vista.

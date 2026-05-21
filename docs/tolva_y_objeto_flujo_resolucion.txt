@@ -1,0 +1,18 @@
+Cuando un sistema con tolvas no funciona, conviene revisar primero si alguna tolva esta bloqueada por una senal de redstone. Una tolva alimentada no transfiere objetos con normalidad.
+
+---
+
+Tambien es importante revisar direccion de las tolvas, saturacion de cofres y posibles cuellos de botella en puntos donde entran demasiados objetos al mismo tiempo.
+
+---
+
+En clasificadores de objetos, un pequeño error en los items de relleno o en la cantidad del item filtro puede hacer que todo el sistema falle.
+
+---
+
+Las corrientes de agua y los minecarts con tolva pueden mover objetos mejor en ciertos contextos que una cadena muy larga de tolvas normales.
+
+---
+
+Entender el flujo de objetos es clave para diseñar hornos automaticos, almacenamientos masivos y granjas con recogida eficiente.
+

@@ -1,0 +1,45 @@
+El comercio con aldeanos permite intercambiar objetos por esmeraldas y esmeraldas por objetos.
+
+Cada aldeano tiene un conjunto de ofertas dependiente de su profesión y nivel.
+
+Los aldeanos suben de nivel al comerciar y desbloquean mejores ofertas.
+
+Los niveles habituales progresan desde novato hasta maestro.
+
+Cuando una oferta se usa muchas veces, puede bloquearse temporalmente.
+
+El aldeano suele reponer intercambios si puede trabajar en su bloque de trabajo y sigue su horario normal.
+
+Muchos sistemas de progreso se benefician del comercio porque convierte recursos renovables en esmeraldas.
+
+Los bibliotecarios son muy valiosos por los libros encantados y etiquetas.
+
+Los granjeros permiten generar esmeraldas con cultivos comunes.
+
+Los clérigos son útiles para intercambiar objetos del Nether y experiencia indirecta.
+
+Curar un aldeano zombi puede generar descuentos en intercambios.
+
+La reputación del jugador también puede influir en precios en algunas situaciones.
+
+Un hall de trading bien diseñado mejora acceso, seguridad y reposición.
+
+Para que el comercio sea estable, conviene proteger a los aldeanos de zombies, raids y accidentes.
+
+Los bibliotecarios se usan mucho para buscar Mending, Unbreaking, Efficiency, Fortune o Protection.
+
+Vender cultivos a granjeros es una forma accesible de generar esmeraldas en fases tempranas.
+
+Los intercambios bloqueados no significan que se hayan perdido para siempre; normalmente vuelven tras la reposición si el aldeano puede trabajar.
+
+Muchos jugadores fijan primero un aldeano con una oferta deseada comerciando una vez con él para que no cambie de profesión ni de oferta base.
+
+El comercio con aldeanos puede sustituir parte del crafteo si se dispone de una buena infraestructura de esmeraldas.
+
+Las esmeraldas suelen conseguirse facilmente con granjeros, flecheros, albañiles o bibliotecarios segun los recursos disponibles.
+
+Un bibliotecario con Mending o Efficiency puede cambiar por completo la progresion del equipo.
+
+Curar aldeanos zombis repetidamente puede reducir mucho los precios, aunque la estrategia depende de la version y del equilibrio buscado.
+
+Los aldeanos maestros pueden ofrecer equipo encantado, libros valiosos y recursos dificiles de reunir de otra forma.

@@ -1,0 +1,29 @@
+El Overworld es la dimensión principal donde comienza la mayoría de partidas de supervivencia.
+
+En el Overworld aparecen la mayoría de biomas, estructuras, animales y recursos básicos del juego.
+
+El ciclo de día y noche influye directamente en visibilidad, spawn de mobs hostiles y ritmo de juego.
+
+Las camas funcionan normalmente en el Overworld y permiten dormir para saltar la noche y fijar punto de reaparición.
+
+La lluvia y las tormentas afectan visibilidad, fuego, comportamiento de algunos mobs y uso de Channeling o Riptide en ciertas situaciones.
+
+La mayor parte de la progresión inicial ocurre en el Overworld: madera, piedra, hierro, comida, aldeas y exploración de cuevas.
+
+También es en el Overworld donde se encuentran strongholds, que permiten acceder al End.
+
+El Overworld conecta con el Nether mediante portales y sirve de base principal para construcciones y almacenamiento.
+
+Conocer bien el Overworld es fundamental para progresar hacia encantamientos, pociones, aldeanos, Nether y End.
+
+La primera base, la primera granja de comida y la primera minería importante suelen organizarse en el Overworld.
+
+La mayoría de aldeas, animales de granja y estructuras tempranas también se encuentran en esta dimensión.
+
+Prepararse bien en el Overworld reduce mucho la dificultad de entrar luego al Nether o al End.
+
+En el Overworld se consiguen la mayor parte de recursos basicos como madera, piedra, hierro, comida y lana.
+
+La primera noche y las primeras cuevas suelen decidir mucho el ritmo inicial de la partida.
+
+El Overworld tambien es la base logistica principal para aldeanos, granjas, almacenamiento y encantamientos.

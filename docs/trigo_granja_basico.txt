@@ -1,0 +1,21 @@
+Una granja de trigo basica necesita tierra, agua, una azada y semillas de trigo.
+
+Primero hay que usar la azada sobre bloques de tierra o hierba para convertirlos en tierra labrada.
+
+Despues se plantan semillas de trigo sobre esa tierra labrada.
+
+La tierra se mantiene hidratada si hay agua a una distancia maxima de cuatro bloques en horizontal.
+
+Un bloque de agua bien colocado puede hidratar una zona relativamente amplia de cultivo.
+
+El trigo crece con el tiempo y tambien puede acelerarse usando harina de hueso.
+
+Una granja sencilla suele organizarse en filas alrededor de una o varias fuentes de agua.
+
+Es recomendable poner luz suficiente si se quiere que la granja funcione tambien de noche y evitar mobs.
+
+Cuando el trigo esta completamente maduro se vuelve amarillo y al romperlo suele dar trigo y semillas.
+
+El trigo sirve para hacer pan y para criar vacas y ovejas.
+
+Una granja de trigo es una de las fuentes de comida y recursos mas faciles del juego temprano.

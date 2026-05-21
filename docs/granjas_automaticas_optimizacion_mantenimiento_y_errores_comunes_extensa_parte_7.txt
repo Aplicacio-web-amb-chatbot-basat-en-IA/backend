@@ -1,0 +1,33 @@
+Como saber si una granja esta produciendo menos de lo debido. Lo primero es comprobar si hay spawn o produccion fuera del area prevista, si el punto de AFK es correcto y si la recogida de items esta funcionando sin perdidas. Muchas veces la granja central esta bien y el problema esta en el entorno.
+---
+Como influye el AFK en una granja automatica. La distancia al jugador puede determinar si el spawn ocurre, si los mobs se congelan o si parte del circuito deja de actuar como se esperaba. Por eso un punto de AFK bien elegido es casi parte del diseno y no un detalle posterior.
+---
+Como depurar una granja de mobs que no rinde. Conviene revisar cuevas iluminadas, mob cap, canales de transporte, camara de muerte y almacenamiento. Si los mobs tardan demasiado en morir o se quedan atascados, la capacidad de produccion real baja mucho.
+---
+Como depurar una granja de cultivos automatica. Lo habitual es revisar observadores, pistones, recogida de items y espacios de crecimiento. Si la planta se rompe pero el item no se recoge, o si el detector salta en mal momento, la granja parece funcionar pero pierde mucha eficiencia.
+---
+Como depurar una granja de aldeanos o hierro. Hay que comprobar camas, comida, rutas, punto de spawn del golem y que la aldea no este mezclada con otras cercanas. Los sistemas basados en aldeanos suelen fallar por condiciones invisibles si no estan bien aislados.
+---
+Que errores son comunes al construir una granja demasiado pronto. A veces se intenta copiar un sistema avanzado sin tener equipo, materiales o conocimiento suficiente para mantenerlo. En esos casos es mejor construir una version mas simple y escalarla luego.
+---
+Como planificar el mantenimiento de una granja. Conviene dejar acceso a cofres, tolvas, palancas, relojes y puntos donde puedan atascarse items o mobs. Una granja sin mantenimiento facil puede ser buena en papel, pero frustrante en uso real.
+---
+Como decidir si una granja merece mas expansion. Si ya cubre el consumo habitual del recurso, una ampliacion puede no compensar el coste tecnico o el lag adicional. En cambio, si el almacenamiento se llena poco y el recurso siempre falta, expandirla suele tener sentido.
+---
+Como influye el almacenamiento en el rendimiento real. Cuando los cofres se llenan, la produccion deja de tener valor practico aunque el sistema siga generando recursos. Por eso una buena granja no acaba en la camara de muerte o en el piston, sino en un almacenamiento util y accesible.
+---
+Como combinar varias granjas sin volver la base caotica. Lo mejor es agrupar por familias de recursos, compartir almacenamiento cuando tenga sentido y separar bien zonas de mobs, aldeanos, hornos y cultivos. El orden fisico ayuda mucho a que luego la redstone y el mantenimiento sean razonables.
+---
+Como reducir el lag de una zona tecnica. Conviene apagar relojes que no se usen, bloquear tolvas cuando no haga falta que trabajen, evitar acumulacion de entidades y no dejar items en el suelo demasiado tiempo. Las bases tecnicas buenas suelen tener interruptores y modos de reposo.
+---
+Como elegir una granja por utilidad y no solo por popularidad. Hay granjas famosas que no siempre son las mas rentables para una partida concreta. Lo mejor es pensar que recursos usas de verdad y cuales te ahorrarían mas tiempo si fueran automaticos.
+---
+Que granjas dan mas retorno en supervivencia normal. Suelen compensar mucho hierro, comida, cultivos basicos, cana de azucar, bambu, creepers y alguna buena fuente de experiencia. Otras granjas mas tecnicas pueden ser impresionantes, pero no siempre son prioritarias.
+---
+Como construir granjas que encajen con una base bonita. No todo tiene que estar expuesto como una fabrica. Muchas granjas pueden ocultarse bajo suelo, en sotanos tecnicos o en edificios dedicados, manteniendo la funcionalidad sin romper la estetica general de la base.
+---
+Como explicar una granja automatica en una memoria o defensa. Conviene separar claramente las fases de produccion, deteccion, accion, recogida y almacenamiento. Esa estructura ayuda a demostrar que no se trata solo de un mecanismo aislado, sino de un sistema completo y pensado.
+---
+Como comparar dos disenos de granja sin entrar en tecnicismos extremos. Se pueden comparar por recurso obtenido, estabilidad, facilidad de mantenimiento, complejidad de montaje, espacio requerido y dependencia del jugador. Esa comparacion suele ser mas util que centrarse solo en una cifra maxima de produccion.
+---
+Como saber si una granja es adecuada para un TFG. Lo importante no es que sea la mas extrema posible, sino que permita explicar decisiones de diseno, mecanicas del juego y una integracion coherente con el sistema general. Si ademas es configurable, mantenible y bien documentada, aporta mucho valor al proyecto.

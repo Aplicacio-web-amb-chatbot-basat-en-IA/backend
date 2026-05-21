@@ -1,0 +1,2 @@
+El mapa localizador se fabrica con ocho hojas de papel y una brujula.
+El papel rodea la brujula, que va en la casilla central, y la receta produce un mapa localizador.

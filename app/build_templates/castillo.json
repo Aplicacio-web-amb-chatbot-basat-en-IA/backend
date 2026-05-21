@@ -1,0 +1,67 @@
+{
+  "id": "castillo",
+  "label": "Castillo",
+  "category": "castle",
+  "default_size": "medium",
+  "supported_sizes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "supported_extensions": [
+    "muralla_exterior",
+    "torres_adicionales",
+    "puente_entrada",
+    "patio_interior",
+    "decoracion_extra"
+  ],
+  "default_main_material": "stone_bricks",
+  "max_secondary_materials": 2,
+  "default_secondary_materials": [
+    "polished_andesite",
+    "dark_oak_planks"
+  ],
+  "main_material_options": [
+    { "value": "stone_bricks", "label": "Ladrillos de piedra" },
+    { "value": "deepslate_bricks", "label": "Ladrillos de pizarra profunda" },
+    { "value": "polished_andesite", "label": "Andesita pulida" },
+    { "value": "cobblestone", "label": "Adoquin" },
+    { "value": "sandstone", "label": "Arenisca" }
+  ],
+  "secondary_material_options": [
+    { "value": "polished_andesite", "label": "Andesita pulida" },
+    { "value": "cobblestone", "label": "Adoquin" },
+    { "value": "mossy_cobblestone", "label": "Adoquin musgoso" },
+    { "value": "deepslate_bricks", "label": "Ladrillos de pizarra profunda" },
+    { "value": "dark_oak_planks", "label": "Tablones de roble oscuro" },
+    { "value": "spruce_planks", "label": "Tablones de abeto" },
+    { "value": "oak_planks", "label": "Tablones de roble" }
+  ],
+  "default_prompt": "castillo medieval mediano con murallas altas de piedra, torres de vigilancia, almenas, puerta fortificada y patio central",
+  "size_prompts": {
+    "small": "castillo pequeno con murallas de piedra, cuatro torres compactas, almenas marcadas, puerta fortificada y entrada sencilla",
+    "medium": "castillo medieval mediano con murallas altas de piedra, torres de vigilancia, almenas, puerta fortificada y patio central",
+    "large": "castillo grande con doble volumen defensivo, torres altas, murallas anchas, gran puerta fortificada, almenas marcadas y patio interior amplio"
+  },
+  "default_width": 16,
+  "default_depth": 14,
+  "default_height": 11,
+  "materials": {
+    "foundation": "stone_bricks",
+    "walls": "stone_bricks",
+    "battlement": "stone_bricks",
+    "slab": "stone_brick_slab",
+    "stairs": "stone_brick_stairs",
+    "trim": "polished_andesite",
+    "bridge": "dark_oak_planks",
+    "bridge_slab": "dark_oak_slab",
+    "door": "dark_oak_door",
+    "bars": "iron_bars",
+    "light": "lantern",
+    "ground": "grass_block",
+    "courtyard_path": "cobblestone",
+    "water": "water",
+    "leaf": "azalea_leaves"
+  },
+  "supported_features": []
+}

@@ -1,0 +1,21 @@
+El blaze aparece principalmente en fortalezas del Nether y dispara bolas de fuego. Es esencial por las blaze rods, necesarias para ojos de ender, pociones y progresion al End.
+---
+El ghast es un gran hostil volador del Nether que dispara proyectiles explosivos. Puede resultar muy peligroso en zonas abiertas o sobre lava.
+---
+El magma cube es una version nether del slime que se divide en tamaños y suelta crema de magma. Es importante para pociones, bloques y algunas granjas especializadas.
+---
+El wither skeleton aparece en fortalezas del Nether y puede aplicar efecto wither. Suelta carbon, huesos y a veces craneos, clave para invocar al Wither.
+---
+El hoglin es un hostil del Nether que embiste y causa mucho dano cuerpo a cuerpo. Tambien es una fuente renovable de comida si se controla o farmea bien.
+---
+El zoglin es una version agresiva y descontrolada relacionada con el hoglin, normalmente hostil a casi todo. Puede aparecer por conversion y no debe confundirse con el hoglin normal.
+---
+El piglin brute es el guardia mas peligroso de bastions y ataca incluso si se lleva oro. Es uno de los principales riesgos de esa estructura.
+---
+El guardian aparece en monumentos oceanicos y ataca a distancia con un rayo. Junto al guardian anciano define gran parte de la dificultad de esta estructura.
+---
+El guardian anciano es una variante mas poderosa del guardian y aplica fatiga minera. Tiene gran importancia estrategica al explorar monumentos.
+---
+El shulker aparece en end cities y dispara proyectiles que aplican levitacion. Es clave porque suelta caparazones necesarios para fabricar shulker boxes.
+---
+El enderman es el mob mas comun del End y tambien aparece en Overworld y Nether. Su drop principal son las perlas de ender y tiene enorme relevancia en progresion y granjas.

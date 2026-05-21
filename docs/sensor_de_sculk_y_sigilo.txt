@@ -1,0 +1,18 @@
+Los sensores de sculk detectan vibraciones y pueden integrarse en sistemas de redstone. Tambien forman parte de las mecanicas de sigilo y peligro en ciudades antiguas.
+
+---
+
+Moverse, romper bloques, abrir cofres o generar ciertas acciones cerca de sculk puede activar sensores y, en contextos concretos, aumentar el riesgo de invocar amenazas.
+
+---
+
+Comprender el sistema de vibraciones ayuda tanto a explorar ciudades antiguas con cuidado como a diseñar mecanismos de deteccion en bases o granjas.
+
+---
+
+El sigilo y el control del entorno son muy importantes en zonas con sculk, porque el problema no es solo el bloque en si, sino las consecuencias de activarlo repetidamente.
+
+---
+
+Por eso, sculk combina exploracion, riesgo, loot avanzado y aplicaciones tecnicas interesantes en redstone.
+

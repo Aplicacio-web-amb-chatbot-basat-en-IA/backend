@@ -1,0 +1,3 @@
+Para hacer una baliza o beacon necesitas tres bloques de obsidiana, cinco bloques de cristal y una estrella del Nether.
+La estrella del Nether es el material mas dificil porque solo se consigue al derrotar al Wither.
+La baliza se fabrica colocando la estrella del Nether en el centro, tres bloques de obsidiana en la fila inferior y cinco bloques de cristal en las casillas restantes.

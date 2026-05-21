@@ -1,0 +1,27 @@
+Protection reduce una amplia variedad de daño y es el encantamiento defensivo más general.
+
+Fire Protection reduce daño por fuego, lava y algunas fuentes relacionadas.
+
+Blast Protection reduce daño por explosiones como creepers, TNT, camas explosivas o respawn anchors.
+
+Projectile Protection reduce daño de proyectiles como flechas, bolas de fuego o disparos de algunos mobs.
+
+Protection, Fire Protection, Blast Protection y Projectile Protection no suelen combinarse entre sí en la misma pieza de armadura de forma normal.
+
+Feather Falling se aplica a botas y reduce mucho el daño por caída.
+
+Depth Strider mejora el movimiento bajo el agua y también se aplica a botas.
+
+Frost Walker congela temporalmente agua bajo los pies, pero es incompatible con Depth Strider.
+
+Respiration aumenta el tiempo de respiración bajo el agua y mejora visibilidad o supervivencia subacuática de forma práctica.
+
+Aqua Affinity mejora la velocidad de minado bajo el agua.
+
+Thorns devuelve daño a atacantes, pero puede aumentar gasto de durabilidad.
+
+Soul Speed mejora movimiento sobre soul sand y soul soil, pero desgasta las botas con el uso.
+
+Swift Sneak mejora velocidad al andar agachado y es muy útil en construcción y exploración cuidadosa.
+
+Unbreaking y Mending son muy valiosos en armaduras para reducir reparaciones frecuentes.

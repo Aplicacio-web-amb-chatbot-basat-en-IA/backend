@@ -1,0 +1,55 @@
+Los encantamientos mejoran herramientas, armas, armaduras y otros objetos.
+La mesa de encantamientos usa niveles de experiencia y lapislazuli.
+Las estanterias alrededor de la mesa aumentan el nivel maximo disponible.
+No debe haber bloques solidos entre la mesa y las estanterias si se quiere el bonus completo.
+Los libros encantados permiten aplicar encantamientos especificos con yunque.
+Algunos encantamientos son incompatibles entre si.
+Sharpness, Smite y Bane of Arthropods son ejemplos de alternativas ofensivas incompatibles.
+Protection suele ser la defensa general mas valorada.
+Fire Protection ayuda mucho en Nether y lava.
+Blast Protection es util contra explosiones y creepers.
+Projectile Protection ayuda contra esqueletos, pillagers y otros proyectiles.
+Feather Falling es casi obligatorio para exploracion segura.
+Depth Strider mejora movilidad en agua.
+Respiration amplia tiempo respirando bajo el agua.
+Aqua Affinity acelera minado bajo el agua.
+Soul Speed mejora movimiento sobre soul sand y soul soil.
+Swift Sneak mejora velocidad al agacharse y se obtiene en loot especifico.
+Efficiency acelera mineria y tala.
+Fortune mejora algunos drops como diamantes, redstone, lapislazuli y carbon.
+Silk Touch permite recoger bloques como mineral intacto, cristal o hielo.
+Unbreaking mejora durabilidad y es util en casi cualquier objeto importante.
+Mending repara con experiencia obtenida.
+Looting mejora drops de mobs y suele priorizarse en espada.
+Sweeping Edge es util para barrido en Java Edition.
+Knockback puede ayudar a controlar distancia pero a veces molesta para farmear.
+Fire Aspect añade fuego y puede cocinar ciertos drops.
+Power aumenta daño del arco.
+Punch aumenta retroceso del arco.
+Infinity ahorra flechas normales.
+Flame prende fuego con flechas.
+Quick Charge y Multishot son claves de la ballesta.
+Loyalty devuelve el tridente al jugador.
+Riptide convierte el tridente en herramienta de movilidad con agua o lluvia.
+Channeling invoca rayos en tormenta bajo condiciones adecuadas.
+Impaling mejora daño del tridente en algunos contextos acuaticos o entidades concretas.
+Luck of the Sea y Lure mejoran pesca.
+Las pociones se preparan en soporte de pociones.
+El combustible del soporte es el polvo de blaze.
+Las verrugas del Nether son la base de la mayoria de pociones.
+Una awkward potion es el paso base para muchas recetas.
+La pocion de fuerza aumenta daño cuerpo a cuerpo.
+La pocion de rapidez aumenta velocidad de movimiento.
+La pocion de curacion restaura vida de forma inmediata.
+La pocion de regeneracion cura con el tiempo.
+La pocion de resistencia al fuego es excelente para Nether y minas.
+La pocion de vision nocturna ayuda mucho en cuevas y oceanos.
+La pocion de respiracion acuática facilita monumentos y exploracion submarina.
+La pocion de caida lenta es muy util en End y estructuras altas.
+El polvo de redstone alarga duracion de muchas pociones.
+El polvo de glowstone aumenta potencia de algunas pociones.
+La polvora convierte muchas pociones en arrojadizas.
+El aliento de dragon convierte pociones arrojadizas en persistentes.
+No todas las pociones aceptan alargar y potenciar a la vez.
+La leche elimina muchos efectos de estado, tanto malos como buenos.
+Elegir bien encantamientos y pociones cambia mucho una pelea o expedicion.

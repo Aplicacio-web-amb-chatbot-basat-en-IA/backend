@@ -1,0 +1,3 @@
+El encantamiento Reparacion, tambien conocido como Mending, hace que la experiencia recogida repare automaticamente el objeto encantado en lugar de perderse toda en la barra del jugador.
+Para que funcione bien, el objeto con Reparacion debe estar equipado o en una posicion donde pueda recibir esa experiencia.
+Es uno de los mejores encantamientos del juego porque reduce mucho la necesidad de reparar o volver a fabricar equipo.

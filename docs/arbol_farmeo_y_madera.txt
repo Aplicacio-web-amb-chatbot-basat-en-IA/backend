@@ -1,0 +1,15 @@
+La madera es uno de los recursos mas importantes del inicio del juego.
+
+Los arboles se talan para obtener troncos, que luego se convierten en tablones, palos y muchos objetos basicos.
+
+Cada tipo de arbol tiene forma, altura y patrones de crecimiento diferentes.
+
+Algunos arboles grandes requieren mas espacio o disposiciones concretas para crecer.
+
+La harina de hueso puede acelerar el crecimiento de algunos tipos de arbol.
+
+Las hachas mejoran mucho la velocidad de tala.
+
+Las granjas de arboles pueden ser manuales o tecnicas segun el nivel de complejidad buscado.
+
+El carbon vegetal se obtiene facilmente usando troncos, lo que ayuda mucho al principio si no hay carbon mineral.

@@ -1,0 +1,25 @@
+Para domesticar un lobo hay que usar huesos sobre un lobo salvaje.
+Cuando el lobo se domestica aparecen corazones y recibe collar.
+Para dormir en Minecraft hace falta una cama y una zona segura.
+No se puede dormir si hay monstruos cerca.
+Los diamantes se buscan mejor en capas profundas, especialmente alrededor de Y -58 o Y -59 en versiones modernas.
+Una granja de trigo basica requiere tierra labrada, agua y semillas.
+Un creeper es un mob hostil que explota al acercarse al jugador.
+La mesa de crafteo sirve para fabricar la mayoria de objetos importantes del juego.
+Los encantamientos mejoran herramientas, armas y armaduras.
+La experiencia se consigue matando mobs, minando y comerciando entre otras acciones.
+Una granja de hierro moderna suele basarse en aldeanos, camas y golems de hierro.
+La mejor estrategia en cuevas suele ser avanzar con luz, comida y retirada clara.
+Una puerta automatica de redstone necesita una entrada, una señal y un mecanismo de apertura.
+Una granja de creepers busca generar creepers y dirigirlos a una zona de muerte o recogida.
+El sistema de aparicion de mobs depende de luz, distancia, bloque valido, bioma y limites globales.
+Optimizar aldeanos suele implicar mejores precios, profesiones utiles y organizacion de puestos.
+Un clasificador de objetos con redstone suele usar tolvas, comparadores, antorchas y cofres.
+La Ender Dragon deja de curarse cuando se destruyen los cristales del End.
+La vision nocturna es muy util para cuevas oscuras.
+La resistencia al fuego es muy util para Nether y lava.
+Los aldeanos bibliotecarios son clave para conseguir libros encantados.
+Los gatos ayudan a alejar creepers.
+Los huesos sirven para domesticar lobos y para hacer harina de hueso.
+Las perlas de ender sirven para localizar strongholds y para movilidad de emergencia.
+Los blaze rods son clave para progresar hacia el End por el polvo de blaze.

@@ -1,0 +1,35 @@
+Como funciona una gold farm del Nether. Estas granjas buscan concentrar mucho spawn de piglins zombificados y guiarlos a una zona de muerte o de remate. Suelen ser muy utiles porque producen oro, experiencia y permiten alimentar sistemas de trueque con piglins.
+---
+Como mejorar una gold farm. Lo importante es optimizar el area de spawn, la velocidad de transporte de mobs y la recogida de drops. Tambien ayuda integrar almacenamiento y, si se quiere, una zona cercana de bartering para aprovechar el oro producido.
+---
+Como funciona una granja de bartering con piglins. El sistema entrega lingotes de oro a piglins atrapados y recoge automaticamente los objetos que sueltan a cambio. Esto permite obtener cuarzo, cuerda, obsidiana, grava, perlas y otros recursos del Nether sin farmeo manual directo.
+---
+Como funciona una granja de wither skeletons. Se construye en una fortaleza del Nether y busca maximizar el spawn de wither skeletons frente a blazes y otros mobs. Es una granja muy tecnica, pero valiosa para obtener calaveras, carbon y progreso hacia el Wither.
+---
+Como se mejora una granja de wither skeletons. Lo mas importante suele ser limpiar o controlar la fortaleza, optimizar el punto de AFK y reducir spawns no deseados en el entorno. Sin ese trabajo previo, el rendimiento real puede quedar muy por debajo de lo esperado.
+---
+Como funciona una granja de blazes basada en spawner. El spawner genera blazes en un volumen fijo y el diseno tecnico se encarga de reunirlos con agua donde sea posible, canales especiales o caidas, y llevarlos a una camara de muerte. Se usa mucho para varas de blaze y experiencia.
+---
+Como funciona una granja de hoglins. Los hoglins pueden dirigirse usando hongos distorsionados y otras mecanicas del Nether hasta una zona de muerte. Son especialmente utiles porque proporcionan comida renovable de alta calidad junto con cuero.
+---
+Como funciona una granja de magma cubes. Estas granjas aprovechan zonas de spawn del Nether y mecanismos que canalizan los cubos hacia una camara de muerte. Son muy utiles para obtener crema de magma y pueden ser la base de sistemas de froglights mas avanzados.
+---
+Como funciona una granja de froglights. Se basa en hacer que ranas maten determinados magma cubes pequenos en un entorno controlado. Es una granja mas avanzada porque mezcla comportamiento de mobs, transporte y condiciones concretas de ejecucion.
+---
+Como funciona una granja de enderman en el End. Lo habitual es construirla lejos de otras superficies para concentrar casi todo el spawn en una plataforma concreta. Una vez canalizados, los enderman se eliminan automaticamente o quedan a un golpe para maximizar la experiencia del jugador.
+---
+Como se optimiza una granja de enderman. La posicion de AFK, el aislamiento del area y la forma de agrupar a los mobs son claves. Si la plataforma esta mal situada o hay demasiado espacio util alrededor, la eficiencia baja mucho.
+---
+Como funciona una granja de shulkers a nivel general. Estas granjas son mas avanzadas porque requieren transportar o reproducir shulkers en condiciones controladas y despues automatizar su eliminacion. Su valor principal suele ser la obtencion de shells para cofres de Ender y almacenamiento.
+---
+Como funciona una granja de guardianes. Aprovecha las mecanicas del ocean monument y necesita controlar una zona grande de agua para maximizar el spawn. A cambio produce prismarina, cristales y experiencia, siendo una de las granjas tecnicas mas representativas del juego avanzado.
+---
+Como funciona una raid farm. Una raid farm usa aldeas, pillagers y la mecanica de incursiones para generar oleadas de enemigos de forma encadenada. Es una de las granjas mas potentes porque produce totems, esmeraldas, redstone, glowstone y otros drops importantes.
+---
+Por que las raid farms se consideran avanzadas. Porque dependen de varias mecanicas del juego a la vez: aldeas, estado de bad omen, posicion del jugador, oleadas y control de spawn. Un pequeno error en cualquiera de esas partes puede inutilizar o desestabilizar todo el sistema.
+---
+Como elegir entre granjas del Nether, End o Overworld. Depende del recurso buscado. Si se necesita oro, cuarzo o drops de piglin, interesa el Nether. Si se busca experiencia masiva, el End suele ser ideal. Si se necesitan drops variados o recursos base, el Overworld da mas opciones.
+---
+Como preparar una base para soportar granjas avanzadas. Conviene asegurar almacenamiento grande, rutas seguras, equipo encantado y una logistica clara para combustible, reparacion y transporte de items. Las granjas avanzadas suelen rendir mejor cuando la base ya tiene una infraestructura tecnica previa.
+---
+Como integrar una granja avanzada en la progresion del jugador. Lo normal es construir primero granjas de recursos basicos y, una vez consolidada la base, pasar a hierro, XP, creepers o aldeanos. Despues ya compensa invertir en Nether, End, raid farms o sistemas mas complejos.

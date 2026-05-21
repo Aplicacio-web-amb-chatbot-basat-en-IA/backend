@@ -1,0 +1,3 @@
+El conduit es un bloque util para exploracion submarina porque da vision mejorada, respiracion y velocidad de minado bajo el agua cerca de su estructura activa.
+Para activarlo se coloca en el centro de una estructura hecha con bloques de prismarina, prismarine bricks, dark prismarine o sea lanterns.
+Un conduit completo tambien daña a mobs hostiles acuaticos cercanos, lo que ayuda mucho en oceanos y monumentos.

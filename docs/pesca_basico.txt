@@ -1,0 +1,13 @@
+La pesca se realiza con una cana de pescar lanzando el anzuelo al agua.
+
+Esperar la picada correcta permite obtener peces, basura o tesoros segun las condiciones y encantamientos.
+
+Luck of the Sea mejora la probabilidad de obtener botin valioso.
+
+Lure reduce el tiempo de espera medio hasta una picada.
+
+La pesca puede ser una fuente de comida al inicio y tambien una fuente secundaria de objetos utiles.
+
+En algunas versiones y situaciones se han usado granjas de pesca, aunque su eficiencia y validez dependen del diseño y version.
+
+Una cana encantada puede convertirse en una herramienta muy util para juego relajado o supervivencia temprana.

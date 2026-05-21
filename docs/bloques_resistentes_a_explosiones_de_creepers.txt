@@ -1,0 +1,3 @@
+Los bloques mas conocidos por resistir muy bien explosiones son la obsidiana, el agua como barrera, y en niveles altos tambien bloques como el ancla de reaparicion o ciertos bloques irrompibles de estructuras.
+Frente a creepers normales, la obsidiana es una de las opciones mas practicas si quieres proteger zonas concretas de la base.
+En cambio, bloques fragiles como tierra, arena, cristal o madera suelen sufrir mucho mas con las explosiones.

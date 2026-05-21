@@ -1,0 +1,21 @@
+Un creeper es un mob hostil de Minecraft Vanilla conocido por explotar cerca del jugador.
+
+Los creepers aparecen en la oscuridad, como otros muchos mobs hostiles del Overworld.
+
+No atacan con golpes ni proyectiles; su principal amenaza es la explosion.
+
+La explosion del creeper daña al jugador, a otras entidades y a muchos bloques del entorno.
+
+Un creeper puede arruinar bases, cultivos, cofres o caminos si se acerca demasiado antes de ser detectado.
+
+Los creepers no arden con la luz del sol como zombies o skeletons.
+
+Al morir suelen soltar polvora, que es util para fabricar TNT, fuegos artificiales y ciertas pociones splash.
+
+Si a un creeper le cae un rayo, se convierte en un creeper cargado con una explosion mucho mas potente.
+
+La forma mas segura de combatir creepers suele ser mantener distancia con arco o golpear y retroceder con cuidado.
+
+Un escudo ayuda a reducir mucho el peligro de una explosion frontal bien preparada.
+
+Iluminar bien la base y las cuevas cercanas reduce el numero de creepers que pueden aparecer.

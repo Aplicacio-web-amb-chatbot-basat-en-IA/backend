@@ -1,0 +1,3 @@
+El lodestone sirve para vincular una brujula a una posicion concreta.
+Esto es muy util para no perder bases, portales o rutas importantes en exploracion larga.
+Se fabrica con netherite y piedra tallada, asi que suele usarse en fases medias o tardias del juego.

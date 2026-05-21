@@ -1,0 +1,40 @@
+La madera es el recurso basico mas importante del inicio.
+La piedra mejora herramientas y hornos.
+El carbon sirve para antorchas y combustible.
+El carbon vegetal sustituye al carbon si aun no se ha encontrado mineral.
+El hierro es esencial para cubos, escudo, armadura y herramientas.
+El cobre tiene usos mas limitados, pero sirve para pararrayos, catalejos y construccion.
+El oro es util para Nether, manzanas doradas y algunos rails.
+El lapislazuli se usa en encantamientos y decoracion.
+La redstone se usa en mecanismos y automatizacion.
+El diamante se usa en equipo avanzado y mesa de encantamientos.
+La esmeralda se usa sobre todo en comercio con aldeanos.
+El cuarzo del Nether se usa en comparadores, observadores y decoracion.
+Los escombros ancestrales llevan a la netherita.
+La obsidiana se usa en portales, mesa de encantamientos y ender chest.
+El cuero se usa en libros y marcos.
+El papel se usa en mapas, libros y cohetes.
+La polvora se usa en TNT y cohetes.
+La cuerda se usa en arcos, ballestas, cañas y lana.
+La slimeball se usa en pistones pegajosos y otros objetos utiles.
+Las perlas de ender son clave para ojos de ender y movilidad.
+Las blaze rods son clave para pociones y progresion.
+Los caparazones de shulker son clave para cajas de shulker.
+La prismarina tiene valor para construccion y monumentos.
+Las esponjas secan agua en proyectos submarinos.
+La arena se usa para cristal, TNT y hormigon.
+La grava puede dar pedernal.
+El pedernal sirve para mechero y flechas.
+La arcilla sirve para ladrillos y decoracion.
+El basalto, la piedra negra y otros bloques del Nether amplian opciones de construccion.
+El hielo compactado y el blue ice son utiles para transporte rapido de items y barcos.
+El musgo ayuda a terraformacion y conversion de piedra con harina de hueso.
+El cristal deja pasar luz y evita spawns en algunas situaciones.
+La lana es importante para camas y para bloquear vibraciones sculk en algunos casos.
+Las hojas se usan en granjas y decoracion.
+La tierra y el cesped son base de agricultura y paisajismo.
+La tierra de almas y la arena de almas tienen usos del Nether y del Wither.
+El agua es un recurso mecanico ademas de supervivencia.
+La lava sirve como combustible y como parte de generadores y trampas.
+Los materiales renovables suelen tener mucho valor en partidas largas.
+Los materiales no renovables o limitados conviene usarlos con mas planificacion.

@@ -1,0 +1,7 @@
+El lapislazuli es necesario para usar la mesa de encantamientos.
+
+Sin lapislazuli, no se pueden aplicar encantamientos en la mesa aunque el jugador tenga niveles.
+
+Conseguir una reserva de lapislazuli es importante antes de hacer una tanda grande de encantamientos.
+
+Tambien puede obtenerse por mineria o en algunos casos por comercio y botin.

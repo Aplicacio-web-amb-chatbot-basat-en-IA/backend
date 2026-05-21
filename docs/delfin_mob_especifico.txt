@@ -1,0 +1,1 @@
+El delfin es un mob acuatico amigable que puede dar impulso al nadar y guiar al jugador hacia ciertos tesoros hundidos. Es muy util en exploracion marina y desplazamiento bajo el agua.

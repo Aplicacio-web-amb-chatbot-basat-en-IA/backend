@@ -1,0 +1,7 @@
+Las membranas fantasma se obtienen de phantoms.
+
+Sirven para reparar elytra y para fabricar pociones de caida lenta en la cadena correspondiente.
+
+La pocion de caida lenta es muy util en el End, en montañas y en construcciones altas.
+
+Evitar phantoms durmiendo con frecuencia puede hacer mas segura la partida, pero tambien reduce acceso a membranas si se necesitan.

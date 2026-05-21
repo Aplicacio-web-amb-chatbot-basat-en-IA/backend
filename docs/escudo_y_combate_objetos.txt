@@ -1,0 +1,33 @@
+El escudo bloquea muchos ataques frontales, incluidas flechas y parte de varios golpes cuerpo a cuerpo.
+
+Usar bien el escudo reduce mucho el peligro de skeletons y combates cerrados.
+
+Algunos ataques o situaciones pueden desactivar o superar el escudo, especialmente frente a determinadas armas o mobs concretos.
+
+El arco es una herramienta de combate a distancia muy versátil y usa flechas como munición.
+
+La ballesta dispara más lentamente, pero puede almacenar un disparo cargado y usar Multishot o Piercing.
+
+El tridente puede usarse como arma cuerpo a cuerpo o lanzarse, y con Riptide sirve también para movilidad.
+
+Las flechas especiales, como las espectrales o con efectos, amplían opciones de combate según recursos disponibles.
+
+Las manzanas doradas son recursos muy valiosos en combate por su curación y efectos temporales.
+
+Las pociones de fuerza, regeneración, curación, resistencia al fuego o caída lenta son muy útiles en enfrentamientos difíciles.
+
+Los cubos de agua son objetos defensivos muy importantes para apagar fuego, reducir daño por caída o controlar terreno.
+
+La leche elimina muchos efectos de estado, aunque también quita efectos beneficiosos.
+
+Combinar arma, escudo, armadura, comida y pociones suele ser más importante que depender solo de un objeto.
+
+El escudo es de los objetos defensivos mas valiosos del juego temprano porque se fabrica barato y bloquea mucho daño.
+
+Un cubo de agua permite apagar fuego, bajar montañas con mas seguridad y salvarse de algunas caidas.
+
+La leche es muy util para eliminar efectos negativos como veneno, wither o mining fatigue, aunque quita tambien efectos beneficiosos.
+
+Las manzanas doradas son excelentes para situaciones de emergencia, jefes o exploracion peligrosa.
+
+Las flechas espectrales y con efectos amplian opciones ofensivas cuando se dispone de recursos avanzados.

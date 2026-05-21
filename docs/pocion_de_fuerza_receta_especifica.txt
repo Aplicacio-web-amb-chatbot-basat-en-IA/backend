@@ -1,0 +1,3 @@
+La pocion de fuerza se prepara usando una awkward potion y blaze powder en el soporte para pociones.
+Primero necesitas hacer una awkward potion con nether wart, y despues aplicar blaze powder para convertirla en pocion de fuerza.
+La pocion de fuerza aumenta el dano cuerpo a cuerpo durante un tiempo limitado.

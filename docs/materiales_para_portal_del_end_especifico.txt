@@ -1,0 +1,3 @@
+El portal del End no se fabrica desde cero como un portal del Nether, porque ya aparece generado dentro de una stronghold.
+Lo que necesitas para activarlo normalmente son ojos de ender, uno para cada hueco vacio del marco si el portal no esta completo.
+Por eso, los materiales clave para usar el portal del End son los ojos de ender y el acceso a la stronghold donde aparece la estructura.

@@ -1,0 +1,7 @@
+Feather Falling reduce el dano por caida y es uno de los encantamientos mas practicos de todo Minecraft. Evita muchas muertes en cuevas, montanas, End, parkour improvisado y exploracion vertical.
+---
+Depth Strider mejora el movimiento bajo el agua y hace la exploracion marina mucho mas comoda. Se aplica a botas y suele ser la opcion preferida cuando se quiere moverse bien en oceano o construcciones submarinas.
+---
+Frost Walker convierte temporalmente el agua en hielo al caminar sobre ella. Sirve para cruzar rios y lagos sin barco, aunque normalmente compite con Depth Strider como eleccion principal para botas.
+---
+Soul Speed aumenta la velocidad al caminar sobre arena de almas y tierra de almas. Es un encantamiento muy centrado en el Nether y brilla sobre todo en rutas o zonas extensas de ese terreno.

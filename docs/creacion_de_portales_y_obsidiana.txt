@@ -1,0 +1,9 @@
+La obsidiana se crea normalmente cuando el agua entra en contacto con un bloque fuente de lava.
+
+No se fabrica en la mesa de crafteo.
+
+Para recoger obsidiana suele hacer falta un pico de diamante o netherita.
+
+La obsidiana es necesaria para portales del Nether, mesas de encantamientos y otros bloques especiales.
+
+El cubo de agua es una herramienta muy importante para crear obsidiana de forma segura en el Overworld.

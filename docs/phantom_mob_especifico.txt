@@ -1,0 +1,1 @@
+El phantom es un mob volador hostil que aparece si el jugador pasa mucho tiempo sin dormir. Suelta membranas utiles y actua como presion directa sobre la mecanica del sueño.

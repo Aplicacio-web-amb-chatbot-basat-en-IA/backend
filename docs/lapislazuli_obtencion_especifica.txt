@@ -1,0 +1,4 @@
+El lapislazuli se consigue minando mineral de lapislazuli en capas subterraneas del Overworld.
+Para recogerlo correctamente hace falta al menos un pico de piedra o superior.
+El lapislazuli es importante porque se usa en la mesa de encantamientos.
+

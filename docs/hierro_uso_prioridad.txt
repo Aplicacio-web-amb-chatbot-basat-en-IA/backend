@@ -1,0 +1,9 @@
+El hierro es uno de los recursos mas importantes del juego medio temprano.
+
+Se usa para cubos, escudos, tijeras, armadura, herramientas, railes y muchos componentes.
+
+En una partida normal, gastar hierro en un cubo y en un escudo suele ser una prioridad muy alta.
+
+Tambien es clave para automatizacion porque interviene en tolvas, railes, yunque y otros bloques.
+
+Una granja de hierro cambia radicalmente la disponibilidad de este recurso.

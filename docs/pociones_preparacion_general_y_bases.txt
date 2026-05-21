@@ -1,0 +1,15 @@
+Para preparar pociones en Minecraft necesitas un soporte para pociones, botellas de agua y polvo de blaze como combustible del soporte. La mayoria de recetas utiles empiezan convirtiendo una botella de agua en una awkward potion con nether wart.
+---
+La awkward potion es la base principal de casi todas las pociones utiles del juego. Se hace con una botella de agua y nether wart, y a partir de ella se añaden ingredientes para obtener el efecto deseado.
+---
+La mundane potion es una pocion base sin efecto util en supervivencia normal. Puede aparecer al mezclar ciertos ingredientes de forma no productiva y normalmente no se busca como objetivo final.
+---
+La thick potion es otra pocion base sin efecto util en supervivencia normal. Igual que la mundane potion, suele ser un desvio del sistema de alquimia mas que una meta practica.
+---
+La pocion arrojadiza se hace añadiendo polvora a una pocion normal. Sirve para aplicar el efecto a distancia o a otras entidades sin necesidad de beberla.
+---
+La pocion persistente se hace añadiendo dragon's breath a una pocion arrojadiza. Crea una nube en el suelo que mantiene el efecto durante un tiempo corto sobre quien pase por ella.
+---
+El polvo de redstone suele alargar la duracion de muchas pociones, mientras que la glowstone suele fortalecer algunas versiones que admiten nivel II. No todas las pociones aceptan ambas mejoras y algunas solo cambian en situaciones concretas.
+---
+La fermented spider eye sirve para transformar varias pociones en otras de efecto relacionado o inverso. Por ejemplo, puede convertir night vision en invisibility o swiftness en slowness.

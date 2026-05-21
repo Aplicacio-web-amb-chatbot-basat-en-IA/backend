@@ -1,0 +1,11 @@
+Por que una granja de wither skeletons suele ser tan tecnica. Porque depende de una fortaleza del Nether, de condiciones de spawn relativamente sensibles y de un trabajo grande de preparacion del entorno. Si no se controla bien el area, spawnean demasiados mobs no deseados y el rendimiento cae mucho.
+---
+Como optimizar una granja de wither skeletons. Conviene limpiar bien la fortaleza, reducir spawns alternativos y asegurar que los wither skeletons recorren rapido la ruta hacia la muerte o el remate. La clave casi nunca es solo la camara final, sino el control de todo el entorno.
+---
+Que errores son comunes en una granja de wither skeletons. Son frecuentes los puntos de spawn competidores, la falta de slabs o control del terreno y las rutas donde se mezclan blazes u otros mobs del Nether. Si el filtrado es malo, se pierde muchisima eficiencia.
+---
+Cuando merece la pena construir una granja de wither skeletons. Compensa especialmente si se buscan calaveras para el Wither, carbon renovable o una granja tecnica avanzada del Nether. Para un uso casual, puede resultar demasiado compleja si no se va a explotar de verdad.
+---
+Como explicar una granja de wither skeletons en una defensa. Conviene dividirla en preparacion de la fortaleza, control de spawn, canalizacion de mobs y recogida de drops. Asi se entiende que el reto principal no es solo matar esqueletos, sino dominar la mecanica de aparicion en el Nether.
+---
+Como integrar una granja de wither skeletons con otras granjas del Nether. Puede convivir con gold farms, sistemas de cuarzo o bartering, pero conviene mantener separadas las zonas de AFK y los entornos tecnicos. En el Nether, mezclar demasiados sistemas cerca suele complicar el control del spawn.

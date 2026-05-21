@@ -1,0 +1,3 @@
+Para llegar al Nether necesitas construir un portal del Nether con obsidiana y activarlo con fuego usando un mechero o una fuente de fuego equivalente.
+La forma clasica es montar un marco rectangular de obsidiana y encender la parte interior para abrir el portal.
+Antes de entrar, conviene llevar comida, bloques, armadura y una pieza de oro o resistencia al fuego si ya la tienes.

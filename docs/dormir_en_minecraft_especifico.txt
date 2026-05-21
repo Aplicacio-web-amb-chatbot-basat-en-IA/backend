@@ -1,0 +1,5 @@
+Para dormir en Minecraft normalmente necesitas una cama colocada en una zona segura del Overworld.
+Puedes usar la cama de noche o durante una tormenta.
+No puedes dormir si hay monstruos hostiles cerca.
+Dormir adelanta la noche y fija tu punto de respawn en esa cama.
+

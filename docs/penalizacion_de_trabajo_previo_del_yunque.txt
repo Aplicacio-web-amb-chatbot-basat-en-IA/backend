@@ -1,0 +1,18 @@
+El yunque permite reparar, combinar y renombrar objetos, pero cada objeto va acumulando un coste interno de trabajo previo.
+
+---
+
+Si combinas encantamientos en mal orden, el coste final puede crecer demasiado y hacer que una operacion deje de ser viable.
+
+---
+
+Por eso conviene planificar bien el orden de combinacion de libros y objetos, especialmente en herramientas o armaduras de alto valor.
+
+---
+
+Muchos jugadores cometen errores al encantar porque se centran solo en conseguir libros buenos y no en el orden correcto de aplicacion.
+
+---
+
+Entender la penalizacion del yunque mejora mucho la eficiencia de encantamientos avanzados y evita desperdiciar niveles.
+

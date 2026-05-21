@@ -1,0 +1,13 @@
+Las abejas viven en nidos de abejas o colmenas y son importantes para miel y panales.
+
+La miel se recoge con botellas cuando el nido o colmena tiene suficiente nivel.
+
+Los panales se recogen con tijeras.
+
+Usar una hoguera debajo del nido o colmena calma a las abejas y evita que se enfaden al recoger recursos.
+
+La miel sirve para bloques de miel, botellas de miel y ciertos usos alimenticios o tecnicos.
+
+Los bloques de miel son muy utiles en algunas maquinas de redstone por su interaccion con pistones y empuje.
+
+Criar abejas con flores y tener muchas colmenas permite una granja de miel estable.

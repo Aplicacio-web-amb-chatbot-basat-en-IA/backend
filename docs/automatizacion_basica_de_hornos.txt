@@ -1,0 +1,11 @@
+Los hornos pueden automatizarse usando tolvas.
+
+Una tolva superior puede alimentar la entrada de objetos.
+
+Una tolva lateral o trasera puede alimentar el combustible segun el diseño.
+
+Una tolva inferior puede recoger automaticamente el resultado.
+
+Este sistema permite cocinar comida o fundir minerales sin intervencion constante del jugador.
+
+Es una de las automatizaciones mas faciles y utiles del juego medio.

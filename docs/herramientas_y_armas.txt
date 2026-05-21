@@ -1,0 +1,83 @@
+Las herramientas principales son pico, pala, hacha, azada y tijeras.
+
+El pico sirve para extraer piedra, minerales y muchos bloques duros.
+
+La pala sirve para tierra, arena, grava, nieve y materiales blandos similares.
+
+El hacha sirve para madera, troncos, tablones y también puede usarse como arma con daño respetable.
+
+La azada se usa para labrar tierra y trabajar ciertos bloques orgánicos.
+
+Las tijeras sirven para obtener lana, hojas, telarañas, hierba y otros bloques o recursos específicos.
+
+Los materiales habituales de progresión son madera, piedra, hierro, diamante y netherita.
+
+Las herramientas de mejor material suelen ofrecer más durabilidad y mayor eficiencia.
+
+La madera es solo una solución inicial y se reemplaza muy pronto por piedra.
+
+El hierro marca un salto importante porque permite minería más seria, cubos y equipo fiable.
+
+El diamante es una base fuerte para equipo avanzado y encantamientos importantes.
+
+La netherita mejora el equipo de diamante y ofrece mayor durabilidad y resistencia.
+
+Las armas principales son espada, arco, ballesta y tridente.
+
+La espada es versátil para combate cuerpo a cuerpo y tiene buen control general.
+
+El arco destaca en combate a distancia con flechas.
+
+La ballesta ofrece estilo de disparo diferente y puede usar encantamientos como Multishot o Piercing.
+
+El tridente es un arma especial que combina combate cuerpo a cuerpo, lanzamiento y movilidad con encantamientos concretos.
+
+Para empezar una partida, una secuencia habitual es fabricar hacha o pico de madera, pasar a piedra y después priorizar herramientas de hierro.
+
+El pico es la herramienta más importante para progresar porque desbloquea minerales y materiales mejores.
+
+Un pico de piedra ya permite conseguir hierro y lapislázuli en condiciones normales.
+
+El hierro suele ser el material más rentable en relación entre coste y utilidad durante buena parte de la partida.
+
+El diamante se reserva a menudo para pico, mesa de encantamientos y equipo principal.
+
+La netherita no se fabrica desde cero, sino que mejora piezas de diamante ya existentes.
+
+La espada ofrece mejor combate sostenido y golpe de barrido en Java, mientras que el hacha destaca por daño por golpe y utilidad sobre madera.
+
+El arco es muy útil para creepers, ghasts, blazes y combates donde mantener distancia reduce riesgos.
+
+La madera sirve para arrancar, pero no deberia mantenerse mucho tiempo como material principal de herramientas.
+
+La piedra ofrece un salto temprano muy importante porque es barata y claramente mejor que la madera.
+
+El hierro es el material estandar para una fase media estable porque equilibra coste, durabilidad y acceso.
+
+El oro tiene poca durabilidad como herramienta o arma, aunque destaca por velocidad de minado o facilidad de encantamiento en algunos casos.
+
+El diamante permite equipo duradero y es la base previa a netherita.
+
+La netherita no se fabrica como herramienta independiente desde cero, sino que mejora una pieza de diamante existente en la mesa de herreria.
+
+Para mineria general, el pico suele recibir la prioridad principal de mejora y encantamiento.
+
+La pala es importante en proyectos de tierra, nieve, arena y grava, pero suele tener menos prioridad que pico o hacha.
+
+El hacha es una herramienta muy fuerte en madera y tambien un arma util por su daño por golpe.
+
+La azada gana importancia cuando el jugador trabaja mucho con granjas o ciertos bloques del Nether y del Overworld.
+
+Las tijeras son imprescindibles para obtener lana sin matar ovejas, hojas, panales y telarañas en situaciones adecuadas.
+
+El arco es una de las mejores armas para combate seguro a distancia en supervivencia.
+
+La ballesta permite almacenamiento de disparo cargado y estilos concretos con Multishot o Piercing.
+
+El tridente es raro de conseguir porque no se fabrica normalmente y depende de drops de drowned.
+
+Elegir bien los encantamientos cambia mucho el valor de cada arma o herramienta.
+
+Una combinacion tipica muy fuerte para pico principal es Efficiency, Unbreaking, Fortune o Silk Touch y Mending.
+
+Una espada suele aprovechar Sharpness, Looting, Unbreaking y Mending, mientras que un arco suele buscar Power, Unbreaking y opciones como Infinity o Mending segun estrategia.

@@ -1,0 +1,9 @@
+Los zombies tienen varias variantes segun el entorno.
+
+Los drowned son zombis acuaticos.
+
+Los husks son zombis del desierto.
+
+Los zombis normales pueden reforzarse o convertir aldeanos en aldeanos zombis segun la dificultad y circunstancias.
+
+Conocer estas variantes ayuda a entender mejor drops, peligros y usos de granja.

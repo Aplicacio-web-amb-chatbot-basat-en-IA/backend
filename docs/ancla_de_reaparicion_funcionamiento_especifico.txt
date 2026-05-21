@@ -1,0 +1,3 @@
+La respawn anchor sirve para fijar tu punto de respawn en el Nether.
+Se fabrica con crying obsidian y glowstone, y se recarga usando bloques de glowstone.
+Si intentas usar una respawn anchor en el Overworld o en el End, explota de forma parecida a una cama fuera del Overworld.

@@ -1,0 +1,13 @@
+El combate en Minecraft combina posicionamiento, equipo, timing y conocimiento del enemigo.
+
+Un buen arma, armadura adecuada, comida y escudo suelen marcar mas diferencia que atacar sin plan.
+
+Mantener distancia frente a creepers, ghasts o blazes reduce mucho el riesgo.
+
+El escudo es excelente contra skeletons y muchos ataques frontales.
+
+La comida y la saturacion influyen en la capacidad de regenerar vida entre combates.
+
+Los encantamientos como Protection, Sharpness, Power o Mending mejoran mucho la supervivencia.
+
+Conocer el comportamiento de cada mob permite decidir mejor si conviene acercarse, cubrirse o huir.

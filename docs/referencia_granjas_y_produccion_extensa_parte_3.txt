@@ -1,0 +1,23 @@
+Como funciona una granja de hierro de forma basica. Las granjas de hierro suelen necesitar aldeanos, camas y un sistema para forzar el spawn de golems de hierro en una zona concreta. Despues los golems se empujan hacia lava, caida u otro mecanismo de muerte y los drops se recogen con tolvas.
+---
+Como hacer una granja de aldeanos o breeder. La cria de aldeanos necesita camas validas, comida suficiente y espacio donde puedan aparecer bebes. Si el sistema esta bien aislado, puede servir como base para trading halls, granjas de hierro u otras automatizaciones centradas en aldeanos.
+---
+Como automatizar cultivos como trigo, zanahorias o patatas. En una version simple se puede depender del jugador o de aldeanos agricultores, mientras que una version mas tecnica usa agua, pistones y recogida posterior. El rendimiento mejora si los cultivos estan bien hidratados y con luz adecuada.
+---
+Como funciona una granja de caña de azucar o bambu. Estas granjas suelen usar observadores para detectar crecimiento y pistones para romper las plantas maduras. Luego se recogen con tolvas o vagonetas con tolva, lo que permite producir papel, cohetes, andamios o combustible renovable.
+---
+Como hacer una granja de mobs hostiles general. Se basa en plataformas oscuras, distancias correctas de spawn y un sistema que empuje a los mobs a una caida o camara de muerte. Iluminar cuevas cercanas y controlar el mob cap es importante para que el rendimiento sea bueno.
+---
+Como funciona una granja de creepers en comparacion con una granja hostil general. Las granjas de creepers buscan filtrar otros mobs mediante altura limitada, trampillas y el uso de gatos para asustarlos. Esto hace que la produccion se centre en polvora, que es uno de los recursos mas utiles para cohetes y TNT.
+---
+Como funciona una granja de slimes. El metodo clasico es usar slime chunks o pantanos en las condiciones adecuadas. Luego se despeja espacio, se mejoran plataformas y se guian los slimes a una zona de muerte para recoger bolas de slime.
+---
+Como obtener miel y panales de forma estable. Una granja de abejas necesita colmenas o nidos, flores cercanas y acceso seguro para cosechar sin enfadar a las abejas. Colocar una hoguera bajo la colmena reduce mucho el riesgo al recoger miel o panales.
+---
+Como mejorar una granja de animales. Conviene separar especies, automatizar la recogida donde sea posible y dejar suficiente espacio de reproduccion o paso. Para vacas, ovejas, pollos o cerdos suele compensar combinar produccion de comida con recursos secundarios como cuero, lana o plumas.
+---
+Como hacer una granja de arboles o de madera mas eficiente. Aunque las granjas totalmente automaticas son complejas, una granja semiautomatica con buen espacio, saplings organizados y recoleccion rapida ya mejora mucho la produccion. El uso de hueso harina o diseños por tipo de arbol cambia bastante segun la especie.
+---
+Como producir combustible y experiencia a la vez. Algunos sistemas usan hornos, hornos altos o ahumadores con materiales renovables como bambu, kelp seco o carbon vegetal. Si se dejan items cocinandose y se extraen en bloque, se puede acumular experiencia para recogerla despues.
+---
+Como planificar una base de granjas sin que todo quede desordenado. Lo mejor es colocar juntas las granjas relacionadas, dejar almacenamiento cerca y separar zonas de animales, cultivos y mobs. Tambien ayuda pensar en caminos, iluminacion y futuras ampliaciones para no tener que rehacer todo al crecer la base.

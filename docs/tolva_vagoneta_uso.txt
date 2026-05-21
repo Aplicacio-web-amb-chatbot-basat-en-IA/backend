@@ -1,0 +1,7 @@
+Los minecarts con tolva permiten recoger items rapidamente sobre railes o por debajo de bloques concretos.
+
+Son muy utiles en granjas donde una tolva normal no tiene suficiente alcance o velocidad.
+
+Pueden combinarse con railes activadores y sistemas de descarga automatica.
+
+En proyectos tecnicos o de granja avanzada, suelen superar a las tolvas fijas en capacidad de recogida puntual.

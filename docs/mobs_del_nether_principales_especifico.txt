@@ -1,0 +1,2 @@
+En el Nether aparecen mobs como ghasts, blazes, magma cubes, piglins, piglin brutes, hoglins, zombified piglins, striders y wither skeletons.
+No todos aparecen en las mismas zonas: por ejemplo, los blazes y wither skeletons se asocian sobre todo a fortalezas del Nether, mientras que piglins y hoglins son comunes en crimson forests y bastions.

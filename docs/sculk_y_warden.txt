@@ -1,0 +1,11 @@
+El sculk es un conjunto de bloques asociado al Deep Dark.
+
+Los sensores de sculk detectan vibraciones y pueden activar mecanismos de redstone.
+
+Los shriekers de sculk pueden aumentar el peligro del entorno y contribuir a la aparicion del Warden.
+
+El Warden es uno de los enemigos mas peligrosos del juego.
+
+No conviene enfrentarlo directamente sin necesidad, ya que esta diseñado mas como amenaza a evitar que como combate normal.
+
+Moverse con cuidado, reducir ruido y evitar vibraciones es clave en zonas de Deep Dark.

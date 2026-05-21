@@ -1,0 +1,25 @@
+Los creepers sueltan polvora.
+
+Los skeletons sueltan huesos, flechas y a veces arcos.
+
+Los zombies suelen soltar carne podrida y a veces hierro, zanahorias o patatas.
+
+Las spiders sueltan cuerda y a veces ojos de araña.
+
+Las witches pueden soltar ingredientes de pociones y redstone.
+
+Los slimes sueltan bolas de slime.
+
+Los blazes sueltan blaze rods.
+
+Los wither skeletons pueden soltar calaveras de wither skeleton, ademas de carbon o huesos.
+
+Los endermen sueltan perlas de ender.
+
+Las vacas sueltan cuero y carne.
+
+Las ovejas dan lana y carne si se sacrifican, o lana si se esquilan.
+
+Los pollos dan plumas, carne y huevos con el tiempo.
+
+Conocer los drops ayuda mucho a planificar granjas, combate y progresion.

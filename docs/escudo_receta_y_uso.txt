@@ -1,0 +1,5 @@
+El escudo se fabrica con seis tablones y un lingote de hierro.
+Los tablones forman una especie de Y ancha en la mesa de crafteo y el lingote de hierro va en la casilla superior central.
+La receta produce un escudo.
+El escudo sirve para bloquear muchos ataques cuerpo a cuerpo y proyectiles.
+Es una de las mejores defensas del juego temprano, especialmente contra esqueletos y creepers si se usa bien.

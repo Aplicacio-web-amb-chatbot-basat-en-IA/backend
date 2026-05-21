@@ -1,0 +1,11 @@
+El totem de inmortalidad evita una muerte si el jugador lo lleva en la mano principal o secundaria.
+
+Al activarse, consume el totem y deja al jugador vivo con algo de salud y efectos temporales.
+
+Es uno de los objetos defensivos mas poderosos del juego.
+
+Normalmente se obtiene de evokers.
+
+Los evokers aparecen en mansiones del bosque o raids.
+
+Llevar un totem en situaciones peligrosas reduce mucho el riesgo de perder todo por una muerte inesperada.

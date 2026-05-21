@@ -1,0 +1,18 @@
+Los slimes aparecen en ciertas condiciones, sobre todo en slime chunks o en pantanos bajo situaciones adecuadas. Son importantes porque sueltan bolas de slime.
+
+---
+
+Las bolas de slime se usan para pistones pegajosos, bloques de slime, correas y otros sistemas utiles de redstone o movilidad.
+
+---
+
+Un slime grande se divide en slimes mas pequeños al morir. Esto hace que el combate cambie segun el tamaño y el espacio disponible.
+
+---
+
+Las granjas de slime suelen requerir bastante excavacion o una buena eleccion de localizacion, pero compensan si quieres automatizacion mas avanzada.
+
+---
+
+Conseguir slime de forma estable abre muchas opciones tecnicas en redstone y construccion.
+

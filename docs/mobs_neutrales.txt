@@ -1,0 +1,23 @@
+Los endermen son neutrales mientras no se les mire directamente a los ojos o se les ataque.
+
+Los piglins normales son neutrales si el jugador lleva al menos una pieza de armadura de oro, pero hostiles en otras condiciones.
+
+Los lobos domesticados pueden ayudar en combate, mientras que los salvajes se vuelven hostiles si se les ataca.
+
+Las abejas son neutrales hasta que se provoca su colmena o se las golpea.
+
+Los iron golems suelen proteger aldeanos y atacan a amenazas o a jugadores con muy mala reputación en la aldea.
+
+Las llamas de comerciante pueden defenderse escupiendo si se las provoca.
+
+Los zombified piglins suelen ser neutrales hasta que uno es atacado, momento en que pueden responder en grupo.
+
+Muchos mobs neutrales cambian de comportamiento según la acción del jugador o el contexto del entorno.
+
+Los endermen sueltan perlas de ender, esenciales para ojos de ender y desplazamiento.
+
+Los piglins normales permiten trueque con lingotes de oro, lo que puede aportar obsidiana, cuarzo, cuerda, perlas y otros recursos segun la tabla de botin.
+
+Los zombified piglins suelen ser seguros si no se les ataca, pero pueden volverse una gran amenaza en grupo.
+
+Los iron golems son aliados muy fuertes de una aldea, pero peligrosos si el jugador provoca mala reputacion o los golpea.

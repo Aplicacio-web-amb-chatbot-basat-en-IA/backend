@@ -1,0 +1,19 @@
+La aldea es una de las estructuras mas importantes del Overworld porque ofrece aldeanos, camas, cultivos, cofres y acceso temprano a comercio. Segun el bioma, cambia mucho su estilo visual y parte del botin o distribucion.
+---
+El outpost de saqueadores es una estructura hostil donde aparecen pillagers y a veces cofres utiles. Es importante porque se relaciona con raids y con el efecto Bad Omen.
+---
+La mansion del bosque es una gran estructura rara del Overworld que contiene vindicators, evokers y botin variado. Su principal interes esta en el desafio, el totem de inmortalidad y el valor de exploracion.
+---
+La pyramid del desierto o desert temple es una estructura clasica con botin y una trampa de TNT en la camara inferior. Suele ser muy util en juego temprano si se saquea con cuidado.
+---
+El pozo del desierto es una estructura pequena y simple del desierto. Su valor principal es visual o de curiosidad, no tanto de botin fuerte.
+---
+El templo de la jungla o jungle temple es una estructura con trampas, palancas y cofres. Tiene valor por botin temprano y por su identidad de exploracion clasica.
+---
+La choza de bruja o swamp hut es una estructura pequena de pantano asociada a witches y, en algunos casos, gatos negros. Tiene interes especial para granjas de brujas o por curiosidad de exploracion.
+---
+El iglu es una estructura de bioma frio que puede incluir una parte subterranea en algunos casos. Su utilidad principal es el botin modesto y la referencia a la mecanica de curar aldeanos zombis.
+---
+El portal en ruinas es una estructura incompleta de portal del Nether que puede aparecer en varias dimensiones. Suele dar obsidiana, oro y una pista temprana hacia progresion nether.
+---
+Las ruinas del sendero o trail ruins son estructuras parcialmente enterradas y ligadas a arqueologia. Destacan por suspicious gravel, objetos decorativos y una exploracion mas lenta y cuidadosa.

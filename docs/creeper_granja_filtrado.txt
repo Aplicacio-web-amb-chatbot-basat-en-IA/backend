@@ -1,0 +1,18 @@
+Una granja de creepers busca favorecer que aparezcan creepers y dificultar la aparicion de otros mobs hostiles. Esto suele lograrse manipulando altura, hitbox y comportamiento.
+
+---
+
+Las trampillas y gatos son elementos clasicos en muchas granjas de creepers. Los gatos asustan a los creepers y ayudan a guiarlos hacia una zona de caida o muerte.
+
+---
+
+La iluminacion exterior y de cuevas cercanas es muy importante. Si otros mobs aparecen fuera de la granja, la eficiencia baja mucho.
+
+---
+
+Las tolvas y cofres se usan al final del sistema para recoger polvora de forma automatica. Si se busca experiencia, el diseño cambia respecto a una granja solo de drops.
+
+---
+
+No todas las granjas de creepers son iguales. Algunas priorizan simplicidad, otras produccion maxima y otras facilidad de construccion en supervivencia.
+

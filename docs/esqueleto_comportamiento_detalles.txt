@@ -1,0 +1,18 @@
+Los esqueletos son mobs hostiles a distancia. Atacan con arco y suelen ser mas peligrosos que los zombies en terreno abierto o en cuevas largas.
+
+---
+
+La mejor forma temprana de combatir esqueletos es usar escudo para bloquear flechas y acercarte en zigzag. En pasillos, cubrirte tras una esquina reduce mucho el daño recibido.
+
+---
+
+Los esqueletos sueltan huesos y flechas. Los huesos sirven para domesticar lobos o fabricar polvo de hueso, y las flechas ayudan a mantener un suministro inicial para el arco.
+
+---
+
+En cuevas o de noche, los esqueletos pueden empujar con el daño de sus flechas y hacerte caer a lava, barrancos o grupos de mobs. Por eso son especialmente peligrosos en exploracion.
+
+---
+
+Un esqueleto que cae en polvo de nieve suficiente puede convertirse en stray. Los strays disparan flechas con lentitud y son mas molestos en biomas frios.
+

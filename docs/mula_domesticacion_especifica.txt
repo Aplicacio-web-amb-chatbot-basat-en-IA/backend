@@ -1,0 +1,5 @@
+La mula se domestica igual que caballo y burro: hay que montarla varias veces hasta que aparezcan corazones y deje de expulsar al jugador. No se consigue por cria normal de dos mulas, sino cruzando un caballo con un burro.
+---
+Una vez domesticada, la mula puede llevar silla y cofre, lo que la convierte en una buena opcion de transporte y almacenamiento. Es especialmente util si se busca un animal de carga algo mas practico que un caballo normal.
+---
+La mula no puede reproducirse de forma normal y tampoco usa armadura de caballo. Su valor esta sobre todo en combinar movilidad terrestre con inventario adicional.

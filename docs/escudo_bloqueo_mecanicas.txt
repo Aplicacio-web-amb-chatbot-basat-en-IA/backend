@@ -1,0 +1,15 @@
+El escudo bloquea muchos ataques que llegan desde la parte frontal del jugador.
+
+Puede detener flechas, muchos golpes cuerpo a cuerpo y parte de varias explosiones.
+
+Usar el escudo ralentiza al jugador mientras mantiene la posicion de bloqueo.
+
+El escudo pierde durabilidad al bloquear ataques.
+
+No todo el daño del juego se puede bloquear con escudo, por ejemplo algunas fuentes como caidas o ahogo no dependen de esta mecanica.
+
+En combate contra skeletons o creepers el escudo es especialmente valioso.
+
+Algunas armas o situaciones pueden dejar al jugador vulnerable si usa mal el tiempo del bloqueo.
+
+Tener escudo en el juego temprano suele ser una de las mejores mejoras defensivas por su bajo coste.

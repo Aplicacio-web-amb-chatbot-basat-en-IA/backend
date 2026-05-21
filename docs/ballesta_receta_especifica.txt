@@ -1,0 +1,3 @@
+La ballesta se fabrica con tres palos, dos cuerdas, un lingote de hierro y un tripwire hook.
+Los materiales se colocan con los palos formando la estructura central, las cuerdas a los lados, el hierro en el centro y el tripwire hook debajo.
+La receta produce una ballesta.

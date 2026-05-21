@@ -1,0 +1,23 @@
+Sharpness aumenta el daño general contra la mayoría de enemigos.
+
+Smite aumenta el daño específicamente contra undead como zombies, skeletons, wither skeletons, drowned, phantoms y zoglins.
+
+Bane of Arthropods aumenta el daño contra arañas, cave spiders, silverfish, endermites y abejas.
+
+Sharpness, Smite y Bane of Arthropods son incompatibles entre sí en la misma arma de forma normal.
+
+Looting aumenta la cantidad de drops y mejora algunas probabilidades especiales de botín.
+
+Fire Aspect prende fuego al objetivo y añade daño indirecto por quemadura en muchas situaciones.
+
+Knockback empuja al objetivo más lejos al golpearlo.
+
+Sweeping Edge aumenta el daño del golpe de barrido con espada en Java Edition.
+
+Unbreaking y Mending son muy útiles en armas de uso frecuente.
+
+En supervivencia general, Sharpness suele ser la opción más versátil.
+
+Smite es muy fuerte para granjas o combates centrados en mobs undead.
+
+Looting es uno de los encantamientos más importantes para conseguir recursos de mobs de forma eficiente.

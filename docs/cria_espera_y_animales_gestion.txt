@@ -1,0 +1,18 @@
+Los animales necesitan comida adecuada para entrar en modo de cria. Despues de reproducirse, existe un tiempo de espera antes de poder volver a criarlos.
+
+---
+
+Gestionar bien ese ritmo permite mantener una produccion constante sin agotar alimento inutilmente ni saturar espacios pequenos.
+
+---
+
+Cada especie usa alimentos concretos, por lo que conviene vincular tus granjas de cultivos con las especies que quieres criar con frecuencia.
+
+---
+
+La cria controlada ayuda a asegurar comida, cuero, lana, transporte o materiales secundarios segun el animal que priorices.
+
+---
+
+No se trata solo de tener muchos animales, sino de gestionarlos con espacio, seguridad y una cadena de alimento razonable.
+

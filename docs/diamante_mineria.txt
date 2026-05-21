@@ -1,0 +1,21 @@
+Los diamantes se encuentran en las capas profundas del Overworld.
+
+En versiones modernas de Minecraft Java, una de las zonas mas recomendables para buscar diamantes es alrededor de Y -58 o Y -59.
+
+Los diamantes aparecen incrustados en bloques de deepslate o piedra profunda a esas alturas.
+
+Para extraer diamantes hace falta un pico de hierro o superior.
+
+Un pico de piedra no sirve para recoger diamantes.
+
+Explorar cuevas profundas puede ser util, aunque tambien aumenta el riesgo de mobs, lava y caidas.
+
+Otra estrategia comun es excavar galerias o strip mining a una altura baja y segura.
+
+Llevar antorchas, cubo de agua, comida y un pico de repuesto mejora mucho la busqueda de diamantes.
+
+Fortune aumenta la cantidad de diamantes obtenidos si se rompe la mena con el encantamiento adecuado.
+
+Silk Touch permite recoger la mena de diamante intacta para romperla mas tarde con Fortune si se desea.
+
+La lava es uno de los mayores peligros al minar diamantes, por lo que conviene llevar cubo de agua.

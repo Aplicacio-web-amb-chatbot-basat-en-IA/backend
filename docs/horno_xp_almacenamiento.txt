@@ -1,0 +1,7 @@
+Los hornos acumulan experiencia interna cuando funden o cocinan objetos.
+
+Esa experiencia se entrega al jugador al retirar el resultado en condiciones normales.
+
+Por este motivo, algunos hornos usados mucho tiempo pueden almacenar bastante experiencia.
+
+Aprovechar fundicion masiva puede ser una fuente secundaria de niveles para reparar equipo con Mending o encantar.

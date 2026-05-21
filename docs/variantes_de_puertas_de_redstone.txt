@@ -1,0 +1,18 @@
+Una puerta automatica de redstone necesita una entrada, una senal y un mecanismo que abra la puerta. La entrada puede ser una placa de presion, un boton, una palanca o un sensor.
+
+---
+
+Las puertas mas simples suelen usar puertas de hierro conectadas a redstone. Otras variantes usan pistones para mover bloques y ocultar la entrada.
+
+---
+
+Los repetidores ayudan a extender senal y ajustar tiempos. Los comparadores se usan menos en puertas simples, pero son utiles en mecanismos mas avanzados.
+
+---
+
+Una puerta automatica tambien puede usar observadores, tripwire o sensores de luz segun el comportamiento que se quiera conseguir.
+
+---
+
+La complejidad de la puerta depende de si solo quieres abrir una entrada, ocultarla, hacerla mas segura o integrarla dentro de una base automatizada mayor.
+

@@ -1,0 +1,17 @@
+La netherita no se obtiene como herramienta o armadura directa desde cero.
+
+Primero hay que conseguir ancient debris en el Nether, normalmente en capas profundas.
+
+El ancient debris se funde para obtener fragmentos de netherita.
+
+Cuatro fragmentos de netherita y cuatro lingotes de oro se combinan para crear un lingote de netherita.
+
+Despues, el lingote de netherita se usa en una mesa de herreria para mejorar una pieza de diamante existente.
+
+Para esa mejora tambien se necesita la plantilla de mejora correspondiente en versiones modernas.
+
+La netherita mejora durabilidad y rendimiento general del equipo respecto al diamante.
+
+Los objetos de netherita no se queman en lava cuando caen como item.
+
+Por coste y valor, muchos jugadores priorizan primero pico, peto o espada al mejorar a netherita.

@@ -1,0 +1,9 @@
+Los guardians son mobs hostiles acuaticos asociados a monumentos oceanicos.
+
+Atacan con rayos y pueden ser molestos bajo el agua.
+
+Los elder guardians son versiones mas fuertes que aplican Mining Fatigue al jugador.
+
+Derrotarlos suele ser un paso importante para limpiar un monumento oceanico.
+
+Respiracion acuática, vision nocturna y buena armadura ayudan mucho contra ellos.

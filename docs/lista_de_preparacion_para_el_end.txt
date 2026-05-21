@@ -1,0 +1,18 @@
+Antes de ir al End suele ser recomendable llevar buena armadura, una espada decente, arco o ballesta, comida abundante y bloques de construccion.
+
+---
+
+Un cubo de agua es muy util en Java Edition para evitar daño por caida y moverte mejor sobre pilares o bordes. Tambien ayuda a escapar de endermen en ciertas situaciones.
+
+---
+
+Las perlas de ender, camas para estrategias avanzadas, pociones y una calabaza tallada son opcionales, pero pueden facilitar mucho el combate segun tu estilo de juego.
+
+---
+
+Tambien conviene fijar bien el punto de reaparicion antes de entrar y dejar recursos de respaldo por si mueres durante el combate.
+
+---
+
+Prepararse bien para el End no solo mejora la probabilidad de victoria, sino que reduce mucho el coste de una derrota.
+

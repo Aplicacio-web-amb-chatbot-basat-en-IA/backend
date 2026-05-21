@@ -1,0 +1,4 @@
+Una granja de aldeanos suele funcionar dando a varios aldeanos acceso a camas disponibles y comida suficiente.
+Si los aldeanos reciben pan, zanahorias, patatas o remolachas y hay camas libres, pueden reproducirse y generar nuevos aldeanos.
+Muchas granjas usan un granjero para repartir comida automaticamente y mantener el proceso de cria de forma estable.
+

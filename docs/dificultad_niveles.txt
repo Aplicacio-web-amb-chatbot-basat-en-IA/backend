@@ -1,0 +1,9 @@
+Minecraft tiene varios niveles de dificultad, como pacifico, facil, normal y dificil.
+
+La dificultad afecta daño recibido, hambre, comportamiento de algunos mobs y ciertas mecanicas del mundo.
+
+En pacifico no aparecen de forma normal muchos mobs hostiles comunes.
+
+En dificultades altas, los combates y la supervivencia se vuelven mas exigentes.
+
+Algunas estrategias o granjas pueden variar en eficacia segun la dificultad elegida.

@@ -1,0 +1,37 @@
+Las vacas proporcionan cuero y carne y son muy útiles al inicio y medio juego.
+
+Las ovejas proporcionan lana y carne, y son importantes para fabricar camas.
+
+Los cerdos proporcionan carne y pueden montarse en situaciones muy concretas con equipamiento específico.
+
+Las gallinas proporcionan plumas, pollo y huevos.
+
+Los caballos sirven para transporte rápido en tierra una vez domesticados.
+
+Los burros y mulas pueden transportar cofres y ayudar en viajes.
+
+Las abejas producen miel y panales y son importantes para granjas y cultivos.
+
+Los axolotes viven en agua y tienen comportamientos especiales de combate acuático.
+
+Los camellos ofrecen una opción de transporte moderna y capacidad para dos jugadores en algunas condiciones.
+
+Las tortugas permiten obtener escudos de tortuga a través de su ciclo de cría y crecimiento.
+
+Los calamares y glow squids aportan tintes o drops concretos relacionados con tinta.
+
+Los conejos proporcionan recursos y variantes visuales según bioma.
+
+Los mobs pasivos suelen ser fuente de alimento, materiales renovables o transporte.
+
+Las vacas son especialmente valiosas porque aportan cuero para libros y carne para comida.
+
+Las ovejas son clave por la lana necesaria para camas, algo muy importante desde el inicio.
+
+Las gallinas aportan plumas para flechas y comida renovable.
+
+Los caballos pueden acelerar viajes terrestres largos si se encuentran silla y buen ejemplar.
+
+Las abejas son importantes para miel, panales y agricultura mejorada.
+
+Las tortugas permiten progresar hacia caparazon de tortuga y ciertos usos avanzados relacionados con agua.

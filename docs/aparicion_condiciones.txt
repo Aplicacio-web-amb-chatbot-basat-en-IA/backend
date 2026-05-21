@@ -1,0 +1,19 @@
+Los slimes aparecen en slime chunks bajo tierra y también en pantanos bajo condiciones de luz y fase lunar apropiadas.
+
+Los phantoms aparecen cuando un jugador ha pasado varias noches sin dormir.
+
+Los iron golems pueden generarse en aldeas si se cumplen condiciones relacionadas con aldeanos y amenaza percibida.
+
+Los blazes aparecen en fortalezas del Nether o desde spawners específicos.
+
+Los wither skeletons aparecen principalmente en fortalezas del Nether.
+
+Los guardians aparecen en monumentos oceánicos.
+
+Los shulkers aparecen en end cities.
+
+Los piglins, hoglins y otros mobs del Nether dependen mucho del bioma y la estructura concreta.
+
+Las witches pueden aparecer en cabañas de pantano además de en spawn hostil general.
+
+Entender condiciones de aparición concretas ayuda a buscar mobs raros o diseñar granjas especializadas.

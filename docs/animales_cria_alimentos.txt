@@ -1,0 +1,23 @@
+Muchos animales de Minecraft pueden criarse dando a dos ejemplares un alimento adecuado.
+
+Las vacas y las ovejas se reproducen con trigo.
+
+Los cerdos se reproducen con zanahorias, patatas o remolachas.
+
+Las gallinas se reproducen con semillas, como semillas de trigo o de otras plantas compatibles.
+
+Los lobos se reproducen con carne adecuada una vez domesticados.
+
+Los gatos se reproducen con pescado adecuado una vez domesticados.
+
+Los caballos no se reproducen con trigo como metodo principal de cria; suelen usar alimentos y condiciones concretas como manzanas doradas o zanahorias doradas segun el tipo de animal.
+
+Las tortugas se reproducen con hierba marina.
+
+Las abejas se reproducen con flores.
+
+Criar animales es una forma importante de conseguir comida, cuero, lana y otros recursos renovables.
+
+Despues de criar, los animales entran en un tiempo de espera antes de poder reproducirse otra vez.
+
+Las crias tardan un tiempo en crecer, aunque algunos alimentos pueden acelerar ese crecimiento.

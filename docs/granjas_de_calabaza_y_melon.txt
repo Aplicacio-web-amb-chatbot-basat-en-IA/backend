@@ -1,0 +1,9 @@
+Las calabazas y los melones crecen de forma distinta al trigo o las patatas.
+
+La planta madura genera el fruto en un bloque adyacente disponible.
+
+Por eso, estos cultivos necesitan espacio lateral para producir correctamente.
+
+Los observadores y pistones permiten automatizar su recoleccion de manera bastante sencilla.
+
+Son utiles para comercio, decoracion, comida y algunos crafteos.

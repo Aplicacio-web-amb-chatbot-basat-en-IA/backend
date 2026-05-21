@@ -1,0 +1,9 @@
+Las granjas de Blaze suelen construirse alrededor de spawners en fortalezas del Nether.
+
+Permiten conseguir blaze rods y experiencia de forma automatizada o semiautomatica.
+
+Los blazes son peligrosos por su fuego y ataques a distancia, por lo que el diseno debe controlar linea de vision y movimiento.
+
+Una buena granja de Blaze acelera mucho el acceso a pociones y experiencia.
+
+La resistencia al fuego facilita mucho la construccion y uso de estas granjas.

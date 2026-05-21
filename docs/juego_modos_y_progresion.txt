@@ -1,0 +1,15 @@
+Minecraft tiene varios modos de juego, pero el modo de referencia para estas preguntas suele ser Supervivencia en Java Edition.
+
+En Supervivencia, el jugador necesita reunir recursos, gestionar hambre, salud, herramientas y combate.
+
+La progresion habitual va desde madera y piedra hacia hierro, diamante, Nether, encantamientos y finalmente End.
+
+El Overworld cubre la fase inicial y media de la partida con mineria, agricultura, aldeanos y exploracion.
+
+El Nether desbloquea recursos como blaze rods, nether wart, cuarzo y ancient debris.
+
+El End representa una fase tardia centrada en la Ender Dragon, end cities y elytra.
+
+La progresion no es totalmente lineal, pero muchos sistemas del juego dependen de haber superado pasos previos.
+
+Comprender esta progresion ayuda a responder preguntas sobre que conviene hacer primero y cuando merece la pena mejorar equipo o automatizar recursos.

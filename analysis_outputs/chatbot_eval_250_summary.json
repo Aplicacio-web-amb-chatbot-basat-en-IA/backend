@@ -1,0 +1,577 @@
+{
+  "total_questions": 250,
+  "avg_response_time_ms": 615.27,
+  "median_response_time_ms": 579.99,
+  "min_response_time_ms": 537.09,
+  "max_response_time_ms": 2453.19,
+  "fallback_count": 0,
+  "flagged_count": 67,
+  "exact_duplicate_answer_count": 13,
+  "question_type_distribution": {
+    "recipe": 38,
+    "purpose": 62,
+    "mechanic": 17,
+    "build": 6,
+    "general": 5,
+    "obtain": 18,
+    "location": 7,
+    "item_enchantments": 25,
+    "definition": 54,
+    "combat": 5,
+    "strategy": 7,
+    "comparison": 2,
+    "best_choice": 4
+  },
+  "category_distribution": {
+    "recipes": 25,
+    "purpose": 25,
+    "mechanics": 25,
+    "obtain_location": 25,
+    "item_enchantments": 25,
+    "enchantment_effects": 25,
+    "mobs": 25,
+    "potions": 25,
+    "structures": 25,
+    "strategy": 25
+  },
+  "top_duplicate_answers": [
+    {
+      "count": 2,
+      "response": "1. Una espada puede llevar Sharpness, Smite, Bane of Arthropods, Knockback, Fire Aspect, Looting, Sweeping Edge, Unbreaking, Mending y Curse of Vanishing.\n2. Si la pregunta es que encantamientos puede tener una espada, esa es la lista principal en supervivencia normal."
+    },
+    {
+      "count": 2,
+      "response": "1. Unas botas pueden llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Feather Falling, Depth Strider, Frost Walker, Soul Speed, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing.\n2. En botas hay bastante competencia entre encantamientos de movilidad y supervivencia."
+    },
+    {
+      "count": 2,
+      "response": "El cofre de Ender comparte inventario entre todos los cofres de Ender del mismo jugador, asi que puedes guardar objetos en uno y recuperarlos desde otro en cualquier lugar. Si quieres recolocarlo sin perder el bloque, conviene romperlo con Silk Touch."
+    },
+    {
+      "count": 2,
+      "response": "El escudo es una de las herramientas defensivas mas utiles del juego temprano y medio. Permite bloquear gran parte del daño frontal y reduce mucho el peligro de esqueletos y creepers."
+    },
+    {
+      "count": 2,
+      "response": "La pocion de fuerza aumenta daño cuerpo a cuerpo. La pocion de rapidez aumenta velocidad de movimiento. La pocion de regeneracion cura con el tiempo."
+    },
+    {
+      "count": 2,
+      "response": "La pocion de veneno se hace con awkward potion mas spider eye. Aplica dano progresivo, aunque no suele matar por si sola, y se usa bastante en variantes arrojadizas para debilitar enemigos."
+    },
+    {
+      "count": 2,
+      "response": "Para hacer una pocion de curacion primero necesitas una awkward potion. Despues se combina con una rodaja de melon reluciente para obtener la pocion de curacion."
+    },
+    {
+      "count": 2,
+      "response": "Para hacer una pocion de resistencia al fuego primero necesitas una awkward potion. Despues se combina con crema de magma para obtener la pocion de resistencia al fuego."
+    },
+    {
+      "count": 2,
+      "response": "Para mover aldeanos de un lugar a otro, las opciones mas practicas suelen ser barcas y minecarts. Las barcas permiten mover aldeanos en distancias cortas o terreno irregular, mientras que los railes y minecarts son mejores para rutas largas o elevaciones controladas."
+    },
+    {
+      "count": 2,
+      "response": "Un casco puede llevar Protection, Fire Protection, Blast Protection, Projectile Protection, Respiration, Aqua Affinity, Thorns, Unbreaking, Mending, Curse of Binding y Curse of Vanishing."
+    }
+  ],
+  "sample_flagged_results": [
+    {
+      "id": 197,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta una pocion persistente?",
+      "focus": "una pocion persistente",
+      "focus_tokens": [
+        "pocion",
+        "persistente"
+      ],
+      "response": "Las pociones arrojadizas y persistentes cambian la forma de aplicarlas, pero la base sigue siendo entender que problema quieres resolver con cada una.",
+      "response_time_ms": 537.09,
+      "response_chars": 150,
+      "top_sources": [
+        "pociones_para_situaciones_comunes.txt"
+      ],
+      "flags": [
+        "purpose_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 159,
+      "category": "mobs",
+      "question_type": "definition",
+      "question": "Que es un gato?",
+      "focus": "gato",
+      "focus_tokens": [
+        "gato"
+      ],
+      "response": "Los gatos domesticados pueden sentarse, seguir al jugador y servir como apoyo decorativo o funcional en la base.",
+      "response_time_ms": 565.82,
+      "response_chars": 112,
+      "top_sources": [
+        "gato_domesticacion_especifica.txt"
+      ],
+      "flags": [
+        "definition_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 215,
+      "category": "structures",
+      "question_type": "definition",
+      "question": "Que es un ocean monument?",
+      "focus": "ocean monument",
+      "focus_tokens": [
+        "ocean",
+        "monument"
+      ],
+      "response": "Los monumentos oceanicos suelen encontrarse en biomas de oceano profundo.",
+      "response_time_ms": 567.06,
+      "response_chars": 73,
+      "top_sources": [
+        "monumento_oceanico_localizacion_especifica.txt"
+      ],
+      "flags": [
+        "definition_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Para que sirve una linterna?",
+      "focus": "linterna",
+      "focus_tokens": [
+        "linterna"
+      ],
+      "response": "Las recompensas incluyen prismarine, linternas marinas y esponjas.",
+      "response_time_ms": 569.35,
+      "response_chars": 66,
+      "top_sources": [
+        "oceano_monumento_estrategia.txt"
+      ],
+      "flags": [
+        "purpose_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 158,
+      "category": "mobs",
+      "question_type": "definition",
+      "question": "Que es un lobo?",
+      "focus": "lobo",
+      "focus_tokens": [
+        "lobo"
+      ],
+      "response": "Los lobos salvajes se encuentran en ciertos biomas del Overworld.",
+      "response_time_ms": 576.94,
+      "response_chars": 65,
+      "top_sources": [
+        "lobo_comportamiento_y_domesticacion.txt"
+      ],
+      "flags": [
+        "definition_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Para que sirve una campana?",
+      "focus": "campana",
+      "focus_tokens": [
+        "campana"
+      ],
+      "response": "El herrero de herramientas usa mesa de herreria y puede ofrecer picos, palas, hachas, azadas y campanas o recursos relacionados segun nivel.",
+      "response_time_ms": 577.52,
+      "response_chars": 140,
+      "top_sources": [
+        "aldeanos_profesiones.txt"
+      ],
+      "flags": [
+        "purpose_weak",
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 126,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Fortuna?",
+      "focus": "fortuna",
+      "focus_tokens": [
+        "fortuna"
+      ],
+      "response": "El encantamiento Fortuna aumenta la cantidad de recursos que puedes obtener de ciertos minerales, cultivos y bloques al romperlos. No mejora todos los bloques por igual, asi que a veces conviene compararlo con Toque de Seda segun el recurso que quieras recoger.",
+      "response_time_ms": 556.24,
+      "response_chars": 261,
+      "top_sources": [
+        "encantamiento_fortuna_especifico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 177,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta la pocion de vision nocturna?",
+      "focus": "la pocion de vision nocturna",
+      "focus_tokens": [
+        "pocion",
+        "vision",
+        "nocturna"
+      ],
+      "response": "La poción de visión nocturna mejora la visibilidad en oscuridad y bajo el agua.",
+      "response_time_ms": 557.64,
+      "response_chars": 79,
+      "top_sources": [
+        "pociones_efectos.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 143,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Fire Aspect?",
+      "focus": "fire aspect",
+      "focus_tokens": [
+        "fire",
+        "aspect"
+      ],
+      "response": "Fire Aspect prende fuego al objetivo y añade daño indirecto por quemadura en muchas situaciones.",
+      "response_time_ms": 559.56,
+      "response_chars": 96,
+      "top_sources": [
+        "encantamientos_armas.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 128,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Proteccion?",
+      "focus": "proteccion",
+      "focus_tokens": [
+        "proteccion"
+      ],
+      "response": "La utilidad real de cada proteccion depende del tipo de muerte que intentas evitar con mas frecuencia.",
+      "response_time_ms": 560.81,
+      "response_chars": 102,
+      "top_sources": [
+        "proteccion_contra_fuego_explosion_proyectil.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Que hace un bloque de miel?",
+      "focus": "bloque de miel",
+      "focus_tokens": [
+        "bloque",
+        "miel"
+      ],
+      "response": "Los honey blocks son utiles para redstone y movimiento porque reducen deslizamiento y pueden arrastrar entidades junto con pistones. Se obtienen a partir de botellas de miel, por lo que conviene tener acceso estable a abejas.",
+      "response_time_ms": 561.65,
+      "response_chars": 225,
+      "top_sources": [
+        "bloque_de_miel_usos_basicos.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 133,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Respiracion?",
+      "focus": "respiracion",
+      "focus_tokens": [
+        "respiracion"
+      ],
+      "response": "La pocion de respiracion acuática es muy util para monumentos oceanicos, tesoros y construcciones submarinas. Normalmente se prepara a partir de una awkward potion y un pez globo.",
+      "response_time_ms": 562.01,
+      "response_chars": 179,
+      "top_sources": [
+        "pocion_de_respiracion_acuatica_basico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 199,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta la pocion de rapidez?",
+      "focus": "la pocion de rapidez",
+      "focus_tokens": [
+        "pocion",
+        "rapidez"
+      ],
+      "response": "La pocion de fuerza aumenta daño cuerpo a cuerpo. La pocion de rapidez aumenta velocidad de movimiento. La pocion de regeneracion cura con el tiempo.",
+      "response_time_ms": 563.22,
+      "response_chars": 149,
+      "top_sources": [
+        "referencia_encantamientos_y_pociones_extensa_parte_1.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 141,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Smite?",
+      "focus": "smite",
+      "focus_tokens": [
+        "smite"
+      ],
+      "response": "La redstone permite automatizar tareas, transporte y aperturas de puertas. El polvo de redstone transmite señal a lo largo del suelo y algunos bloques. Los comparadores leen estados de contenedores y de algunos bloques especiales.",
+      "response_time_ms": 563.32,
+      "response_chars": 230,
+      "top_sources": [
+        "referencia_redstone_y_granjas_extensa_parte_1.txt"
+      ],
+      "flags": [
+        "focus_overlap_0"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Que hace un cofre de Ender?",
+      "focus": "cofre de ender",
+      "focus_tokens": [
+        "cofre",
+        "ender"
+      ],
+      "response": "El cofre de Ender comparte inventario entre todos los cofres de Ender del mismo jugador, asi que puedes guardar objetos en uno y recuperarlos desde otro en cualquier lugar. Si quieres recolocarlo sin perder el bloque, conviene romperlo con Silk Touch.",
+      "response_time_ms": 563.4,
+      "response_chars": 251,
+      "top_sources": [
+        "cofre_de_ender_uso_especifico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 187,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta la pocion de debilidad?",
+      "focus": "la pocion de debilidad",
+      "focus_tokens": [
+        "pocion",
+        "debilidad"
+      ],
+      "response": "La poción de debilidad reduce daño cuerpo a cuerpo.",
+      "response_time_ms": 566.53,
+      "response_chars": 51,
+      "top_sources": [
+        "pociones_efectos.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Que hace un observador de redstone?",
+      "focus": "observador de redstone",
+      "focus_tokens": [
+        "observador",
+        "redstone"
+      ],
+      "response": "Un observador de redstone detecta cambios en el bloque que esta mirando y emite un pulso corto de redstone. Es especialmente util cuando quieres convertir un cambio automatico del mundo en una señal de redstone.",
+      "response_time_ms": 569.82,
+      "response_chars": 211,
+      "top_sources": [
+        "observador_redstone_uso_especifico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Para que sirve un compostador?",
+      "focus": "compostador",
+      "focus_tokens": [
+        "compostador"
+      ],
+      "response": "El compostador convierte muchos objetos vegetales en bone meal. Ademas, funciona como bloque de trabajo del aldeano granjero.",
+      "response_time_ms": 571.2,
+      "response_chars": 125,
+      "top_sources": [
+        "compostador_funcionamiento_basico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 127,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Reparacion?",
+      "focus": "reparacion",
+      "focus_tokens": [
+        "reparacion"
+      ],
+      "response": "El encantamiento Reparacion, tambien conocido como Mending, hace que la experiencia recogida repare automaticamente el objeto encantado en lugar de perderse toda en la barra del jugador. Para que funcione bien, el objeto con Reparacion debe estar equipado o en una posicion donde pueda recibir esa experiencia.",
+      "response_time_ms": 571.48,
+      "response_chars": 310,
+      "top_sources": [
+        "encantamiento_reparacion_especifico.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 130,
+      "category": "enchantment_effects",
+      "question_type": "purpose",
+      "question": "Que hace Proteccion contra explosiones?",
+      "focus": "proteccion contra explosiones",
+      "focus_tokens": [
+        "proteccion",
+        "explosiones"
+      ],
+      "response": "Los bloques mas conocidos por resistir muy bien explosiones son la obsidiana, el agua como barrera, y en niveles altos tambien bloques como el ancla de reaparicion o ciertos bloques irrompibles de estructuras. Frente a creepers normales, la obsidiana es una de las opciones mas practicas si quieres proteger zonas concretas de la base.",
+      "response_time_ms": 572.12,
+      "response_chars": 335,
+      "top_sources": [
+        "bloques_resistentes_a_explosiones_de_creepers.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 181,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta la pocion de caida lenta?",
+      "focus": "la pocion de caida lenta",
+      "focus_tokens": [
+        "pocion",
+        "caida",
+        "lenta"
+      ],
+      "response": "La poción de caída lenta reduce mucho la velocidad de caída.",
+      "response_time_ms": 572.2,
+      "response_chars": 60,
+      "top_sources": [
+        "pociones_efectos.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 212,
+      "category": "structures",
+      "question_type": "definition",
+      "question": "Que es una ancient city?",
+      "focus": "ancient city",
+      "focus_tokens": [
+        "ancient",
+        "city"
+      ],
+      "response": "Explorar una ancient city requiere moverse despacio, evitar activar shriekers y llevar bloques de lana para amortiguar vibraciones.",
+      "response_time_ms": 572.58,
+      "response_chars": 131,
+      "top_sources": [
+        "ancient_city_exploracion_basica.txt"
+      ],
+      "flags": [
+        "definition_weak"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Que hace un conducto?",
+      "focus": "conducto",
+      "focus_tokens": [
+        "conducto"
+      ],
+      "response": "Respiration aumenta el tiempo que se puede respirar bajo el agua y reduce la presion de ahogo en exploracion submarina. Se aplica al casco y combina muy bien con Aqua Affinity o con una estrategia de conducto y pociones.",
+      "response_time_ms": 572.61,
+      "response_chars": 220,
+      "top_sources": [
+        "encantamientos_detalle_armadura_y_defensa.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "purpose",
+      "question_type": "purpose",
+      "question": "Que hace un ahumador?",
+      "focus": "ahumador",
+      "focus_tokens": [
+        "ahumador"
+      ],
+      "response": "El carnicero usa ahumador.",
+      "response_time_ms": 572.68,
+      "response_chars": 26,
+      "top_sources": [
+        "aldeanos_profesiones.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    },
+    {
+      "id": 183,
+      "category": "potions",
+      "question_type": "purpose",
+      "question": "Que aporta la pocion de regeneracion?",
+      "focus": "la pocion de regeneracion",
+      "focus_tokens": [
+        "pocion",
+        "regeneracion"
+      ],
+      "response": "La poción de regeneración recupera salud con el tiempo.",
+      "response_time_ms": 573.16,
+      "response_chars": 55,
+      "top_sources": [
+        "pociones_efectos.txt"
+      ],
+      "flags": [
+        "purpose_weak"
+      ]
+    }
+  ]
+}

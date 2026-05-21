@@ -1,0 +1,39 @@
+Los encantamientos mejoran herramientas, armas, armaduras y algunos objetos especiales.
+
+La mesa de encantamientos permite aplicar encantamientos aleatorios consumiendo niveles y lapislázuli.
+
+Los encantamientos aplicados se muestran con brillo visual sobre el objeto.
+
+Para obtener mejores encantamientos en mesa, se colocan hasta 15 estanterías alrededor de la mesa con el espacio adecuado.
+
+Las estanterías aumentan el nivel máximo de encantamiento disponible hasta 30.
+
+La mesa de encantamientos no ofrece control total sobre el encantamiento exacto; el jugador elige entre opciones parcialmente aleatorias.
+
+Los libros pueden encantarse para almacenar encantamientos y luego aplicarlos con un yunque.
+
+El yunque permite combinar encantamientos, mover encantamientos de libros a objetos y conservar durabilidad y nombre.
+
+La piedra de afilar elimina la mayoría de encantamientos y devuelve parte de la experiencia, pero conserva las maldiciones.
+
+Algunos encantamientos son incompatibles entre sí y no se pueden combinar en el mismo objeto de forma normal.
+
+Mending y Unbreaking son muy importantes porque prolongan mucho la vida útil del equipo.
+
+Silk Touch y Fortune suelen ser mutuamente excluyentes en herramientas normales.
+
+Protection, Fire Protection, Blast Protection y Projectile Protection son protecciones alternativas y no se combinan normalmente entre sí en la misma pieza.
+
+No todos los encantamientos sirven para todos los objetos; cada categoría tiene su propia lista válida.
+
+Los aldeanos bibliotecarios y el botín también son fuentes importantes de libros encantados.
+
+Una mesa de encantamientos con 15 estanterías es la configuración clásica para acceder al nivel máximo habitual de encantamiento.
+
+Los encantamientos de nivel alto requieren experiencia y lapislázuli, por lo que conviene combinar minería, comercio o granjas para mantener niveles.
+
+Mending es uno de los encantamientos más buscados porque convierte experiencia en reparación automática del equipo.
+
+Unbreaking es muy recomendable en casi cualquier objeto valioso porque alarga mucho su vida útil.
+
+Combinar libros en el orden correcto con el yunque reduce costes y ayuda a evitar llegar demasiado pronto al límite de niveles.

@@ -1,0 +1,9 @@
+El respawn anchor permite fijar un punto de reaparicion en el Nether.
+
+Se carga usando glowstone.
+
+Cada carga permite una reaparicion, hasta el limite admitido por el bloque.
+
+Intentar usar un respawn anchor en el Overworld o en el End provoca una explosion.
+
+Es una herramienta avanzada muy util para expediciones largas o construccion seria en el Nether.

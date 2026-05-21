@@ -1,0 +1,83 @@
+Los warden detectan vibraciones y olor del jugador.
+El warden no deberia tratarse como un jefe tradicional de farmeo.
+Huir y ocultarse suele ser mejor que intentar matarlo.
+La oscuridad del warden dificulta combate y orientacion.
+Las armas tienen rendimientos distintos segun situacion.
+La espada es la herramienta general de combate cuerpo a cuerpo.
+El hacha hace mucho daño por golpe pero es mas lenta.
+El arco ofrece seguridad a distancia.
+La ballesta ofrece estilo distinto y acceso a multishot o carga rapida.
+Un tridente con lealtad vuelve al jugador.
+Un tridente con riptide permite movilidad con agua o lluvia.
+Sharpness es un encantamiento ofensivo general.
+Smite es excelente contra undead como zombies y wither skeletons.
+Bane of Arthropods sirve contra arañas y similares, pero es muy situacional.
+Looting mejora drops de varios mobs y se valora mucho.
+Sweeping Edge mejora el daño del barrido en Java Edition.
+Knockback puede ayudar o molestar segun el combate.
+Fire Aspect añade daño por fuego y puede cocinar algunos drops.
+Protection reduce daño de muchas fuentes.
+Blast Protection ayuda contra explosiones.
+Fire Protection ayuda contra fuego y lava.
+Projectile Protection ayuda contra ataques a distancia.
+Feather Falling es clave para exploracion y End.
+Thorns devuelve daño pero consume durabilidad.
+Depth Strider y Respiration ayudan en agua.
+Soul Speed mejora movimiento sobre soul sand y soul soil.
+El combate contra la Ender Dragon cambia mucho si se usan camas.
+El combate contra el Wither cambia mucho segun el terreno.
+Invocar al Wither bajo tierra puede contener mejor el movimiento.
+Invocarlo en espacios abiertos aumenta riesgo de destruccion.
+El Wither rompe muchos bloques y lanza proyectiles explosivos.
+La segunda fase del Wither limita ataques a distancia directos.
+Los totems of undying pueden salvar una muerte y son muy valiosos en riesgos altos.
+El escudo no bloquea todo tipo de daño.
+La explosion de creeper puede ser muy dañina aunque el escudo ayude segun angulo y situacion.
+La lava ignora muchos errores de posicionamiento.
+El hambre y la saturacion influyen mucho en supervivencia de combate.
+Comer bien antes de entrar en combate mejora la regeneracion.
+Las manzanas doradas son una ayuda fuerte en peleas duras.
+Las pociones de fuerza, rapidez, regeneracion o resistencia al fuego cambian muchos enfrentamientos.
+Vision nocturna puede facilitar combate en zonas oscuras.
+Caida lenta es util en el End y en estructuras altas.
+La leche elimina muchos efectos, pero tambien quita beneficios propios.
+Un terreno favorable decide muchas peleas mas que el equipo.
+Pelear en un tunel estrecho puede neutralizar enemigos numerosos.
+Pelear en agua puede dificultar golpes y movilidad.
+Las alturas y bloques de cobertura ayudan frente a arqueros y ghasts.
+La iluminacion de superficie reduce la presion nocturna en bases.
+Las trampillas y alfombras influyen en movimiento y spawn de algunos mobs en granjas.
+Los gatos se usan mucho para dirigir creepers en granjas.
+La altura de camara y el espacio libre influyen en diseño de granjas de mobs.
+El cap global de mobs afecta eficiencia de granjas hostiles.
+Iluminar cuevas y superficie alrededor de una granja mejora el spawn en la plataforma deseada.
+La distancia al jugador importa para aparicion y despawn de mobs.
+Muchos mobs no aparecen demasiado cerca del jugador.
+Muchos mobs tampoco cuentan igual si estan fuera del area activa.
+El Overworld, el Nether y el End tienen reglas y mobs distintos.
+Algunos mobs son neutrales hasta que el jugador los provoca.
+Otros son siempre hostiles.
+Conocer el comportamiento base de cada mob reduce mucho muertes evitables.
+Muchos errores de combate en Minecraft vienen de mala preparacion, no de falta de daño.
+Un pico, una espada y una armadura buenas ayudan, pero vision, comida y posicion importan mucho.
+El combate en Minecraft Vanilla favorece mas la consistencia que la agresividad sin control.
+Los mobs pasivos no suelen atacar al jugador.
+Los mobs neutrales cambian segun contexto y acciones.
+Los mobs hostiles buscan o dañan al jugador de forma directa o indirecta.
+La noche aumenta mucho la presion de mobs hostiles sobre superficie.
+Las cuevas profundas sustituyen el riesgo diurno por oscuridad constante.
+Los proyectiles enemigos castigan mucho en espacios abiertos.
+Las explosiones castigan mucho la distraccion en bases y minas.
+El combate bajo el agua suele ser mas lento y menos favorable para el jugador sin apoyo.
+Las corrientes de agua pueden empujar enemigos o salvar al jugador.
+Los bloques de altura y media altura modifican trayectoria y movimiento de mobs.
+Un mob atrapado en un barco pierde mucha movilidad.
+Los barcos sirven para mover aldeanos y algunos mobs de forma muy practica.
+Las etiquetas con nombre evitan despawn de muchos mobs.
+Algunos mobs especiales no despawnean por sus propias reglas.
+Los mobs equipados recogiendo objetos pueden comportarse distinto respecto a despawn.
+El sonido tambien sirve para identificar peligros cercanos aunque no se vean.
+Escuchar siseo de creeper exige reaccion inmediata.
+Escuchar arco de esqueleto ayuda a usar escudo a tiempo.
+Escuchar blaze o ghast da margen de cobertura en el Nether.
+La mejor defensa contra muchos mobs es evitar una mala posicion.

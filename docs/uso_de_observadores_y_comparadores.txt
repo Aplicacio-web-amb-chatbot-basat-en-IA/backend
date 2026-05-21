@@ -1,0 +1,13 @@
+Los observadores detectan cambios en el bloque que miran y emiten un pulso corto de redstone.
+
+Se usan mucho en granjas automaticas porque detectan crecimiento de plantas o cambios de estado.
+
+Los comparadores leen la senal de contenedores como cofres, barriles, hornos o tolvas.
+
+Eso permite crear sistemas que reaccionan al nivel de llenado de un inventario.
+
+Los comparadores tambien pueden operar en modo comparacion o en modo resta.
+
+Entender observadores y comparadores es un paso importante para pasar de redstone basica a sistemas mas inteligentes.
+
+Muchos clasificadores de objetos, granjas y mecanismos de deteccion dependen de estos bloques.

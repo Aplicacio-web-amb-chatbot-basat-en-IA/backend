@@ -1,0 +1,39 @@
+Como funcionan los pistones normales y pegajosos. El piston normal empuja bloques cuando recibe una senal, mientras que el piston pegajoso ademas puede recuperar el bloque al desactivarse. Esta diferencia es la base de puertas ocultas, ascensores, compactadores y muchas maquinas de redstone.
+---
+Que bloques no suelen moverse con pistones. Hay bloques especiales que no pueden empujarse o que rompen ciertos disenos, como obsidiana, hornos encendidos en algunos contextos, contenedores concretos o bloques con comportamientos fijos. Antes de compactar un sistema conviene revisar si todo lo que se quiere mover es realmente empujable.
+---
+Como sincronizar varios pistones para una puerta o mecanismo grande. Cuando varios pistones deben actuar en orden, suelen usarse repetidores, observadores o circuitos de pulso para que no se estorben entre si. Si el orden falla, pueden quedar huecos, bloques duplicados en posiciones incorrectas o un cierre incompleto.
+---
+Como funciona una puerta 3x3 de pistones a nivel general. Una puerta 3x3 necesita mas fases de movimiento que una 2x2 y suele combinar pistones normales, pegajosos y modulos separados para esquinas, laterales y bloque central. No es un sistema trivial, por eso suele plantearse como varios submodulos sincronizados.
+---
+Como funciona una puerta de pistones vertical. En este tipo de puerta la dificultad suele estar en mover bloques hacia arriba o abajo sin bloquear el paso ni romper el ritmo de cierre. Se usa mucho en entradas ocultas, suelos moviles o accesos compactos.
+---
+Como hacer una entrada de suelo o techo con pistones. Estos disenos usan pistones para abrir un hueco hacia abajo o retirar bloques del techo, normalmente con una memoria o un activador discreto. Lo importante es que el jugador pueda pasar con fiabilidad y que el mecanismo no se active a destiempo.
+---
+Como funciona un piston feed tape. Un piston feed tape desplaza una secuencia de bloques en bucle usando pistones y observadores o relojes. Es util para mostrar distintos bloques, cambiar decoracion, construir seleccionadores o ciclar estados de una maquina.
+---
+Como usar una memoria en sistemas de redstone. Las memorias permiten guardar un estado para que la maquina recuerde si debe estar encendida, abierta o preparada. En la practica se usan en puertas ocultas, granjas que deben activarse por tandas y paneles de control.
+---
+Como funciona una memoria con comparador. Algunos sistemas usan comparadores y contenedores para guardar un estado o mantener una senal estable. Son utiles cuando hace falta una salida sostenida sin depender solo de una palanca o de un pulso continuo.
+---
+Como funciona un selector o panel de control con redstone. Un panel de control combina entradas como palancas, botones o item frames con modulos que activan una salida concreta. Esto es util para bases tecnicas donde se quiere encender o apagar granjas, clasificar modos o lanzar secuencias.
+---
+Como hacer un temporizador de redstone mas largo. Para tiempos largos suele ir mejor un reloj de tolvas, un contador de items o una secuencia modular que un simple bucle de repetidores. Los repetidores son buenos para retrasos cortos, pero no escalan tan bien para intervalos grandes.
+---
+Como funcionan los contadores en redstone. Un contador registra cuantas veces ha llegado un pulso antes de activar una salida. Puede usarse para puertas que se abren tras varios pasos, sistemas de minijuego, control de ciclos de granjas o mecanismos de lote.
+---
+Como mover items con goteros y dispensadores. Los goteros desplazan items sin lanzarlos como proyectiles, mientras que los dispensadores interactuan con el mundo y activan el uso del item cuando procede. Saber cuando usar uno u otro es importante en clasificadores, lineas de transporte y granjas automáticas.
+---
+Como usar goteros para ascensores de items. Una cadena de goteros y observadores o comparadores puede subir items en vertical de forma compacta. Esto es muy util cuando el almacenamiento esta en una planta distinta o cuando una granja produce a un nivel inferior.
+---
+Como funciona un ascensor de items con agua. Algunos disenos usan columnas de burbujas para subir items rapidamente desde agua a una zona superior. Suelen ser sencillos, baratos y muy utiles cuando una granja recoge drops en una camara baja.
+---
+Como funciona una flying machine a nivel general. Una flying machine usa pistones, observadores y bloques movibles para desplazarse por si sola. Es un concepto mas avanzado que puede aplicarse a granjas de caña, cosechadoras grandes o mecanismos que recorren una superficie amplia.
+---
+Como aprovechar una flying machine en una granja. La idea es que la maquina recorra una fila o superficie y vaya rompiendo o activando bloques a su paso. Esto compensa especialmente cuando la granja es demasiado ancha para resolverla con un solo modulo fijo.
+---
+Como evitar que una maquina de pistones se atasque. Lo habitual es dejar margenes claros, comprobar que no haya bloques inmovibles en la ruta y probar primero el orden de activacion. En sistemas grandes, un solo pistón mal orientado puede bloquear toda la maquina.
+---
+Como usar slime y honey blocks en automatizacion. Ambos bloques permiten arrastrar estructuras al ser empujados por pistones, pero no se adhieren igual entre si ni a todos los bloques del entorno. Esa diferencia permite hacer modulos compactos, plataformas moviles y separaciones mecanicas muy utiles.
+---
+Como se aplica la redstone avanzada a una base tecnica. La redstone avanzada no significa solo hacer puertas escondidas, sino construir sistemas mantenibles, modulares y capaces de integrarse con granjas, almacenamiento, hornos y transporte de items. El valor real suele estar en la organizacion y en la fiabilidad del conjunto.

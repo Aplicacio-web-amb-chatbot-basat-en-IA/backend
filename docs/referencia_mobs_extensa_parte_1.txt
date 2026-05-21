@@ -1,0 +1,86 @@
+Un creeper es un mob hostil silencioso del Overworld.
+El creeper se acerca al jugador y explota tras un breve tiempo de preparacion.
+El creeper puede destruir bloques si la dificultad y las reglas lo permiten.
+Un creeper cargado tiene una explosion mucho mas fuerte.
+Un creeper cargado aparece si un rayo impacta sobre un creeper normal.
+La polvora es el drop mas caracteristico del creeper.
+Atacar creepers desde distancia con arco reduce mucho el riesgo.
+Retroceso y terreno estrecho pueden hacer muy peligrosos a los creepers.
+Los zombies son mobs hostiles comunes del Overworld.
+Los zombies aparecen en oscuridad suficiente y pueden llevar equipo.
+Los zombies pueden pedir refuerzos en algunas circunstancias y dificultades.
+Los zombies convierten aldeanos en aldeanos zombie si los matan en ciertas dificultades.
+Los baby zombies son mucho mas rapidos que los zombies normales.
+Los esqueletos son enemigos a distancia muy frecuentes.
+Los esqueletos usan arco y castigan especialmente en cuevas y terrenos abiertos.
+El escudo bloquea gran parte de la amenaza del esqueleto.
+Los strays son variantes heladas de esqueletos que aplican lentitud.
+Los wither skeletons aparecen en fortalezas del Nether.
+Los wither skeletons pueden aplicar el efecto wither.
+Las calaveras de wither skeleton son necesarias para invocar al Wither.
+Las arañas pueden trepar paredes y superar obstaculos sencillos.
+Las cave spiders aplican veneno.
+Las cave spiders suelen aparecer en mineshafts con spawners especificos.
+Los slimes se dividen en tamaños menores al morir.
+Los slimes grandes hacen mas daño y empujan mas.
+Los slimes pequeños apenas son peligrosos.
+Las bolas de slime son esenciales para pistones pegajosos y otros objetos.
+Los endermen son mobs altos y neutrales.
+Los endermen se vuelven hostiles si se les mira a los ojos.
+Los endermen tambien se enfadan si se les golpea.
+Los endermen no pueden tocar el agua sin recibir daño.
+Luchar con endermen bajo un techo bajo es una estrategia clasica.
+Las perlas de ender son esenciales para progresion al End.
+Los piglins normales son neutrales si el jugador lleva alguna pieza de oro.
+Los piglins se vuelven hostiles si el jugador abre cofres o rompe oro cerca de ellos.
+El bartering con piglins usa lingotes de oro.
+Los piglins pueden devolver objetos utiles como obsidiana llorosa o perlas.
+Los brute piglins son hostiles siempre.
+Los brute piglins son especialmente peligrosos en bastions.
+Los hoglins son fuertes y empujan mucho.
+Los hoglins huyen de warped fungi y portales activos.
+Los zoglins son hostiles a casi todo y no se reproducen.
+Los ghasts disparan bolas de fuego explosivas.
+Las bolas de fuego del ghast se pueden devolver golpeandolas.
+Los magma cubes son equivalentes del slime en el Nether.
+Los blaze son una de las amenazas clave de fortalezas del Nether.
+Los blaze disparan rafagas de fuego y flotan.
+Los blaze rods son esenciales para polvo de blaze y brewing.
+Las brujas usan pociones ofensivas y defensivas.
+Las brujas pueden curarse, resistir fuego y aplicar veneno o lentitud.
+Las granjas de brujas son valiosas por redstone, glowstone, azucar y polvora.
+Los pillagers usan ballestas y participan en patrullas e incursiones.
+Los vindicators usan hacha y hacen mucho daño cuerpo a cuerpo.
+Los evokers invocan vexes y pueden soltar totems of undying.
+Los vexes son pequeños, agresivos y atraviesan bloques.
+Los ravagers tienen mucha vida y gran capacidad de empuje.
+Las incursiones son peligrosas si no se preparan bien.
+Heroe de la aldea es la recompensa principal tras ganar una incursion.
+Los guardians disparan un rayo que requiere linea de vision.
+Los elder guardians aplican fatiga minera.
+Los monumentos oceanicos son dificiles sin buena preparacion.
+Respiracion, afinidad acuatica y vision nocturna ayudan mucho en oceanos.
+Los drowned aparecen en agua y algunos llevan tridente.
+Conseguir un tridente puede requerir muchas bajas de drowned.
+Los phantoms aparecen si el jugador pasa varias noches sin dormir.
+Los phantoms atacan en picado y son molestos al aire libre.
+Dormir resetea el contador de phantoms.
+Los silverfish salen de bloques infestados y de spawners del portal del End.
+Los shulkers aparecen en ciudades del End.
+Los shulkers disparan proyectiles que causan levitacion.
+Las shulker shells sirven para fabricar cajas de shulker.
+Los golems de hierro protegen aldeas y pueden ser aliados involuntarios.
+Golpear a un aldeano o provocar problemas en una aldea puede enfadar a golems.
+Los wolves salvajes pueden domesticarse con huesos.
+Cuando un lobo se domestica aparecen corazones y se le ve collar.
+Los lobos domesticados pueden sentarse o seguir al jugador.
+Los lobos atacan enemigos del jugador en algunas circunstancias.
+Los gatos ahuyentan creepers y phantoms.
+Los caballos mejoran movilidad terrestre una vez domesticados y equipados.
+Las vacas son una excelente fuente de comida y cuero.
+Las ovejas aportan lana en muchos colores.
+Las gallinas son utiles para comida y plumas.
+Las tortugas pueden dar escudos de tortuga tras crecer.
+Las abejas polinizan y producen miel en colmenas o nidos.
+Un fuego o fogata bajo una colmena permite recoger miel o panales sin enfadarlas.
+Las llamas escupen y pueden usarse como transporte de cofres en cadena.

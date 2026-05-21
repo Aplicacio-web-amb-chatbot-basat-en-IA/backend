@@ -1,0 +1,75 @@
+Los aldeanos adultos pueden obtener profesión al vincularse con un bloque de trabajo disponible dentro de un poblado.
+
+Los aldeanos nitwit y los bebés no pueden adquirir profesión de forma normal.
+
+Si un aldeano sin intercambios previos pierde su bloque de trabajo, puede cambiar de profesión o quedar desempleado.
+
+Si ya se ha comerciado con un aldeano, normalmente conserva su profesión aunque su bloque desaparezca.
+
+El bibliotecario usa atril.
+
+El armero usa alto horno.
+
+El carnicero usa ahumador.
+
+El granjero usa compostador.
+
+El flechero usa mesa de flechas.
+
+El pescador usa barril.
+
+El peletero usa caldero.
+
+El pastor usa telar.
+
+El albañil usa cortapiedra.
+
+El clérigo usa soporte para pociones.
+
+El herrero de armas usa piedra de afilar.
+
+Cada profesión tiene una tabla de intercambios característica y puede subir de nivel al comerciar con el jugador.
+
+Los aldeanos trabajan en horarios concretos del día y suelen reponer intercambios dos veces al día si pueden acceder a su bloque de trabajo.
+
+El bibliotecario es una de las profesiones más importantes para conseguir libros encantados.
+
+El granjero es útil para obtener comida y automatizaciones básicas de cultivo.
+
+Los herreros y oficios técnicos permiten convertir recursos en equipo, herramientas o esmeraldas.
+
+El bibliotecario es especialmente valioso porque puede ofrecer libros encantados concretos y etiquetas.
+
+El granjero suele ser uno de los aldeanos más fáciles de aprovechar al principio por sus intercambios con cultivos.
+
+El flechero puede ser útil si el jugador tiene acceso cómodo a palos o materiales de flechas.
+
+El clérigo ayuda a dar salida a ciertos recursos del Nether y puede aportar experiencia indirecta mediante comercio.
+
+El armero, el herrero de herramientas y el herrero de armas pueden facilitar acceso a equipo útil sin depender solo de crafteo.
+
+El desempleado es un aldeano sin profesion que puede vincularse a un bloque de trabajo libre si cumple condiciones.
+
+El nitwit lleva ropa distinta y no adquiere profesion ni comercia de forma normal.
+
+El herrero de herramientas usa mesa de herreria y puede ofrecer picos, palas, hachas, azadas y campanas o recursos relacionados segun nivel.
+
+El herrero de armas usa piedra de afilar y puede ofrecer espadas, hachas encantadas u otros objetos vinculados al combate.
+
+El armero usa alto horno y puede ofrecer piezas de armadura y a veces armadura encantada en niveles altos.
+
+El bibliotecario es famoso porque un libro encantado concreto puede fijarse al comerciar una vez si la oferta interesa.
+
+El pastor comercia con lana y tintes, por lo que puede ser util si se trabaja mucho con decoracion.
+
+El pescador usa barril y puede ofrecer pescado cocinado, fogatas o objetos relacionados con pesca.
+
+El peletero usa caldero y comercia con cuero, armaduras de cuero y objetos asociados.
+
+El albañil usa cortapiedra y es util para convertir arcilla, piedra o cuarzo en esmeraldas segun sus intercambios.
+
+El clérigo usa soporte para pociones y suele ser importante por redstone, lapislazuli, glowstone o ender pearls segun nivel.
+
+El granjero usa compostador y es de los mejores aldeanos para empezar porque compra trigo, zanahorias, patatas, remolachas o calabazas en distintas fases.
+
+Los aldeanos solo reponen intercambios si estan vivos, tienen acceso a su bloque de trabajo y pueden seguir un horario valido.

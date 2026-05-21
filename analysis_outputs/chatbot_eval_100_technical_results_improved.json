@@ -1,0 +1,2420 @@
+[
+  {
+    "id": 1,
+    "category": "redstone_core",
+    "question": "Como funciona la fuerza de senal en redstone?",
+    "question_type": "mechanic",
+    "focus": "la fuerza de senal en redstone",
+    "focus_tokens": [
+      "fuerza",
+      "senal",
+      "redstone"
+    ],
+    "response": "La fuerza de una senal de redstone suele salir con intensidad 15 y va bajando a medida que recorre polvo de redstone.",
+    "response_chars": 117,
+    "response_time_ms": 2555.73,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "redstone_core",
+    "question": "Que diferencia hay entre un repetidor y un comparador?",
+    "question_type": "comparison",
+    "focus": "un repetidor y un comparador",
+    "focus_tokens": [
+      "repetidor",
+      "comparador"
+    ],
+    "response": "El repetidor sirve para extender senal, introducir retraso y bloquear senales laterales no deseadas. El comparador sirve para leer intensidad de contenedores y bloques especiales, comparar dos entradas o restar una senal a otra. El repetidor sirve principalmente para extender señal, retrasarla y evitar que se degrade en lineas largas.",
+    "response_chars": 336,
+    "response_time_ms": 672.94,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "redstone_core",
+    "question": "Por que un comparador da una intensidad distinta segun el contenedor?",
+    "question_type": "diagnostic",
+    "focus": "comparador da una intensidad distinta segun el contenedor",
+    "focus_tokens": [
+      "comparador",
+      "da",
+      "intensidad",
+      "distinta",
+      "segun",
+      "contenedor"
+    ],
+    "response": "Porque el comparador no lee solo si el contenedor esta lleno o vacio, sino cuanto contenido relativo tiene respecto a su capacidad total. El comparador puede leer cuanto contenido tiene un contenedor y convertirlo en una senal de distinta intensidad.",
+    "response_chars": 250,
+    "response_time_ms": 688.52,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "comparador_redstone_funcionamiento_especifico.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "redstone_core",
+    "question": "Como transportar redstone en vertical?",
+    "question_type": "general",
+    "focus": "como transportar redstone en vertical",
+    "focus_tokens": [
+      "transportar",
+      "redstone",
+      "vertical"
+    ],
+    "response": "1. Se puede hacer con columnas de antorchas, observadores enfrentados o combinaciones de pistones y bloques.\n2. La eleccion depende de si se necesita una subida rapida, una bajada compacta o un sistema facil de mantener.\n3. La antorcha actua como fuente de energia constante cuando el bloque al que esta conectada no recibe senal.",
+    "response_chars": 330,
+    "response_time_ms": 673.09,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "redstone_core",
+    "question": "Como hacer un pulso corto con redstone?",
+    "question_type": "general",
+    "focus": "como hacer un pulso corto con redstone",
+    "focus_tokens": [
+      "pulso",
+      "corto",
+      "redstone"
+    ],
+    "response": "1. Un pulso corto puede obtenerse con observadores, con un comparador en ciertos disenos o con un circuito monestable sencillo.\n2. Los pulsos cortos son utiles para pistones, dispensadores y mecanismos que no deben quedarse activados de forma continua.\n3. Elegir bien el sistema depende del espacio, de si se necesita pulso corto y de la direccion del circuito.\n4. El observador detecta cambios en el bloque que mira y emite un pulso corto.",
+    "response_chars": 440,
+    "response_time_ms": 653.75,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "redstone_core",
+    "question": "Como prolongar una senal de redstone?",
+    "question_type": "general",
+    "focus": "como prolongar una senal de redstone",
+    "focus_tokens": [
+      "prolongar",
+      "senal",
+      "redstone"
+    ],
+    "response": "1. Para alargar un pulso se suelen usar comparadores con bloques o contenedores, o sistemas con repetidores y retroalimentacion controlada.\n2. La fuerza de una senal de redstone suele salir con intensidad 15 y va bajando a medida que recorre polvo de redstone.\n3. La antorcha actua como fuente de energia constante cuando el bloque al que esta conectada no recibe senal.",
+    "response_chars": 370,
+    "response_time_ms": 793.87,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "redstone_core",
+    "question": "Como funciona un reloj de tolvas?",
+    "question_type": "mechanic",
+    "focus": "reloj de tolvas",
+    "focus_tokens": [
+      "reloj",
+      "tolvas"
+    ],
+    "response": "Dos tolvas enfrentadas que pasan items de una a otra generan una senal periodica que puede leerse con comparadores. Conviene usarlos con cuidado porque un reloj mal apagado puede generar ruido continuo y lag innecesario en la base. Un reloj puede construirse con repetidores, observadores o tolvas enfrentadas, pero conviene que tenga una forma clara de apagarse.",
+    "response_chars": 363,
+    "response_time_ms": 734.48,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "redstone_core",
+    "question": "Como bloquear una tolva con redstone?",
+    "question_type": "general",
+    "focus": "como bloquear una tolva con redstone",
+    "focus_tokens": [
+      "bloquear",
+      "tolva",
+      "redstone"
+    ],
+    "response": "1. Una tolva deja de transferir items cuando recibe energia de redstone.\n2. Bloquear una tolva con redstone impide temporalmente que mueva objetos, algo muy util en clasificadores.\n3. Una tolva alimentada no transfiere objetos con normalidad.",
+    "response_chars": 242,
+    "response_time_ms": 664.37,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "componentes_de_redstone.txt",
+      "tolva_y_objeto_flujo_resolucion.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "redstone_core",
+    "question": "Como funciona un clasificador de objetos con redstone?",
+    "question_type": "build",
+    "focus": "objetos con redstone",
+    "focus_tokens": [
+      "objetos",
+      "redstone"
+    ],
+    "response": "1. Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto.\n2. El clasificador tipico usa una tolva principal, una tolva de filtro, un comparador, una antorcha de redstone, un repetidor y bloques de soporte.\n3. Un sistema automatico de clasificacion de objetos con redstone suele basarse en tolvas, comparadores, antorchas de redstone y cofres.",
+    "response_chars": 442,
+    "response_time_ms": 721.59,
+    "top_sources": [
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "sistema_de_clasificacion_de_objetos.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "redstone_core",
+    "question": "Como evitar que un clasificador se rompa?",
+    "question_type": "general",
+    "focus": "como evitar que un clasificador se rompa",
+    "focus_tokens": [
+      "evitar",
+      "que",
+      "clasificador",
+      "se",
+      "rompa"
+    ],
+    "response": "1. Lo importante es calibrar bien el numero de items del filtro y usar nombres o rellenos que no puedan confundirse con objetos reales del sistema.\n2. Un clasificador de items sencillo suele usar una tolva de entrada, un comparador, una antorcha de redstone y una tolva de salida bloqueada por la señal.\n3. El clasificador tipico usa una tolva principal, una tolva de filtro, un comparador, una antorcha de redstone, un repetidor y bloques de soporte.",
+    "response_chars": 451,
+    "response_time_ms": 666.8,
+    "top_sources": [
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "clasificador_de_items_sencillo_especifico.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "redstone_core",
+    "question": "Como funciona una super smelter a nivel general?",
+    "question_type": "mechanic",
+    "focus": "super smelter a nivel general",
+    "focus_tokens": [
+      "super",
+      "smelter",
+      "nivel",
+      "general"
+    ],
+    "response": "Una super smelter reparte muchos items entre varios hornos para procesar grandes cantidades en paralelo.",
+    "response_chars": 104,
+    "response_time_ms": 852.88,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "redstone_core",
+    "question": "Por que una super smelter puede repartir mal los items?",
+    "question_type": "diagnostic",
+    "focus": "super smelter puede repartir mal los items",
+    "focus_tokens": [
+      "super",
+      "smelter",
+      "repartir",
+      "mal",
+      "items"
+    ],
+    "response": "Una super smelter reparte muchos items entre varios hornos para procesar grandes cantidades en paralelo. En supervivencia normal suele considerarse una desventaja porque dificulta recuperar equipo tras la muerte.",
+    "response_chars": 212,
+    "response_time_ms": 676.83,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "encantamientos_individuales_pesca_maldiciones_y_utilitarios.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "redstone_core",
+    "question": "Como usar goteros para ascensores de items?",
+    "question_type": "mechanic",
+    "focus": "goteros para ascensores de items",
+    "focus_tokens": [
+      "goteros",
+      "ascensores",
+      "items"
+    ],
+    "response": "Una cadena de goteros y observadores o comparadores puede subir items en vertical de forma compacta.",
+    "response_chars": 100,
+    "response_time_ms": 681.36,
+    "top_sources": [
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "usos_del_cubo_de_agua.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "redstone_core",
+    "question": "Como funciona una flying machine a nivel general?",
+    "question_type": "mechanic",
+    "focus": "flying machine a nivel general",
+    "focus_tokens": [
+      "flying",
+      "machine",
+      "nivel",
+      "general"
+    ],
+    "response": "Una flying machine usa pistones, observadores y bloques movibles para desplazarse por si sola.",
+    "response_chars": 94,
+    "response_time_ms": 750.08,
+    "top_sources": [
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "redstone_core",
+    "question": "Como aprovechar una flying machine en una granja?",
+    "question_type": "general",
+    "focus": "como aprovechar una flying machine en una granja",
+    "focus_tokens": [
+      "aprovechar",
+      "flying",
+      "machine",
+      "granja"
+    ],
+    "response": "1. La idea es que la maquina recorra una fila o superficie y vaya rompiendo o activando bloques a su paso.\n2. Esto compensa especialmente cuando la granja es demasiado ancha para resolverla con un solo modulo fijo.\n3. Una flying machine usa pistones, observadores y bloques movibles para desplazarse por si sola.\n4. Lo mas comun es aprovechar una granja de enderman, ya que estos sueltan perlas y experiencia en grandes cantidades.",
+    "response_chars": 431,
+    "response_time_ms": 660.32,
+    "top_sources": [
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "redstone_core",
+    "question": "Como funciona una memoria RS NOR en redstone?",
+    "question_type": "mechanic",
+    "focus": "memoria rs nor en redstone",
+    "focus_tokens": [
+      "memoria",
+      "rs",
+      "nor",
+      "redstone"
+    ],
+    "response": "Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto.",
+    "response_chars": 154,
+    "response_time_ms": 865.12,
+    "top_sources": [
+      "referencia_redstone_componentes_y_circuitos_extensa_parte_3.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "redstone_core",
+    "question": "Como hacer un T flip flop en redstone?",
+    "question_type": "general",
+    "focus": "como hacer un t flip flop en redstone",
+    "focus_tokens": [
+      "flip",
+      "flop",
+      "redstone"
+    ],
+    "response": "Un T flip flop convierte un pulso breve en un cambio de estado sostenido, alternando encendido y apagado cada vez que recibe una nueva senal.",
+    "response_chars": 141,
+    "response_time_ms": 658.45,
+    "top_sources": [
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "trampa_con_redstone_basica.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "redstone_core",
+    "question": "Por que un observador no activa lo que yo esperaba?",
+    "question_type": "diagnostic",
+    "focus": "observador no activa lo que yo esperaba",
+    "focus_tokens": [
+      "observador",
+      "no",
+      "activa",
+      "lo",
+      "que",
+      "yo",
+      "esperaba"
+    ],
+    "response": "Normalmente porque esta orientado al reves, porque detecta el bloque incorrecto o porque lo que produce es un pulso demasiado corto para el mecanismo final.",
+    "response_chars": 156,
+    "response_time_ms": 678.81,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "bloques_y_materiales.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "redstone_core",
+    "question": "Por que una puerta de pistones se abre pero no se cierra bien?",
+    "question_type": "diagnostic",
+    "focus": "puerta de pistones se abre pero no se cierra bien",
+    "focus_tokens": [
+      "puerta",
+      "pistones",
+      "se",
+      "abre",
+      "pero",
+      "no",
+      "se",
+      "cierra",
+      "bien"
+    ],
+    "response": "Suele deberse a retrasos mal ajustados, a un piston orientado de forma incorrecta o a una secuencia de cierre que ocurre demasiado pronto. Las puertas de pistones fallan muchas veces por sincronizacion, no por falta de potencia.",
+    "response_chars": 228,
+    "response_time_ms": 672.42,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "redstone_core",
+    "question": "Como disenar redstone modular?",
+    "question_type": "build",
+    "focus": "redstone modular",
+    "focus_tokens": [
+      "redstone",
+      "modular"
+    ],
+    "response": "1. Un sistema modular separa claramente entrada, procesamiento, accion y almacenamiento.\n2. La redstone avanzada no significa solo hacer puertas escondidas, sino construir sistemas mantenibles, modulares y capaces de integrarse con granjas, almacenamiento, hornos y transporte de items.\n3. La redstone puede usarse tanto para comodidad simple como para granjas complejas y sistemas tecnicos.",
+    "response_chars": 391,
+    "response_time_ms": 799.12,
+    "top_sources": [
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "referencia_redstone_pistones_memorias_y_maquinas_extensa_parte_6.txt",
+      "conceptos_basicos_de_redstone.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja automatica de hierro?",
+    "question_type": "build",
+    "focus": "automatica de hierro",
+    "focus_tokens": [
+      "automatica",
+      "hierro"
+    ],
+    "response": "1. Una granja automatica de hierro suele construirse con varios aldeanos, camas y un sistema que haga aparecer golems de hierro en una zona controlada.\n2. El hierro automatico no solo da lingotes, tambien permite fabricar yunques, tolvas, herramientas y bloques necesarios para la base tecnica.",
+    "response_chars": 294,
+    "response_time_ms": 728.89,
+    "top_sources": [
+      "granja_de_hierro_pasos_especificos.txt",
+      "hierro_granja_mecanicas.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 22,
+    "category": "farms_overworld",
+    "question": "Por que una granja de hierro no genera golems aunque tiene aldeanos y camas?",
+    "question_type": "diagnostic",
+    "focus": "granja de hierro no genera golems aunque tiene aldeanos y camas",
+    "focus_tokens": [
+      "granja",
+      "hierro",
+      "no",
+      "genera",
+      "golems",
+      "aunque",
+      "tiene",
+      "aldeanos",
+      "camas"
+    ],
+    "response": "Tener aldeanos y camas no basta por si solo, porque tambien importa el punto de spawn del golem, la validez de la aldea y la condicion concreta que dispara el comportamiento del diseno. Lo normal es revisar si los aldeanos reconocen bien sus camas, si el sistema de panico o deteccion de amenaza esta funcionando y si existe alguna zona alternativa donde los golems puedan aparecer.",
+    "response_chars": 382,
+    "response_time_ms": 674.13,
+    "top_sources": [
+      "granja_de_hierro_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_hierro_troubleshooting_y_optimizacion_avanzada.txt",
+      "preguntas_tecnicas_granjas_dificiles_avanzadas_parte_2.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "farms_overworld",
+    "question": "Como diagnosticar una granja de hierro paso a paso?",
+    "question_type": "diagnostic",
+    "focus": "una granja de hierro paso a paso",
+    "focus_tokens": [
+      "granja",
+      "hierro",
+      "paso",
+      "paso"
+    ],
+    "response": "Lo normal es revisar si los aldeanos reconocen bien sus camas, si el sistema de panico o deteccion de amenaza esta funcionando y si existe alguna zona alternativa donde los golems puedan aparecer. Si un golem spawnea fuera del area prevista, la granja puede parecer rota aunque en realidad este funcionando mal orientada. Conviene revisar primero la definicion de la aldea, luego la zona donde spawnean los pillagers, despues la camara de muerte y por ultimo el tratamiento de drops y del bad omen.",
+    "response_chars": 498,
+    "response_time_ms": 715.44,
+    "top_sources": [
+      "granja_de_hierro_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt",
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de creepers?",
+    "question_type": "build",
+    "focus": "creepers",
+    "focus_tokens": [
+      "creepers"
+    ],
+    "response": "1. Una granja automatica de creepers suele construirse con plataformas oscuras donde puedan aparecer creepers, mientras se limita o bloquea la aparicion de otros mobs.\n2. Las granjas de creepers buscan filtrar otros mobs mediante altura limitada, trampillas y el uso de gatos para asustarlos.\n3. Suele filtrar otros mobs usando altura limitada, trampillas y gatos que asustan a los creepers hacia una zona de muerte.",
+    "response_chars": 416,
+    "response_time_ms": 733.54,
+    "top_sources": [
+      "granja_de_creepers_funcionamiento_especifico.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 25,
+    "category": "farms_overworld",
+    "question": "Por que una granja de creepers da menos polvora de la esperada?",
+    "question_type": "diagnostic",
+    "focus": "granja de creepers da menos polvora de la esperada",
+    "focus_tokens": [
+      "granja",
+      "creepers",
+      "da",
+      "menos",
+      "polvora",
+      "esperada"
+    ],
+    "response": "Lo normal es que esten spawneando otros mobs, que los gatos no esten empujando bien a los creepers o que el entorno siga generando spawn fuera del modulo. La polvora se acumula rapido, asi que una salida limpia hacia almacenamiento evita perdidas y hace mas comodo el uso real de la granja. Si el punto de AFK no esta bien pensado, la granja puede rendir mucho menos aunque la torre este construida correctamente.",
+    "response_chars": 413,
+    "response_time_ms": 791.91,
+    "top_sources": [
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "farms_overworld",
+    "question": "Como diagnosticar una granja de creepers paso a paso?",
+    "question_type": "diagnostic",
+    "focus": "una granja de creepers paso a paso",
+    "focus_tokens": [
+      "granja",
+      "creepers",
+      "paso",
+      "paso"
+    ],
+    "response": "Si cualquiera de esas tres partes falla, la granja sigue teniendo spawn, pero deja de estar centrada realmente en creepers.",
+    "response_chars": 123,
+    "response_time_ms": 736.89,
+    "top_sources": [
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_hierro_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja hostil general de torre?",
+    "question_type": "build",
+    "focus": "hostil general de torre",
+    "focus_tokens": [
+      "hostil",
+      "general",
+      "torre"
+    ],
+    "response": "1. Suele basarse en varias plataformas oscuras donde spawnean mobs y un sistema que los empuja a una camara de caida.\n2. El rendimiento mejora si la granja se construye en altura o sobre oceano para reducir spawns fuera del sistema.",
+    "response_chars": 232,
+    "response_time_ms": 742.59,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "farms_overworld",
+    "question": "Por que mi granja de mobs general produce peor de noche cerca de mi base?",
+    "question_type": "diagnostic",
+    "focus": "granja de mobs general produce peor de noche cerca de mi base",
+    "focus_tokens": [
+      "granja",
+      "mobs",
+      "general",
+      "produce",
+      "peor",
+      "noche",
+      "cerca",
+      "mi",
+      "base"
+    ],
+    "response": "Porque aunque sea de noche, la base, cuevas cercanas o superficie del entorno pueden estar ofreciendo muchisimos puntos de spawn alternativos. Iluminar cuevas y superficie cercana reduce spawns no deseados y concentra la produccion en la granja.",
+    "response_chars": 245,
+    "response_time_ms": 702.89,
+    "top_sources": [
+      "preguntas_tecnicas_granjas_dificiles_avanzadas_parte_2.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja automatica de cana de azucar?",
+    "question_type": "build",
+    "focus": "automatica de cana de azucar",
+    "focus_tokens": [
+      "automatica",
+      "cana",
+      "azucar"
+    ],
+    "response": "1. Luego la cana cae a agua, tolvas o vagonetas con tolva para almacenarse automaticamente.\n2. Una granja automatica de cana de azucar suele usar agua, arena o tierra junto a agua, observadores, pistones y un sistema de recogida con tolvas o minecarts.",
+    "response_chars": 252,
+    "response_time_ms": 738.24,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granja_automatica_de_cana_de_azucar_especifica.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja automatica de bambu?",
+    "question_type": "build",
+    "focus": "automatica de bambu",
+    "focus_tokens": [
+      "automatica",
+      "bambu"
+    ],
+    "response": "1. El bambu puede cultivarse en lineas compactas con observadores y pistones, igual que la cana de azucar.\n2. Una granja de bambu suele usar observadores y pistones para romper el bambu cuando alcanza cierta altura.\n3. El bambu crece rapido y sirve como combustible, decoracion, andamios y apoyo para algunas cadenas de produccion automatica.",
+    "response_chars": 342,
+    "response_time_ms": 863.9,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granja_de_bambu_funcionamiento_especifico.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "farms_overworld",
+    "question": "Como automatizar melon y calabaza?",
+    "question_type": "general",
+    "focus": "como automatizar melon y calabaza",
+    "focus_tokens": [
+      "automatizar",
+      "melon",
+      "calabaza"
+    ],
+    "response": "1. Se suelen plantar los tallos delante de una casilla libre y colocar un observador que detecte el fruto cuando aparece.\n2. Un piston rompe el melon o la calabaza y un sistema de agua o tolvas recoge el drop.\n3. El tallo produce el fruto en una casilla adyacente y un observador puede detectar ese cambio para activar un piston.\n4. Las calabazas y los melones crecen de forma distinta al trigo o las patatas.",
+    "response_chars": 409,
+    "response_time_ms": 648.1,
+    "top_sources": [
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_de_calabaza_y_melon.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja automatica de kelp?",
+    "question_type": "build",
+    "focus": "automatica de kelp",
+    "focus_tokens": [
+      "automatica",
+      "kelp"
+    ],
+    "response": "El kelp puede cultivarse en columnas de agua y romperse con pistones cuando alcanza cierta altura.",
+    "response_chars": 98,
+    "response_time_ms": 737.02,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "referencia_redstone_y_granjas_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de miel y panales?",
+    "question_type": "build",
+    "focus": "miel y panales",
+    "focus_tokens": [
+      "miel",
+      "panales"
+    ],
+    "response": "Si el objetivo principal no es la miel embotellada sino los panales, conviene priorizar dispensadores con tijeras y una recogida muy limpia.",
+    "response_chars": 140,
+    "response_time_ms": 748.83,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "granja_de_miel_funcionamiento_especifico.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "farms_overworld",
+    "question": "Como automatizar una granja de lana?",
+    "question_type": "general",
+    "focus": "como automatizar una granja de lana",
+    "focus_tokens": [
+      "automatizar",
+      "granja",
+      "lana"
+    ],
+    "response": "1. Con ovejas encerradas, dispensadores con tijeras y observadores que detectan el recrecimiento de la hierba o el estado de la lana, se pueden obtener sistemas de color fijo muy utiles para bloques decorativos o intercambios.\n2. Las granjas de ovejas pueden orientarse a lana, carne o ambas cosas, pero la automatizacion mas comun es la de lana con tijeras y observadores.\n3. Conviene separar especies, automatizar la recogida donde sea posible y dejar suficiente espacio de reproduccion o paso.",
+    "response_chars": 496,
+    "response_time_ms": 678.18,
+    "top_sources": [
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de tinta o calamares?",
+    "question_type": "build",
+    "focus": "tinta o calamares",
+    "focus_tokens": [
+      "tinta",
+      "calamares"
+    ],
+    "response": "Estas granjas aprovechan condiciones concretas de spawn acuatico y una zona donde los calamares son conducidos a una camara de muerte.",
+    "response_chars": 134,
+    "response_time_ms": 851.22,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "mobs_pasivos.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de glow squid?",
+    "question_type": "build",
+    "focus": "glow squid",
+    "focus_tokens": [
+      "glow",
+      "squid"
+    ],
+    "response": "Requiere condiciones acuaticas y de altura concretas para favorecer el spawn de glow squids y despues conducirlos hacia una muerte automatica.",
+    "response_chars": 142,
+    "response_time_ms": 728.0,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "glow_squid_mob_especifico.txt",
+      "referencia_mobs_pasivos_y_utilitarios_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de lava renovable con dripstone?",
+    "question_type": "build",
+    "focus": "lava renovable con dripstone",
+    "focus_tokens": [
+      "lava",
+      "renovable",
+      "dripstone"
+    ],
+    "response": "1. Se utilizan calderos, pointed dripstone y lava sobre un bloque adecuado para ir llenando los calderos con el tiempo.\n2. Se basa en la interaccion entre lava, soul soil y blue ice para generar basalt renovable.",
+    "response_chars": 212,
+    "response_time_ms": 723.49,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de musgo y bone meal?",
+    "question_type": "build",
+    "focus": "musgo y bone meal",
+    "focus_tokens": [
+      "musgo",
+      "bone",
+      "meal"
+    ],
+    "response": "1. El musgo puede expandirse y producir vegetacion que luego se rompe para obtener compostable y convertirlo en harina de hueso.\n2. El compostador convierte muchos objetos vegetales en bone meal.",
+    "response_chars": 195,
+    "response_time_ms": 739.97,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "compostador_funcionamiento_basico.txt",
+      "referencia_recursos_y_materiales_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de piedra o cobblestone?",
+    "question_type": "build",
+    "focus": "piedra o cobblestone",
+    "focus_tokens": [
+      "piedra",
+      "cobblestone"
+    ],
+    "response": "1. El cobblestone generator clasico usa agua y lava colocadas de forma segura.\n2. La piedra lisa se obtiene fundiendo piedra normal y se usa en recetas como el alto horno.",
+    "response_chars": 171,
+    "response_time_ms": 745.59,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "referencia_redstone_y_granjas_extensa_parte_2.txt",
+      "bloques_y_materiales.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "farms_overworld",
+    "question": "Como funciona una granja de basalt?",
+    "question_type": "build",
+    "focus": "basalt",
+    "focus_tokens": [
+      "basalt"
+    ],
+    "response": "Se basa en la interaccion entre lava, soul soil y blue ice para generar basalt renovable.",
+    "response_chars": 89,
+    "response_time_ms": 872.59,
+    "top_sources": [
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt",
+      "dimension_nether.txt",
+      "biomas_del_nether.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "farms_nether_end",
+    "question": "Como funciona una gold farm del Nether?",
+    "question_type": "mechanic",
+    "focus": "gold farm del nether",
+    "focus_tokens": [
+      "gold",
+      "farm",
+      "nether"
+    ],
+    "response": "Estas granjas buscan concentrar mucho spawn de piglins zombificados y guiarlos a una zona de muerte o de remate. Lo importante es mejorar el area de spawn util, reducir recorridos hasta la camara de muerte y asegurar que los drops se recojan sin atasco. Normalmente se usa un sistema grande en el Nether para provocar mucho spawn y despues atraerlos con huevos o mecanismos equivalentes hacia la muerte.",
+    "response_chars": 403,
+    "response_time_ms": 729.09,
+    "top_sources": [
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "farms_nether_end",
+    "question": "Como optimizar una gold farm del Nether?",
+    "question_type": "optimization",
+    "focus": "gold farm del nether",
+    "focus_tokens": [
+      "gold",
+      "farm",
+      "nether"
+    ],
+    "response": "Lo importante es mejorar el area de spawn util, reducir recorridos hasta la camara de muerte y asegurar que los drops se recojan sin atasco. Si ademas se integra con almacenamiento o bartering, el valor practico de la granja sube mucho.",
+    "response_chars": 236,
+    "response_time_ms": 758.62,
+    "top_sources": [
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "farms_nether_end",
+    "question": "Como combinar una gold farm con bartering automatico?",
+    "question_type": "general",
+    "focus": "como combinar una gold farm con bartering automatico",
+    "focus_tokens": [
+      "combinar",
+      "gold",
+      "farm",
+      "bartering",
+      "automatico"
+    ],
+    "response": "1. El oro producido puede transformarse en lingotes y enviarse a piglins atrapados para obtener cuarzo, obsidiana, cuerda, grava, perlas y otros recursos.\n2. Se nota cuando no solo produce oro, sino que ese oro alimenta otros sistemas utiles, como bartering, almacenamiento tecnico o experiencia para reparar equipo con Mending.\n3. Compensa cuando ademas de experiencia se quiere oro renovable y acceso a bartering.",
+    "response_chars": 415,
+    "response_time_ms": 700.95,
+    "top_sources": [
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de wither skeletons?",
+    "question_type": "build",
+    "focus": "wither skeletons",
+    "focus_tokens": [
+      "wither",
+      "skeletons"
+    ],
+    "response": "Se basa en una fortaleza del Nether bien controlada para favorecer el spawn de wither skeletons frente a otros mobs.",
+    "response_chars": 116,
+    "response_time_ms": 726.51,
+    "top_sources": [
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granja_de_wither_skeletons_optimizacion_especifica.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "farms_nether_end",
+    "question": "Como optimizar una granja de wither skeletons?",
+    "question_type": "optimization",
+    "focus": "granja de wither skeletons",
+    "focus_tokens": [
+      "granja",
+      "wither",
+      "skeletons"
+    ],
+    "response": "Conviene limpiar bien la fortaleza, reducir spawns alternativos y asegurar que los wither skeletons recorren rapido la ruta hacia la muerte o el remate.",
+    "response_chars": 152,
+    "response_time_ms": 903.57,
+    "top_sources": [
+      "granja_de_wither_skeletons_optimizacion_especifica.txt",
+      "granja_de_wither_skeletons_optimizacion_especifica.txt",
+      "granja_de_wither_skeletons_optimizacion_especifica.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de blazes basada en spawner?",
+    "question_type": "build",
+    "focus": "blazes basada en spawner",
+    "focus_tokens": [
+      "blazes",
+      "basada",
+      "spawner"
+    ],
+    "response": "1. El spawner genera blazes en un volumen fijo y el diseno tecnico se encarga de reunirlos con agua donde sea posible, canales especiales o caidas, y llevarlos a una camara de muerte.\n2. Se aprovecha un spawner de fortalezas del Nether y se canaliza a los blazes hacia una camara donde el jugador o un sistema los elimina.",
+    "response_chars": 322,
+    "response_time_ms": 732.93,
+    "top_sources": [
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "granjas_especificas_overworld_hostiles_y_utilidad_extensa_parte_8.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de hoglins?",
+    "question_type": "build",
+    "focus": "hoglins",
+    "focus_tokens": [
+      "hoglins"
+    ],
+    "response": "1. Los hoglins pueden dirigirse usando hongos distorsionados y otras mecanicas del Nether hasta una zona de muerte.\n2. Los hoglins spawnean en ciertas zonas del Nether y pueden canalizarse con hongos distorsionados, caidas o lava.",
+    "response_chars": 230,
+    "response_time_ms": 729.57,
+    "top_sources": [
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de magma cubes?",
+    "question_type": "build",
+    "focus": "magma cubes",
+    "focus_tokens": [
+      "magma",
+      "cubes"
+    ],
+    "response": "1. Los magma cubes pueden usarse como base para granjas de crema de magma y, en versiones mas avanzadas, para generar froglights al combinarlos con ranas.\n2. Se basa en hacer que ranas maten determinados magma cubes pequenos en un entorno controlado.",
+    "response_chars": 250,
+    "response_time_ms": 733.24,
+    "top_sources": [
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de froglights?",
+    "question_type": "build",
+    "focus": "froglights",
+    "focus_tokens": [
+      "froglights"
+    ],
+    "response": "1. Se basa en hacer que ranas maten determinados magma cubes pequenos en un entorno controlado.\n2. Los magma cubes pueden usarse como base para granjas de crema de magma y, en versiones mas avanzadas, para generar froglights al combinarlos con ranas.",
+    "response_chars": 250,
+    "response_time_ms": 864.06,
+    "top_sources": [
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de enderman en el End?",
+    "question_type": "build",
+    "focus": "enderman en el end",
+    "focus_tokens": [
+      "enderman",
+      "end"
+    ],
+    "response": "Si el objetivo no son tanto las perlas sino la experiencia, el diseno puede priorizar la velocidad de spawn, agrupacion y remate de enderman.",
+    "response_chars": 141,
+    "response_time_ms": 760.3,
+    "top_sources": [
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "farms_nether_end",
+    "question": "Por que una granja de enderman produce menos experiencia de la esperada?",
+    "question_type": "diagnostic",
+    "focus": "granja de enderman produce menos experiencia de la esperada",
+    "focus_tokens": [
+      "granja",
+      "enderman",
+      "produce",
+      "menos",
+      "experiencia",
+      "esperada"
+    ],
+    "response": "Suele pasar por una mala posicion de AFK, por construir demasiado cerca de otras superficies del End o por un sistema de agrupacion que no atrae bien a los enderman. En este tipo de granja, el entorno y el punto de jugador importan tanto como la plataforma central. Conviene reducir el tiempo entre spawn y remate, dejar una camara muy accesible al jugador y mantener el sistema limpio de entidades sobrantes.",
+    "response_chars": 409,
+    "response_time_ms": 664.41,
+    "top_sources": [
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "farms_nether_end",
+    "question": "Como optimizar una granja de enderman para XP?",
+    "question_type": "optimization",
+    "focus": "granja de enderman para xp",
+    "focus_tokens": [
+      "granja",
+      "enderman",
+      "xp"
+    ],
+    "response": "Conviene reducir el tiempo entre spawn y remate, dejar una camara muy accesible al jugador y mantener el sistema limpio de entidades sobrantes. Si el objetivo principal es experiencia, la clave es que los enderman lleguen rapido y en grupos manejables. Si ademas de XP importan las perlas, merece la pena cuidar almacenamiento, ritmo de recogida y limpieza del area final para que no se pierdan drops. Lo mejor es dividirla en plataforma de spawn, sistema de concentracion o atraccion, camara de remate y almacenamiento de drops.",
+    "response_chars": 529,
+    "response_time_ms": 736.59,
+    "top_sources": [
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt",
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de guardianes?",
+    "question_type": "build",
+    "focus": "guardianes",
+    "focus_tokens": [
+      "guardianes"
+    ],
+    "response": "1. Lo mas claro es dividirla en control del area de spawn, transporte de entidades, camara de muerte o remate y almacenamiento de drops.\n2. Aprovecha la estructura del ocean monument y sus condiciones de spawn particulares.\n3. Son frecuentes los fallos de limpieza parcial del monumento, corrientes de agua mal cerradas, zonas donde los guardianes se atascan y puntos donde el jugador se coloca demasiado cerca o demasiado lejos.",
+    "response_chars": 429,
+    "response_time_ms": 725.97,
+    "top_sources": [
+      "granja_de_guardianes_optimizacion_y_diagnostico_especifico.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "granja_de_guardianes_optimizacion_y_diagnostico_especifico.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "farms_nether_end",
+    "question": "Por que una granja de guardianes produce menos de lo esperado?",
+    "question_type": "diagnostic",
+    "focus": "granja de guardianes produce menos de lo esperado",
+    "focus_tokens": [
+      "granja",
+      "guardianes",
+      "produce",
+      "menos",
+      "lo",
+      "esperado"
+    ],
+    "response": "Suele pasar si la zona no esta suficientemente aislada, si todavia hay espacios validos de spawn fuera de la camara principal o si la recogida y eliminacion de guardianes es lenta. En este tipo de granja el entorno importa muchisimo, no solo el modulo central. Muchas veces el cuello de botella esta en recorridos demasiado largos, limpieza incompleta del entorno o recogida deficiente de entidades y drops.",
+    "response_chars": 407,
+    "response_time_ms": 785.18,
+    "top_sources": [
+      "granja_de_guardianes_optimizacion_y_diagnostico_especifico.txt",
+      "granja_de_guardianes_troubleshooting_y_optimizacion_avanzada_2.txt",
+      "granja_de_guardianes_troubleshooting_y_optimizacion_avanzada_2.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "farms_nether_end",
+    "question": "Como optimizar una granja de guardianes para prismarina y experiencia?",
+    "question_type": "optimization",
+    "focus": "granja de guardianes para prismarina y experiencia",
+    "focus_tokens": [
+      "granja",
+      "guardianes",
+      "prismarina",
+      "experiencia"
+    ],
+    "response": "Si ademas el almacenamiento esta bien dimensionado, la granja puede mantenerse funcionando durante mucho tiempo sin supervision constante. Si el objetivo principal es material de construccion, conviene priorizar estabilidad, recogida limpia y almacenamiento suficiente antes que buscar solo experiencia.",
+    "response_chars": 303,
+    "response_time_ms": 722.0,
+    "top_sources": [
+      "granja_de_guardianes_optimizacion_y_diagnostico_especifico.txt",
+      "granja_de_guardianes_troubleshooting_y_optimizacion_avanzada_2.txt",
+      "granja_de_guardianes_troubleshooting_y_optimizacion_avanzada_2.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de shulkers para shells?",
+    "question_type": "build",
+    "focus": "shulkers para shells",
+    "focus_tokens": [
+      "shulkers",
+      "shells"
+    ],
+    "response": "1. Estas granjas intentan mantener shulkers en un espacio controlado y automatizar el proceso de eliminacion o reproduccion segun la version y el diseno.\n2. Su valor tecnico es muy alto porque las shulker shells son importantes para almacenamiento avanzado.\n3. Estas granjas son mas avanzadas porque requieren transportar o reproducir shulkers en condiciones controladas y despues automatizar su eliminacion.\n4. Las shulker shells obtenidas de shulkers sirven para fabricar shulker boxes.",
+    "response_chars": 488,
+    "response_time_ms": 754.48,
+    "top_sources": [
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt",
+      "granjas_automaticas_nether_end_y_estructuras_extensa_parte_6.txt",
+      "ciudades_del_end_y_elytra.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "farms_nether_end",
+    "question": "Como funciona una granja de raids para totems?",
+    "question_type": "build",
+    "focus": "raids para totems",
+    "focus_tokens": [
+      "raids",
+      "totems"
+    ],
+    "response": "1. El objetivo principal de muchas raid farms es automatizar la obtencion de totems de inmortalidad, ademas de esmeraldas y otros drops.\n2. Ademas de totems, las raid farms producen muchos objetos comerciables o directamente valiosos, y pueden disparar el suministro de esmeraldas de la base.\n3. Es una de las mejores infraestructuras si el jugador ya domina aldeanos y almacenamiento.\n4. Las granjas de incursiones aprovechan la mecanica de aldeas y pillagers para encadenar raids de forma controlada.",
+    "response_chars": 502,
+    "response_time_ms": 764.73,
+    "top_sources": [
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "farms_nether_end",
+    "question": "Por que una raid farm puede quedarse a medio ciclo aunque las primeras oleadas funcionen?",
+    "question_type": "diagnostic",
+    "focus": "raid farm puede quedarse a medio ciclo aunque las primeras oleadas funcionen",
+    "focus_tokens": [
+      "raid",
+      "farm",
+      "quedarse",
+      "medio",
+      "ciclo",
+      "aunque",
+      "primeras",
+      "oleadas",
+      "funcionen"
+    ],
+    "response": "Lo mas comun es que algun pillager quede fuera de la zona prevista, que la aldea este mal definida o que el jugador no mantenga correctamente el estado necesario para encadenar raids.",
+    "response_chars": 183,
+    "response_time_ms": 810.35,
+    "top_sources": [
+      "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt",
+      "granja_de_raids_optimizacion_y_diagnostico_especifico.txt",
+      "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "farms_nether_end",
+    "question": "Como optimizar una raid farm para totems?",
+    "question_type": "optimization",
+    "focus": "raid farm para totems",
+    "focus_tokens": [
+      "raid",
+      "farm",
+      "totems"
+    ],
+    "response": "Conviene asegurar oleadas rapidas, una eliminacion eficiente de mobs y un almacenamiento preparado para drops variados. Si el objetivo principal son totems de inmortalidad, conviene asegurar oleadas rapidas, limpieza completa de enemigos y almacenamiento ordenado.",
+    "response_chars": 264,
+    "response_time_ms": 749.22,
+    "top_sources": [
+      "granja_de_raids_optimizacion_y_diagnostico_especifico.txt",
+      "granja_de_raids_troubleshooting_y_optimizacion_avanzada_2.txt",
+      "granja_de_raids_optimizacion_y_diagnostico_especifico.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "farms_nether_end",
+    "question": "Como decidir entre gold farm y enderman farm para experiencia?",
+    "question_type": "general",
+    "focus": "como decidir entre gold farm y enderman farm para experiencia",
+    "focus_tokens": [
+      "decidir",
+      "gold",
+      "farm",
+      "enderman",
+      "farm",
+      "experiencia"
+    ],
+    "response": "1. La granja de enderman suele ser muy directa y simple como fuente de XP, mientras que la gold farm puede aportar ademas oro y acceso a bartering.\n2. Si el jugador quiere polivalencia, la gold farm gana valor; si quiere simplicidad, la enderman farm suele ser excelente.",
+    "response_chars": 271,
+    "response_time_ms": 674.66,
+    "top_sources": [
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt",
+      "granja_de_gold_farm_y_bartering_optimizacion_especifica.txt",
+      "granja_de_enderman_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "villagers_storage",
+    "question": "Como funciona una trading hall de aldeanos?",
+    "question_type": "build",
+    "focus": "aldeanos",
+    "focus_tokens": [
+      "aldeanos"
+    ],
+    "response": "1. Una trading hall organiza aldeanos por profesiones para tener intercambios accesibles, repetibles y faciles de reponer.\n2. Su valor no esta solo en comerciar mas comodo, sino en transformar aldeanos en una infraestructura central de progreso.\n3. Un breeder necesita camas suficientes, comida y una distribucion que permita que los aldeanos consideren valido el espacio de cria.\n4. Algunos sistemas buscan curar aldeanos zombie o explotar mecanicas de reputacion para abaratar intercambios.",
+    "response_chars": 492,
+    "response_time_ms": 727.28,
+    "top_sources": [
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "villagers_storage",
+    "question": "Por que una trading hall puede dejar de ser estable?",
+    "question_type": "diagnostic",
+    "focus": "trading hall puede dejar de ser estable",
+    "focus_tokens": [
+      "trading",
+      "hall",
+      "dejar",
+      "ser",
+      "estable"
+    ],
+    "response": "Lo normal es que haya problemas de vinculacion con camas o bloques de trabajo, aldeanos mal posicionados o mezcla accidental con otras aldeas cercanas. Conviene revisar si cada aldeano reconoce su bloque de trabajo, si el acceso del jugador es comodo y si el modulo de breeder o de descuentos no esta interfiriendo con la zona principal. La trading hall no es solo un conjunto de aldeanos: es una infraestructura que debe mantener relaciones estables.",
+    "response_chars": 451,
+    "response_time_ms": 668.86,
+    "top_sources": [
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "villagers_storage",
+    "question": "Como diagnosticar una trading hall?",
+    "question_type": "diagnostic",
+    "focus": "una trading hall",
+    "focus_tokens": [
+      "trading",
+      "hall"
+    ],
+    "response": "Conviene revisar si cada aldeano reconoce su bloque de trabajo, si el acceso del jugador es comodo y si el modulo de breeder o de descuentos no esta interfiriendo con la zona principal. La trading hall no es solo un conjunto de aldeanos: es una infraestructura que debe mantener relaciones estables. Lo normal es priorizar bibliotecarios bien organizados, acceso rapido del jugador y un metodo comodo para reemplazar ofertas cuando no interesan.",
+    "response_chars": 445,
+    "response_time_ms": 720.96,
+    "top_sources": [
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 64,
+    "category": "villagers_storage",
+    "question": "Como optimizar una trading hall para libros encantados?",
+    "question_type": "optimization",
+    "focus": "trading hall para libros encantados",
+    "focus_tokens": [
+      "trading",
+      "hall",
+      "libros",
+      "encantados"
+    ],
+    "response": "Lo normal es priorizar bibliotecarios bien organizados, acceso rapido del jugador y un metodo comodo para reemplazar ofertas cuando no interesan. Si la base usa mucho comercio, conviene combinar bibliotecarios con granjeros, flecheros, clerigos y otros aldeanos utiles. Optimizar un trading hall incluye seguridad, acceso y reposicion de puestos.",
+    "response_chars": 346,
+    "response_time_ms": 838.29,
+    "top_sources": [
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "referencia_redstone_y_granjas_extensa_parte_1.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "villagers_storage",
+    "question": "Como se consiguen bibliotecarios utiles de forma eficiente?",
+    "question_type": "general",
+    "focus": "como se consiguen bibliotecarios utiles de forma eficiente",
+    "focus_tokens": [
+      "se",
+      "consiguen",
+      "bibliotecarios",
+      "utiles",
+      "forma",
+      "eficiente"
+    ],
+    "response": "1. Lo habitual es bloquear y desbloquear la profesion con el bloque de trabajo hasta obtener el libro deseado en la primera oferta.\n2. Los granjeros, flecheros y bibliotecarios pueden ser especialmente utiles segun los recursos disponibles.\n3. Los bibliotecarios suelen ser una prioridad por libros encantados, pero granjeros, herreros, clerigos y otros tambien pueden ser muy utiles.",
+    "response_chars": 384,
+    "response_time_ms": 677.21,
+    "top_sources": [
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "esmeraldas_conseguir_rapido_especifico.txt",
+      "aldeano_comercio_sala_flujo.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "villagers_storage",
+    "question": "Como funciona un breeder de aldeanos?",
+    "question_type": "mechanic",
+    "focus": "breeder de aldeanos",
+    "focus_tokens": [
+      "breeder",
+      "aldeanos"
+    ],
+    "response": "Un breeder necesita camas suficientes, comida y una distribucion que permita que los aldeanos consideren valido el espacio de cria.",
+    "response_chars": 131,
+    "response_time_ms": 745.23,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "villagers_storage",
+    "question": "Como evitar problemas en una granja de aldeanos?",
+    "question_type": "general",
+    "focus": "como evitar problemas en una granja de aldeanos",
+    "focus_tokens": [
+      "evitar",
+      "problemas",
+      "granja",
+      "aldeanos"
+    ],
+    "response": "1. Muchos fallos vienen de camas mal colocadas, bloqueos de camino, aldeanos sin comida suficiente o conexiones con otras aldeas cercanas.\n2. Conviene aislar bien la granja y comprobar que cada aldeano mantiene el comportamiento esperado.\n3. Si el objetivo es progresion estable, comercio y acceso fiable a encantamientos, los aldeanos suelen ser de lo mejor que se puede montar en mid game.",
+    "response_chars": 391,
+    "response_time_ms": 674.29,
+    "top_sources": [
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "villagers_storage",
+    "question": "Como se combina una trading hall con un breeder?",
+    "question_type": "general",
+    "focus": "como se combina una trading hall con un breeder",
+    "focus_tokens": [
+      "se",
+      "combina",
+      "trading",
+      "hall",
+      "breeder"
+    ],
+    "response": "El breeder produce nuevos aldeanos y la trading hall los recibe, clasifica y asigna profesiones segun el objetivo del jugador.",
+    "response_chars": 126,
+    "response_time_ms": 824.95,
+    "top_sources": [
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt",
+      "trading_hall_de_aldeanos_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "villagers_storage",
+    "question": "Como funciona una granja de esmeraldas a traves de comercio?",
+    "question_type": "build",
+    "focus": "esmeraldas a traves de comercio",
+    "focus_tokens": [
+      "esmeraldas",
+      "traves",
+      "comercio"
+    ],
+    "response": "No siempre es una granja automatica clasica, pero una buena infraestructura de aldeanos convierte cultivos, papel, palos, carne o drops de granjas en esmeraldas de forma continua.",
+    "response_chars": 179,
+    "response_time_ms": 725.61,
+    "top_sources": [
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_especificas_nether_end_y_avanzadas_extensa_parte_9.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "villagers_storage",
+    "question": "Como conectar cultivos automaticos con aldeanos?",
+    "question_type": "general",
+    "focus": "como conectar cultivos automaticos con aldeanos",
+    "focus_tokens": [
+      "conectar",
+      "cultivos",
+      "automaticos",
+      "aldeanos"
+    ],
+    "response": "1. Los cultivos pueden alimentar breeders o servir como recurso de comercio para granjeros.\n2. Lo importante es tener buena iluminacion, hidratacion completa y una distribucion que facilite la recogida.\n3. Los aldeanos sirven para granjas de cultivos, granjas de hierro y salas de intercambio, asi que suelen ser el nucleo de una base tecnica estable.",
+    "response_chars": 351,
+    "response_time_ms": 672.22,
+    "top_sources": [
+      "granjas_especificas_aldeanos_raids_y_comercio_extensa_parte_10.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "villagers_storage",
+    "question": "Como funciona un sistema de almacenamiento central?",
+    "question_type": "build",
+    "focus": "almacenamiento central",
+    "focus_tokens": [
+      "almacenamiento",
+      "central"
+    ],
+    "response": "1. Un almacenamiento central suele combinar lineas de entrada, clasificadores, cofres de salida y acceso de mantenimiento.\n2. Un sistema de almacenamiento simple suele combinar cofres y tolvas para ordenar objetos sin gestion manual completa.",
+    "response_chars": 242,
+    "response_time_ms": 750.16,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "tolva_almacenamiento_basico.txt",
+      "automatica_almacenamiento_ampliado.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "villagers_storage",
+    "question": "Como evitar que un almacenamiento se sature?",
+    "question_type": "general",
+    "focus": "como evitar que un almacenamiento se sature",
+    "focus_tokens": [
+      "evitar",
+      "que",
+      "almacenamiento",
+      "se",
+      "sature"
+    ],
+    "response": "1. Lo normal es anadir cofres de reserva, filtros por tipo y, si hace falta, una salida de exceso o basura controlada.\n2. Si el sistema no tiene margen, una sola granja productiva puede bloquear toda la linea.\n3. Lo mejor es dejar lineas o espacios reservados para nuevos filtros, nuevos cofres y nuevas entradas.",
+    "response_chars": 313,
+    "response_time_ms": 664.38,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "villagers_storage",
+    "question": "Como usar comparadores para medir llenado de cofres o tolvas?",
+    "question_type": "mechanic",
+    "focus": "comparadores para medir llenado de cofres o tolvas",
+    "focus_tokens": [
+      "comparadores",
+      "medir",
+      "llenado",
+      "cofres",
+      "tolvas"
+    ],
+    "response": "Los comparadores leen la senal de contenedores como cofres, barriles, hornos o tolvas.",
+    "response_chars": 86,
+    "response_time_ms": 797.3,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "uso_de_observadores_y_comparadores.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "villagers_storage",
+    "question": "Como hacer un aviso de cofre lleno?",
+    "question_type": "general",
+    "focus": "como hacer un aviso de cofre lleno",
+    "focus_tokens": [
+      "aviso",
+      "cofre",
+      "lleno"
+    ],
+    "response": "1. Basta con leer el contenedor con un comparador y decidir a partir de que nivel debe activarse la senal.\n2. Se puede construir con sensores de sculk, observadores, tripwire, placas o combinaciones con comparadores.\n3. Esto sirve para bases, entradas ocultas, sistemas de aviso de cofres llenos o deteccion de paso de mobs y jugadores.\n4. El comparador puede leer cuanto contenido tiene un contenedor y convertirlo en una senal de distinta intensidad.",
+    "response_chars": 452,
+    "response_time_ms": 684.69,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_redstone_circuitos_automatizacion_y_diseno_extensa_parte_5.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "villagers_storage",
+    "question": "Como se detecta un atasco en una linea de items?",
+    "question_type": "general",
+    "focus": "como se detecta un atasco en una linea de items",
+    "focus_tokens": [
+      "se",
+      "detecta",
+      "atasco",
+      "linea",
+      "items"
+    ],
+    "response": "1. Si un modulo recibe mas flujo del que puede evacuar, el atasco no tarda en propagarse a todo el sistema.\n2. Los items no filtrados siguen hacia el final de la linea.\n3. Los observadores detectan cambios en el bloque que miran y emiten un pulso corto de redstone.",
+    "response_chars": 265,
+    "response_time_ms": 672.39,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_y_granjas_extensa_parte_1.txt",
+      "uso_de_observadores_y_comparadores.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "villagers_storage",
+    "question": "Como hacer un sistema de overflow para almacenamiento?",
+    "question_type": "general",
+    "focus": "como hacer un sistema de overflow para almacenamiento",
+    "focus_tokens": [
+      "sistema",
+      "overflow",
+      "almacenamiento"
+    ],
+    "response": "1. Un overflow deriva los items que no caben en la linea principal hacia cofres extra o hacia una salida controlada.\n2. Es muy util cuando el jugador no siempre revisa a tiempo la produccion de una granja.\n3. Un sistema de almacenamiento simple suele combinar cofres y tolvas para ordenar objetos sin gestion manual completa.\n4. Un almacenamiento central suele combinar lineas de entrada, clasificadores, cofres de salida y acceso de mantenimiento.",
+    "response_chars": 448,
+    "response_time_ms": 675.6,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "tolva_almacenamiento_basico.txt",
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "villagers_storage",
+    "question": "Como automatizar una linea de hornos con combustible renovable?",
+    "question_type": "general",
+    "focus": "como automatizar una linea de hornos con combustible renovable",
+    "focus_tokens": [
+      "automatizar",
+      "linea",
+      "hornos",
+      "combustible",
+      "renovable"
+    ],
+    "response": "1. Una linea de hornos puede alimentarse con bambu, kelp seco, carbon vegetal o cualquier otra fuente estable usando tolvas y almacenamiento separado.\n2. Los hornos automaticos suelen usar una entrada, una linea de combustible y una salida.\n3. Lo habitual es repartir la entrada y el combustible mediante tolvas, agua o vagonetas con tolva para alimentar varios hornos a la vez.",
+    "response_chars": 378,
+    "response_time_ms": 667.45,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_redstone_y_granjas_extensa_parte_1.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "villagers_storage",
+    "question": "Como se recoge experiencia de hornos de forma eficiente?",
+    "question_type": "general",
+    "focus": "como se recoge experiencia de hornos de forma eficiente",
+    "focus_tokens": [
+      "se",
+      "recoge",
+      "experiencia",
+      "hornos",
+      "forma",
+      "eficiente"
+    ],
+    "response": "1. Algunos jugadores dejan acumular objetos procesados en hornos y luego los extraen de golpe para recoger mucha experiencia.\n2. Algunos sistemas usan hornos, hornos altos o ahumadores con materiales renovables como bambu, kelp seco o carbon vegetal.\n3. Fundir objetos en hornos tambien genera experiencia al recoger el resultado.",
+    "response_chars": 330,
+    "response_time_ms": 787.77,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt",
+      "experiencia_fuentes.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "villagers_storage",
+    "question": "Como combinar varias granjas sin volver la base caotica?",
+    "question_type": "general",
+    "focus": "como combinar varias granjas sin volver la base caotica",
+    "focus_tokens": [
+      "combinar",
+      "varias",
+      "granjas",
+      "sin",
+      "volver",
+      "base",
+      "caotica"
+    ],
+    "response": "Muchas bases se vuelven caoticas cuando cada granja se coloca sin pensar en conexiones, acceso o electricidad de redstone.",
+    "response_chars": 122,
+    "response_time_ms": 667.7,
+    "top_sources": [
+      "granjas_automaticas_optimizacion_mantenimiento_y_errores_comunes_extensa_parte_7.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "referencia_granjas_y_produccion_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "villagers_storage",
+    "question": "Como reducir el lag de una zona tecnica?",
+    "question_type": "optimization",
+    "focus": "de una zona tecnica",
+    "focus_tokens": [
+      "zona",
+      "tecnica"
+    ],
+    "response": "Conviene apagar relojes que no se usen, bloquear tolvas cuando no haga falta que trabajen, evitar acumulacion de entidades y no dejar items en el suelo demasiado tiempo. Conviene apagar modulos innecesarios, evitar items acumulados, usar menos tolvas activas cuando sea posible y separar entidades en exceso. Conviene dejar espacio para almacenamiento, lineas de items, caminos y futuras ampliaciones.",
+    "response_chars": 401,
+    "response_time_ms": 679.81,
+    "top_sources": [
+      "granjas_automaticas_optimizacion_mantenimiento_y_errores_comunes_extensa_parte_7.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "advanced_mechanics",
+    "question": "Infinity o Mending en arco, que conviene mas?",
+    "question_type": "general",
+    "focus": "infinity o mending en arco, que conviene mas",
+    "focus_tokens": [
+      "infinity",
+      "mending",
+      "arco",
+      "que",
+      "conviene",
+      "mas"
+    ],
+    "response": "1. Infinity o Mending en arco, que suele compensar mas.\n2. Infinity es muy comodo para combate diario porque reduce el consumo de flechas, pero Mending da mas sostenibilidad a largo plazo.",
+    "response_chars": 188,
+    "response_time_ms": 658.85,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "arco_encantamientos_especificos.txt",
+      "herramientas_y_armas.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 82,
+    "category": "advanced_mechanics",
+    "question": "Cuando conviene Fortuna y cuando conviene Toque de Seda?",
+    "question_type": "timing",
+    "focus": "fortuna y cuando conviene toque de seda",
+    "focus_tokens": [
+      "fortuna",
+      "conviene",
+      "toque",
+      "seda"
+    ],
+    "response": "Fortuna conviene cuando se quieren maximizar drops como diamantes, carbon, lapislazuli, redstone o esmeraldas. Toque de Seda conviene cuando interesa mover bloques intactos, recoger menas para procesarlas despues o conservar vidrio, hielo, hojas o bloques especiales.",
+    "response_chars": 267,
+    "response_time_ms": 679.42,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "advanced_mechanics",
+    "question": "Cuando conviene Smite en lugar de Sharpness?",
+    "question_type": "timing",
+    "focus": "smite en lugar de sharpness",
+    "focus_tokens": [
+      "smite",
+      "lugar",
+      "sharpness"
+    ],
+    "response": "Smite solo destaca si se quiere especializar el arma contra no muertos como zombies, esqueletos, wither skeletons o el Wither. Para uso general, Sharpness suele ser mejor porque sirve contra mas enemigos.",
+    "response_chars": 204,
+    "response_time_ms": 796.49,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "advanced_mechanics",
+    "question": "Que encantamientos suelen ser prioritarios en un pico?",
+    "question_type": "general",
+    "focus": "que encantamientos suelen ser prioritarios en un pico",
+    "focus_tokens": [
+      "que",
+      "encantamientos",
+      "suelen",
+      "ser",
+      "prioritarios",
+      "pico"
+    ],
+    "response": "1. Los mas valiosos suelen ser eficiencia, fortuna o toque de seda, irrompibilidad y reparacion.\n2. No suelen requerir combinaciones tan complejas como un pico o una espada.\n3. Para un pico, los encantamientos mas utiles suelen ser Efficiency, Unbreaking y Mending.",
+    "response_chars": 265,
+    "response_time_ms": 658.42,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_pico_mejores_especificos.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "advanced_mechanics",
+    "question": "Que encantamientos suelen ser prioritarios en una espada?",
+    "question_type": "general",
+    "focus": "que encantamientos suelen ser prioritarios en una espada",
+    "focus_tokens": [
+      "que",
+      "encantamientos",
+      "suelen",
+      "ser",
+      "prioritarios",
+      "espada"
+    ],
+    "response": "1. Lo comun es buscar sharpness como base general, junto con saqueo, aspecto igneo, irrompibilidad y reparacion.\n2. Para una espada, los mejores encantamientos generales suelen ser Sharpness, Looting, Unbreaking y Mending.\n3. No suelen requerir combinaciones tan complejas como un pico o una espada.",
+    "response_chars": 299,
+    "response_time_ms": 667.87,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_espada_mejores_especificos.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "advanced_mechanics",
+    "question": "Que encantamientos suelen ser prioritarios en la armadura?",
+    "question_type": "general",
+    "focus": "que encantamientos suelen ser prioritarios en la armadura",
+    "focus_tokens": [
+      "que",
+      "encantamientos",
+      "suelen",
+      "ser",
+      "prioritarios",
+      "armadura"
+    ],
+    "response": "1. Proteccion es la opcion mas general y segura para casco, pechera, pantalones y botas.\n2. Despues suelen anadirse irrompibilidad y reparacion, junto con encantamientos situacionales como respiracion, afinidad acuatica, feather falling o depth strider.\n3. En estos casos suelen bastar eficiencia, irrompibilidad y reparacion, salvo usos muy concretos.",
+    "response_chars": 352,
+    "response_time_ms": 713.91,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "advanced_mechanics",
+    "question": "Cuando conviene usar protecciones especificas en lugar de Proteccion general?",
+    "question_type": "timing",
+    "focus": "usar protecciones especificas en lugar de proteccion general",
+    "focus_tokens": [
+      "protecciones",
+      "especificas",
+      "lugar",
+      "proteccion",
+      "general"
+    ],
+    "response": "Fire Protection, Blast Protection y Projectile Protection pueden ser utiles en contextos concretos, pero normalmente Protection general ofrece un rendimiento mas equilibrado. Las protecciones especializadas solo compensan cuando el riesgo principal esta muy claro.",
+    "response_chars": 264,
+    "response_time_ms": 835.58,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "advanced_mechanics",
+    "question": "Como evitar que un yunque se vuelva demasiado caro?",
+    "question_type": "general",
+    "focus": "como evitar que un yunque se vuelva demasiado caro",
+    "focus_tokens": [
+      "evitar",
+      "que",
+      "yunque",
+      "se",
+      "vuelva",
+      "demasiado",
+      "caro"
+    ],
+    "response": "1. Si se trabaja mal, el coste de experiencia sube demasiado y puede bloquear combinaciones utiles.\n2. Si combinas encantamientos en mal orden, el coste final puede crecer demasiado y hacer que una operacion deje de ser viable.",
+    "response_chars": 227,
+    "response_time_ms": 680.63,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "penalizacion_de_trabajo_previo_del_yunque.txt",
+      "como_se_usa_un_yunque_en_minecraft.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "advanced_mechanics",
+    "question": "Por que Reparacion es tan importante?",
+    "question_type": "diagnostic",
+    "focus": "reparacion es tan importante",
+    "focus_tokens": [
+      "reparacion",
+      "es",
+      "tan",
+      "importante"
+    ],
+    "response": "La decision importante es elegir entre fortuna y toque de seda segun el uso principal del pico. Feather Falling suele ser de los mas importantes porque reduce mucho el dano por caida.",
+    "response_chars": 183,
+    "response_time_ms": 689.25,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "advanced_mechanics",
+    "question": "Irrompibilidad sigue siendo util si ya tengo Reparacion?",
+    "question_type": "general",
+    "focus": "irrompibilidad sigue siendo util si ya tengo reparacion",
+    "focus_tokens": [
+      "irrompibilidad",
+      "sigue",
+      "siendo",
+      "util",
+      "si",
+      "ya",
+      "tengo",
+      "reparacion"
+    ],
+    "response": "Irrompibilidad sigue siendo util si ya tengo Reparacion.",
+    "response_chars": 56,
+    "response_time_ms": 662.36,
+    "top_sources": [
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "encantamientos_combinaciones_prioridades_y_uso_avanzado_extensa_parte_4.txt",
+      "referencia_mobs_pasivos_y_utilitarios_extensa_parte_3.txt"
+    ],
+    "flags": [
+      "answer_starts_with_question",
+      "technical_depth_weak",
+      "too_short_for_type"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "advanced_mechanics",
+    "question": "Que factores tecnicos afectan a casi cualquier granja automatica?",
+    "question_type": "general",
+    "focus": "que factores tecnicos afectan a casi cualquier granja automatica",
+    "focus_tokens": [
+      "que",
+      "factores",
+      "tecnicos",
+      "afectan",
+      "casi",
+      "cualquier",
+      "granja",
+      "automatica"
+    ],
+    "response": "Una granja rapida pero dificil de reparar puede ser peor en la practica que otra algo mas lenta pero estable y accesible.",
+    "response_chars": 121,
+    "response_time_ms": 674.62,
+    "top_sources": [
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "advanced_mechanics",
+    "question": "Que es el mob cap y por que importa?",
+    "question_type": "definition",
+    "focus": "el mob cap y por que importa",
+    "focus_tokens": [
+      "mob",
+      "cap",
+      "que",
+      "importa"
+    ],
+    "response": "Comprender el mob cap es importante para redstone, granjas y optimizacion, porque una granja mala puede estar bloqueando capacidad de spawn sin producir recursos suficientes.",
+    "response_chars": 174,
+    "response_time_ms": 786.47,
+    "top_sources": [
+      "reglas_de_mob_cap_y_despawn.txt"
+    ],
+    "flags": []
+  },
+  {
+    "id": 93,
+    "category": "advanced_mechanics",
+    "question": "Como afecta la iluminacion a una granja de mobs?",
+    "question_type": "general",
+    "focus": "como afecta la iluminacion a una granja de mobs",
+    "focus_tokens": [
+      "afecta",
+      "iluminacion",
+      "granja",
+      "mobs"
+    ],
+    "response": "1. Iluminar cuevas y superficie cercana reduce spawns no deseados y concentra la produccion en la granja.\n2. En muchos casos, mejorar la iluminacion del entorno aumenta mas el rendimiento que ampliar una sola plataforma.\n3. Influyen la distancia al jugador, el mob cap, el numero de cuevas no iluminadas y la velocidad con la que la granja elimina entidades.\n4. Si los mobs se quedan vivos demasiado tiempo o spawnean fuera de la granja, la produccion baja mucho.",
+    "response_chars": 463,
+    "response_time_ms": 680.34,
+    "top_sources": [
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granjas_automaticas_mobs_recursos_y_xp_extensa_parte_5.txt",
+      "creeper_granja_filtrado.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "advanced_mechanics",
+    "question": "Que importancia tiene el punto de AFK?",
+    "question_type": "general",
+    "focus": "que importancia tiene el punto de afk",
+    "focus_tokens": [
+      "que",
+      "importancia",
+      "tiene",
+      "punto",
+      "afk"
+    ],
+    "response": "1. Un mal punto de AFK puede desactivar parte de la granja o permitir demasiado spawn fuera del area prevista.\n2. La distancia del jugador determina cuanto spawn util tiene el sistema y cuanto spawn se pierde fuera del modulo.\n3. Si el punto de AFK no esta bien pensado, la granja puede rendir mucho menos aunque la torre este construida correctamente.",
+    "response_chars": 352,
+    "response_time_ms": 668.0,
+    "top_sources": [
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt",
+      "endermite_mob_especifico.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "advanced_mechanics",
+    "question": "Como se evitan perdidas de items en una granja?",
+    "question_type": "general",
+    "focus": "como se evitan perdidas de items en una granja",
+    "focus_tokens": [
+      "se",
+      "evitan",
+      "perdidas",
+      "items",
+      "granja"
+    ],
+    "response": "1. Si los items quedan esparcidos o tardan demasiado en recogerse, se pueden perder por tiempo o por interferencias del sistema.\n2. Una granja puede romperse si parte queda descargada mientras otra sigue activa.\n3. La polvora se acumula rapido, asi que una salida limpia hacia almacenamiento evita perdidas y hace mas comodo el uso real de la granja.",
+    "response_chars": 350,
+    "response_time_ms": 676.88,
+    "top_sources": [
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "referencia_redstone_y_granjas_extensa_parte_2.txt",
+      "granja_de_creepers_troubleshooting_y_optimizacion_avanzada.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "advanced_mechanics",
+    "question": "Como decidir si una granja debe ser totalmente automatica o semiautomatica?",
+    "question_type": "general",
+    "focus": "como decidir si una granja debe ser totalmente automatica o semiautomatica",
+    "focus_tokens": [
+      "decidir",
+      "si",
+      "granja",
+      "debe",
+      "ser",
+      "totalmente",
+      "automatica",
+      "semiautomatica"
+    ],
+    "response": "1. Si el coste tecnico es demasiado alto para el beneficio real, una granja semiautomatica puede ser la mejor opcion.\n2. Una granja de vacas suele centrarse en carne y cuero, y puede ser manual, semiautomatica o basada en acumulacion controlada.",
+    "response_chars": 245,
+    "response_time_ms": 814.98,
+    "top_sources": [
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "advanced_mechanics",
+    "question": "Como saber si una granja compensa para una partida real y no solo sobre el papel?",
+    "question_type": "general",
+    "focus": "como saber si una granja compensa para una partida real y no solo sobre el papel",
+    "focus_tokens": [
+      "saber",
+      "si",
+      "granja",
+      "compensa",
+      "partida",
+      "real",
+      "no",
+      "solo",
+      "sobre",
+      "papel"
+    ],
+    "response": "Una granja puede ser muy impresionante y aun asi no compensar si el jugador apenas va a aprovecharla.",
+    "response_chars": 101,
+    "response_time_ms": 690.78,
+    "top_sources": [
+      "preguntas_tecnicas_granjas_dificiles_avanzadas_parte_2.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt",
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt"
+    ],
+    "flags": [
+      "technical_depth_weak",
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "advanced_mechanics",
+    "question": "Como explicar el valor tecnico de una granja automatica?",
+    "question_type": "general",
+    "focus": "como explicar el valor tecnico de una granja automatica",
+    "focus_tokens": [
+      "explicar",
+      "valor",
+      "tecnico",
+      "granja",
+      "automatica"
+    ],
+    "response": "1. No basta con decir que produce un recurso.\n2. Si el recurso se usa mucho o se produce en grandes cantidades, suele merecer la pena automatizar mas.\n3. Si el coste tecnico es demasiado alto para el beneficio real, una granja semiautomatica puede ser la mejor opcion.",
+    "response_chars": 268,
+    "response_time_ms": 683.8,
+    "top_sources": [
+      "preguntas_tecnicas_granjas_dificiles_avanzadas_parte_2.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "advanced_mechanics",
+    "question": "Como explicar de forma tecnica pero clara una instalacion de redstone?",
+    "question_type": "general",
+    "focus": "como explicar de forma tecnica pero clara una instalacion de redstone",
+    "focus_tokens": [
+      "explicar",
+      "forma",
+      "tecnica",
+      "pero",
+      "clara",
+      "instalacion",
+      "redstone"
+    ],
+    "response": "1. Lo mejor es separar entrada, deteccion, logica, accion y salida.\n2. Un reloj puede construirse con repetidores, observadores o tolvas enfrentadas, pero conviene que tenga una forma clara de apagarse.",
+    "response_chars": 202,
+    "response_time_ms": 686.21,
+    "top_sources": [
+      "preguntas_tecnicas_redstone_dificiles_avanzadas_parte_2.txt",
+      "referencia_redstone_senales_componentes_y_transporte_extensa_parte_4.txt",
+      "granja_de_guardianes_troubleshooting_y_optimizacion_avanzada_2.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "advanced_mechanics",
+    "question": "Como saber si un sistema tecnico es demasiado complejo para su beneficio?",
+    "question_type": "general",
+    "focus": "como saber si un sistema tecnico es demasiado complejo para su beneficio",
+    "focus_tokens": [
+      "saber",
+      "si",
+      "sistema",
+      "tecnico",
+      "es",
+      "demasiado",
+      "complejo",
+      "su",
+      "beneficio"
+    ],
+    "response": "1. Si el coste tecnico es demasiado alto para el beneficio real, una granja semiautomatica puede ser la mejor opcion.\n2. Con esas bases, luego resulta mas facil escalar hacia sistemas tecnicos mas complejos.",
+    "response_chars": 207,
+    "response_time_ms": 685.35,
+    "top_sources": [
+      "referencia_redstone_almacenamiento_hornos_sensores_y_utilidades_extensa_parte_7.txt",
+      "recursos_tecnicos_spawn_optimizacion_y_diseno_de_granjas_extensa_parte_4.txt",
+      "granjas_automaticas_cultivos_animales_y_aldeanos_extensa_parte_4.txt"
+    ],
+    "flags": [
+      "retrieved_qa_style_chunk"
+    ]
+  }
+]

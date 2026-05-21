@@ -1,0 +1,18 @@
+Las ranas pasan primero por una fase de renacuajo. Los renacuajos se transforman en ranas segun el bioma o temperatura donde crecen.
+
+---
+
+Las ranas tienen usos interesantes relacionados con cubos de magma pequeños, ya que pueden producir froglights en ciertos contextos.
+
+---
+
+No son un mob clave para progresion principal, pero si para granjas especializadas, decoracion y recoleccion de bloques concretos.
+
+---
+
+Mover ranas y renacuajos entre biomas puede formar parte de una estrategia si buscas variantes o determinados recursos decorativos.
+
+---
+
+Como otros mobs pasivos especiales, su valor real depende mucho de si quieres construir sistemas tematicos o granjas concretas.
+

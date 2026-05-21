@@ -1,0 +1,22 @@
+Los zombies son mobs hostiles comunes que aparecen de noche o en oscuridad suficiente. Persiguen al jugador cuerpo a cuerpo y son una de las primeras amenazas normales de supervivencia.
+
+---
+
+Un zombie puede reforzar la presion en combate porque empuja al jugador, bloquea pasos estrechos y obliga a controlar bien la distancia. En espacios cerrados pueden ser peligrosos incluso con armadura basica.
+
+---
+
+En dificultad alta o segun el contexto, los zombies pueden pedir refuerzos. Esto hace que una pelea aparentemente sencilla se vuelva mas dificil si la zona no esta bien iluminada.
+
+---
+
+Los zombies pueden romper puertas en ciertas dificultades. Esto importa sobre todo en aldeas mal protegidas o bases tempranas hechas con entradas simples.
+
+---
+
+Un aldeano infectado por zombie puede convertirse en aldeano zombi. Curarlo despues con pocion de debilidad y manzana dorada es una de las mejores formas de conseguir descuentos de comercio.
+
+---
+
+Los zombies sueltan experiencia y a veces objetos simples como carne podrida, hierro, zanahoria o patata. La carne podrida puede alimentar lobos en caso de emergencia, aunque no es una comida ideal para el jugador.
+

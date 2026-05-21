@@ -1,0 +1,3 @@
+Para un pico, los encantamientos mas utiles suelen ser Efficiency, Unbreaking y Mending.
+Fortune es mejor si quieres multiplicar minerales como diamantes, carbon o redstone, mientras que Silk Touch conviene si quieres recoger el bloque tal cual.
+Fortune y Silk Touch no pueden ir juntos en el mismo pico, asi que normalmente se usan picos distintos.

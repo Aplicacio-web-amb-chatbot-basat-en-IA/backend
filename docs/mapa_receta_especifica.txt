@@ -1,0 +1,2 @@
+El mapa se fabrica normalmente con ocho hojas de papel y una brujula en la mesa de crafteo.
+El papel rodea la brujula, que va en la casilla central, y la receta produce un mapa.

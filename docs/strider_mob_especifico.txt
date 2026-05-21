@@ -1,0 +1,1 @@
+El strider es un mob del Nether que puede caminar sobre lava. Se usa como montura con silla y caña con hongo deformado para explorar lagos de lava o zonas abiertas.

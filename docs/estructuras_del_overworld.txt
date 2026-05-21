@@ -1,0 +1,51 @@
+Las aldeas son estructuras muy valiosas por sus camas, cultivos, cofres, aldeanos y posibles golems de hierro.
+
+Los templos del desierto contienen botín y una trampa explosiva en la cámara inferior.
+
+Los naufragios pueden aportar comida, mapas, hierro y otros recursos útiles al inicio.
+
+Las ruinas oceánicas contienen botín menor y mobs acuáticos en algunas situaciones.
+
+Los monumentos oceánicos están habitados por guardians y elder guardians y contienen bloques valiosos y esponjas.
+
+Las strongholds son estructuras subterráneas que contienen el portal hacia el End.
+
+Las minas abandonadas contienen raíles, cofres y generadores de cave spiders.
+
+Las mansiones del bosque contienen botín y mobs peligrosos como evokers y vindicators.
+
+Los puestos de saqueadores generan pillagers y pueden servir para iniciar raids si el jugador obtiene bad omen.
+
+Los trial chambers modernos pueden ofrecer combate estructurado y recompensas si decides incluir contenido de versiones recientes en tu base documental.
+
+Las ruinas de sendero y otras estructuras menores también pueden aportar botín arqueológico o contextual según la versión.
+
+Explorar estructuras es una forma clave de progresar más rápido que solo minando o crafteando.
+
+Las aldeas son de las estructuras más útiles al principio por camas, comida, aldeanos y posibles cofres.
+
+Los naufragios suelen dar mapas del tesoro, comida, hierro y otros recursos tempranos.
+
+Las strongholds son obligatorias para acceder al End y suelen buscarse con ojos de ender.
+
+Los monumentos oceánicos son difíciles, pero ofrecen bloques valiosos y esponjas.
+
+Las aldeas pueden incluir camas, cultivos, composteros, alto hornos, atriles y otros bloques de trabajo muy utiles para empezar.
+
+Los templos del desierto suelen ser rentables, pero bajar sin cuidado a la camara central puede activar la trampa de TNT.
+
+Los naufragios son muy utiles al inicio porque pueden dar hierro, comida, mapas del tesoro y materiales varios.
+
+Los tesoros enterrados suelen contener corazon del mar, hierro, oro y otros recursos.
+
+Las minas abandonadas son utiles por sus railes, cofres y madera, pero peligrosas por cave spiders.
+
+Las strongholds son esenciales porque contienen el portal del End y bibliotecas en algunos casos.
+
+Las mansiones del bosque son dificiles y menos comunes, pero dan acceso a evokers y botin interesante.
+
+Los puestos de saqueadores son importantes por bad omen y por las raids asociadas.
+
+Los monumentos oceanicos son una fuente destacada de prismarine, linternas marinas y esponjas.
+
+Explorar estructuras suele acelerar la progresion mucho mas que esperar a fabricar o minar todo manualmente.

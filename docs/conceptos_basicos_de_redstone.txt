@@ -1,0 +1,39 @@
+La redstone es el sistema de señales y automatización de Minecraft.
+
+El polvo de redstone transmite señal por superficies y su intensidad disminuye con la distancia.
+
+La fuerza de señal suele ir de 0 a 15.
+
+Muchas máquinas de redstone se construyen combinando entradas, transmisión y un mecanismo de salida.
+
+Palancas, botones y placas de presión son entradas comunes.
+
+Puertas, pistones, dispensadores, lámparas y tolvas pueden formar parte de la salida o del mecanismo controlado.
+
+Los repetidores sirven para extender señal, introducir retraso y bloquear ciertos comportamientos de dirección.
+
+Los comparadores leen contenedores, comparan señales o detectan ciertos estados útiles en automatización.
+
+Los observadores detectan cambios en bloques y generan pulsos.
+
+La redstone permite hacer puertas automáticas, granjas, clasificadores de objetos, relojes, trampas y sistemas lógicos.
+
+Entender señal, potencia, retraso y actualización de bloques es la base antes de construir circuitos complejos.
+
+La disponibilidad de cuarzo del Nether es importante porque desbloquea comparadores y observadores.
+
+Muchos errores de principiantes vienen de no reiniciar la señal con repetidores o de no entender la dirección del circuito.
+
+Una línea larga de polvo de redstone pierde fuerza con la distancia y por eso a menudo necesita repetidores.
+
+La redstone básica permite crear puertas automáticas, iluminación por sensor, hornos automáticos simples y clasificadores de objetos.
+
+Comprender qué bloques transmiten señal y cómo se comportan pistones, tolvas y observadores evita muchos fallos comunes.
+
+La fuerza de señal de redstone baja con la distancia y por eso muchas lineas largas necesitan repetidores.
+
+Los circuitos sencillos suelen empezar con palancas, botones, antorchas, repetidores y lamparas.
+
+Los comparadores, tolvas y observadores marcan el salto hacia automatizacion mas avanzada.
+
+La redstone puede usarse tanto para comodidad simple como para granjas complejas y sistemas tecnicos.

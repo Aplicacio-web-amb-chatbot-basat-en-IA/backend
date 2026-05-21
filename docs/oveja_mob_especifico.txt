@@ -1,0 +1,1 @@
+La oveja es un mob pasivo que da lana y carne. La lana sirve para camas, decoracion y algunos sistemas automatizados donde conviene recolectar colores o material textil.

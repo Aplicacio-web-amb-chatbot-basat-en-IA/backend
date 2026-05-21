@@ -1,0 +1,17 @@
+Por que mi granja de hierro no genera golems aunque tengo aldeanos y camas. Porque no basta con tener aldeanos y camas: tambien importan el punto exacto de spawn, las condiciones que provocan el comportamiento requerido por el diseno y la ausencia de zonas competidoras cercanas. Muchas granjas de hierro fallan por una condicion invisible del sistema, no por falta de bloques.
+---
+Por que mi granja de creepers genera muy poca polvora. Lo mas comun es que esten spawneando otros mobs, que los gatos o trampillas no esten bien colocados o que haya demasiados spawns fuera del modulo. En una granja de creepers, el filtrado fino es casi mas importante que la torre en si.
+---
+Por que una granja de mobs general produce peor de noche cerca de mi base. Porque aunque sea de noche, la base, cuevas cercanas o superficie del entorno pueden estar ofreciendo muchisimos puntos de spawn alternativos. Si el mob cap se llena fuera de la granja, el sistema principal pierde rendimiento.
+---
+Por que una granja de enderman no rinde como en los tutoriales. Suele pasar por una mala posicion de AFK, por construirla demasiado cerca de otras superficies o por no canalizar bien a los enderman hacia la camara final. La mecanica base funciona, pero el contexto del End importa muchisimo.
+---
+Por que una raid farm puede quedarse bloqueada a mitad del ciclo. Puede deberse a pillagers atascados, a una aldea mal interpretada por el juego o a una gestion incorrecta del efecto bad omen. En estos sistemas, un solo enemigo fuera de sitio puede impedir terminar correctamente la oleada.
+---
+Por que una granja de guardianes sigue siendo lenta aunque el diseno parezca correcto. Porque muchas veces el cuello de botella no esta en el diseno visible, sino en la limpieza parcial del entorno, en recorridos demasiado largos o en recogida insuficiente de mobs y drops. En granjas avanzadas, la eficiencia depende de toda la infraestructura.
+---
+Como responder si me preguntan que granja es mas tecnica y por que. Una respuesta buena es decir que depende del criterio, pero que granjas como raid farm, guardian farm o wither skeleton farm suelen considerarse tecnicas porque combinan varias mecanicas del juego, control del entorno y logistica compleja. No solo producen un recurso: exigen dominar el sistema que lo genera.
+---
+Como saber si una granja compensa para una partida real y no solo sobre el papel. Hay que mirar complejidad de montaje, mantenimiento, recurso obtenido, facilidad de integracion con almacenamiento y uso real de ese recurso. Una granja puede ser muy impresionante y aun asi no compensar si el jugador apenas va a aprovecharla.
+---
+Como explicar el valor tecnico de una granja automatica. No basta con decir que produce un recurso. Lo importante es explicar que mecanica del juego aprovecha, como detecta o controla el evento principal, como recoge el resultado y como se integra con almacenamiento o con otros sistemas de la base.

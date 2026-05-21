@@ -1,0 +1,3 @@
+Una granja automatica de creepers suele construirse con plataformas oscuras donde puedan aparecer creepers, mientras se limita o bloquea la aparicion de otros mobs.
+Despues, los creepers se dirigen con gatos, caidas o corrientes hacia una zona de muerte o recogida automatica.
+Para que rinda bien, conviene iluminar cuevas y superficie cercanas y colocarse a una distancia adecuada de la granja.

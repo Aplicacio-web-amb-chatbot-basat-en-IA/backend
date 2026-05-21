@@ -1,0 +1,2 @@
+El horno se fabrica con ocho bloques de adoquin colocados rodeando el borde de la mesa de crafteo y dejando el centro vacio.
+La receta produce un horno.

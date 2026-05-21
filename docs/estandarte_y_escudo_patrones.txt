@@ -1,0 +1,9 @@
+Los estandartes pueden personalizarse usando tintes y patrones.
+
+El telar facilita la aplicacion de patrones sobre estandartes.
+
+Algunos patrones especiales requieren objetos concretos ademas del tinte.
+
+Un escudo puede combinarse con un estandarte para mostrar un diseño.
+
+Esto sirve sobre todo para decoracion, identidad visual y organizacion en multijugador o bases grandes.

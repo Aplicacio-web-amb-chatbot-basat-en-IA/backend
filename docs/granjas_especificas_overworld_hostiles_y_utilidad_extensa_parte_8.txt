@@ -1,0 +1,41 @@
+Como funciona una granja de esqueletos de spawner. Un spawner de esqueletos genera mobs en un volumen fijo y permite construir una granja bastante estable con agua, caida y camara de remate. Es muy util para obtener huesos, flechas, arcos y experiencia.
+---
+Como mejorar una granja de esqueletos. Conviene agrupar rapido a los esqueletos, dejar una caida que los debilite sin matarles si se quiere XP y mantener la zona segura para que el jugador pueda farmear sin interrupciones. Un buen almacenamiento tambien ayuda mucho porque huesos y flechas se acumulan con rapidez.
+---
+Como funciona una granja de zombies de spawner. El sistema es similar al de esqueletos: agua para moverlos, una camara de dano y un punto final donde el jugador o una trampa los elimina. Su interes principal es la experiencia, la carne podrida y la posibilidad de conseguir hierro, zanahorias o patatas de forma secundaria.
+---
+Como funciona una granja de arañas de spawner. Las arañas requieren mas cuidado que esqueletos y zombies porque su hitbox y su capacidad de trepar complican el transporte. Aun asi, una vez bien canalizadas permiten obtener cuerda, ojos de araña y experiencia.
+---
+Como evitar problemas en una granja de arañas. Lo importante es limitar superficies escalables, estrechar correctamente el paso y evitar esquinas donde se atasquen. Las arañas suelen rendir peor si el canal de agua o la camara de muerte no estan pensados para su tamano.
+---
+Como funciona una granja hostil general de torre. Suele basarse en varias plataformas oscuras donde spawnean mobs y un sistema que los empuja a una camara de caida. El rendimiento mejora si la granja se construye en altura o sobre oceano para reducir spawns fuera del sistema.
+---
+Como hacer una granja de polvora rentable. Lo normal es priorizar creepers con un diseno filtrado, porque una granja hostil general reparte el spawn entre demasiados mobs distintos. La polvora es muy valiosa para TNT y cohetes, por eso suele compensar una granja dedicada.
+---
+Como funciona una granja de gatos. Los gatos pueden criarse o atraerlos a una aldea para producir un flujo estable de regalo o para usarlos en sistemas de creepers. No es una granja tan prioritaria como otras, pero puede ser util si el diseno tecnico necesita asustar creepers o si se quieren colores concretos.
+---
+Como funciona una granja de peces simple. Puede plantearse como un sistema de pesca manual optimizado o como una estructura que facilite obtener peces de manera constante con poco desplazamiento. El valor principal suele ser comida, comercio o ciertos recursos secundarios si se combina con otras mecanicas.
+---
+Como funciona una granja de tinta o calamares. Estas granjas aprovechan condiciones concretas de spawn acuatico y una zona donde los calamares son conducidos a una camara de muerte. Son utiles para sacos de tinta, libros, decoracion y ciertos intercambios.
+---
+Como funciona una granja de glow squid. Requiere condiciones acuaticas y de altura concretas para favorecer el spawn de glow squids y despues conducirlos hacia una muerte automatica. El recurso principal son los sacos de tinta brillante, utiles para carteles, marcos y decoracion.
+---
+Como funciona una granja de tortugas. Las tortugas necesitan playa adecuada y puesta de huevos en el lugar correcto, asi que estas granjas suelen ser mas delicadas que otras. Se usan sobre todo para obtener escudos de tortuga o automatizar ciertos procesos relacionados con huevos y mobs.
+---
+Como funciona una granja de nieve. Con un golem de nieve encerrado se pueden generar bolas de nieve de forma sencilla o incluso automatizada con pistones o sistemas de recogida. Es una granja simple pero practica para decoracion, guerra de bolas o algunos mecanismos.
+---
+Como funciona una granja de musgo y bone meal. El musgo puede expandirse y producir vegetacion que luego se rompe para obtener compostable y convertirlo en harina de hueso. Es una granja interesante porque genera un recurso util para cultivos y decoracion de manera bastante tecnica.
+---
+Como funciona una granja de piedra o cobblestone. Normalmente combina lava, agua y un punto de generacion donde el jugador o una maquina rompe los bloques. Las versiones mas avanzadas usan TNT dupers o pistones, pero incluso una version simple ya da mucho valor en supervivencia.
+---
+Como funciona una granja de basalt. Se basa en la interaccion entre lava, soul soil y blue ice para generar basalt renovable. Es util porque ofrece un bloque decorativo muy apreciado y relativamente facil de producir en sistemas tecnicos.
+---
+Como funciona una granja de obsidiana. La forma automatizada suele aprovechar portales del Nether o interacciones controladas con lava y agua, aunque no siempre es una granja simple. Se usa cuando se necesita obsidiana en grandes cantidades para decoracion, beacons, anclas o infraestructuras.
+---
+Como funciona una granja de miel centrada en panales. Si el objetivo principal no es la miel embotellada sino los panales, conviene priorizar dispensadores con tijeras y una recogida muy limpia. Los panales son utiles para colmenas, bloques de cera y decoracion avanzada.
+---
+Como funciona una granja de setas. Puede basarse en setas rojas y marrones, hueso harina o incluso setas gigantes en salas controladas. Es util para comida, pociones y algunos disenos decorativos.
+---
+Como funciona una granja de lava renovable con dripstone. Se utilizan calderos, pointed dripstone y lava sobre un bloque adecuado para ir llenando los calderos con el tiempo. Es una fuente comoda de combustible si el jugador no quiere depender siempre de carbon o bambu.
+---
+Como decidir que granja del Overworld construir despues del hierro. Si ya se tiene hierro estable, suele compensar pensar en comida, polvora, experiencia, papel o algun recurso de construccion frecuente. La decision depende de que limite mas la progresion diaria del jugador.

@@ -1,0 +1,7 @@
+El Breeze es un mob asociado a trial chambers en versiones modernas.
+
+Ataca usando cargas de viento y mecanicas de movimiento particulares.
+
+Las wind charges permiten interacciones de movilidad o combate en algunos contextos.
+
+Estas mecanicas forman parte del contenido mas reciente y no suelen ser esenciales en progresion clasica, pero pueden aparecer en preguntas modernas sobre Minecraft.

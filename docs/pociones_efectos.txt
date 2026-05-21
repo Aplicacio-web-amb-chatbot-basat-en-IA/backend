@@ -1,0 +1,67 @@
+La poción de velocidad aumenta la velocidad de movimiento.
+
+La poción de lentitud reduce la velocidad de movimiento del objetivo.
+
+La poción de salto aumenta la altura de salto y reduce parte del daño por caída en ciertos niveles.
+
+La poción de fuerza aumenta el daño cuerpo a cuerpo.
+
+La poción de curación restaura vida instantáneamente.
+
+La poción de daño hace daño instantáneo al objetivo.
+
+La poción de regeneración recupera salud con el tiempo.
+
+La poción de resistencia al fuego protege contra fuego, lava y muchas fuentes de quemadura.
+
+La poción de visión nocturna mejora la visibilidad en oscuridad y bajo el agua.
+
+La poción de invisibilidad oculta visualmente al jugador, aunque la armadura visible puede delatarlo si sigue equipada.
+
+La poción de respiración acuática permite respirar bajo el agua.
+
+La poción de caída lenta reduce mucho la velocidad de caída.
+
+La poción de veneno reduce la vida progresivamente, pero normalmente no mata directamente por sí sola.
+
+La poción de debilidad reduce daño cuerpo a cuerpo.
+
+La poción de tortuga otorga resistencia elevada y lentitud al mismo tiempo.
+
+La poción de maestro tortuga es útil en situaciones defensivas pero limita movilidad.
+
+La versión splash de una poción se lanza y afecta al impactar.
+
+La versión lingering deja una nube temporal que aplica el efecto a quien entre en ella.
+
+La resistencia al fuego es una de las mejores pociones defensivas del juego para Nether, lava y combates con fuego.
+
+La visión nocturna es muy útil en exploración y construcción en zonas oscuras.
+
+La fuerza mejora especialmente el combate cuerpo a cuerpo contra mobs resistentes o jefes.
+
+La caída lenta es una de las mejores herramientas de seguridad para el End y grandes alturas.
+
+La invisibilidad puede ser útil para aproximaciones discretas, aunque la armadura visible puede reducir su ventaja.
+
+La velocidad es muy util para exploracion, combate, huida y desplazamiento general.
+
+La lentitud suele usarse de forma ofensiva o aparecer como efecto negativo.
+
+La curacion instantanea y el dano instantaneo tienen comportamientos especiales con muertos vivientes, ya que pueden invertirse respecto a entidades normales.
+
+La regeneracion es valiosa porque restaura vida a lo largo del tiempo y combina bien con situaciones de combate o recuperacion entre encuentros.
+
+La debilidad es clave para convertir aldeanos zombis cuando se combina con manzana dorada.
+
+La respiracion acuática permite explorar oceanos, ruinas y monumentos con mucha mas seguridad.
+
+La invisibilidad puede ayudar a evitar deteccion visual en algunos casos, pero no elimina todos los riesgos.
+
+La pocion de maestro tortuga ofrece mucha defensa, pero penaliza claramente la movilidad.
+
+Las versiones splash sirven tanto para apoyar aliados como para dañar o debilitar enemigos.
+
+Las versiones lingering son utiles para controlar zonas, aunque requieren aliento de dragon y una progresion mas avanzada.
+
+No todas las situaciones necesitan pociones, pero en Nether, End y combates duros marcan mucha diferencia.

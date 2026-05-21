@@ -1,0 +1,19 @@
+La mina abandonada o mineshaft es una estructura subterranea con railes, madera, spawners de cave spider y cofres. Es util para recursos, rails y exploracion, pero puede ser peligrosa por veneno y cruces oscuros.
+---
+La stronghold es una gran estructura subterranea de ladrillos de piedra que contiene la sala del portal del End. Es una de las estructuras mas importantes del juego porque es la via hacia la Ender Dragon.
+---
+La ancient city es una estructura enorme del deep dark asociada a sculk, sensores y shriekers, y por tanto al Warden. Su botin es valioso, pero la exploracion exige sigilo y mucho cuidado.
+---
+Las trial chambers son estructuras subterraneas modernas centradas en combate, spawners de prueba, llaves y recompensas. Tienen mucha importancia en versiones recientes por su jugabilidad de desafio y botin tecnico.
+---
+La sala de monstruos o dungeon es una estructura pequena con un spawner y uno o dos cofres. Aunque es simple, puede ser muy valiosa para granjas tempranas y experiencia.
+---
+El monumento oceanico es una gran estructura acuática habitada por guardians y guardianes ancianos. Tiene valor por prismarina, esponjas y el reto de exploracion submarina.
+---
+Las ruinas oceanicas son estructuras marinas rotas con cofres y bloques relacionados con piedra, arena o arqueologia segun contexto. Son utiles en exploracion costera y submarina temprana.
+---
+El barco hundido o shipwreck contiene cofres con comida, mapas, papel, hierro y a veces tesoros enterrados relacionados. Es una de las mejores estructuras de exploracion costera en juego temprano.
+---
+El tesoro enterrado no es una estructura grande, pero si un objetivo de mapa muy util porque puede dar corazon del mar y recursos valiosos. Normalmente se localiza con mapas de tesoro.
+---
+El fossil del Overworld es una estructura rara de huesos y minerales incrustada en ciertos biomas o capas. Tiene valor modesto, pero es una curiosidad generada del mundo.

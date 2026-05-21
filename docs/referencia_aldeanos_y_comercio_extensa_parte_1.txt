@@ -1,0 +1,36 @@
+Los aldeanos son una de las mejores fuentes de progreso estable en Minecraft.
+Cada aldeano trabajador se asocia a un bloque de trabajo concreto.
+Un bibliotecario usa atril.
+Un granjero usa compostador.
+Un flechero usa mesa de flechas.
+Un clerigo usa soporte para pociones.
+Un armero usa alto horno.
+Un herrero de herramientas usa mesa de herreria o afiladora segun oficio concreto.
+Un aldeano sin oficio puede tomar profesion si hay bloque libre y condiciones adecuadas.
+Antes del primer intercambio del dia, algunas ofertas pueden reiniciarse si se rompe y recoloca el bloque.
+Tras comerciar al menos una vez, la profesion y oferta base quedan fijadas.
+Los bibliotecarios son famosos por vender libros encantados.
+Con paciencia se pueden buscar encantamientos concretos muy poderosos.
+Los granjeros son faciles de subir porque compran cultivos comunes.
+Los flecheros pueden comprar palos y facilitar esmeraldas tempranas.
+Los clerigos pueden vender objetos utiles y comprar materiales abundantes segun version.
+Los aldeanos suben de nivel al comerciar y desbloquean nuevas ofertas.
+Una sala de comercio ordenada facilita mucho el acceso a aldeanos clave.
+Separar aldeanos evita errores de cama y puesto de trabajo.
+La iluminacion y la proteccion contra zombies son fundamentales.
+Un zombie puede arruinar una base de aldeanos si entra en la zona.
+Curar aldeanos zombie da descuentos permanentes muy fuertes.
+El efecto Heroe de la aldea tambien reduce precios temporalmente.
+Optimizar trades no es solo bajar precio.
+Tambien implica seleccionar oficios utiles y una disposicion practica.
+Muchos jugadores priorizan bibliotecarios con Mending, Unbreaking o Protection.
+Otros priorizan granjeros para esmeraldas faciles y comida.
+Un trading hall puede integrarse con una granja de aldeanos.
+Mover aldeanos en barco o vagoneta suele ser la opcion mas practica.
+Los aldeanos necesitan acceso funcional a cama y a su bloque de trabajo segun la mecanica que se busque.
+Para reposicion de trades deben poder llegar a trabajar en el momento adecuado.
+Una granja de hierro comparte varias mecanicas con gestion de aldeanos y camas.
+No todas las bases de aldeanos deben convertirse en trading hall enorme.
+A veces bastan pocos aldeanos bien elegidos para cambiar toda la progresion.
+El comercio bien montado puede reducir la dependencia de encontrar encantamientos por mesa.
+Tambien puede reducir la necesidad de minar ciertos recursos durante horas.

@@ -1,0 +1,41 @@
+Como funciona una granja automatica de mobs hostiles general. La idea basica es crear plataformas oscuras en condiciones de spawn validas y empujar a los mobs a una zona de muerte o caida. Iluminar cuevas cercanas y controlar el punto de AFK es muy importante para que la produccion sea buena.
+---
+Que afecta al rendimiento de una granja de mobs. Influyen la distancia al jugador, el mob cap, el numero de cuevas no iluminadas y la velocidad con la que la granja elimina entidades. Si los mobs se quedan vivos demasiado tiempo o spawnean fuera de la granja, la produccion baja mucho.
+---
+Como funciona una granja de creepers. Suele filtrar otros mobs usando altura limitada, trampillas y gatos que asustan a los creepers hacia una zona de muerte. El objetivo principal suele ser producir polvora para TNT y cohetes.
+---
+Como mejorar una granja de creepers. Conviene bloquear spawn de arañas, asegurar bien la posicion de los gatos y mejorar la recogida de items con agua o tolvas. Tambien ayuda colocar la granja en altura o sobre oceano para reducir spawn ajeno.
+---
+Como funciona una granja de slimes. Puede hacerse en slime chunks o en pantanos bajo las condiciones correctas de luz y altura. La eficiencia mejora mucho si se despejan varias capas, se iluminan cuevas cercanas y se canalizan los slimes hacia golems de hierro, magma o sistemas de caida.
+---
+Como funciona una granja de enderman. Lo normal es construirla en el End, lejos de otras superficies, para que casi todo el spawn se concentre en la plataforma preparada. Los enderman se atraen o canalizan hacia una camara donde mueren o quedan a un golpe para experiencia.
+---
+Por que una granja de enderman da tanta experiencia. Porque el End ofrece condiciones muy favorables de spawn para enderman y el diseno concentra muchisimas apariciones en un solo punto. Eso la convierte en una de las mejores granjas de XP para fases medias o tardias del juego.
+---
+Como funciona una granja de blazes. Se aprovecha un spawner de fortalezas del Nether y se canaliza a los blazes hacia una camara donde el jugador o un sistema los elimina. Es muy util para obtener varas de blaze y experiencia.
+---
+Como funciona una granja de esqueletos o zombies de spawner. Al partir de un spawner fijo, el sistema es mas sencillo que una granja general de mobs. Normalmente se usa agua para agrupar entidades y una camara donde quedan a poca vida para rematarlas o matarlas automaticamente.
+---
+Como funciona una granja de brujas. Las granjas de brujas aprovechan hut de brujas o disenos basados en estructuras donde su spawn es favorable. Son utiles porque producen redstone, glowstone, polvo, botellas, azucar y otros drops variados.
+---
+Como funciona una granja de guardianes. Aprovecha la estructura del ocean monument y sus condiciones de spawn particulares. Es una de las granjas mas tecnicas porque exige vaciar, aislar o controlar una zona grande, pero a cambio produce prismarina, cristales y buena experiencia.
+---
+Como funciona una granja de piglins zombificados o gold farm. Normalmente se usa un sistema grande en el Nether para provocar mucho spawn y despues atraerlos con huevos o mecanismos equivalentes hacia la muerte. La recompensa es oro, pepitas, experiencia y, si se conecta con piglins, tambien trueques.
+---
+Como se combina una gold farm con bartering. El oro de una granja puede usarse para intercambiar con piglins y obtener cuarzo, obsidiana, perlas, cuerda, grava y otros recursos del Nether. Esto crea una cadena tecnica muy potente para bases avanzadas.
+---
+Como funciona una granja de hoglins. Los hoglins spawnean en ciertas zonas del Nether y pueden canalizarse con hongos distorsionados, caidas o lava. Son utiles porque proporcionan una fuente renovable de comida y cuero.
+---
+Como funciona una granja de wither skeletons. Se basa en una fortaleza del Nether bien controlada para favorecer el spawn de wither skeletons frente a otros mobs. Es una granja avanzada, pero muy importante si se buscan calaveras para invocar al Wither o carbon renovable en gran cantidad.
+---
+Como funciona una raid farm. Las granjas de incursiones aprovechan la mecanica de aldeas y pillagers para encadenar raids de forma controlada. Son muy potentes porque producen totems, esmeraldas, redstone, glowstone y otros objetos valiosos, aunque su montaje suele ser tecnico y delicado.
+---
+Como funciona una granja de magma cubes o de froglights. Los magma cubes pueden usarse como base para granjas de crema de magma y, en versiones mas avanzadas, para generar froglights al combinarlos con ranas. Son sistemas del Nether que mezclan mecanicas de spawn y conduccion de mobs.
+---
+Como producir experiencia de forma estable sin depender de mineria. Las mejores opciones suelen ser enderman, blazes, granjas de spawner, hornos acumulados o gold farms segun el progreso del jugador. Cada una exige distinta infraestructura, pero todas reducen mucho la dependencia del farmeo manual.
+---
+Como elegir que granja automatica de mobs construir primero. Si la prioridad es polvora, conviene creepers o una granja hostil filtrada. Si la prioridad es XP, suelen compensar enderman o blazes. Si se busca versatilidad de drops, una granja hostil general o una raid farm pueden dar mas variedad.
+---
+Como evitar que una granja de mobs quede por debajo de lo esperado. Hay que revisar spawn fuera de la granja, altura del jugador, zonas no iluminadas, ritmo de eliminacion y recogida de drops. Muchas granjas fallan no por el diseno central, sino por detalles del entorno.
+---
+Como conectar una granja de mobs con almacenamiento. Lo normal es usar agua, tolvas, clasificadores y cofres separados por tipo de item si la produccion es grande. Cuanto mas automatico sea el almacenamiento, menos tiempo pierde el jugador vaciando cofres y reiniciando la granja.

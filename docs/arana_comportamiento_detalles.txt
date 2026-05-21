@@ -1,0 +1,18 @@
+Las arañas son mobs hostiles que saltan, trepan muros y ocupan un espacio ancho. De noche o en oscuridad atacan al jugador, pero durante el dia suelen volverse neutrales si no se les molesta.
+
+---
+
+Su capacidad de trepar hace que no siempre respeten fosos, murallas bajas o construcciones pensadas solo para zombies. Por eso requieren un planteamiento distinto en defensa perimetral.
+
+---
+
+Las arañas sueltan cuerda y a veces ojos de araña. La cuerda es importante para arcos, cañas de pescar, telar, correa y varios mecanismos o decoraciones.
+
+---
+
+En cuevas estrechas, una araña puede ser incomoda por su hitbox ancha. En plataformas abiertas puede encadenar saltos y acercarse mas rapido de lo esperado.
+
+---
+
+Las cave spiders son mas pequeñas y peligrosas porque infligen veneno. Se encuentran sobre todo en minas abandonadas con spawners especificos.
+

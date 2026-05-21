@@ -1,0 +1,23 @@
+La awkward potion es la base mas comun para muchas pociones utiles.
+
+Velocidad suele prepararse con azucar sobre awkward potion.
+
+Fuerza suele prepararse con blaze powder sobre awkward potion.
+
+Resistencia al fuego suele prepararse con crema de magma sobre awkward potion.
+
+Vision nocturna suele prepararse con zanahoria dorada sobre awkward potion.
+
+Respiracion acuática suele prepararse con pez globo sobre awkward potion.
+
+Regeneracion suele prepararse con lagrima de ghast sobre awkward potion.
+
+Curacion instantanea suele prepararse con rodaja de melon reluciente sobre awkward potion.
+
+Veneno suele prepararse con ojo de araña sobre awkward potion.
+
+Debilidad tiene una cadena especial y es muy importante en la cura de aldeanos zombis.
+
+Redstone aumenta duracion en muchas pociones y glowstone aumenta potencia cuando es compatible.
+
+La polvora convierte muchas pociones en splash y el aliento de dragon convierte splash en lingering.

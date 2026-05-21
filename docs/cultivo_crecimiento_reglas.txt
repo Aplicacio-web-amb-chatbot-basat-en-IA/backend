@@ -1,0 +1,19 @@
+Los cultivos como trigo, zanahorias, patatas y remolachas crecen sobre tierra labrada.
+
+La hidratacion mejora el cultivo y normalmente se consigue con agua cercana.
+
+La luz adecuada permite que los cultivos sigan creciendo de forma fiable.
+
+La harina de hueso acelera instantaneamente o parcialmente muchos crecimientos vegetales.
+
+Los aldeanos granjeros pueden interactuar con algunos cultivos, lo que permite automatizaciones especificas.
+
+Los cultivos no maduran todos al mismo ritmo y algunos requieren condiciones particulares.
+
+La cana de azucar crece junto a agua y no necesita tierra labrada.
+
+Los cactus crecen sobre arena y necesitan espacio vertical libre.
+
+El bambu crece rapidamente y es util como combustible, andamio y recurso de automatizacion.
+
+Comprender las reglas de crecimiento mejora tanto las granjas manuales como las automaticas.

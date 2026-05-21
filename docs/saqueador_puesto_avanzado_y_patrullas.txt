@@ -1,0 +1,9 @@
+Los puestos de saqueadores son estructuras donde aparecen pillagers con frecuencia.
+
+Los pillagers usan ballestas y pueden ser molestos incluso a distancia.
+
+Matar al lider adecuado puede provocar el efecto Bad Omen.
+
+Si un jugador con Bad Omen entra en una aldea valida, puede desencadenar una raid.
+
+Estos puestos son importantes tanto como amenaza como para acceder a mecanicas de raid.

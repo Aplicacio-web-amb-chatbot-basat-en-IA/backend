@@ -1,0 +1,18 @@
+Evitar spawns no deseados es importante en bases, granjas y perimetros. La iluminacion es la primera herramienta, pero no la unica.
+
+---
+
+Segun el bloque y el contexto, losas, alfombras, hojas, cristal u otros elementos pueden ayudar a impedir apariciones en superficies concretas.
+
+---
+
+El spawn proofing es muy importante alrededor de granjas de mobs, creepers o estructuras donde quieras concentrar apariciones en un punto controlado.
+
+---
+
+No basta con iluminar solo la superficie si cerca hay cuevas oscuras. Las apariciones subterraneas tambien pueden reducir la eficiencia de una granja.
+
+---
+
+Combinar iluminacion y bloques de prevencion suele ser la mejor manera de asegurar una zona.
+

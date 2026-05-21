@@ -1,0 +1,15 @@
+El beacon es un bloque avanzado construido a partir de una estrella del Nether, cristal y obsidiana.
+
+La estrella del Nether se obtiene derrotando al Wither.
+
+Para funcionar, el beacon necesita colocarse sobre una piramide de bloques minerales como hierro, oro, esmeralda, diamante o netherita.
+
+Cuanto mayor es la piramide, mas alcance y mejores efectos puede ofrecer el beacon.
+
+Los efectos del beacon incluyen velocidad, prisa, resistencia, salto mejorado o fuerza segun la configuracion.
+
+Un beacon completo es una herramienta muy valiosa para bases avanzadas y proyectos de gran escala.
+
+Prisa con beacon es especialmente util para mineria y excavacion masiva.
+
+Construir un beacon requiere gran inversion de recursos, por lo que suele considerarse objetivo de juego tardio.

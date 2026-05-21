@@ -1,0 +1,41 @@
+Como funciona una granja automatica de trigo, zanahorias o patatas. Una forma eficiente es usar aldeanos agricultores para plantar y cosechar mientras tolvas o vagonetas con tolva recogen parte de la produccion. Tambien se puede usar agua para cosecha por lotes, aunque eso suele requerir replantado manual o semiautomatico.
+---
+Como mejorar una granja de cultivos basicos. Lo importante es tener buena iluminacion, hidratacion completa y una distribucion que facilite la recogida. Si la granja usa aldeanos, tambien conviene controlar bien sus camas, profesiones y rutas para que no se desorganicen.
+---
+Como funciona una granja automatica de cana de azucar. Lo normal es usar observadores para detectar crecimiento y pistones para romper las plantas cuando alcanzan cierta altura. Luego la cana cae a agua, tolvas o vagonetas con tolva para almacenarse automaticamente.
+---
+Como funciona una granja automatica de bambu. El bambu puede cultivarse en lineas compactas con observadores y pistones, igual que la cana de azucar. Es una de las mejores fuentes renovables de combustible y tambien sirve para fabricar andamios.
+---
+Como automatizar melon y calabaza. El tallo produce el fruto en una casilla adyacente y un observador puede detectar ese cambio para activar un piston. Esta granja es muy estable y buena para comida, comercio o decoracion tecnica.
+---
+Como hacer una granja automatica de cactus. El cactus crece en vertical y puede romperse al tocar una valla, losa o bloque colocado estrategicamente. Esto permite disenos muy simples donde el propio crecimiento causa la rotura y despues el drop se recoge con agua o tolvas.
+---
+Como hacer una granja automatica de kelp. El kelp puede cultivarse en columnas de agua y romperse con pistones cuando alcanza cierta altura. Es util para combustible renovable si se seca y tambien puede combinarse con hornos para producir experiencia.
+---
+Como automatizar verrugas del nether. Las verrugas no necesitan agua y suelen cultivarse sobre soul sand, por lo que se prestan a filas compactas. Con pistones y buena recogida se puede hacer una granja bastante comoda para producir pociones.
+---
+Como funciona una granja de miel y panales. Se necesitan colmenas o nidos, abejas vivas y flores cercanas para que trabajen. Con observadores y dispensadores se puede cosechar automaticamente sin enfadar a las abejas si el sistema incluye una hoguera o una solucion equivalente para mantenerlas tranquilas.
+---
+Como hacer una granja de pollos automatica. Hay disenos basicos donde los pollos producen huevos en una zona superior y un dispensador los lanza para generar nuevos pollitos. En versiones mas avanzadas se combina crecimiento controlado y coccion automatica para obtener comida lista para usar.
+---
+Como funciona una granja de vacas. Una granja de vacas suele centrarse en carne y cuero, y puede ser manual, semiautomatica o basada en acumulacion controlada. Lo importante es que la reproduccion sea comoda y que la recogida no complique demasiado el mantenimiento.
+---
+Como funciona una granja de ovejas. Las granjas de ovejas pueden orientarse a lana, carne o ambas cosas, pero la automatizacion mas comun es la de lana con tijeras y observadores. Separar colores por modulos ayuda mucho cuando la lana se usa para decoracion o redstone.
+---
+Como automatizar cerdos y otros animales de comida. La automatizacion total suele ser mas limitada que en cultivos o mobs hostiles, pero se puede mejorar mucho el flujo de reproduccion, movimiento y sacrificio. Aun asi, muchas granjas de animales siguen siendo semiautomaticas porque dependen de comida y accion del jugador.
+---
+Como funciona un breeder de aldeanos. Un breeder necesita camas suficientes, comida y una distribucion que permita que los aldeanos consideren valido el espacio de cria. Si el sistema esta bien aislado, puede alimentar trading halls, granjas de hierro y otras infraestructuras tecnicas.
+---
+Como evitar problemas en una granja de aldeanos. Muchos fallos vienen de camas mal colocadas, bloqueos de camino, aldeanos sin comida suficiente o conexiones con otras aldeas cercanas. Conviene aislar bien la granja y comprobar que cada aldeano mantiene el comportamiento esperado.
+---
+Como funciona una granja de hierro. Las granjas de hierro fuerzan el spawn de golems en una zona controlada usando aldeanos, camas y una situacion de panico o deteccion de amenaza segun el diseno. Despues los golems se empujan a lava, caida u otro sistema de muerte y se recogen los lingotes con tolvas.
+---
+Que hace eficiente una granja de hierro. La eficiencia depende de que los aldeanos mantengan correctamente sus condiciones, de que el punto de spawn este despejado y de que el sistema mate y recoja rapido a cada golem. El aislamiento de otros puntos de spawn tambien es importante.
+---
+Como combinar aldeanos y automatizacion. Los aldeanos sirven para granjas de cultivos, granjas de hierro y salas de intercambio, asi que suelen ser el nucleo de una base tecnica estable. Si se organizan bien, permiten encadenar produccion de comida, hierro, esmeraldas y libros encantados.
+---
+Como ordenar una zona de granjas de base. Lo mejor es separar cultivos, animales y aldeanos en modulos cercanos pero no mezclados. Esto reduce errores, facilita la recoleccion y deja espacio para almacenamiento, caminos e iluminacion.
+---
+Como hacer una granja util para el dia a dia y no solo para lucirse. Lo ideal es priorizar recursos que realmente consumas mucho, como comida, papel, bambu, hierro o ingredientes de pociones. Una granja un poco mas lenta pero facil de reparar suele ser mejor que una muy compleja para un uso normal.
+---
+Que recursos basicos conviene automatizar primero. Normalmente compensan mucho las granjas de cana de azucar, bambu, melon o calabaza, cultivos basicos, hierro y alguna fuente estable de comida. Con esas bases, luego resulta mas facil escalar hacia sistemas tecnicos mas complejos.

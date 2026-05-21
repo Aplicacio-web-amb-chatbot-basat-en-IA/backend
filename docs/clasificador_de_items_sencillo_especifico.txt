@@ -1,0 +1,3 @@
+Un clasificador de items sencillo suele usar una tolva de entrada, un comparador, una antorcha de redstone y una tolva de salida bloqueada por la señal.
+El item filtro se coloca en la tolva junto a objetos de relleno para que solo pase el tipo de objeto deseado.
+Si cambias mal la cantidad de items de relleno o la señal, el sistema puede desordenarse o mezclar objetos.

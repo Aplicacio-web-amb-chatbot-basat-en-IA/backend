@@ -1,0 +1,4 @@
+Una granja automatica de hierro suele construirse con varios aldeanos, camas y un sistema que haga aparecer golems de hierro en una zona controlada.
+Despues, los golems se empujan con agua hacia una zona de muerte o recogida automatica con lava, tolvas y cofres.
+Para que funcione bien, conviene evitar otros puntos de aparicion cercanos y mantener bien colocados a los aldeanos y sus camas.
+

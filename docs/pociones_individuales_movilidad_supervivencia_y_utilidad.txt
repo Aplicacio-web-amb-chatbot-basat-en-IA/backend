@@ -1,0 +1,19 @@
+La pocion de vision nocturna se hace con awkward potion mas golden carrot. Aporta vision clara en oscuridad, cuevas, agua o exploracion nocturna.
+---
+La pocion de invisibilidad se hace normalmente convirtiendo una pocion de vision nocturna con fermented spider eye. Aporta invisibilidad del jugador, aunque el equipo visible y otras acciones pueden seguir delatando su presencia.
+---
+La pocion de salto se hace con awkward potion mas rabbit's foot. Aporta mayor altura de salto y es util para movilidad, parkour o ciertas rutas de exploracion.
+---
+La pocion de caida lenta se hace con awkward potion mas phantom membrane. Aporta una caida mucho mas controlada y reduce de forma extrema el peligro de daño por caida.
+---
+La pocion de velocidad se hace con awkward potion mas sugar. Aporta mayor velocidad de movimiento y es util tanto en exploracion como en combate o construccion rapida.
+---
+La pocion de lentitud se obtiene normalmente a partir de una pocion de velocidad usando fermented spider eye. Aporta una fuerte reduccion del movimiento y suele usarse mas como herramienta ofensiva que como apoyo propio.
+---
+La pocion de maestro tortuga se hace con awkward potion mas turtle shell. Aporta mucha resistencia pero tambien lentitud, asi que es una pocion de supervivencia muy fuerte a cambio de movilidad reducida.
+---
+La pocion de respiracion acuática se hace con awkward potion mas pufferfish. Permite respirar bajo el agua durante su duracion y es una de las mejores ayudas para oceanos, monumentos y bases submarinas.
+---
+La pocion de resistencia al fuego se hace con awkward potion mas magma cream. Protege frente a fuego y lava y es una de las pociones mas importantes para el Nether.
+---
+La pocion de debilidad se hace con botella de agua y fermented spider eye, sin necesidad de awkward potion como base. Reduce el dano cuerpo a cuerpo y tambien es clave para curar aldeanos zombis junto con una manzana dorada.

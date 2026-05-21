@@ -1,0 +1,13 @@
+Luck of the Sea mejora la probabilidad de obtener tesoros al pescar y reduce algo la de basura. Es muy valioso si se usa la pesca como fuente de libros, arcos o recursos utiles.
+---
+Lure reduce el tiempo de espera entre lanzamientos y picadas al pescar. Aumenta la velocidad de pesca y se combina bien con Luck of the Sea si se busca rendimiento.
+---
+Curse of Binding hace que una pieza de armadura o un objeto apropiado no pueda quitarse facilmente una vez equipado, salvo en situaciones especiales. Es una maldicion y no una mejora deseable en survival normal.
+---
+Curse of Vanishing hace que el objeto desaparezca al morir el jugador en lugar de quedar dropeado. En supervivencia normal suele considerarse una desventaja porque dificulta recuperar equipo tras la muerte.
+---
+Density aumenta el dano de la maza especialmente en golpes de caida o impactos donde importa mucho la fuerza del descenso. Es uno de los encantamientos especificos mas caracteristicos de este arma.
+---
+Breach reduce parte de la efectividad de la armadura del objetivo al golpear con la maza. Es una mejora de combate especializada para esta arma y compite con otras opciones ofensivas de la misma familia.
+---
+Wind Burst impulsa al jugador tras impactar con la maza en determinadas condiciones, lo que introduce movilidad adicional y jugadas agresivas. Es un encantamiento muy caracteristico y avanzado del combate con maza.

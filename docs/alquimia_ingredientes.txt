@@ -1,0 +1,53 @@
+La verruga del Nether convierte botellas de agua en awkward potions y es la base de muchas pociones útiles.
+
+El azúcar se usa para pociones de velocidad.
+
+La pata de conejo se usa para pociones de salto.
+
+La crema de magma se usa para pociones de resistencia al fuego.
+
+La rodaja o zanahoria dorada se usa para pociones de visión nocturna.
+
+El pez globo se usa para pociones de respiración acuática.
+
+La lágrima de ghast se usa para pociones de regeneración.
+
+El polvo de blaze se usa para pociones de fuerza y también como combustible del soporte para pociones.
+
+El ojo de araña fermentado se usa para corromper o invertir varias pociones, como pasar de visión nocturna a invisibilidad o de curación a daño.
+
+La redstone alarga la duración de muchas pociones.
+
+El polvo de glowstone aumenta el nivel o potencia de muchas pociones, aunque suele acortar duración.
+
+La pólvora convierte muchas pociones normales en splash potions.
+
+El aliento de dragón convierte splash potions en lingering potions.
+
+No todas las pociones aceptan tanto mejora de potencia como aumento de duración.
+
+El orden de los ingredientes importa, porque muchos solo funcionan sobre una base o una poción concreta ya creada.
+
+La crema de magma se fabrica con una bola de slime y polvo de blaze.
+
+El ojo de araña fermentado se fabrica con un ojo de araña, un azucar y una seta marron.
+
+Las botellas de agua se consiguen llenando botellas de vidrio en una fuente de agua.
+
+La awkward potion es la base mas comun de las pociones utiles, mientras que la mundane potion y la thick potion suelen tener menos uso practico.
+
+La redstone suele servir para aumentar duracion y el glowstone para aumentar potencia, pero no todas las pociones admiten ambos cambios.
+
+La invisibilidad suele obtenerse modificando una pocion de vision nocturna con ojo de arana fermentado.
+
+La pocion de dano suele derivarse de una pocion de curacion corrompida con ojo de arana fermentado.
+
+La pocion de lentitud puede obtenerse a partir de ciertas pociones beneficiosas modificadas con ojo de arana fermentado segun la cadena correspondiente.
+
+La pocion de debilidad puede prepararse sin awkward potion en cadenas concretas, pero sigue siendo parte importante de la cura de aldeanos zombis junto a la manzana dorada.
+
+La pocion de fuerza necesita blaze powder y por eso depende del acceso al Nether.
+
+La pocion de resistencia al fuego depende de crema de magma, asi que requiere slime y blaze powder o acceso equivalente a sus componentes.
+
+La pocion de respiracion acuaticа depende del pez globo, por lo que la pesca o la exploracion oceanica pueden ayudar a conseguirla.

@@ -1,0 +1,25 @@
+El atril corresponde al bibliotecario.
+
+El compostador corresponde al granjero.
+
+El alto horno corresponde al armero.
+
+La mesa de herreria se asocia al herrero de herramientas en el contexto de los oficios tecnicos.
+
+La piedra de afilar se asocia al herrero de armas.
+
+El barril corresponde al pescador.
+
+El telar corresponde al pastor.
+
+El cortapiedra corresponde al albañil.
+
+El caldero corresponde al peletero.
+
+El ahumador corresponde al carnicero.
+
+La mesa de flechas corresponde al flechero.
+
+El soporte para pociones corresponde al clerigo.
+
+Conocer estos bloques es esencial para cambiar profesiones, fijar aldeanos y construir trading halls.

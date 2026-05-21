@@ -1,0 +1,9 @@
+La Ender Dragon es el jefe principal del End y la meta clasica de progresion survival. Derrotarla abre acceso estable al End exterior y facilita conseguir Elytra y end cities.
+---
+El Wither es un jefe invocado por el jugador a partir de arena de almas y craneos de wither skeleton. Su derrota da la estrella del Nether, necesaria para fabricar una baliza.
+---
+El Warden es un enemigo extremadamente peligroso asociado al sculk y a las ancient cities. No se trata como un boss tradicional, pero su dificultad es tan alta que exige preparacion y sigilo.
+---
+El snow golem es una criatura utilitaria creada por el jugador con bloques de nieve y calabaza. Puede servir como distraccion o generador ligero de nieve, aunque no es una gran amenaza ofensiva.
+---
+El iron golem puede crearse manualmente o generarse en aldeas. Aunque no es un boss, actua como protector poderoso y tiene mucha importancia defensiva y de granja.

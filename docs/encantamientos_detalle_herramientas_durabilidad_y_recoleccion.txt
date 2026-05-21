@@ -1,0 +1,9 @@
+Efficiency aumenta mucho la velocidad de minado o recoleccion en herramientas como pico, pala, hacha o azada. Es uno de los encantamientos mas buscados porque mejora directamente la productividad del jugador.
+---
+Silk Touch permite recoger muchos bloques en su forma original en lugar de obtener su drop habitual. Es ideal para minerales que se quieran procesar despues, bloques fragiles, piedra en bruto, vidrio o elementos decorativos especiales.
+---
+Fortune aumenta la cantidad de recursos obtenidos de ciertos minerales, cultivos y bloques al romperlos. Es muy valioso en menas como diamante, redstone, lapislazuli, carbon o esmeralda, y en algunos otros recursos concretos.
+---
+Unbreaking reduce la velocidad a la que un objeto pierde durabilidad. Es uno de los encantamientos mas universales porque mejora casi cualquier herramienta, arma, armadura o utilitario.
+---
+Mending usa la experiencia recogida para reparar automaticamente el objeto encantado. Es uno de los encantamientos mas potentes del juego porque reduce mucho la necesidad de reparar en yunque o fabricar equipo de reemplazo.

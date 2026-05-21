@@ -1,0 +1,4 @@
+Un Enderman es un mob neutral alto que se vuelve hostil si el jugador lo mira directamente a los ojos.
+Puede teletransportarse y aparece en el Overworld, el Nether y especialmente en el End.
+Los Endermen sueltan perlas de ender, muy utiles para progresar hacia las strongholds y para movilidad.
+

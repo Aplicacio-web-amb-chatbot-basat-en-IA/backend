@@ -1,0 +1,3 @@
+El encantamiento Fortuna aumenta la cantidad de recursos que puedes obtener de ciertos minerales, cultivos y bloques al romperlos.
+Es especialmente util en minerales como diamante, carbon, lapislazuli, redstone o esmeraldas, porque puede hacer que obtengas mas unidades por bloque.
+No mejora todos los bloques por igual, asi que a veces conviene compararlo con Toque de Seda segun el recurso que quieras recoger.

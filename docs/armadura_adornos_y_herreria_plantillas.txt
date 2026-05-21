@@ -1,0 +1,9 @@
+Las smithing templates modernas se usan en la mesa de herreria.
+
+Algunas sirven para mejorar equipo a netherita y otras para decorar armaduras con armor trims.
+
+Los armor trims son principalmente cosmeticos y no mejoran estadisticas de combate.
+
+Las plantillas se consiguen explorando estructuras concretas del mundo.
+
+Duplicar plantillas suele requerir materiales adicionales y el bloque base asociado a ese tipo de plantilla.

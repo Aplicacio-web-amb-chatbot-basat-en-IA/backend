@@ -1,0 +1,18 @@
+La aparicion de mobs hostiles no depende solo de la oscuridad. Tambien influyen limites globales de mobs, distancia al jugador, zonas cargadas y espacios validos para aparecer.
+
+---
+
+En granjas de mobs, iluminar cuevas y superficie alrededor mejora mucho la eficiencia porque reduce spawns desperdiciados fuera de la granja.
+
+---
+
+Muchos mobs hostiles normales dejan de ser relevantes si estan demasiado lejos del jugador o acaban desapareciendo segun las reglas de despawn naturales.
+
+---
+
+Comprender el mob cap es importante para redstone, granjas y optimizacion, porque una granja mala puede estar bloqueando capacidad de spawn sin producir recursos suficientes.
+
+---
+
+No todos los mobs siguen exactamente las mismas reglas. Algunos, como aldeanos, animales con nombre o ciertas entidades especiales, interactuan con sistemas distintos.
+

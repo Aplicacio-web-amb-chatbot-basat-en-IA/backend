@@ -1,0 +1,18 @@
+Los mapas ayudan a orientarse, marcar exploracion y planificar rutas. En bases grandes, una sala de mapas puede servir para visualizar zonas exploradas y objetivos pendientes.
+
+---
+
+La mesa de cartografia permite ampliar, copiar o bloquear mapas. Eso resulta util si quieres trabajar con varias copias o mantener una vista concreta sin que siga cambiando.
+
+---
+
+Los mapas son especialmente utiles cuando exploras oceanos, biomas lejanos o zonas donde quieres dejar rutas claras para volver despues.
+
+---
+
+No son indispensables para sobrevivir, pero mejoran mucho organizacion y lectura del territorio en partidas largas.
+
+---
+
+Usarlos bien reduce perdidas de tiempo y facilita expansion ordenada de bases y rutas.
+

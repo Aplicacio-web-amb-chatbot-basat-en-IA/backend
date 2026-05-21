@@ -1,0 +1,3 @@
+El piglin bartering consiste en lanzar lingotes de oro a un piglin normal para que, despues de unos segundos, te devuelva un objeto aleatorio de su tabla de intercambio.
+Es una forma muy util de conseguir perlitas de ender, cuerda, grava, obsidiana o pociones de resistencia al fuego sin depender solo de cofres o combate.
+Conviene hacer el intercambio en una zona segura y llevar armadura de oro para que los piglins no se vuelvan hostiles de inmediato.

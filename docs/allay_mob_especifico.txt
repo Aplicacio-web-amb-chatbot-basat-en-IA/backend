@@ -1,0 +1,1 @@
+El allay es un mob utilitario que puede recoger y agrupar objetos similares segun el item que se le entregue. Destaca en automatizacion, clasificacion y sistemas de recogida de items.

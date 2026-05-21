@@ -1,0 +1,13 @@
+El inventario del jugador tiene espacio limitado, por lo que el almacenamiento se vuelve importante muy pronto.
+
+Los cofres son la forma basica de guardar objetos en la base.
+
+Los barriles cumplen una funcion similar y pueden ser utiles en disenos compactos.
+
+Las shulker boxes representan una mejora enorme en juego tardio porque permiten transporte de muchos objetos dentro del inventario.
+
+Clasificar recursos por categorias reduce mucho el tiempo perdido buscando materiales.
+
+Combinar cofres, barriles, tolvas y clasificadores mejora mucho la organizacion de una base grande.
+
+Gestionar bien inventario y almacenamiento es una parte esencial de la eficiencia en Minecraft.

@@ -1,0 +1,3 @@
+Una granja de pollos puede ser manual o automatica, pero normalmente se basa en acumular huevos y convertirlos en mas pollos con el tiempo.
+Las versiones automaticas suelen usar dispensadores para lanzar huevos y sistemas de lava o coccion para recoger pollo cocinado.
+Es una granja util para comida y plumas, aunque no siempre es la fuente mas potente de alimento del juego.

@@ -1,0 +1,3 @@
+Las herramientas se pueden reparar de dos formas principales: combinando dos herramientas iguales en un yunque o aplicando Mending mientras ganas experiencia.
+Tambien puedes reparar muchas herramientas en un yunque usando el material correspondiente, como hierro para herramientas de hierro o diamantes para herramientas de diamante.
+Mending suele ser la opcion mas eficiente a largo plazo porque repara el objeto automaticamente usando experiencia.

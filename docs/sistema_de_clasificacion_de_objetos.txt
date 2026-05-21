@@ -1,0 +1,17 @@
+Un sistema automatico de clasificacion de objetos con redstone suele basarse en tolvas, comparadores, antorchas de redstone y cofres.
+
+La idea general es que una tolva filtro contiene algunos items de relleno y una muestra del item objetivo.
+
+Cuando entra el objeto correcto, el comparador detecta el cambio en la tolva y genera una senal.
+
+Esa senal modifica el estado de antorchas o bloques de redstone para desbloquear temporalmente otra tolva.
+
+Como resultado, el item correcto cae al cofre correspondiente y el resto continua por la linea principal.
+
+Cada modulo de filtro suele dedicarse a un tipo de item concreto.
+
+Los sistemas de clasificacion son muy utiles para bases con gran volumen de almacenamiento.
+
+Su diseno requiere cuidado para evitar que items no deseados rompan el equilibrio del filtro.
+
+Los items no apilables o ciertos objetos especiales necesitan tratamientos distintos o modulos adaptados.

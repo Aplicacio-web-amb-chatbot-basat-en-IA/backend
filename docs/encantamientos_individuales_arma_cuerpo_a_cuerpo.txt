@@ -1,0 +1,13 @@
+Sharpness aumenta el dano general de un arma y suele ser la opcion mas universal para espada o hacha en combate normal. Cuando no se busca una especializacion concreta, suele ser el encantamiento ofensivo mas recomendado.
+---
+Smite aumenta el dano contra mobs no muertos como zombies, esqueletos, wither skeletons, zombified piglins, husks, drowned y el Wither. Es muy util para granjas o combates centrados en ese tipo de enemigos.
+---
+Bane of Arthropods aumenta el dano contra arañas, cave spiders, silverfish y endermites. Tambien aplica un efecto de lentitud, pero suele ser el encantamiento ofensivo mas situacional de los tres grandes de dano cuerpo a cuerpo.
+---
+Knockback empuja mas al objetivo al golpearlo, lo que puede servir para ganar distancia o controlar enemigos. Sin embargo, a veces resulta incomodo si aleja demasiado al objetivo y alarga el combate.
+---
+Fire Aspect prende fuego al objetivo golpeado y añade dano extra con el tiempo. Tambien ayuda a cocinar carne de ciertos animales al matarlos, lo que puede aportar algo de utilidad fuera del combate puro.
+---
+Looting aumenta la cantidad y calidad de algunos drops de mobs cuando se usan armas apropiadas. Es uno de los encantamientos mas valiosos para farmeo de recursos como ender pearls, wither skeleton skulls o drops raros.
+---
+Sweeping Edge mejora el dano del barrido de espada a enemigos cercanos. Es especialmente util cuando se combate contra grupos y se quiere limpiar varias entidades a la vez.

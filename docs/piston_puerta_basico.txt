@@ -1,0 +1,7 @@
+Una puerta de pistones es una aplicacion comun de redstone para ocultar entradas o automatizar accesos.
+
+Suele usar pistones, bloques movibles y algun sistema de entrada como palanca, boton o placa.
+
+Las versiones mas simples pueden ser de dos bloques y las avanzadas incluir puertas ocultas o flush con la pared.
+
+Entender el tiempo de la senal y el empuje de bloques es fundamental para construirlas bien.

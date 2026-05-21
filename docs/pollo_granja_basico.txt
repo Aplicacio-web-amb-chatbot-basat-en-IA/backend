@@ -1,0 +1,9 @@
+Las gallinas proporcionan plumas, pollo y huevos.
+
+Los huevos pueden generar pollitos al lanzarse con cierta probabilidad.
+
+Una granja de pollos puede ser muy compacta y util para comida y flechas.
+
+El pollo cocinado es una fuente de comida aceptable, aunque no tan fuerte como carne de vaca cocinada.
+
+Las plumas son importantes para fabricar flechas en grandes cantidades.

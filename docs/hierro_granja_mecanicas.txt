@@ -1,0 +1,17 @@
+Una granja automatica de hierro moderna suele basarse en aldeanos y golems de hierro.
+
+La idea general es mantener un grupo de aldeanos con camas y condiciones validas para que puedan generar golems.
+
+En muchos disenos, un zombie asusta a los aldeanos de forma controlada para provocar la aparicion repetida de golems.
+
+Los golems generados se empujan con agua o corrientes hacia una camara de muerte, a menudo con lava.
+
+Debajo de la zona de muerte se colocan tolvas para recoger automaticamente los lingotes de hierro y amapolas.
+
+Es importante impedir puntos alternativos de spawn para que los golems aparezcan solo donde interesa.
+
+La eficiencia depende del numero de aldeanos, del diseno y de que el sistema mantenga condiciones validas de trabajo y descanso.
+
+Las granjas de hierro son muy utiles porque convierten un recurso critico en renovable y automatico.
+
+Montarlas bien requiere entender aldeanos, camas, lineas de vision y plataforma de spawn.

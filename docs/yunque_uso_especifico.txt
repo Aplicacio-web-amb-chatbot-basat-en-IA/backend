@@ -1,0 +1,3 @@
+Para usar un yunque, colocas el objeto principal en la ranura izquierda y el material, herramienta o libro encantado en la ranura central.
+El yunque sirve para reparar objetos, combinar encantamientos compatibles y renombrar equipo a cambio de niveles de experiencia.
+Una de sus ventajas es que puede conservar encantamientos al reparar, aunque cada uso aumenta el coste futuro del objeto.

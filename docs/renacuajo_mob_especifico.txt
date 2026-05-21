@@ -1,0 +1,1 @@
+El renacuajo es la fase inicial de la rana y crece con el tiempo hasta convertirse en rana adulta. Su interes principal esta en cria y en planificar el tipo de rana segun el entorno.

@@ -1,0 +1,15 @@
+Por que una granja de enderman produce menos experiencia de la esperada. Suele pasar por una mala posicion de AFK, por construir demasiado cerca de otras superficies del End o por un sistema de agrupacion que no atrae bien a los enderman. En este tipo de granja, el entorno y el punto de jugador importan tanto como la plataforma central.
+---
+Como diagnosticar una granja de enderman. Lo normal es revisar distancia a otras islas, altura del jugador, velocidad con la que los enderman llegan a la camara final y si existe algun punto donde se queden atascados. Una pequena acumulacion fuera de la camara de remate puede reducir mucho la experiencia por minuto.
+---
+Que errores son frecuentes en una granja de enderman. Son comunes las plataformas mal colocadas, la zona de AFK demasiado baja o demasiado alta y los mecanismos que no concentran bien a los mobs antes de la muerte. Tambien falla bastante cuando el diseno obliga a los enderman a recorrer trayectos innecesarios.
+---
+Como optimizar una granja de enderman para XP. Conviene reducir el tiempo entre spawn y remate, dejar una camara muy accesible al jugador y mantener el sistema limpio de entidades sobrantes. Si el objetivo principal es experiencia, la clave es que los enderman lleguen rapido y en grupos manejables.
+---
+Como optimizar una granja de enderman para perlas. Si ademas de XP importan las perlas, merece la pena cuidar almacenamiento, ritmo de recogida y limpieza del area final para que no se pierdan drops. La ventaja es que una sola granja bien hecha puede cubrir movilidad, comercio y experiencia a la vez.
+---
+Cuando compensa una granja de enderman frente a una gold farm para experiencia. La granja de enderman suele ser mas directa y mas sencilla de entender si el objetivo es solo XP y perlas. La gold farm gana valor cuando tambien interesa oro y bartering, pero a cambio suele ser un sistema mas complejo.
+---
+Como integrar una granja de enderman con equipo encantado. Es especialmente util cuando el jugador usa Mending, porque convierte la experiencia en mantenimiento practicamente continuo de herramientas y armaduras. Por eso muchas bases avanzadas la usan como punto central de reparacion.
+---
+Como explicar tecnicamente una granja de enderman. Lo mejor es dividirla en plataforma de spawn, sistema de concentracion o atraccion, camara de remate y almacenamiento de drops. Esa estructura deja claro por que es una de las granjas de XP mas representativas del juego avanzado.

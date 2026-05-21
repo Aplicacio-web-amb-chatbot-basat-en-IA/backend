@@ -1,0 +1,3 @@
+El conduit se fabrica usando un corazon del mar y caparazones de nautilus.
+El corazon del mar se obtiene normalmente en tesoros enterrados, mientras que los caparazones de nautilus se consiguen pescando, comerciando o matando ahogados con suerte.
+Despues de fabricarlo, el conduit necesita una estructura de prismarina para activarse.

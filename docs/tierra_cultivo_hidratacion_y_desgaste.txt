@@ -1,0 +1,9 @@
+La tierra labrada se mantiene en buen estado si tiene agua cerca o condiciones adecuadas.
+
+Si una tierra labrada se seca demasiado y no tiene cultivo, puede volver a tierra normal.
+
+Saltos, caidas o movimientos de entidades sobre la tierra labrada pueden afectar algunos diseños segun version y circunstancias.
+
+Mantener el cultivo plantado y el agua bien colocada mejora la estabilidad de la granja.
+
+Comprender esta mecanica ayuda a evitar errores en granjas de trigo, zanahorias, patatas o remolachas.

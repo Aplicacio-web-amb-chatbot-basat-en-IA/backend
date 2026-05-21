@@ -1,0 +1,70 @@
+{
+  "id": "entrada_mina",
+  "label": "Entrada mina",
+  "category": "mine",
+  "default_size": "medium",
+  "supported_sizes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "supported_extensions": [
+    "decoracion_railes",
+    "almacen_exterior",
+    "estructuras_madera",
+    "entrada_ampliada",
+    "decoracion_extra"
+  ],
+  "default_main_material": "stone",
+  "max_secondary_materials": 2,
+  "default_secondary_materials": [
+    "stone_bricks",
+    "oak_planks"
+  ],
+  "main_material_options": [
+    { "value": "stone", "label": "Piedra" },
+    { "value": "stone_bricks", "label": "Ladrillos de piedra" },
+    { "value": "cobblestone", "label": "Adoquin" },
+    { "value": "andesite", "label": "Andesita" },
+    { "value": "deepslate_bricks", "label": "Ladrillos de pizarra profunda" }
+  ],
+  "secondary_material_options": [
+    { "value": "stone_bricks", "label": "Ladrillos de piedra" },
+    { "value": "polished_andesite", "label": "Andesita pulida" },
+    { "value": "cobblestone", "label": "Adoquin" },
+    { "value": "oak_planks", "label": "Tablones de roble" },
+    { "value": "spruce_planks", "label": "Tablones de abeto" },
+    { "value": "dark_oak_planks", "label": "Tablones de roble oscuro" }
+  ],
+  "default_prompt": "entrada de mina mediana integrada en ladera, arco de piedra, techo y soportes de madera, camino frontal y ambiente minero",
+  "size_prompts": {
+    "small": "entrada de mina pequena integrada en ladera, arco de piedra, techo simple de madera, camino frontal y acceso estrecho con detalles mineros",
+    "medium": "entrada de mina mediana integrada en ladera, arco de piedra, techo y soportes de madera, camino frontal y ambiente minero",
+    "large": "gran entrada de mina integrada en la ladera, arco amplio de piedra, estructura de madera robusta, camino frontal, acceso profundo y zona minera exterior"
+  },
+  "default_width": 12,
+  "default_depth": 10,
+  "default_height": 8,
+  "materials": {
+    "rock": "stone",
+    "trim": "stone_bricks",
+    "slab": "stone_slab",
+    "stairs": "stone_stairs",
+    "wood": "oak_planks",
+    "log": "oak_log",
+    "wood_slab": "oak_slab",
+    "wood_stairs": "oak_stairs",
+    "fence": "oak_fence",
+    "glass": "glass",
+    "bars": "iron_bars",
+    "path": "dirt_path",
+    "ground": "grass_block",
+    "dirt": "dirt",
+    "leaf": "azalea_leaves",
+    "light": "lantern",
+    "rail": "rail",
+    "barrel": "barrel",
+    "tunnel_floor": "stone"
+  },
+  "supported_features": []
+}

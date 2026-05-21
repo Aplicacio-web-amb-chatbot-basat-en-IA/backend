@@ -1,0 +1,19 @@
+La abeja es normalmente neutral y se enfada si se ataca a una abeja o se cosecha su nido o colmena sin humo adecuado. Es importante para miel, panales y polinizacion.
+---
+La araña es neutral de dia en muchas condiciones de luz, pero hostil de noche o en oscuridad. Suelta hilo y ojos de araña, por lo que es un mob bastante relevante para crafteo y pociones.
+---
+El enderman es neutral hasta que se le mira directamente a los ojos o se le provoca. Suelta perlas de ender y es fundamental para progresion hacia strongholds y End.
+---
+El piglin es neutral si el jugador lleva una pieza de oro, pero puede volverse hostil si se le provoca o se incumplen ciertas reglas. Es clave para trueques y para la dinamica del Nether moderno.
+---
+El lobo salvaje es neutral y solo se vuelve agresivo si se le ataca. Una vez domesticado, pasa a ser un aliado del jugador.
+---
+El oso polar suele ser neutral, pero puede atacar si se molesta a una cria o se provoca a un adulto. Es mas peligroso por contexto que por drop o utilidad directa.
+---
+La llama salvaje puede escupir si se la ataca o se la molesta demasiado. Aunque no es una gran amenaza, puede resultar molesta en combate cercano o transporte improvisado.
+---
+El iron golem suele ser neutral o protector, pero puede atacar si el jugador tiene mala reputacion en una aldea o lo provoca directamente. Tambien es la base de una de las granjas mas utiles del juego.
+---
+El zoglin es hostil a casi todo y no se comporta como un neutral amistoso. Aun asi, se relaciona con la familia de hoglins y merece tenerse en cuenta como criatura agresiva del Nether o de conversion.
+---
+El piglin brute es directamente hostil y no se pacifica con oro como un piglin normal. Por eso conviene diferenciarlo bien en preguntas sobre bastions o comportamiento de piglins.

@@ -1,0 +1,37 @@
+El carbón es un recurso importante para antorchas y combustible en el inicio de la partida.
+
+El hierro es uno de los minerales más importantes porque permite herramientas sólidas, cubos, escudos y muchas recetas útiles.
+
+El cobre se usa en construcción, pararrayos, catalejos y bloques decorativos con oxidación.
+
+El oro se usa para objetos concretos, powered rails, manzanas doradas, trueque con piglins y otras recetas especiales.
+
+La redstone permite fabricar componentes de automatización y solo aparece en ciertas profundidades del subsuelo.
+
+El lapislázuli es necesario para encantar en la mesa de encantamientos.
+
+El diamante es un recurso valioso para herramientas avanzadas, armaduras y mesa de encantamientos.
+
+La esmeralda se usa sobre todo para comerciar con aldeanos y suele encontrarse en montañas.
+
+El cuarzo del Nether se obtiene en el Nether y es necesario para comparadores, observadores y otros bloques.
+
+El ancient debris se encuentra en el Nether y se procesa para obtener netherita.
+
+La netherita mejora el equipo de diamante y ofrece gran durabilidad y resistencia.
+
+Algunos minerales sueltan materia prima o gemas directamente y otros necesitan fundición para convertirse en lingotes utilizables.
+
+Fortune mejora la cantidad obtenida de varios minerales, mientras que Silk Touch permite recoger el bloque de mena en sí.
+
+Llevar el pico adecuado es importante porque algunos minerales no sueltan su drop si se pican con una herramienta insuficiente.
+
+El hierro es clave porque desbloquea cubo, escudo, armadura sólida y herramientas fiables.
+
+El diamante suele priorizarse para pico, mesa de encantamientos y equipo principal.
+
+La redstone es esencial para automatización, pero no suele ser una prioridad absoluta en los primeros minutos de partida.
+
+El lapislázuli gana mucha importancia cuando el jugador empieza a encantar.
+
+La netherita requiere primero conseguir ancient debris en el Nether y luego procesarlo antes de mejorar el equipo.

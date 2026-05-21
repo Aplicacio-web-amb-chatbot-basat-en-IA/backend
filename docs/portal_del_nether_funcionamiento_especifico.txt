@@ -1,0 +1,4 @@
+Un portal del Nether funciona enlazando una posicion del Overworld con otra del Nether segun la relacion de coordenadas entre ambas dimensiones.
+Cuando entras por el portal, el juego busca un portal compatible cercano en la otra dimension o crea uno nuevo si hace falta.
+Por eso conviene coordinar bien la ubicacion de los portales para evitar conexiones accidentales o rutas poco utiles.
+

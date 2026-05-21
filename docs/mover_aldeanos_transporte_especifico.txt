@@ -1,0 +1,3 @@
+Para mover aldeanos de un lugar a otro, las opciones mas practicas suelen ser barcas y minecarts.
+Las barcas permiten mover aldeanos en distancias cortas o terreno irregular, mientras que los railes y minecarts son mejores para rutas largas o elevaciones controladas.
+Tambien puedes usar agua, empujes y caminos protegidos para trasladar aldeanos, pero lo importante es evitar zombies, caidas y escapes durante el proceso.

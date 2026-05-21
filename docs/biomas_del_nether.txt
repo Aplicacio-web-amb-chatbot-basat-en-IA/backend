@@ -1,0 +1,15 @@
+Nether Wastes es el bioma más clásico del Nether y contiene terreno abierto, lava y mobs típicos de la dimensión.
+
+Crimson Forest es un bioma rojizo con hongos del Crimson, hoglins y piglins.
+
+Warped Forest es un bioma azul verdoso con endermen frecuentes y suele percibirse como relativamente más seguro frente a otros biomas del Nether.
+
+Soul Sand Valley contiene mucha soul sand, soul soil, fósiles y gran presencia de skeletons y ghasts.
+
+Basalt Deltas es un bioma peligroso con relieve irregular, mucho basalto, magma y magma cubes.
+
+Cada bioma del Nether influye en mobs, recursos y dificultad de desplazamiento.
+
+Los hongos del Nether y la vegetación local son importantes para combustible, decoración y algunas mecánicas.
+
+Conocer el bioma ayuda a planificar viajes, granjas y búsqueda de recursos como endermen, piglins o materiales de construcción.

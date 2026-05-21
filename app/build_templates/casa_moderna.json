@@ -1,0 +1,72 @@
+{
+  "id": "casa_moderna",
+  "label": "Casa moderna",
+  "category": "house",
+  "default_size": "medium",
+  "supported_sizes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "supported_extensions": [
+    "piscina",
+    "terraza",
+    "garaje",
+    "jardin",
+    "decoracion_extra"
+  ],
+  "default_main_material": "white_concrete",
+  "max_secondary_materials": 2,
+  "default_secondary_materials": [
+    "black_concrete",
+    "oak_planks"
+  ],
+  "main_material_options": [
+    { "value": "white_concrete", "label": "Hormigon blanco" },
+    { "value": "quartz_block", "label": "Bloque de cuarzo" },
+    { "value": "smooth_stone", "label": "Piedra lisa" },
+    { "value": "light_gray_concrete", "label": "Hormigon gris claro" },
+    { "value": "sandstone", "label": "Arenisca" }
+  ],
+  "secondary_material_options": [
+    { "value": "black_concrete", "label": "Hormigon negro" },
+    { "value": "gray_concrete", "label": "Hormigon gris" },
+    { "value": "stone_bricks", "label": "Ladrillos de piedra" },
+    { "value": "oak_planks", "label": "Tablones de roble" },
+    { "value": "spruce_planks", "label": "Tablones de abeto" },
+    { "value": "dark_oak_planks", "label": "Tablones de roble oscuro" }
+  ],
+  "default_prompt": "casa moderna mediana de dos plantas con volumenes rectangulares, paredes blancas lisas, techos planos escalonados, grandes ventanales, marcos negros, detalles de madera, escalera exterior lateral, terraza y pequena piscina frontal",
+  "size_prompts": {
+    "small": "casa moderna pequena de dos plantas con paredes blancas lisas, techo plano, grandes ventanales, marcos negros, detalles de madera, porche sencillo y terraza compacta",
+    "medium": "casa moderna mediana de dos plantas con volumenes rectangulares, paredes blancas lisas, techos planos escalonados, grandes ventanales, marcos negros, detalles de madera, escalera exterior lateral, terraza y pequena piscina frontal",
+    "large": "casa moderna grande de dos plantas con volumenes geometricos amplios, paredes blancas lisas, techos planos superpuestos, ventanales de suelo a techo, marcos negros, paneles de madera, escalera exterior amplia, terraza superior, entrada cubierta y piscina frontal grande"
+  },
+  "default_width": 13,
+  "default_depth": 11,
+  "default_height": 8,
+  "materials": {
+    "foundation": "stone_bricks",
+    "walls": "white_concrete",
+    "frame": "black_concrete",
+    "glass": "glass",
+    "glass_pane": "glass_pane",
+    "accent_wood": "oak_planks",
+    "accent_log": "oak_log",
+    "accent_slab": "oak_slab",
+    "roof": "smooth_stone",
+    "roof_slab": "smooth_stone_slab",
+    "stairs": "stone_stairs",
+    "light": "lantern",
+    "leaf": "azalea_leaves",
+    "grass": "grass_block",
+    "flower_red": "poppy",
+    "flower_yellow": "dandelion",
+    "pool_border": "smooth_stone",
+    "pool_water": "water",
+    "door": "dark_oak_door",
+    "trim": "black_concrete",
+    "terrace": "smooth_stone"
+  },
+  "supported_features": []
+}

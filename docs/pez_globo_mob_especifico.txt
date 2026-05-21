@@ -1,0 +1,1 @@
+El pez globo es un mob acuatico que se infla y puede envenenar si se le molesta o toca. Es util sobre todo para pociones o decoracion, mas que como comida normal.

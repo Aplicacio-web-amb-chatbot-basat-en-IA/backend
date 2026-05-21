@@ -1,0 +1,33 @@
+Que factores tecnicos afectan a casi cualquier granja automatica. Suelen importar el punto de AFK, el almacenamiento, la recogida de items, la facilidad de mantenimiento y las zonas de spawn alternativas. Una granja bien pensada no depende solo del modulo central, sino de todo su entorno.
+---
+Que es el mob cap y por que importa. El mob cap limita cuantas criaturas de ciertas categorias pueden estar activas al mismo tiempo. Si otras cuevas, biomas o plataformas ya estan llenando ese cupo, la granja principal produce bastante menos.
+---
+Como afecta la iluminacion a una granja de mobs. Iluminar cuevas y superficie cercana reduce spawns no deseados y concentra la produccion en la granja. En muchos casos, mejorar la iluminacion del entorno aumenta mas el rendimiento que ampliar una sola plataforma.
+---
+Que importancia tiene el punto de AFK. La distancia del jugador determina donde pueden aparecer mobs y donde dejan de hacerlo. Un mal punto de AFK puede desactivar parte de la granja o permitir demasiado spawn fuera del area prevista.
+---
+Como se evitan perdidas de items en una granja. Lo ideal es usar corrientes de agua, tolvas, vagonetas con tolva o canales simples que lleven todos los drops al mismo sitio. Si los items quedan esparcidos o tardan demasiado en recogerse, se pueden perder por tiempo o por interferencias del sistema.
+---
+Por que el almacenamiento importa tanto en bases tecnicas. Una granja sin almacenamiento ordenado acaba obligando al jugador a vaciar cofres continuamente o a perder produccion por saturacion. Por eso muchas granjas buenas incluyen filtros, cofres dobles y espacios de mantenimiento desde el principio.
+---
+Como evitar atascos en automatizaciones grandes. Conviene probar cada modulo por separado, dejar acceso a tolvas, revisar relojes y prever una forma de apagar el sistema. En granjas complejas, los atascos suelen venir de un solo punto mal sincronizado.
+---
+Como decidir si una granja debe ser totalmente automatica o semiautomatica. Si el recurso se usa mucho o se produce en grandes cantidades, suele merecer la pena automatizar mas. Si el coste tecnico es demasiado alto para el beneficio real, una granja semiautomatica puede ser la mejor opcion.
+---
+Que recursos suelen merecer automatizacion temprana. Hierro, comida, papel, bambu, cultivos basicos y experiencia suelen dar mucho retorno. Con esas bases es mas facil pasar luego a sistemas mas tecnicos como granjas del Nether, del End o salas de redstone avanzadas.
+---
+Como afecta el mantenimiento a la calidad real de una granja. Una granja rapida pero dificil de reparar puede ser peor en la practica que otra algo mas lenta pero estable y accesible. En supervivencia, la facilidad de uso es casi tan importante como el rendimiento bruto.
+---
+Como planificar el crecimiento de una base tecnica. Conviene dejar espacio para almacenamiento, lineas de items, caminos y futuras ampliaciones. Muchas bases se vuelven caoticas cuando cada granja se coloca sin pensar en conexiones, acceso o electricidad de redstone.
+---
+Como combinar granjas entre si. Una base tecnica eficiente hace que una granja alimente a otra, por ejemplo oro para bartering, bambu para hornos, aldeanos para hierro y trading, o cultivos para comida y compostaje. Cuanto mas se conectan los sistemas, mas util resulta cada uno.
+---
+Como se elige una buena ubicacion para una granja. Depende del recurso, pero suelen importar el bioma, el espacio libre, la cercania a la base y la facilidad para controlar spawns o agua. Una ubicacion buena puede simplificar mucho el diseno y el rendimiento.
+---
+Que papel tienen las vagonetas con tolva en sistemas tecnicos. Son muy utiles para recoger items rapido bajo plataformas, hornos o lineas largas donde una tolva normal seria lenta o costosa. A menudo mejoran mucho granjas compactas y sistemas de smelting.
+---
+Como se reduce el lag en una zona con muchas granjas. Conviene apagar modulos innecesarios, evitar items acumulados, usar menos tolvas activas cuando sea posible y separar entidades en exceso. El orden tecnico y los interruptores de encendido ayudan mucho.
+---
+Como elegir entre agua, hielo, tolvas o redstone para transportar items. El agua es barata y buena para trayectos sencillos, el hielo mejora la velocidad con botes o items en algunos disenos, las tolvas sirven para control fino y la redstone aporta deteccion y sincronizacion. Lo mejor suele ser combinar varias opciones.
+---
+Como documentar o entender una granja compleja propia. Ayuda mucho dividirla mentalmente en entrada, produccion, recogida y almacenamiento. Si cada fase esta clara, luego es mas facil explicar el sistema, ampliarlo o encontrar por que falla.

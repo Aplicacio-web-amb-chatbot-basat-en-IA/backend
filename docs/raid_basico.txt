@@ -1,0 +1,13 @@
+Una raid puede comenzar cuando un jugador con el efecto Bad Omen entra en una aldea valida.
+
+Las raids consisten en varias oleadas de enemigos como pillagers, vindicators, evokers y otros mobs relacionados.
+
+Defender bien la aldea requiere armadura, comida, armas y, a menudo, buena movilidad.
+
+Ganar una raid otorga Hero of the Village, que puede dar descuentos con aldeanos.
+
+Las raids pueden ser peligrosas para aldeanos y golems si no se protege bien la aldea.
+
+Gestionar puestos de saqueadores y Bad Omen es importante si se quiere evitar raids accidentales.
+
+Tambien pueden explotarse si el objetivo es obtener recompensas o descuentos de forma controlada.

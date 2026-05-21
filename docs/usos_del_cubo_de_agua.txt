@@ -1,0 +1,13 @@
+El cubo de agua es uno de los objetos mas versatiles de Minecraft.
+
+Sirve para apagar fuego y lava en muchas situaciones.
+
+Puede salvar al jugador de una caida si se coloca a tiempo antes del impacto.
+
+Tambien sirve para bajar paredes, crear ascensores de agua y controlar mobs o flujos.
+
+En cuevas es muy util para convertir lava superficial en obsidiana o piedra.
+
+En granjas puede usarse para empujar entidades o items.
+
+Llevar siempre un cubo de agua en el Overworld es una de las practicas mas recomendables.

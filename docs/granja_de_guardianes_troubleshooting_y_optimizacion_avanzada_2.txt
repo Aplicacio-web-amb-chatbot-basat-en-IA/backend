@@ -1,0 +1,13 @@
+Por que una granja de guardianes puede seguir siendo lenta aunque el diseno principal sea correcto. Muchas veces el cuello de botella esta en recorridos demasiado largos, limpieza incompleta del entorno o recogida deficiente de entidades y drops. En granjas avanzadas, la infraestructura alrededor pesa casi tanto como el modulo central.
+---
+Como diagnosticar una granja de guardianes. Conviene revisar el area total de agua, posibles espacios de spawn alternativos, velocidad de transporte de guardianes y almacenamiento final. Si los guardianes tardan demasiado en llegar a la muerte o se quedan bloqueados, la produccion por tiempo cae mucho.
+---
+Que errores son frecuentes en una granja de guardianes. Son comunes las corrientes de agua mal cerradas, las zonas parcialmente vaciadas, los puntos de atasco y los lugares donde el jugador se posiciona mal para el AFK. Todos esos fallos pueden dejar la granja funcional pero claramente por debajo de lo esperado.
+---
+Como optimizar una granja de guardianes para prismarina. Si el objetivo principal es material de construccion, conviene priorizar estabilidad, recogida limpia y almacenamiento suficiente antes que buscar solo experiencia. Una produccion constante y mantenible suele ser mas util que una muy agresiva pero poco fiable.
+---
+Como optimizar una granja de guardianes para experiencia. En ese caso interesa que los guardianes lleguen rapido a una camara donde el jugador pueda intervenir o recoger XP con comodidad. La posicion del remate y el flujo de entidades se vuelven mas importantes que el simple numero de spawns por minuto.
+---
+Como integrar una granja de guardianes en una base tecnica. Lo mas normal es conectarla con clasificadores y cofres para prismarina, cristales y pescado. Si el almacenamiento esta bien resuelto, la granja pasa de ser una fuente de drops incomoda a una infraestructura realmente aprovechable.
+---
+Como explicar una granja de guardianes de forma tecnica. Conviene separar control del entorno, spawn, transporte, muerte o remate y almacenamiento. Esa explicacion muestra que es una granja donde la arquitectura general pesa mucho mas que una sola pieza de redstone.

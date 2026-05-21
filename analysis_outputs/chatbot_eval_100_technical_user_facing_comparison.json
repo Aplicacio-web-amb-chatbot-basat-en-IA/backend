@@ -1,0 +1,20 @@
+{
+  "old": {
+    "answer_starts_with_question": 38,
+    "responses_with_heading_sentence": 98,
+    "technical_depth_weak": 14,
+    "too_short_for_type": 2,
+    "avg_sentences": 3.41,
+    "avg_response_chars": 168.48,
+    "median_response_chars": 161.0
+  },
+  "new": {
+    "answer_starts_with_question": 1,
+    "responses_with_heading_sentence": 0,
+    "technical_depth_weak": 25,
+    "too_short_for_type": 1,
+    "avg_sentences": 3.71,
+    "avg_response_chars": 280.56,
+    "median_response_chars": 264.5
+  }
+}

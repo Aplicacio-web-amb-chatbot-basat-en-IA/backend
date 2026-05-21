@@ -1,0 +1,9 @@
+Los mapas del tesoro enterrado suelen obtenerse en naufragios u otras estructuras relacionadas.
+
+Siguiendo el mapa, el jugador puede encontrar un cofre enterrado bajo arena, grava o bloques cercanos.
+
+Estos cofres pueden contener hierro, oro, esmeraldas y el corazon del mar.
+
+El corazon del mar es un componente esencial para el conduit.
+
+Los tesoros enterrados son una buena fuente de recursos tempranos si se exploran oceanos y costas.

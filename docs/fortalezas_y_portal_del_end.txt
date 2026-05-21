@@ -1,0 +1,9 @@
+Las strongholds son estructuras subterraneas que contienen el portal hacia el End.
+
+Normalmente se buscan usando ojos de ender.
+
+Dentro puede haber bibliotecas, salas de portal y otros espacios utiles.
+
+El portal del End necesita ojos de ender para activarse si no esta completo.
+
+Encontrar una stronghold es un paso obligatorio para luchar contra la Ender Dragon.

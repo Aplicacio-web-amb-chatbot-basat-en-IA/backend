@@ -1,0 +1,3 @@
+Una granja de Enderman suele construirse en el End, lejos de la isla principal, para controlar mejor el spawn.
+Los endermen aparecen en plataformas preparadas y despues caen o se dañan hasta quedar listos para que el jugador los remate.
+Estas granjas son muy buenas para conseguir experiencia rapidamente y reparar equipo con Mending.

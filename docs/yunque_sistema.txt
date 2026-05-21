@@ -1,0 +1,27 @@
+El yunque sirve para reparar, combinar, encantar con libros y renombrar objetos.
+
+A diferencia de la piedra de afilar o la mesa de crafteo, el yunque puede conservar encantamientos al reparar.
+
+Renombrar un objeto cuesta niveles de experiencia.
+
+Aplicar un libro encantado con yunque suele ser la forma más controlada de poner encantamientos concretos a un objeto.
+
+Combinar dos objetos del mismo tipo suma durabilidad y puede combinar encantamientos compatibles.
+
+Cuando se combinan dos objetos con durabilidad, el resultado recupera la suma de durabilidades y añade un pequeño bonus adicional.
+
+Cada uso del yunque aumenta la penalización previa del objeto, por lo que futuras operaciones cuestan más niveles.
+
+Si una operación supera el límite permitido en supervivencia, el yunque muestra el mensaje Too Expensive y no deja completarla.
+
+El límite práctico en supervivencia y aventura es 39 niveles para una operación individual.
+
+El orden en que se combinan libros y objetos importa, porque puede cambiar mucho el coste final.
+
+Los encantamientos incompatibles no pueden coexistir en el mismo objeto por vía normal.
+
+Renombrar por sí solo añade coste, pero puede hacerse junto con reparar o combinar en la misma operación.
+
+El yunque tiene probabilidad de dañarse con el uso y puede pasar de yunque normal a dañado y finalmente romperse.
+
+Planificar bien el orden de aplicación de libros encantados reduce el coste total y evita llegar demasiado pronto al límite.

@@ -1,0 +1,23 @@
+Que diferencia hay entre un repetidor y un comparador de redstone. El repetidor sirve principalmente para extender señal, retrasarla y evitar que se degrade en lineas largas. El comparador, en cambio, puede leer intensidad de señal de contenedores y bloques especiales, comparar dos entradas o funcionar en modo resta.
+---
+Como usar un observador de redstone de forma util. El observador detecta cambios en el bloque que mira y emite un pulso corto. Esto permite automatizar caña de azucar, bambu, granjas de calabaza y melon, relojes simples o activadores discretos sin pulsar manualmente un boton.
+---
+Como funciona un clasificador de objetos con redstone. Lo normal es usar una linea de tolvas, un comparador, una antorcha de redstone y bloques de relleno para que cada filtro solo deje pasar un item concreto. Si el filtro no se calibra bien, puede atascarse o mezclar objetos que no deberian ir al mismo cofre.
+---
+Como se hace una puerta 2x2 de pistones de forma basica. Suele montarse con dos pares de pistones, una entrada de señal y un pequeño circuito de retraso o sincronizacion para abrir y cerrar correctamente. En versiones simples puede activarse con placas, palancas o botones a ambos lados.
+---
+Como mover bloques y entidades con slime o honey blocks. Los bloques de slime y de miel permiten arrastrar otros bloques y ciertas entidades cuando un piston los empuja. Esto sirve para ascensores, puertas grandes, plataformas moviles y mecanismos compactos de redstone.
+---
+Como hacer relojes de redstone sencillos. Un reloj es un circuito que emite una señal repetitiva y puede construirse con repetidores, observadores o tolvas enfrentadas. Conviene usarlos con cuidado porque un reloj mal apagado puede generar ruido continuo y lag innecesario en la base.
+---
+Como usar tolvas y vagonetas con tolva para transporte automatico. Las tolvas mueven items lentamente entre contenedores, mientras que las vagonetas con tolva son utiles para recoger objetos del suelo o vaciar cofres en movimiento. Juntas permiten sistemas de hornos, clasificadores, granjas y lineas de produccion automatizadas.
+---
+Como transportar señal de redstone en vertical. Una opcion basica es usar antorchas y bloques, pero tambien se puede hacer con observadores, escaleras de comparadores o columnas compactas segun el diseño. Elegir bien el sistema depende del espacio, de si se necesita pulso corto y de la direccion del circuito.
+---
+Como usar sensores de luz diurna y sensores de sculk. El sensor de luz diurna sirve para automatizar lamparas o mecanismos segun la hora del dia. El sensor de sculk detecta vibraciones, asi que puede funcionar como activador sin contacto, alarma o detector de movimiento si se controla bien su entorno.
+---
+Como evitar errores comunes en redstone. Muchos problemas vienen de confundir direccion de pistones, orientacion de observadores, retrasos insuficientes o conexiones laterales accidentales. Revisar el sentido de la señal y probar cada modulo por separado suele ahorrar mucho tiempo al depurar un circuito.
+---
+Como ampliar una automatizacion simple sin que se vuelva inestable. Lo mejor es construirla por modulos, dejando puntos de mantenimiento y separando entrada, procesamiento y almacenamiento. Si un sistema usa muchos contenedores, comparadores o relojes, conviene priorizar diseños limpios y faciles de apagar.
+---
+Como hacer trampas de redstone que parezcan naturales. Lo importante es combinar un disparador como placa, tripwire u observador con un mecanismo como pistones, flechas de dispensador, lava o puertas trampa. Una trampa buena no depende solo del dano, sino de estar colocada donde el jugador o mob realmente active el sistema.
